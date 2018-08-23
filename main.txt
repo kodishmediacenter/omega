@@ -8,3 +8,16 @@
  <info></info>
  </channel>
  </channels>
+ 
+ 
+ <channels>
+ <channel>
+ <name>Sky On Plus</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/omegaimg/hidratorrents.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/skyonplus</externallink>
+ <fanart></fanart>
+ <info></info>
+ </channel>
+ </channels>
+ 
+ 
