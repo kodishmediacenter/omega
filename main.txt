@@ -9,6 +9,15 @@
  </channel>
  </channels>
  
+ <channels>
+ <channel>
+ <name>Canais Retro</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/omegaimg/hidratorrents.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/canais-retro</externallink>
+ <fanart></fanart>
+ <info></info>
+ </channel>
+ </channels>
  
  <channels>
  <channel>
