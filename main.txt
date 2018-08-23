@@ -1,1 +1,10 @@
 
+ <channels>
+ <channel>
+ <name>Hidra Torrents Tops Filmes</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/omegaimg/hidratorrents.png</thumbnail>
+ <externallink>https://pastebin.com/raw/p3JArBkJ</externallink>
+ <fanart></fanart>
+ <info></info>
+ </channel>
+ </channels>
