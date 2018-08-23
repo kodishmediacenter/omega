@@ -20,4 +20,10 @@
  </channel>
  </channels>
  
+ <channel>
+<name>[COLOR white][B]Vagalume FM[/COLOR][/B] [COLOR green][B]KRATOS [/COLOR][COLOR yellow]KODI BR[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/etKdknC.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/vagalumefm</externallink>
+<fanart>https://i.imgur.com/SkUsrEu.jpg</fanart>
+</channel>
  
