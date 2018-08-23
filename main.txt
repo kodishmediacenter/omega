@@ -1,4 +1,15 @@
 
+
+ <channels>
+ <channel>
+ <name>Filmes</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/omegaimg/%C3%8Dcone_do_Google_Play_Filmes.png</thumbnail>
+ <externallink>http://173.249.8.202/home/lista/users/kratosomega/lista/filmes.m3u</externallink>
+ <fanart></fanart>
+ <info></info>
+ </channel>
+ </channels>
+ 
  <channels>
  <channel>
  <name>Hidra Torrents Tops Filmes</name>
