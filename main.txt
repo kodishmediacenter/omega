@@ -41,7 +41,7 @@
  </channels>
 
 <channel>
-<name>[COLOR white][B]Vagalume FM[/COLOR][/B] [COLOR green][B]KRATOS [/COLOR][COLOR yellow]KODI BR[/B][/COLOR]</name>
+<name>Vagalume FM</name>
 <thumbnail>https://i.imgur.com/etKdknC.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/vagalumefm</externallink>
 <fanart>https://i.imgur.com/SkUsrEu.jpg</fanart>
@@ -49,7 +49,7 @@
 
  
 <channel>
-<name>[COLOR white][B]Youtube Radios [/COLOR][/B] [COLOR green][B]KRATOS [/COLOR][COLOR yellow]KODI BR[/B][/COLOR]</name>
+<name>Youtube Radios</name>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/omegaimg/radios-yt-youtube-livestreams-social.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/Youtube-radios</externallink>
 <fanart>https://i.imgur.com/SkUsrEu.jpg</fanart>
