@@ -2,7 +2,7 @@
 
 <item>
 <title>A Família Drácula Episodio 1</title>
-<m3u>http://www.blogger.com/video-play.mp4?contentId=27c2899a5d9608c9</m3u>
+<playthis>http://www.blogger.com/video-play.mp4?contentId=27c2899a5d9608c9</playthis>
 <thumbnail>http://www.animeai.online/img/desenhos/2015/12/a-familia-dracula.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
