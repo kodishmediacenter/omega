@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/51USlAu8CWL._SL500_AA300_.jpg" group-title="desenhos antigos" pltv-subgroup="A Família Addams (1972)",A FAMILIA ADDAMIS 1972 EPISODIO 1 a familia addmis vai para escola
+http://www.blogger.com/video-play.mp4?contentId=da4e342c7535bb1
+#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/51USlAu8CWL._SL500_AA300_.jpg" group-title="desenhos antigos" pltv-subgroup="A Família Addams (1972)",A FAMILIA ADDAMIS 1972 EPISODIO 2 morticia e o psquiatra
+http://www.blogger.com/video-play.mp4?contentId=93867d2758def48b
+#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/51USlAu8CWL._SL500_AA300_.jpg" group-title="desenhos antigos" pltv-subgroup="A Família Addams (1972)",A FAMILIA ADDAMIS 1972 EPISODIO 3 o romance furado do tio chico
+http://www.blogger.com/video-play.mp4?contentId=5b11057037b7c26f
+#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/51USlAu8CWL._SL500_AA300_.jpg" group-title="desenhos antigos" pltv-subgroup="A Família Addams (1972)",A FAMILIA ADDAMIS 1972 EPISODIO 4 gomes o politico 
+http://www.blogger.com/video-play.mp4?contentId=6f73e362ef28070b
+#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/51USlAu8CWL._SL500_AA300_.jpg" group-title="desenhos antigos" pltv-subgroup="A Família Addams (1972)",A FAMILIA ADDAMIS 1972 EPISODIO 5 a arvore genealogica da familia addamis 
+http://www.blogger.com/video-play.mp4?contentId=1e21425d51327933
+#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/51USlAu8CWL._SL500_AA300_.jpg" group-title="desenhos antigos" pltv-subgroup="A Família Addams (1972)",A FAMILIA ADDAMIS 1972 EPISODIO 6 morticia entra para liga das senhoras 
+http://www.blogger.com/video-play.mp4?contentId=96cb093011ae7777
+#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/51USlAu8CWL._SL500_AA300_.jpg" group-title="desenhos antigos" pltv-subgroup="A Família Addams (1972)",A FAMILIA ADDAMIS 1972 EPISODIO 7 hallowen com a familia addamis
+http://www.blogger.com/video-play.mp4?contentId=56926a15cd0f3581
+#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/51USlAu8CWL._SL500_AA300_.jpg" group-title="desenhos antigos" pltv-subgroup="A Família Addams (1972)",A FAMILIA ADDAMIS 1972 EPISODIO 8 gomes com olhos verdes
+http://www.blogger.com/video-play.mp4?contentId=c2a5dbbb00595ed9
+#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/51USlAu8CWL._SL500_AA300_.jpg" group-title="desenhos antigos" pltv-subgroup="A Família Addams (1972)",A FAMILIA ADDAMIS 1972 EPISODIO 9 os novos vizinhos conhecem a familia addamis
+http://www.blogger.com/video-play.mp4?contentId=f925995e94c84d8a
+#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/51USlAu8CWL._SL500_AA300_.jpg" group-title="desenhos antigos" pltv-subgroup="A Família Addams (1972)",A FAMILIA ADDAMIS 1972 EPISODIO 10 vandinha some de casa
+http://www.blogger.com/video-play.mp4?contentId=57bcc74d0cb99892
+#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/51USlAu8CWL._SL500_AA300_.jpg" group-title="desenhos antigos" pltv-subgroup="A Família Addams (1972)",A FAMILIA ADDAMIS 1972 EPISODIO 11 os addamis conhecem os vips
+http://www.blogger.com/video-play.mp4?contentId=d2af49dcecdcd60
+#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/51USlAu8CWL._SL500_AA300_.jpg" group-title="desenhos antigos" pltv-subgroup="A Família Addams (1972)",A FAMILIA ADDAMIS 1972 EPISODIO 12 morticia a casamenteira 
+http://www.blogger.com/video-play.mp4?contentId=f249604d4b2fc8bb
+#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/51USlAu8CWL._SL500_AA300_.jpg" group-title="desenhos antigos" pltv-subgroup="A Família Addams (1972)",A FAMILIA ADDAMIS 1972 EPISODIO 13 tropeço aprende a dançar 
+http://www.blogger.com/video-play.mp4?contentId=ed2e7972b219819f
+#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/51USlAu8CWL._SL500_AA300_.jpg" group-title="desenhos antigos" pltv-subgroup="A Família Addams (1972)",A FAMILIA ADDAMIS 1972 EPISODIO 14 a arte ea familia addamis 
+http://www.blogger.com/video-play.mp4?contentId=a5bc41fbb1cd5805
+#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/51USlAu8CWL._SL500_AA300_.jpg" group-title="desenhos antigos" pltv-subgroup="A Família Addams (1972)",A FAMILIA ADDAMIS 1972 EPISODIO 15 os addamis conhecem um playboy
+http://www.blogger.com/video-play.mp4?contentId=d6db71d12ed52b53
+#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/51USlAu8CWL._SL500_AA300_.jpg" group-title="desenhos antigos" pltv-subgroup="A Família Addams (1972)",A FAMILIA ADDAMIS 1972 EPISODIO 16 a familia addamis eo homem secreto
+http://www.blogger.com/video-play.mp4?contentId=1eed680959ee9610

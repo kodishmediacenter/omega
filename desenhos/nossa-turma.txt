@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://canecasdosnerds.com.br/blog/wp-content/uploads/2016/09/nossa-turma2.jpg" group-title="desenhos antigos" pltv-subgroup="A Nossa Turma",A NOSSA TURMA EPISODIO 1 a fortuna do zipper
+http://www.blogger.com/video-play.mp4?contentId=6964c04a5480c38a
+#EXTINF:-1 tvg-logo="https://canecasdosnerds.com.br/blog/wp-content/uploads/2016/09/nossa-turma2.jpg" group-title="desenhos antigos" pltv-subgroup="A Nossa Turma",A NOSSA TURMA EPISODIO 2 meio mapa e´melhor que nenhum
+http://www.blogger.com/video-play.mp4?contentId=78925a2999e24c4d
+#EXTINF:-1 tvg-logo="https://canecasdosnerds.com.br/blog/wp-content/uploads/2016/09/nossa-turma2.jpg" group-title="desenhos antigos" pltv-subgroup="A Nossa Turma",A NOSSA TURMA EPISODIO 3 vagaõ desgovernado 
+http://www.blogger.com/video-play.mp4?contentId=c55d270d31be9a7
+#EXTINF:-1 tvg-logo="https://canecasdosnerds.com.br/blog/wp-content/uploads/2016/09/nossa-turma2.jpg" group-title="desenhos antigos" pltv-subgroup="A Nossa Turma",A NOSSA TURMA EPISODIO 4 nave mecanica de montgomery
+http://www.blogger.com/video-play.mp4?contentId=25ec345149359be2
+#EXTINF:-1 tvg-logo="https://canecasdosnerds.com.br/blog/wp-content/uploads/2016/09/nossa-turma2.jpg" group-title="desenhos antigos" pltv-subgroup="A Nossa Turma",A NOSSA TURMA EPISODIO 6 caça a fera
+http://www.blogger.com/video-play.mp4?contentId=23341eb54075df69
+EXTINF:-1 tvg-logo="https://canecasdosnerds.com.br/blog/wp-content/uploads/2016/09/nossa-turma2.jpg" group-title="desenhos antigos" pltv-subgroup="A Nossa Turma",A NOSSA TURMA EPISODIO 12 a cauda do bingo
+http://www.blogger.com/video-play.mp4?contentId=b719bebc2cc8c628
+#EXTINF:-1 tvg-logo="https://canecasdosnerds.com.br/blog/wp-content/uploads/2016/09/nossa-turma2.jpg" group-title="desenhos antigos" pltv-subgroup="A Nossa Turma",A NOSSA TURMA EPISODIO 14 quem recolhe o lixo
+http://www.blogger.com/video-play.mp4?contentId=1e232b0f9a49cdc3
+#EXTINF:-1 tvg-logo="https://canecasdosnerds.com.br/blog/wp-content/uploads/2016/09/nossa-turma2.jpg" group-title="desenhos antigos" pltv-subgroup="A Nossa Turma",A NOSSA TURMA EPISODIO 17 o avião
+http://www.blogger.com/video-play.mp4?contentId=93f7d5fddae5907d
+#EXTINF:-1 tvg-logo="https://canecasdosnerds.com.br/blog/wp-content/uploads/2016/09/nossa-turma2.jpg" group-title="desenhos antigos" pltv-subgroup="A Nossa Turma",A NOSSA TURMA EPISODIO 19 a turma menos um
+http://www.blogger.com/video-play.mp4?contentId=21d078d1a10a71c5
+#EXTINF:-1 tvg-logo="https://canecasdosnerds.com.br/blog/wp-content/uploads/2016/09/nossa-turma2.jpg" group-title="desenhos antigos" pltv-subgroup="A Nossa Turma",A NOSSA TURMA EPISODIO 21 o colega de bingo
+http://www.blogger.com/video-play.mp4?contentId=1e3f9f6c14e907c9
