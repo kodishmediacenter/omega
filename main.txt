@@ -10,6 +10,7 @@
  </channel>
  </channels>
  
+ 
  <channels>
  <channel>
  <name>Hidra Torrents Tops Filmes</name>
@@ -19,6 +20,17 @@
  <info></info>
  </channel>
  </channels>
+ 
+ <channels>
+ <channel>
+ <name>Filmes para Familia</name>
+ <thumbnail>https://kodi-addons.club/data/9f/9fe0ecce9b4193b7357b3bbd8e7808df.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/lista</externallink>
+ <fanart></fanart>
+ <info></info>
+ </channel>
+ </channels>
+ 
  
  <channels>
  <channel>
