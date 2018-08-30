@@ -1,55 +1,55 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/A4L136i.jpg" group-title="A Arca do Zé Colméia", O Filme A Arca Do Zé Colméia
-http://www.blogger.com/video-play.mp4?contentId=bad150c2a1476eaf&CompartilhandoIPTV
+http://www.blogger.com/video-play.mp4?contentId=bad150c2a1476eaf
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/A4L136i.jpg" group-title="A Arca do Zé Colméia", 01 A Arca Do Zé Colméia
-http://www.blogger.com/video-play.mp4?contentId=9b659841244f6b0e&CompartilhandoIPTV
+http://www.blogger.com/video-play.mp4?contentId=9b659841244f6b0e
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/A4L136i.jpg" group-title="A Arca do Zé Colméia", 02 A Arca Do Zé Colméia
-http://www.blogger.com/video-play.mp4?contentId=601a9877ca953119&CompartilhandoIPTV
+http://www.blogger.com/video-play.mp4?contentId=601a9877ca953119
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/A4L136i.jpg" group-title="A Arca do Zé Colméia", 03 A Arca Do Zé Colméia
-http://www.blogger.com/video-play.mp4?contentId=c93e70b4c5c8db0f&CompartilhandoIPTV
+http://www.blogger.com/video-play.mp4?contentId=c93e70b4c5c8db0f
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/A4L136i.jpg" group-title="A Arca do Zé Colméia", 04 A Arca Do Zé Colméia
-http://www.blogger.com/video-play.mp4?contentId=53246ea0f525e0a3&CompartilhandoIPTV
+http://www.blogger.com/video-play.mp4?contentId=53246ea0f525e0a3
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/A4L136i.jpg" group-title="A Arca do Zé Colméia", 05 A Arca Do Zé Colméia
-http://www.blogger.com/video-play.mp4?contentId=ef21ea75bb63305b&CompartilhandoIPTV
+http://www.blogger.com/video-play.mp4?contentId=ef21ea75bb63305b
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/A4L136i.jpg" group-title="A Arca do Zé Colméia", 06 A Arca Do Zé Colméia
-http://www.blogger.com/video-play.mp4?contentId=7bc84f71504dbc1e&CompartilhandoIPTV
+http://www.blogger.com/video-play.mp4?contentId=7bc84f71504dbc1e
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/A4L136i.jpg" group-title="A Arca do Zé Colméia", 07 A Arca Do Zé Colméia
-http://www.blogger.com/video-play.mp4?contentId=f1b52f83eb8093f&CompartilhandoIPTV
+http://www.blogger.com/video-play.mp4?contentId=f1b52f83eb8093f
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/A4L136i.jpg" group-title="A Arca do Zé Colméia", 08 A Arca Do Zé Colméia
-http://www.blogger.com/video-play.mp4?contentId=6211d1e0bf4825f2&CompartilhandoIPTV
+http://www.blogger.com/video-play.mp4?contentId=6211d1e0bf4825f2
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/A4L136i.jpg" group-title="A Arca do Zé Colméia", 09 A Arca Do Zé Colméia
-http://www.blogger.com/video-play.mp4?contentId=d8f8629f396cae6f&CompartilhandoIPTV
+http://www.blogger.com/video-play.mp4?contentId=d8f8629f396cae6f
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/A4L136i.jpg" group-title="A Arca do Zé Colméia", 10 A Arca Do Zé Colméia
-http://www.blogger.com/video-play.mp4?contentId=35b5c70d6ed7a6be&CompartilhandoIPTV
+http://www.blogger.com/video-play.mp4?contentId=35b5c70d6ed7a6be
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/A4L136i.jpg" group-title="A Arca do Zé Colméia", 11 A Arca Do Zé Colméia
-http://www.blogger.com/video-play.mp4?contentId=5fe6dcaa9c56e999&CompartilhandoIPTV
+http://www.blogger.com/video-play.mp4?contentId=5fe6dcaa9c56e999
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/A4L136i.jpg" group-title="A Arca do Zé Colméia", 12 A Arca Do Zé Colméia
-http://www.blogger.com/video-play.mp4?contentId=4f0341629334aabb&CompartilhandoIPTV
+http://www.blogger.com/video-play.mp4?contentId=4f0341629334aabb
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/A4L136i.jpg" group-title="A Arca do Zé Colméia", 13 A Arca Do Zé Colméia
-http://www.blogger.com/video-play.mp4?contentId=2f756453617bc679&CompartilhandoIPTV
+http://www.blogger.com/video-play.mp4?contentId=2f756453617bc679
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/A4L136i.jpg" group-title="A Arca do Zé Colméia", 14 A Arca Do Zé Colméia
-http://www.blogger.com/video-play.mp4?contentId=82c42b5275115b0a&CompartilhandoIPTV
+http://www.blogger.com/video-play.mp4?contentId=82c42b5275115b0a
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/A4L136i.jpg" group-title="A Arca do Zé Colméia", 15 A Arca Do Zé Colméia
-http://www.blogger.com/video-play.mp4?contentId=4493b3caec0542d&CompartilhandoIPTV
+http://www.blogger.com/video-play.mp4?contentId=4493b3caec0542d
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/A4L136i.jpg" group-title="A Arca do Zé Colméia", 16 A Arca Do Zé Colméia
-http://www.blogger.com/video-play.mp4?contentId=a5d47ad07e8792ea&CompartilhandoIPTV
+http://www.blogger.com/video-play.mp4?contentId=a5d47ad07e8792ea
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/A4L136i.jpg" group-title="A Arca do Zé Colméia", 17 A Arca Do Zé Colméia
-http://www.blogger.com/video-play.mp4?contentId=76dfbe6e31ddff21&CompartilhandoIPTV
+http://www.blogger.com/video-play.mp4?contentId=76dfbe6e31ddff21
