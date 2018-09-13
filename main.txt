@@ -2,7 +2,7 @@
 
  <channels>
  <channel>
- <name>[COLOR white]Filmes[/B][/COLOR]</name>
+ <name>[COLOR white][B]Filmes[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/omegaimg/%C3%8Dcone_do_Google_Play_Filmes.png</thumbnail>
  <externallink>http://173.249.8.202/home/lista/users/kratosomega/lista/filmes.m3u</externallink>
  <fanart></fanart>
@@ -13,7 +13,7 @@
  
  <channels>
  <channel>
- <name>[COLOR white]Hidra Torrents Tops Filmes[/B][/COLOR]</name>
+ <name>[COLOR white][B]Hidra Torrents Tops Filmes[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/omegaimg/hidratorrents.png</thumbnail>
  <externallink>https://pastebin.com/raw/p3JArBkJ</externallink>
  <fanart></fanart>
@@ -23,7 +23,7 @@
  
  <channels>
  <channel>
- <name>[COLOR white]Filmes para Familia[/B][/COLOR]</name>
+ <name>[COLOR white][B]Filmes para Familia[/B][/COLOR]</name>
  <thumbnail>https://kodi-addons.club/data/9f/9fe0ecce9b4193b7357b3bbd8e7808df.png</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/lista</externallink>
  <fanart></fanart>
@@ -34,7 +34,7 @@
  
  <channels>
  <channel>
- <name>[COLOR white]Canais Retro[/B][/COLOR]</name>
+ <name>[COLOR white][B]Canais Retro[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/omegaimg/hidratorrents.png</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/canais-retro</externallink>
  <fanart></fanart>
@@ -44,7 +44,7 @@
  
  <channels>
  <channel>
- <name>[COLOR white]Sky On Plus[/B][/COLOR]</name>
+ <name>[COLOR white][B]Sky On Plus[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/store/master/kts/skyonplus.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/skyonplus</externallink>
  <fanart></fanart>
@@ -53,7 +53,7 @@
  </channels>
 
 <channel>
-<name>[COLOR white]Vagalume FM[/B][/COLOR]</name>
+<name>[COLOR white][B]Vagalume FM[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/etKdknC.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/vagalumefm</externallink>
 <fanart>https://i.imgur.com/SkUsrEu.jpg</fanart>
@@ -61,7 +61,7 @@
 
  
 <channel>
-<name>[COLOR white]Youtube Radios[/B][/COLOR]</name>
+<name>[COLOR white][B]Youtube Radios[/B][/COLOR]</name>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/omegaimg/radios-yt-youtube-livestreams-social.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/Youtube-radios</externallink>
 <fanart>https://i.imgur.com/SkUsrEu.jpg</fanart>
