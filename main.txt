@@ -10,6 +10,18 @@
  </channel>
  </channels>
  
+  <channels>
+ <channel>
+ <name>[COLOR white][B]Filmes[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/omegaimg/%C3%8Dcone_do_Google_Play_Filmes.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmes-vstream</externallink>
+ <fanart></fanart>
+ <info></info>
+ </channel>
+ </channels>
+ 
+ 
+ 
  
  <channels>
  <channel>
