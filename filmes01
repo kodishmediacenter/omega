@@ -1,0 +1,49 @@
+ <channels>
+ <channel>
+ <name>[COLOR white][B]Filmes[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/omegaimg/%C3%8Dcone_do_Google_Play_Filmes.png</thumbnail>
+ <externallink>http://173.249.8.202/home/lista/users/kratosomega/lista/filmes.m3u</externallink>
+ <fanart></fanart>
+ <info></info>
+ </channel>
+ </channels>
+ 
+  <channels>
+ <channel>
+ <name>[COLOR white][B]Filmes[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/omegaimg/%C3%8Dcone_do_Google_Play_Filmes.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmes-vstream</externallink>
+ <fanart></fanart>
+ <info></info>
+ </channel>
+ </channels>
+ 
+ <channels>
+ <channel>
+ <name>[COLOR white][B]Hidra Torrents Tops Filmes[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/omegaimg/hidratorrents.png</thumbnail>
+ <externallink>https://pastebin.com/raw/p3JArBkJ</externallink>
+ <fanart></fanart>
+ <info></info>
+ </channel>
+ </channels>
+ 
+ <channels>
+ <channel>
+ <name>[COLOR white][B]Filmes para Familia[/B][/COLOR]</name>
+ <thumbnail>https://kodi-addons.club/data/9f/9fe0ecce9b4193b7357b3bbd8e7808df.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/lista</externallink>
+ <fanart></fanart>
+ <info></info>
+ </channel>
+ </channels>
+ 
+ <channels>
+ <channel>
+ <name>[COLOR white][B]Sky On Plus[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/store/master/kts/skyonplus.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/skyonplus</externallink>
+ <fanart></fanart>
+ <info></info>
+ </channel>
+ </channels>
