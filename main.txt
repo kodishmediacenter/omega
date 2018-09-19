@@ -3,7 +3,7 @@
  <channels>
  <channel>
  <name>[COLOR white][B]Filmes[/B][/COLOR]</name>
- <thumbnail>http://iregistradores.org.br/wp-content/uploads/2018/01/5-filmes-para-ajudar-sua-vida-profissional.png</thumbnail>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/omegaimg/filmes.png</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmes01</externallink>
  <fanart></fanart>
  <info></info>
