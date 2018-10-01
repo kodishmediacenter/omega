@@ -57,3 +57,13 @@
  <info></info>
  </channel>
  </channels>
+
+ <channels>
+ <channel>
+ <name>[COLOR white][B]Pixar Colection[/B][/COLOR]</name>
+ <thumbnail>https://images-americanas.b2w.io/produtos/01/00/item/112216/7/112216720SZ.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/pixar</externallink>
+ <fanart></fanart>
+ <info></info>
+ </channel>
+ </channels>
