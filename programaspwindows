@@ -1,8 +1,3 @@
-<channels></channels>
-<channel>
-<name>Windows 10  64 bits  25 em 1 </name>
-<thumbnail>https://www.softwaremaniaitalia.com/shop/wp-content/uploads/2017/03/w10pro-1.jpg</thumbnail>
-
 <item>
 <title>Windows 10  64 bits  25 em 1 </title>
 <link>plugin://plugin.video.webplayer/?logos=&amp;move=0&amp;mode=3&amp;index=-1&amp;url=http://mgnet.me/dtuD6q9</link>
@@ -10,12 +5,7 @@
 <fanart></fanart>
 <info></info>
 </item>
-</channel>
 
-<channels></channels>
-<channel>
-<name>Windows 10  32 bits  25 em 1 </name>
-<thumbnail>https://www.softwaremaniaitalia.com/shop/wp-content/uploads/2017/03/w10pro-1.jpg</thumbnail>
 
 <item>
 <title>Windows 10  32 bits  25 em 1 </title>
@@ -24,4 +14,4 @@
 <fanart></fanart>
 <info></info>
 </item>
-</channel>
+
