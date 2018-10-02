@@ -1,23 +1,27 @@
-<item>
-<title>Windows 10 Custon 25 em 1 64 bits</title>
-<windows>http://mgnet.me/dtuD6q9</windows>
+<channels></channels>
+<channel>
+<name>Windows 10  64 bits  25 em 1 </name>
 <thumbnail>https://www.softwaremaniaitalia.com/shop/wp-content/uploads/2017/03/w10pro-1.jpg</thumbnail>
-<fanart></fanart>
-<info>Nesse Link temos windows 10 de 64 bits</info>
-</item>
 
 <item>
-<title>Windows 10 Custon 25 em 1 32 bits</title>
-<windows>http://mgnet.me/dtuD6rA</windows>
+<title>Windows 10  64 bits  25 em 1 </title>
+<link>http://mgnet.me/dtuD6q9</link>
 <thumbnail>https://www.softwaremaniaitalia.com/shop/wp-content/uploads/2017/03/w10pro-1.jpg</thumbnail>
 <fanart></fanart>
-<info>Nesse Link temos windows 10 de 32 bits</info>
+<info></info>
 </item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Windows 10  32 bits  25 em 1 </name>
+<thumbnail>https://www.softwaremaniaitalia.com/shop/wp-content/uploads/2017/03/w10pro-1.jpg</thumbnail>
 
 <item>
-<title>Windows 10 Custon 25 em 1 32 bits</title>
-<windows>http://mgnet.me/dtuD6rA</windows>
+<title>Windows 10  32 bits  25 em 1 </title>
+<link>http://mgnet.me/dtuD6rA</link>
 <thumbnail>https://www.softwaremaniaitalia.com/shop/wp-content/uploads/2017/03/w10pro-1.jpg</thumbnail>
 <fanart></fanart>
-<info>Nesse Link temos windows 10 de 32 bits</info>
+<info></info>
 </item>
+</channel>
