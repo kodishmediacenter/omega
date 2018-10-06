@@ -1,5 +1,5 @@
 <item>
-<title>Windows 10  64 bits  25 em 1 </title>
+<title>Windows 10  64 bits  5 em 1 </title>
 <link>plugin://plugin.video.webplayer/?logos=&amp;move=0&amp;mode=3&amp;index=-1&amp;url=http://mgnet.me/dtuD6q9</link>
 <thumbnail>https://www.softwaremaniaitalia.com/shop/wp-content/uploads/2017/03/w10pro-1.jpg</thumbnail>
 <fanart></fanart>
@@ -8,9 +8,17 @@
 
 
 <item>
-<title>Windows 10  32 bits  25 em 1 </title>
+<title>Windows 10  32 bits  5 em 1 </title>
 <link>plugin://plugin.video.webplayer/?logos=&amp;move=0&amp;mode=3&amp;index=-1&amp;url=http://mgnet.me/dtuD6rA</link>
 <thumbnail>https://www.softwaremaniaitalia.com/shop/wp-content/uploads/2017/03/w10pro-1.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>Hirens Boot</title>
+<link>plugin://plugin.video.webplayer/?logos=&amp;move=0&amp;mode=3&amp;index=-1&amp;url=https://www.hirensbootcd.org/files/HBCD_PE_x64.iso</link>
+<thumbnail>https://vidadeti.com/wp-content/uploads/2017/04/Vida_de_TI_Hirens_Boot.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
