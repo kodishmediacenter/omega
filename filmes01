@@ -1,6 +1,6 @@
  <channels>
  <channel>
- <name>[COLOR white][B]Filmes do Grupo[/B][/COLOR]</name>
+ <name>[COLOR white][B]Filmes do Cangaço[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/omegaimg/%C3%8Dcone_do_Google_Play_Filmes.png</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/Canga-o-IPTV/master/filmesdogrupo</externallink>
  <fanart></fanart>
@@ -10,7 +10,7 @@
  
  <channels>
  <channel>
- <name>[COLOR white][B]Filmes[/B][/COLOR]</name>
+ <name>[COLOR white][B]Filmes Hidra[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/omegaimg/%C3%8Dcone_do_Google_Play_Filmes.png</thumbnail>
  <externallink>http://173.249.8.202/home/lista/users/kratosomega/lista/filmes.m3u</externallink>
  <fanart></fanart>
