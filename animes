@@ -1,19 +1,11 @@
-<channels></channels>
-<channel>
-<name>.HACK//ROOT</name>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhV4a1gps2iKVfs5jZQJj0FfHmQ.jpg</thumbnail>
-<item>
-<title>.HACK//ROOT</title>
-<link>http://www.assistindoanime.com/legendados/.hack-roots.html</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhV4a1gps2iKVfs5jZQJj0FfHmQ.jpg</thumbnail>
-<fanart></fanart>
-<info>No ano de 2015, a desenvolvedora de jogos CC Corp. foi incendiada, e junto, a maioria dos dados pertencentes ao MMORPG fictício The World. Usando dados pertencentes a outro jogo que a empresa estava desenvolvendo, CC Corp. criou The World R:2 (Revision 2), e lançou em 2016. A principal novidade deste jogo seria a possibilidade de criar uma Guilda e PvP. Haseo entra em The World R:2 pela primeira vez, e é atacado por PK (Player Killer), para sua sorte, é salvo pelos jogadores veteranos Ovan e Shino, que o convidam para se juntar a sua guilda Brigada do Crepúsculo, no qual o objetivo principal é achar a "Key of the Twilight " (Chave do Crepúsculo), um item lendário, que ninguém sabe se realmente existe, ou para o que serve.</info>
-</item>
-<item>
-<title>Trailer</title>
-<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=szDMAUQ9x54</trailer>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhV4a1gps2iKVfs5jZQJj0FfHmQ.jpg</thumbnail>
-<fanart></fanart>
-<info>No ano de 2015, a desenvolvedora de jogos CC Corp. foi incendiada, e junto, a maioria dos dados pertencentes ao MMORPG fictício The World. Usando dados pertencentes a outro jogo que a empresa estava desenvolvendo, CC Corp. criou The World R:2 (Revision 2), e lançou em 2016. A principal novidade deste jogo seria a possibilidade de criar uma Guilda e PvP. Haseo entra em The World R:2 pela primeira vez, e é atacado por PK (Player Killer), para sua sorte, é salvo pelos jogadores veteranos Ovan e Shino, que o convidam para se juntar a sua guilda Brigada do Crepúsculo, no qual o objetivo principal é achar a "Key of the Twilight " (Chave do Crepúsculo), um item lendário, que ninguém sabe se realmente existe, ou para o que serve.</info>
-</item>
+<channels>
+</channels><channel>
+<name>The Beary Family</name>
+<thumbnail>https://</thumbnail>
+<externallink>http://www.assistindoanime.com/dublados/a-familia-urso-dublado.html</externallink>
+<fanart>https://</fanart>
+<credits>Site</credits>
+<info>TESTE</info>
+<genre>The Beary Family</genre>
+<date>1962</date>
 </channel>
