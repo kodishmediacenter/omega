@@ -45,5 +45,12 @@
 <fanart>https://i.imgur.com/SkUsrEu.jpg</fanart>
 </channel>
 
+<channel>
+<name>[COLOR white][B]Teste  [Em Construção] [/B][/COLOR]</name>
+<thumbnail>https://media.wired.com/photos/5926d71eaf95806129f50cc9/master/pass/Microsoft10.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/animes</externallink>
+<fanart>https://i.imgur.com/SkUsrEu.jpg</fanart>
+</channel>
+
  
  
