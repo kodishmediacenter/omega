@@ -1,3 +1,8 @@
+<channels></channels>
+<channel>
+<name>Soulcalibur VI </name>
+<thumbnail>https://2.bp.blogspot.com/-C7zY0XtoyOw/W8peiKWhihI/AAAAAAAABw4/BTZz9MzTnUsWXaaWTVl4Olr0QWmKVJnuQCLcBGAs/s1600/SOULCALIBUR%2BVI%2BDELUXE%2BEDITION-FULL%2BUNLOCKED%2Btorrent%2Bdownload.jpg</thumbnail>
+
 <item>
 <title>Soulcalibur VI </title>
 <link>plugin://plugin.video.webplayer/?logos=&amp;move=0&amp;mode=3&amp;index=-1&amp;url=http://mgnet.me/.soulcalliburvi</link>
@@ -23,6 +28,11 @@
 </item>
 </channel>
 
+<channels></channels>
+<channel>
+<name>Windows 10 RS 5 </name>
+<thumbnail>https://www.softwaremaniaitalia.com/shop/wp-content/uploads/2017/03/w10pro-1.jpg</thumbnail>
+
 <item>
 <title>Windows 10  64 bits  5 em 1 </title>
 <link>plugin://plugin.video.webplayer/?logos=&amp;move=0&amp;mode=3&amp;index=-1&amp;url=http://mgnet.me/dtuD6q9</link>
@@ -39,6 +49,11 @@
 <fanart></fanart>
 <info></info>
 </item>
+
+<channels></channels>
+<channel>
+<name>Hirens Boot</name>
+<thumbnail>https://vidadeti.com/wp-content/uploads/2017/04/Vida_de_TI_Hirens_Boot.png</thumbnail>
 
 <item>
 <title>Hirens Boot</title>
