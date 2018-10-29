@@ -28,6 +28,7 @@
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/vagalumefm</externallink>
 <fanart>https://i.imgur.com/SkUsrEu.jpg</fanart>
 </channel>
+</channels>
 
  
 <channel>
@@ -36,6 +37,7 @@
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/Youtube-radios</externallink>
 <fanart>https://i.imgur.com/SkUsrEu.jpg</fanart>
 </channel>
+</channels>
 
 
 <channel>
@@ -44,6 +46,7 @@
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/programaspwindows</externallink>
 <fanart>https://i.imgur.com/SkUsrEu.jpg</fanart>
 </channel>
+</channels>
 
 <channel>
 <name>[COLOR white][B]Teste  [Em Construção] [/B][/COLOR]</name>
@@ -51,6 +54,7 @@
 <externallink>https://github.com/kodishmediacenter/omega/blob/master/animes-main</externallink>
 <fanart>https://i.imgur.com/SkUsrEu.jpg</fanart>
 </channel>
+</channels>
 
  
  
