@@ -51,7 +51,7 @@
 <channel>
 <name>[COLOR white][B]Teste  [Em Construção] [/B][/COLOR]</name>
 <thumbnail>https://media.wired.com/photos/5926d71eaf95806129f50cc9/master/pass/Microsoft10.jpg</thumbnail>
-<externallink>https://github.com/kodishmediacenter/omega/blob/master/animes-main</externallink>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/animes-main</externallink>
 <fanart>https://i.imgur.com/SkUsrEu.jpg</fanart>
 </channel>
 </channels>
