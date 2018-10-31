@@ -1,5 +1,27 @@
 <channels></channels>
 <channel>
+<name>Streets of Rage 2</name>
+<thumbnail>http://www.portalroms.com/sites/default/files/176%20-%20Streets%20of%20Rage%202%20-%209%20-%201992%20-%20Beat-%27Em-Up.jpg</thumbnail>
+
+<item>
+<title>Streets of Rage 2</title>
+<link>plugin://plugin.video.webplayer/?logos=&amp;move=0&amp;mode=3&amp;index=-1&amp;url=https://archive.org/download/StreetsofRage2/StreetsofRage2.exe</link>
+<thumbnail>http://www.portalroms.com/sites/default/files/176%20-%20Streets%20of%20Rage%202%20-%209%20-%201992%20-%20Beat-%27Em-Up.jpg</thumbnail>
+<fanart></fanart>
+<info>Streets of Rage 2 é a continuação de Streets of Rage, sendo que seu enredo basicamente conta que no passado os jovens ex-policiais Axel Stone, Adam Hunter e Blaze Fielding comemoravam a vitória contra o sindicato criminoso, após um ano de sua queda. Axel virou guarda costas e Blaze agora trabalha como professora de dança, porém Adam resolve se juntar novamente a polícia e passa a morar numa pequena casa junto com seu irmão mais novo.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rJt-ypeWe5c</trailer>
+<thumbnail>http://www.portalroms.com/sites/default/files/176%20-%20Streets%20of%20Rage%202%20-%209%20-%201992%20-%20Beat-%27Em-Up.jpg</thumbnail>
+<fanart></fanart>
+<info>Streets of Rage 2 é a continuação de Streets of Rage, sendo que seu enredo basicamente conta que no passado os jovens ex-policiais Axel Stone, Adam Hunter e Blaze Fielding comemoravam a vitória contra o sindicato criminoso, após um ano de sua queda. Axel virou guarda costas e Blaze agora trabalha como professora de dança, porém Adam resolve se juntar novamente a polícia e passa a morar numa pequena casa junto com seu irmão mais novo.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
 <name>Gal Gun 2</name>
 <thumbnail>https://2.bp.blogspot.com/-d5DvdOuS-T0/W1fR5MgZ8lI/AAAAAAAAOfA/XOyXCWzSEgwsqc7atQWDJwMh9iluShM_ACLcBGAs/s1600/GAL%2BGUN%2B2%2Btorrent%2Bdownload%2Bgame%2Bcompleto.jpg</thumbnail>
 
