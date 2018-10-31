@@ -1,5 +1,27 @@
 <channels></channels>
 <channel>
+<name>Golden Axe</name>
+<thumbnail>http://www.portalroms.com/sites/default/files/134%20-%20Golden%20Axe%20-%207%20-%2022-12-1989%20-%20Beat-%27Em-Up.jpg</thumbnail>
+
+<item>
+<title>Golden Axe</title>
+<link>plugin://plugin.video.webplayer/?logos=&amp;move=0&amp;mode=3&amp;index=-1&amp;url=https://mega.nz/#!bphWWCaL!IA1w3pRU3ovkMvh2HLRjtQtSayWKJc0jZp-kTX6Cyrs</link>
+<thumbnail>http://www.portalroms.com/sites/default/files/134%20-%20Golden%20Axe%20-%207%20-%2022-12-1989%20-%20Beat-%27Em-Up.jpg</thumbnail>
+<fanart></fanart>
+<info>O jogo se passa na terra fictícia nomeada Yuria. um mundo de fantasia medieval no estilo Conan o Bárbaro.</info>
+</item>
+
+<item>
+<title>Review</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=B4TO3UJnZSk</trailer>
+<thumbnail>http://www.portalroms.com/sites/default/files/134%20-%20Golden%20Axe%20-%207%20-%2022-12-1989%20-%20Beat-%27Em-Up.jpg</thumbnail>
+<fanart></fanart>
+<info>O jogo se passa na terra fictícia nomeada Yuria. um mundo de fantasia medieval no estilo Conan o Bárbaro.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
 <name>Streets of Rage 2</name>
 <thumbnail>http://www.portalroms.com/sites/default/files/176%20-%20Streets%20of%20Rage%202%20-%209%20-%201992%20-%20Beat-%27Em-Up.jpg</thumbnail>
 
