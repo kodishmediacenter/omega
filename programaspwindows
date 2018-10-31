@@ -1,5 +1,27 @@
 <channels></channels>
 <channel>
+<name>Sonic 2</name>
+<thumbnail>http://www.portalroms.com/sites/default/files/171%20-%20Sonic%20the%20Hedgehog%202%20-%209%20-%2020-11-1992%20-%20Platformer.jpg</thumbnail>
+
+<item>
+<title>Sonic 2</title>
+<link>plugin://plugin.video.webplayer/?logos=&amp;move=0&amp;mode=3&amp;index=-1&amp;url=https://mega.nz/#!v5xy3Sxb!tZ-tQhj834qU-hhKK8yyXxe64O3zmyF9T4lI_kC82rs</link>
+<thumbnail>http://www.portalroms.com/sites/default/files/171%20-%20Sonic%20the%20Hedgehog%202%20-%209%20-%2020-11-1992%20-%20Platformer.jpg</thumbnail>
+<fanart></fanart>
+<info>Sonic the hedgehog nemesis é um jogo eletrônico de plataforma com os níveis tendo dois "atos" e ao final de cada segundo ato, o jogador enfrenta o Robotnik como chefe. Em cada fase ativando os postes-checkpoint com cinquenta anéis no mínimo, pode-se abrir o caminho para os estágios especiais.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=HnayDoMo2hA</trailer>
+<thumbnail>http://www.portalroms.com/sites/default/files/171%20-%20Sonic%20the%20Hedgehog%202%20-%209%20-%2020-11-1992%20-%20Platformer.jpg</thumbnail>
+<fanart></fanart>
+<info>Sonic the hedgehog nemesis é um jogo eletrônico de plataforma com os níveis tendo dois "atos" e ao final de cada segundo ato, o jogador enfrenta o Robotnik como chefe. Em cada fase ativando os postes-checkpoint com cinquenta anéis no mínimo, pode-se abrir o caminho para os estágios especiais.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
 <name>Golden Axe</name>
 <thumbnail>http://www.portalroms.com/sites/default/files/134%20-%20Golden%20Axe%20-%207%20-%2022-12-1989%20-%20Beat-%27Em-Up.jpg</thumbnail>
 
