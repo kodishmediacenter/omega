@@ -1,5 +1,27 @@
 <channels></channels>
 <channel>
+<name>Gunstar Heroes</name>
+<thumbnail>http://www.portalroms.com/sites/default/files/137%20-%20Gunstar%20Heroes%20-%208%20-%2009-09-1993%20-%20Shooter.jpg</thumbnail>
+
+<item>
+<title>Gunstar Heroes</title>
+<link>plugin://plugin.video.webplayer/?logos=&amp;move=0&amp;mode=3&amp;index=-1&amp;url=https://mega.nz/#!e4AUiYrD!NQ48EtvjmPkpec_EAi276Pl7ggBs1E2LSsTgP-cgbxw</link>
+<thumbnail>http://www.portalroms.com/sites/default/files/137%20-%20Gunstar%20Heroes%20-%208%20-%2009-09-1993%20-%20Shooter.jpg</thumbnail>
+<fanart></fanart>
+<info>Gunstar Heroes é um  vídeo game de tiro do gênero run & gun desenvolvido pela Treasure e publicado pela Sega. O jogo de estreia da Treasure foi originalmente lançado para o Mega Drive no final de 1993, e mais tarde portado para o Game Gear, pela M2. Em 23 de fevereiro de 2006, Gunstar Heroes foi lançado como parte do Gunstar Heroes: Treasure Box Collection para o PlayStation 2. Também está disponível no Wii's Virtual Console. Em 2009, foi lançado no dia 10 de junho para Xbox Live Arcade e 11 de junho para PlayStation Network. Em 2015, uma versão 3D Classics foi lançada no Nintendo 3DS eShop. Ele foi listado entre os melhores jogos de vídeo de todos os tempos por várias publicações</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9v3B1hzMwnQ</trailer>
+<thumbnail>http://www.portalroms.com/sites/default/files/137%20-%20Gunstar%20Heroes%20-%208%20-%2009-09-1993%20-%20Shooter.jpg</thumbnail>
+<fanart></fanart>
+<info>Gunstar Heroes é um  vídeo game de tiro do gênero run & gun desenvolvido pela Treasure e publicado pela Sega. O jogo de estreia da Treasure foi originalmente lançado para o Mega Drive no final de 1993, e mais tarde portado para o Game Gear, pela M2. Em 23 de fevereiro de 2006, Gunstar Heroes foi lançado como parte do Gunstar Heroes: Treasure Box Collection para o PlayStation 2. Também está disponível no Wii's Virtual Console. Em 2009, foi lançado no dia 10 de junho para Xbox Live Arcade e 11 de junho para PlayStation Network. Em 2015, uma versão 3D Classics foi lançada no Nintendo 3DS eShop. Ele foi listado entre os melhores jogos de vídeo de todos os tempos por várias publicações</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
 <name>Sonic 2</name>
 <thumbnail>http://www.portalroms.com/sites/default/files/171%20-%20Sonic%20the%20Hedgehog%202%20-%209%20-%2020-11-1992%20-%20Platformer.jpg</thumbnail>
 
