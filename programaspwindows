@@ -1,5 +1,27 @@
 <channels></channels>
 <channel>
+<name>Manuais e Revistas de Informatica e Games Retro</name>
+<thumbnail>http://graphshirt.com/903-thickbox/sticker-geek-zone.jpg</thumbnail>
+
+<item>
+<title>Manuais e Revistas de Informatica e Games Retro</title>
+<link>plugin://plugin.video.webplayer/?logos=&amp;move=0&amp;mode=3&amp;index=-1&amp;url=https://drive.google.com/file/d/1oqgxaPSuw5wfXXF7OEq-y5EoXWX9ulSY/view</link>
+<thumbnail>http://graphshirt.com/903-thickbox/sticker-geek-zone.jpg</thumbnail>
+<fanart></fanart>
+<info>Manuais e Revistas de Informatica e Games Retro</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=V04o3tkIqYk</trailer>
+<thumbnail>http://graphshirt.com/903-thickbox/sticker-geek-zone.jpg</thumbnail>
+<fanart></fanart>
+<info>Manuais e Revistas de Informatica e Games Retro</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
 <name>Gunstar Heroes</name>
 <thumbnail>http://www.portalroms.com/sites/default/files/137%20-%20Gunstar%20Heroes%20-%208%20-%2009-09-1993%20-%20Shooter.jpg</thumbnail>
 
