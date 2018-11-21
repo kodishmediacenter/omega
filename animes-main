@@ -1,20 +1,78 @@
-<channels>
- <channel>
- <name>[COLOR white][B]Action Heroine Cheer Fruits[/B][/COLOR]</name>
- <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5A1VTEOfS7D6jGYrdf3ID6qOcfM.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/Action%20Heroine%20Cheer%20Fruits</externallink>
- <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/fJ6Jlx3jBlG3lBjxUgioXYEl2ki.jpg</fanart>
- <info>A "heroína lutadora local" de uma certa cidade tornou-se popular e uma estrela nacional. Por causa disto, "heroínas locais" surgiram em vários outros lugares, e seus eventos ao vivo transformaram-se uma tendência nacional. Na cidade de Hinano, Misaki Shirogane e outras garotas se tornam heroínas locais (a pedido da tia de Misaki, governadora da província) e prometem produzir eventos ao vivo.</info>
- </channel>
- </channels>
- 
- <channels>
- <channel>
- <name>[COLOR white][B]A Channel[/B][/COLOR]</name>
- <thumbnail>https://img7.anidb.net/pics/anime/225701.jpg</thumbnail>
- <externallinkhttps://raw.githubusercontent.com/kodishmediacenter/omega/master/AChannel</externallink>
- <fanart>https://escoladeanimes.files.wordpress.com/2012/04/run-yuuko-tooru-nagi-a-channel-21705269-2560-1600.jpg/fanart>
- <info>Tooru e Run foram melhores amigas para sempre, então quando Tooru descobre que ela conseguiu entrar na mesma escola que Run, ela corre para dizer a ela ... apenas para encontrar Run em uma posição comprometedora com outra garota, Yuko. É desnecessário dizer que isso torna as coisas um pouco embaraçosas na escola, com Tooru afastando aqueles que poderiam estar interessados ​​em Run enquanto Yuko e sua outra namorada, Nagi, têm que lidar com a propensão de Run para o drama.</info>
- </channel>
- </channels>
+<channels></channels>
+<channel>
+<name>Love O2O</name>
+<thumbnail>https://i0.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/11/love-020-online.jpg</thumbnail>
 
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dDcr2Lcg1H4</trailer>
+<thumbnail>https://i0.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/11/love-020-online.jpg</thumbnail>
+<fanart></fanart>
+<info>Xiao Nai (Yang Yang) é um especialista em jogos que, pela habilidade no basquete, excelência acadêmica, talento na natação e por ser dono de uma empresa de jogos, é o aluno mais popular da Universidade de Qing. Quando ele cruza pela primeira vez com a beldade do departamento de Ciência da Computação, Bei Weiwei (Zheng Shuang), o jovem prodígio imediatamente se apaixona. O que mais chama a atenção dele é a destreza com a qual ela comanda a guilda dela num jogo online, o que a torna inesquecível para ele. Agora, Xiao Nai deve usar as suas habilidades offline e online para capturar o coração de Weiwei, que não é só bela, mas nerd também. Será que o amor deles tem XP suficiente para dar certo ou esse relacionamento nunca evoluirá?</info>
+</item>
+
+<item>
+<title>EP 01</title>
+<link>$doregex[POINT242]</link>
+<thumbnail>https://i0.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/11/love-020-online.jpg</thumbnail>
+<fanart>http://u387434689.hostingerapp.com/dicas/fanart0.jpg</fanart>
+<info></info>
+<regex>
+<name>POINT242</name>
+<expres>source src="(.*mp4.*?)" type="</expres>
+<page>http://www.rapidvideo.com/?v=FXF949P51M</page>
+</regex>
+</item>
+
+<item>
+<title>EP 02</title>
+<link>$doregex[POINT242]</link>
+<thumbnail>https://i0.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/11/love-020-online.jpg</thumbnail>
+<fanart>http://u387434689.hostingerapp.com/dicas/fanart0.jpg</fanart>
+<info></info>
+<regex>
+<name>POINT242</name>
+<expres>source src="(.*mp4.*?)" type="</expres>
+<page>http://www.rapidvideo.com/?v=FXF948HE3H</page>
+</regex>
+</item>
+
+<item>
+<title>EP 03</title>
+<link>$doregex[POINT242]</link>
+<thumbnail>https://i0.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/11/love-020-online.jpg</thumbnail>
+<fanart>http://u387434689.hostingerapp.com/dicas/fanart0.jpg</fanart>
+<info></info>
+<regex>
+<name>POINT242</name>
+<expres>source src="(.*mp4.*?)" type="</expres>
+<page>http://www.rapidvideo.com/?v=FXF946SC6R</page>
+</regex>
+</item>
+
+<item>
+<title>EP 04</title>
+<link>$doregex[POINT242]</link>
+<thumbnail>https://i0.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/11/love-020-online.jpg</thumbnail>
+<fanart>http://u387434689.hostingerapp.com/dicas/fanart0.jpg</fanart>
+<info></info>
+<regex>
+<name>POINT242</name>
+<expres>source src="(.*mp4.*?)" type="</expres>
+<page>http://www.rapidvideo.com/?v=FXF94GGCQ2</page>
+</regex>
+</item>
+
+<item>
+<title>EP 05</title>
+<link>$doregex[POINT242]</link>
+<thumbnail>https://i0.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/11/love-020-online.jpg</thumbnail>
+<fanart>http://u387434689.hostingerapp.com/dicas/fanart0.jpg</fanart>
+<info></info>
+<regex>
+<name>POINT242</name>
+<expres>source src="(.*mp4.*?)" type="</expres>
+<page>http://www.rapidvideo.com/?v=FXF94E90LE</page>
+</regex>
+</item>
+</channel>
