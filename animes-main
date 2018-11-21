@@ -302,3 +302,209 @@
 </item>
 
 </channel>
+
+<channels></channels>
+<channel>
+<name>W – Two Worlds (2 Mundos)</name>
+<thumbnail>https://i1.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/10/W-TWO-WORLDS.jpg</thumbnail>
+
+<item>
+<title>[COLOR yellow]W – Two Worlds (2 Mundos)[/COLOR]</title>
+<link>$doregex[POINT242]</link>
+<utube>gE1Y8bCz1AQ</utube>
+<thumbnail>https://i1.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/10/W-TWO-WORLDS.jpg</thumbnail>
+<fanart></fanart>
+<info>O drama conta a história de duas pessoas vivendo em realidades paralelas.
+Oh Yun Joo (Han Hyo Joo) é uma cirurgiã cujo o pai é um famoso escritor de manhwa. Ele criou o personagem Kang Chul (Lee Jong Suk) um medalhista olímpico, gênio, super chaebol que possui uma companhia que vale 1.5 trilhões de won e possui 800 milhões de won em bens pessoais (perfeito até demais né), e está constantemente tentando matá-lo mesmo contra a vontade da filha que é apaixonada pelo personagem (quem nunca né) Um dia, a barreira que separa os dois mundo é quebrada e o pai de Yun Joo desaparece e Yun Joo corre para o estúdio dele para tentar encontrá-lo, em vez disso ela encontra um estranho homem banhado de sangue. Depois de ajudá-lo, ela é sequestrada por ele e levada para a outra dimensão.</info>
+</item>
+
+<item>
+<title>EP 01</title>
+<link>$doregex[POINT242]</link>
+<regex>
+<name>POINT242</name>
+<expres>source src="(.*mp4.*?)" type="</expres>
+<page>https://www.rapidvideo.com/e/FVTV9WGUUY</page>
+<thumbnail>https://i1.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/10/W-TWO-WORLDS.jpg</thumbnail>
+<fanart></fanart>
+<info>..........</info>
+</item>
+
+<item>
+<title>EP 02</title>
+<link>$doregex[POINT242]</link>
+<regex>
+<name>POINT242</name>
+<expres>source src="(.*mp4.*?)" type="</expres>
+<page>https://www.rapidvideo.com/e/FVQUT3WAZ9</page>
+<thumbnail>https://i1.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/10/W-TWO-WORLDS.jpg</thumbnail>
+<fanart></fanart>
+<info>..........</info>
+</item>
+
+<item>
+<title>EP 03</title>
+<link>$doregex[POINT242]</link>
+<regex>
+<name>POINT242</name>
+<expres>source src="(.*mp4.*?)" type="</expres>
+<page>https://www.rapidvideo.com/e/FVQUT4045P</page>
+<thumbnail>https://i1.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/10/W-TWO-WORLDS.jpg</thumbnail>
+<fanart></fanart>
+<info>..........</info>
+</item>
+
+<item>
+<title>EP 04</title>
+<link>$doregex[POINT242]</link>
+<regex>
+<name>POINT242</name>
+<expres>source src="(.*mp4.*?)" type="</expres>
+<page>https://www.rapidvideo.com/e/FVQUT2QCKI</page>
+<thumbnail>https://i1.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/10/W-TWO-WORLDS.jpg</thumbnail>
+<fanart></fanart>
+<info>..........</info>
+</item>
+
+<item>
+<title>EP 05</title>
+<link>$doregex[POINT242]</link>
+<regex>
+<name>POINT242</name>
+<expres>source src="(.*mp4.*?)" type="</expres>
+<page>https://www.rapidvideo.com/e/FVQUSSE8K9</page>
+<thumbnail>https://i1.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/10/W-TWO-WORLDS.jpg</thumbnail>
+<fanart></fanart>
+<info>..........</info>
+</item>
+
+<item>
+<title>EP 06</title>
+<link>$doregex[POINT242]</link>
+<regex>
+<name>POINT242</name>
+<expres>source src="(.*mp4.*?)" type="</expres>
+<page>https://www.rapidvideo.com/e/FVQUSQFY2C</page>
+<thumbnail>https://i1.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/10/W-TWO-WORLDS.jpg</thumbnail>
+<fanart></fanart>
+<info>..........</info>
+</item>
+
+<item>
+<titleEP 07</title>
+<link>$doregex[POINT242]</link>
+<regex>
+<name>POINT242</name>
+<expres>source src="(.*mp4.*?)" type="</expres>
+<page>https://www.rapidvideo.com/e/FVQUY6SF7W</page>
+<thumbnail>https://i1.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/10/W-TWO-WORLDS.jpg</thumbnail>
+<fanart></fanart>
+<info>..........</info>
+</item>
+
+<item>
+<title>EP 08</title>
+<link>$doregex[POINT242]</link>
+<page>https://www.rapidvideo.com/e/FVQUY5TZUU</page>
+<thumbnail>https://i1.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/10/W-TWO-WORLDS.jpg</thumbnail>
+<fanart></fanart>
+<info>..........</info>
+</item>
+
+<item>
+<title>EP 08</title>
+<link>$doregex[POINT242]</link>
+<regex>
+<name>POINT242</name>
+<expres>source src="(.*mp4.*?)" type="</expres>
+<page>https://www.rapidvideo.com/e/FVQUYC38BM</page>
+<thumbnail>https://i1.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/10/W-TWO-WORLDS.jpg</thumbnail>
+<fanart></fanart>
+<info>..........</info>
+</item>
+
+<item>
+<title>EP 10</title>
+<link>$doregex[POINT242]</link>
+<regex>
+<name>POINT242</name>
+<expres>source src="(.*mp4.*?)" type="</expres>
+<page>https://www.rapidvideo.com/e/FVQUZ0ZHCV</page>
+<thumbnail>https://i1.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/10/W-TWO-WORLDS.jpg</thumbnail>
+<fanart></fanart>
+<info>..........</info>
+</item>
+
+<item>
+<title>EP 11</title>
+<link>$doregex[POINT242]</link>
+<regex>
+<name>POINT242</name>
+<expres>source src="(.*mp4.*?)" type="</expres>
+<page>https://www.rapidvideo.com/e/FVQV2HWR6W</page>
+<thumbnail>https://i1.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/10/W-TWO-WORLDS.jpg</thumbnail>
+<fanart></fanart>
+<info>..........</info>
+</item>
+
+<item>
+<title>EP 12</title>
+<link>$doregex[POINT242]</link>
+<regex>
+<name>POINT242</name>
+<expres>source src="(.*mp4.*?)" type="</expres>
+<page>https://www.rapidvideo.com/e/FVQUZATYWC</page>
+<thumbnail>https://i1.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/10/W-TWO-WORLDS.jpg</thumbnail>
+<fanart></fanart>
+<info>..........</info>
+</item>
+
+<item>
+<title>EP 13</title>
+<link>$doregex[POINT242]</link>
+<regex>
+<name>POINT242</name>
+<expres>source src="(.*mp4.*?)" type="</expres>
+<page>https://www.rapidvideo.com/e/FVQUZA7HDR</page>
+<thumbnail>https://i1.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/10/W-TWO-WORLDS.jpg</thumbnail>
+<fanart></fanart>
+<info>..........</info>
+</item>
+
+<item>
+<title>EP 14</title>
+<link>$doregex[POINT242]</link>
+<regex>
+<name>POINT242</name>
+<expres>source src="(.*mp4.*?)" type="</expres>
+<page>https://www.rapidvideo.com/e/FVTW67N4F2</page>
+<thumbnail>https://i1.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/10/W-TWO-WORLDS.jpg</thumbnail>
+<fanart></fanart>
+<info>..........</info>
+</item>
+
+<item>
+<title>EP 15</title>
+<link>$doregex[POINT242]</link>
+<regex>
+<name>POINT242</name>
+<expres>source src="(.*mp4.*?)" type="</expres>
+<page>https://www.rapidvideo.com/e/FVQV2MZTR3</page>
+<thumbnail>https://i1.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/10/W-TWO-WORLDS.jpg</thumbnail>
+<fanart></fanart>
+<info>..........</info>
+</item>
+
+<item>
+<title>EP 16</title>
+<link>$doregex[POINT242]</link>
+<regex>
+<name>POINT242</name>
+<expres>source src="(.*mp4.*?)" type="</expres>
+<page>https://www.rapidvideo.com/d/FVQV2PNCNC</page>
+<thumbnail>https://i1.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/10/W-TWO-WORLDS.jpg</thumbnail>
+<fanart></fanart>
+<info>..........</info>
+</item>
+
+</channel>
