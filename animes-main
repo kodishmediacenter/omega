@@ -76,3 +76,228 @@
 </regex>
 </item>
 </channel>
+
+
+<channels></channels>
+<channel>
+<name>Save Me</name>
+<thumbnail>https://i0.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/11/save-me.jpg</thumbnail>
+
+
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4CZoZiKbOqk</trailer>
+<thumbnail>https://i0.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/11/save-me.jpg</thumbnail>
+<fanart></fanart>
+<info>Bem-vindos à enérgica e amorosa cidade de Muji. Im Sang Mi e sua família, ao se mudarem de Seoul para Muji-gun, acabam sem um lugar para morar. Porém, recebem ajuda de Cho Seong Ha, o Pai Espiritual, e seus apóstolos, praticantes de um culto ao Todo-Poderoso.Diante de tal bondade, por que Sang Mi não se sente segura acerca dessas pessoas e desse lugar? Afinal, não é preciso ter medo, basta seguir o caminho para a salvação.O Todo-Poderoso estará sempre com vocês.O Todo-Poderoso será seu salvador. Vocês acreditam?</info>
+</item>
+
+<item>
+<title>EP 01</title>
+<link>$doregex[POINT242]</link>
+<thumbnail>https://i0.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/11/love-020-online.jpg</thumbnail>
+<fanart>http://u387434689.hostingerapp.com/dicas/fanart0.jpg</fanart>
+<info></info>
+<regex>
+<name>POINT242</name>
+<expres>source src="(.*mp4.*?)" type="</expres>
+<page>http://www.rapidvideo.com/?v=FX93DR5QR2</page>
+</regex>
+</item>
+
+<item>
+<title>EP 02</title>
+<link>$doregex[POINT242]</link>
+<thumbnail>https://i0.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/11/love-020-online.jpg</thumbnail>
+<fanart>http://u387434689.hostingerapp.com/dicas/fanart0.jpg</fanart>
+<info></info>
+<regex>
+<name>POINT242</name>
+<expres>source src="(.*mp4.*?)" type="</expres>
+<page>http://www.rapidvideo.com/?v=FX93DHKUU8</page>
+</regex>
+</item>
+
+<item>
+<title>EP 03</title>
+<link>$doregex[POINT242]</link>
+<thumbnail>https://i0.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/11/love-020-online.jpg</thumbnail>
+<fanart>http://u387434689.hostingerapp.com/dicas/fanart0.jpg</fanart>
+<info></info>
+<regex>
+<name>POINT242</name>
+<expres>source src="(.*mp4.*?)" type="</expres>
+<page>http://www.rapidvideo.com/?v=FX93DASRYI</page>
+</regex>
+</item>
+
+<item>
+<title>EP 04</title>
+<link>$doregex[POINT242]</link>
+<thumbnail>https://i0.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/11/love-020-online.jpg</thumbnail>
+<fanart>http://u387434689.hostingerapp.com/dicas/fanart0.jpg</fanart>
+<info></info>
+<regex>
+<name>POINT242</name>
+<expres>source src="(.*mp4.*?)" type="</expres>
+<page>http://www.rapidvideo.com/?v=FX93EREDWR</page>
+</regex>
+</item>
+
+<item>
+<title>EP 05</title>
+<link>$doregex[POINT242]</link>
+<thumbnail>https://i0.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/11/love-020-online.jpg</thumbnail>
+<fanart>http://u387434689.hostingerapp.com/dicas/fanart0.jpg</fanart>
+<info></info>
+<regex>
+<name>POINT242</name>
+<expres>source src="(.*mp4.*?)" type="</expres>
+<page>http://www.rapidvideo.com/?v=FX93DAU5IW</page>
+</regex>
+</item>
+
+<item>
+<title>EP 06</title>
+<link>$doregex[POINT242]</link>
+<thumbnail>https://i0.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/11/love-020-online.jpg</thumbnail>
+<fanart>http://u387434689.hostingerapp.com/dicas/fanart0.jpg</fanart>
+<info></info>
+<regex>
+<name>POINT242</name>
+<expres>source src="(.*mp4.*?)" type="</expres>
+<page>http://www.rapidvideo.com/?v=FX93D7T0I9</page>
+</regex>
+</item>
+
+<item>
+<title>EP 07</title>
+<link>$doregex[POINT242]</link>
+<thumbnail>https://i0.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/11/love-020-online.jpg</thumbnail>
+<fanart>http://u387434689.hostingerapp.com/dicas/fanart0.jpg</fanart>
+<info></info>
+<regex>
+<name>POINT242</name>
+<expres>source src="(.*mp4.*?)" type="</expres>
+<page>http://www.rapidvideo.com/?v=FX93DXPTW6</page>
+</regex>
+</item>
+
+<item>
+<title>EP 08</title>
+<link>$doregex[POINT242]</link>
+<thumbnail>https://i0.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/11/love-020-online.jpg</thumbnail>
+<fanart>http://u387434689.hostingerapp.com/dicas/fanart0.jpg</fanart>
+<info></info>
+<regex>
+<name>POINT242</name>
+<expres>source src="(.*mp4.*?)" type="</expres>
+<page>http://www.rapidvideo.com/?v=FX93E7S9PN</page>
+</regex>
+</item>
+
+<item>
+<title>EP 09</title>
+<link>$doregex[POINT242]</link>
+<thumbnail>https://i0.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/11/love-020-online.jpg</thumbnail>
+<fanart>http://u387434689.hostingerapp.com/dicas/fanart0.jpg</fanart>
+<info></info>
+<regex>
+<name>POINT242</name>
+<expres>source src="(.*mp4.*?)" type="</expres>
+<page>http://www.rapidvideo.com/?v=FX93ECNDPD</page>
+</regex>
+</item>
+
+<item>
+<title>EP 10</title>
+<link>$doregex[POINT242]</link>
+<thumbnail>https://i0.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/11/love-020-online.jpg</thumbnail>
+<fanart>http://u387434689.hostingerapp.com/dicas/fanart0.jpg</fanart>
+<info></info>
+<regex>
+<name>POINT242</name>
+<expres>source src="(.*mp4.*?)" type="</expres>
+<page>http://www.rapidvideo.com/?v=FX93CTBS87</page>
+</regex>
+</item>
+
+<item>
+<title>EP 11</title>
+<link>$doregex[POINT242]</link>
+<thumbnail>https://i0.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/11/love-020-online.jpg</thumbnail>
+<fanart>http://u387434689.hostingerapp.com/dicas/fanart0.jpg</fanart>
+<info></info>
+<regex>
+<name>POINT242</name>
+<expres>source src="(.*mp4.*?)" type="</expres>
+<page>http://www.rapidvideo.com/?v=FX93ECIENU</page>
+</regex>
+</item>
+
+<item>
+<title>EP 12</title>
+<link>$doregex[POINT242]</link>
+<thumbnail>https://i0.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/11/love-020-online.jpg</thumbnail>
+<fanart>http://u387434689.hostingerapp.com/dicas/fanart0.jpg</fanart>
+<info></info>
+<regex>
+<name>POINT242</name>
+<expres>source src="(.*mp4.*?)" type="</expres>
+<page>http://www.rapidvideo.com/?v=FX93EY4TR0</page>
+</regex>
+</item>
+
+<item>
+<title>EP 13</title>
+<link>$doregex[POINT242]</link>
+<thumbnail>https://i0.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/11/love-020-online.jpg</thumbnail>
+<fanart>http://u387434689.hostingerapp.com/dicas/fanart0.jpg</fanart>
+<info></info>
+<regex>
+<name>POINT242</name>
+<expres>source src="(.*mp4.*?)" type="</expres>
+<page>http://www.rapidvideo.com/?v=FX93F95QRX</page>
+</regex>
+</item>
+
+<item>
+<title>EP 14</title>
+<link>$doregex[POINT242]</link>
+<thumbnail>https://i0.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/11/love-020-online.jpg</thumbnail>
+<fanart>http://u387434689.hostingerapp.com/dicas/fanart0.jpg</fanart>
+<info></info>
+<regex>
+<name>POINT242</name>
+<expres>source src="(.*mp4.*?)" type="</expres>
+<page>http://www.rapidvideo.com/?v=FX93ERBXAH</page>
+</regex>
+</item>
+
+<item>
+<title>EP 15</title>
+<link>$doregex[POINT242]</link>
+<thumbnail>https://i0.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/11/love-020-online.jpg</thumbnail>
+<fanart>http://u387434689.hostingerapp.com/dicas/fanart0.jpg</fanart>
+<info></info>
+<regex>
+<name>POINT242</name>
+<expres>source src="(.*mp4.*?)" type="</expres>
+<page>http://www.rapidvideo.com/?v=FX93F6LYW5</page>
+</regex>
+</item>
+
+<item>
+<title>EP 16</title>
+<link>$doregex[POINT242]</link>
+<thumbnail>https://i0.wp.com/assistirdoramasonline.com/wp-content/uploads/2018/11/love-020-online.jpg</thumbnail>
+<fanart>http://u387434689.hostingerapp.com/dicas/fanart0.jpg</fanart>
+<info></info>
+<regex>
+<name>POINT242</name>
+<expres>source src="(.*mp4.*?)" type="</expres>
+<page>http://www.rapidvideo.com/?v=FX93F7XUHW</page>
+</regex>
+</item>
+</channel>
