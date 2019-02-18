@@ -1,0 +1,3115 @@
+<item>
+<title>007: Quantum of Solace</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/181f_cW5_HVgZShKzGHbcT59m3ZPHAcrm/edit</link>
+<info>TESTE</info>
+<genre>007: Quantum of Solace</genre>
+<date>2008</date>
+</item>
+
+<item>
+<title>007: Operacao Skyfall</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1OUSCYAKfY4tgLEk662tFznSt3088OiNp/edit</link>
+<info>TESTE</info>
+<genre>007: Operacao Skyfall</genre>
+<date>2012</date>
+</item>
+
+<item>
+<title>007 Contra Spectre</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1q24NtpLBxoU5754bkOIGUxqiFyKJPSww/edit</link>
+<info>TESTE</info>
+<genre>007 Contra Spectre</genre>
+<date>2015</date>
+</item>
+
+<item>
+<title>10.000 A.C.</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1ht7dJhUAKG3pB_eejgh-KvNcSZ_A4xg3/edit</link>
+<info>TESTE</info>
+<genre>10.000 A.C.</genre>
+<date>2008</date>
+</item>
+
+<item>
+<title>13° Distrito - Ultimato</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1BLCmOB-cayMguSI1xI0W6NgpGr-WMCK5/edit</link>
+<info>TESTE</info>
+<genre>13° Distrito - Ultimato</genre>
+<date>2009</date>
+</item>
+
+<item>
+<title>13º Distrito</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1TlHV019F99WSaSm-KZsdOOFT2jT9XumB/edit</link>
+<info>TESTE</info>
+<genre>13º Distrito</genre>
+<date>2014</date>
+</item>
+
+<item>
+<title>17 Outra Vez</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1iontl_fKPoYJFm2RwrzYGC2zDS5uEfp0/edit</link>
+<info>TESTE</info>
+<genre>17 Outra Vez</genre>
+<date>2009</date>
+</item>
+
+<item>
+<title>72 Horas</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1r1axMLccxgevdvC_bCZYF5NfivPT9rhi/edit</link>
+<info>TESTE</info>
+<genre>72 Horas</genre>
+<date>2010</date>
+</item>
+
+<item>
+<title>127 Horas</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/12Aibnuroh77IYUjJWdShU_y1oqGn3VRQ/edit</link>
+<info>TESTE</info>
+<genre>127 Horas</genre>
+<date>2010</date>
+</item>
+
+<item>
+<title>2012</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1II1LKyI1QVhKjVfXk4stYFBdg48n1-zF/edit</link>
+<info>TESTE</info>
+<genre>2012</genre>
+<date>2009</date>
+</item>
+
+<item>
+<title>A Chegada</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1DOJaymQ9LeMi4dCaeVxANeUEcAw6klxa/edit</link>
+<info>TESTE</info>
+<genre>A Chegada</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>A Cura </title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1o9Tb3bzo6yYpsi6DoAbMfeCodSeNdswt/edit</link>
+<info>TESTE</info>
+<genre>A Cura</genre>
+<date>2017</date>
+</item>
+
+<item>
+<title>A Familia</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1-hZCE55KgE2QEZ-EgF2DEupc9la8ZOsp/edit</link>
+<info>TESTE</info>
+<genre>A Familia</genre>
+<date>2013</date>
+</item>
+
+<item>
+<title>A Orfa</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1O85SRKw-q5fdzvrYdmMMwksCt3AB_TFY/edit</link>
+<info>TESTE</info>
+<genre>A Orfa</genre>
+<date>2009</date>
+</item>
+
+<item>
+<title>A 5ª Onda</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/13Z4LWZixx1E5iCqA-zOFNBqLTAHQFr-N/edit</link>
+<info>TESTE</info>
+<genre>A 5ª Onda</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>A Rede Social</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1s-l_o2TA808B1KTwE2j14VEG8V4aI4_L/edit</link>
+<info>TESTE</info>
+<genre>A Rede Social</genre>
+<date>2010</date>
+</item>
+
+<item>
+<title>A Ressaca</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1QsP2IXl_oXxFBkepQQX_WR-O8ceFSTKT/edit</link>
+<info>TESTE</info>
+<genre>A Ressaca</genre>
+<date>2010</date>
+</item>
+
+<item>
+<title>A Ressaca 2</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1fdfCc_kobjgCLO0YdWEJqvymwGpvgBVX/edit</link>
+<info>TESTE</info>
+<genre>A Ressaca 2</genre>
+<date>2015</date>
+</item>
+
+<item>
+<title>A Saga Crepusculo: Amanhecer - Parte 1</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1RuuGoGpvknPJ76rLAUorlcqD3oh9Gpvz/edit</link>
+<info>TESTE</info>
+<genre>A Saga Crepusculo: Amanhecer - Parte 1</genre>
+<date>2011</date>
+</item>
+
+<item>
+<title>A Saga Crepusculo: Amanhecer - Parte 2</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1RUtAQiFUdyBRl4RTwOMT81kG9-7FzeDL/edit</link>
+<info>TESTE</info>
+<genre>A Saga Crepusculo: Amanhecer - Parte 2</genre>
+<date>2012</date>
+</item>
+
+<item>
+<title>A Vida Secreta de Walter Mitty</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1Z3uoxhKqTZTdNLKcKFyvgHGDxojYFV6E/edit</link>
+<info>TESTE</info>
+<genre>A Vida Secreta de Walter Mitty</genre>
+<date>2013</date>
+</item>
+
+<item>
+<title>Abducao</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1qqt89fEnKkRnrXCxLcSWMKVWa5al1_6X/edit</link>
+<info>TESTE</info>
+<genre>Abducao</genre>
+<date>2014</date>
+</item>
+
+<item>
+<title>Aguas Rasas</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1hliN-0EII7MO8_0XPZwG2ujv5woTUjYg/edit</link>
+<info>TESTE</info>
+<genre>Aguas Rasas</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>Alien vs. Predador 2</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1N2Qq9Y7tYcxjRIjZDAMIZr0r7kYqsvk3/edit</link>
+<info>TESTE</info>
+<genre>Alien vs. Predador 2</genre>
+<date>2007</date>
+</item>
+
+<item>
+<title>American Ultra: Armados e Alucinados</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1CsVhYh83EtmeDws09Y8juZILCmKdHkVX/edit</link>
+<info>TESTE</info>
+<genre>American Ultra: Armados e Alucinados</genre>
+<date>2015</date>
+</item>
+
+<item>
+<title>Amor & Outras Drogas</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1WI25h8eWZ5tW7ENb0NxZ902RyBf7dVzt/edit</link>
+<info>TESTE</info>
+<genre>Amor & Outras Drogas</genre>
+<date>2010</date>
+</item>
+
+<item>
+<title>Animais Fantasticos e Onde Habitam</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/15MMHpqHhITuHPFzadXY3L8FfDGI0ogBs/edit</link>
+<info>TESTE</info>
+<genre>Animais Fantasticos e Onde Habitam</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>Anjos Da Lei</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1s0AbbEGTtnVcTL9Wddv-nItAP2Edr8Cv/edit</link>
+<info>TESTE</info>
+<genre>Anjos Da Lei</genre>
+<date>2013</date>
+</item>
+
+<item>
+<title>Anjos Da Lei 2</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1Xtq9r59Rv33s0-KQY-zPFT3heLA7c15Q/edit</link>
+<info>TESTE</info>
+<genre>Anjos Da Lei 2</genre>
+<date>2014</date>
+</item>
+
+<item>
+<title>Annabelle</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/17YR7THa9QFY4owvtlePN4Omd5ENCoGwW/edit</link>
+<info>TESTE</info>
+<genre>Annabelle</genre>
+<date>2014</date>
+</item>
+
+<item>
+<title>Antes de Partir</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1KQoGxyq08Zr1FXuNysMjp2xkCv7_r8hl/edit</link>
+<info>TESTE</info>
+<genre>Antes de Partir</genre>
+<date>2007</date>
+</item>
+
+<item>
+<title>Apenas Amigos</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1K8cHGfwl53IebvyhdFs86UopZHH_iX7U/edit</link>
+<info>TESTE</info>
+<genre>Apenas Amigos</genre>
+<date>2006</date>
+</item>
+
+<item>
+<title>Apocalypto</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1sWcGmR8s8q7CXlxhM-2q-83tSIqhT4oS/edit</link>
+<info>TESTE</info>
+<genre>Apocalypto</genre>
+<date>2006</date>
+</item>
+
+<item>
+<title>As Branquelas</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1s_2d9PyVcbuSzEkoGjdVQlqnqRQjXRok/edit</link>
+<info>TESTE</info>
+<genre>As Branquelas</genre>
+<date>2004</date>
+</item>
+
+<item>
+<title>As Cronicas de Narnia: O Leao, a Feiticeira e o Guarda-Roupa</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1ecS8oGEFq9pzF6Ag8AEgUwPQG9A5QOB0/edit</link>
+<info>TESTE</info>
+<genre>As Cronicas de Narnia: O Leao, a Feiticeira e o Guarda-Roupa</genre>
+<date>2005</date>
+</item>
+
+<item>
+<title>As Cronicas de Narnia: Principe Caspian</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1NfkbKLWCPmdlaiGPxXBbbkoRJJTPYjwD/edit</link>
+<info>TESTE</info>
+<genre>As Cronicas de Narnia: Principe Caspian</genre>
+<date>2008</date>
+</item>
+
+<item>
+<title>As Cronicas de Narnia: A Viagem do Peregrino da Alvorada</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1yOd3BQwYEBVs-gq-0KkQzrtivmdSt_4K/edit</link>
+<info>TESTE</info>
+<genre>As Cronicas de Narnia: A Viagem do Peregrino da Alvorada</genre>
+<date>2010</date>
+</item>
+
+<item>
+<title>As Delícias da Tarde</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1VBpnrU80G2YroS3J2IA5fh5ZFdpw6r8E/edit</link>
+<info>TESTE</info>
+<genre>As Delicias da Tarde</genre>
+<date>2013</date>
+</item>
+
+<item>
+<title>Assalto ao Banco Central</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/16uypaAcSPrd5loVEkP4Qu1bn-yz043kG/edit</link>
+<info>TESTE</info>
+<genre>Assalto ao Banco Central</genre>
+<date>2011</date>
+</item>
+
+<item>
+<title>Assassin's Creed - O Filme</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1dLrSLgtTB5xDSnEusZA_dHZM96e9f_nu/edit</link>
+<info>TESTE</info>
+<genre>Assassin's Creed - O Filme</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>A Toda Velocidade</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1GSUe_hS8AtcgZVa6ZN7FEghFVQ5lUOyZ/edit</link>
+<info>TESTE</info>
+<genre>A Toda Velocidade</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>Atirador</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/16iYn9YBzzu1ANQ7Bk8oc-AzHZzVVVumc/edit</link>
+<info>TESTE</info>
+<genre>Atirador</genre>
+<date>2007</date>
+</item>
+
+<item>
+<title>Atividade Paranormal</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1z0gzvm9NPi15UJ7XsPgW4v2F6JBHq0r1/edit</link>
+<info>TESTE</info>
+<genre>Atividade Paranormal</genre>
+<date>2007</date>
+</item>
+
+<item>
+<title>Atividade Paranormal 2</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1sLLnefH4t1UskLxKUq-fkwjhu1VFgMpo/edit</link>
+<info>TESTE</info>
+<genre>Atividade Paranormal 2</genre>
+<date>2010</date>
+</item>
+
+<item>
+<title>Atividade Paranormal 3</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/175xzXIa75XcWJ6CvoSECAyG6Mt7u8RCF/edit</link>
+<info>TESTE</info>
+<genre>Atividade Paranormal 3</genre>
+<date>2011</date>
+</item>
+
+<item>
+<title>Atividade Paranormal: Dimensao Fantasma</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1idySZvmB87vRu4fJBpBF-Gd6mJ3iSbTB/edit</link>
+<info>TESTE</info>
+<genre>Atividade Paranormal: Dimensao Fantasma</genre>
+<date>2015</date>
+</item>
+
+<item>
+<title>As Tartarugas Ninja</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1zzFy_h2Z4zKHFwMHlG6y3LJJfd5eC0HU/edit</link>
+<info>TESTE</info>
+<genre>As Tartarugas Ninja</genre>
+<date>2014</date>
+</item>
+
+<item>
+<title>Alem da Escuridao - Star Trek</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1LxqWO7LmKnqV6piDgmuCbBUWvNILODXD/edit</link>
+<info>TESTE</info>
+<genre>Alem da Escuridao - Star Trek</genre>
+<date>2013</date>
+</item>
+
+<item>
+<title>A Serie Divergente: Insurgente</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1t_GQBrph2hs0kN4lYA7Ey8MApUH9dwx8/edit</link>
+<info>TESTE</info>
+<genre>A Serie Divergente: Insurgente</genre>
+<date>2015</date>
+</item>
+
+<item>
+<title>A Serie Divergente: Convergente</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1mM88LumoXa9Sx_Tlh6mNv7TtYiu0xJIm/edit</link>
+<info>TESTE</info>
+<genre>A Serie Divergente: Convergente</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>A Identidade Bourne</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1FoPS2QTmBOwG6hj5APe4H52kjdIYWkGh/edit</link>
+<info>TESTE</info>
+<genre>A Identidade Bourne</genre>
+<date>2002</date>
+</item>
+
+<item>
+<title>A Supremacia Bourne</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1vS_rmEzvYYaJ-Hj3uZ1DMNb7LyiEVHR6/edit</link>
+<info>TESTE</info>
+<genre>A Supremacia Bourne</genre>
+<date>2004</date>
+</item>
+
+
+<item>
+<title>A Noiva</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1Ned04-b6FfXLGP63mql51KLv1SgliByx/view</link>
+<info>TESTE</info>
+<genre>A Noiva</genre>
+<date>2017</date>
+</item>
+
+<item>
+<title>A Noiva do Diabo</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1Dn8c_BlYReXkyNYcduqZTQePg2kEGuwJ/view</link>
+<info>TESTE</info>
+<genre>A Noiva do Diabo</genre>
+<date>2017</date>
+</item>
+
+<item>
+<title>A Ultima Palavra</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1O-6hKoOxNfdLgk97hA2DBuhjEKsLYHlF/view</link>
+<info>TESTE</info>
+<genre>A Ultima Palavra</genre>
+<date>2017</date>
+</item>
+
+<item>
+<title>Adeus Christopher Robin</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/13nrmD83AB7Zove-iEyAbBLlrVr0-Y-lF/view</link>
+<info>TESTE</info>
+<genre>Adeus Christopher Robin</genre>
+<date>2017</date>
+</item>
+
+<item>
+<title>Area 15</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1hJ1ZY20PJqu1r8A0-0QUZdNxVC1ZcX23/view</link>
+<info>TESTE</info>
+<genre>Area 15</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>Blade: A Lamina do Imortal</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1z1dIcDVZV7UIg6ZE5fZAG4Jw7YglnFV5/view</link>
+<info>TESTE</info>
+<genre>Blade: A Lamina do Imortal</genre>
+<date>2017</date>
+</item>
+
+<item>
+<title>Bastardos Inglorios</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1dEr6F0pckuwmXIngsH5htu-qwh0Zlr8d/edit</link>
+<info>TESTE</info>
+<genre>Bastardos Inglorios</genre>
+<date>2009</date>
+</item>
+
+<item>
+<title>Batman vs Superman: A Origem da Justica</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1r-O2pUS5-edHYffqGahBUF0L_HN4A9xg/edit</link>
+<info>TESTE</info>
+<genre>Batman vs Superman: A Origem da Justica</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>Bikini Car Wash</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1Aj1sqtlps2L5UI7lzKIYUpkq-szM5XOb/edit</link>
+<info>TESTE</info>
+<genre>Bikini Car Wash</genre>
+<date>2015</date>
+</item>
+
+<item>
+<title>Borat</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1P7LQJnwG98Ftus6bGJkf-KuAZ1N_mqL5/edit</link>
+<info>TESTE</info>
+<genre>Borat</genre>
+<date>2006</date>
+</item>
+
+<item>
+<title>Bruxa de Blair</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1h0XlJX0BeYPGoea316pcPgSidvFG1qaf/edit</link>
+<info>TESTE</info>
+<genre>Bruxa de Blair</genre>
+<date>2017</date>
+</item>
+
+<item>
+<title>Batman: O Cavaleiro das Trevas</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1OC5RgY3E6WY8sKwNgPQuWblLULKJOxjS/edit</link>
+<info>TESTE</info>
+<genre>Batman: O Cavaleiro das Trevas</genre>
+<date>2008</date>
+</item>
+
+<item>
+<title>Batman: O Cavaleiro das Trevas Ressurge</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1e7iiqrl2F5XhMAreuzZrw5dteLJY0gBi/edit</link>
+<info>TESTE</info>
+<genre>Batman: O Cavaleiro das Trevas Ressurge</genre>
+<date>2012</date>
+</item>
+
+<item>
+<title>Caes de Guerra</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1WjVlgJg3lPqSZOMl07fy4VqHfFA7FBEt/edit</link>
+<info>TESTE</info>
+<genre>Caes de Guerra</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>Capitao America: Guerra Civil</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1Z-FTc2be7Q68gqyNeOGsPj6lAD2SaP42/edit</link>
+<info>TESTE</info>
+<genre>Capitao America: Guerra Civil</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>Capitao America: O Primeiro Vingador</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1myh7neNGWBcF1NfC_OWKzY3rTUGInk1j/edit</link>
+<info>TESTE</info>
+<genre>Capitao America: O Primeiro Vingador</genre>
+<date>2011</date>
+</item>
+
+<item>
+<title>Capitao America 2: O Soldado Invernal</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1Be9D1vcT3BXik-Lnvd7m5Cf6nEOMJMBj/edit</link>
+<info>TESTE</info>
+<genre>Capitao America 2: O Soldado Invernal</genre>
+<date>2014</date>
+</item>
+
+
+
+<item>
+<title>Centopeia Humana</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1wy7VQCrY95aKP2cK_v644M5aCIZdFJCO/edit</link>
+<info>TESTE</info>
+<genre>Centopeia Humana</genre>
+<date>2009</date>
+</item>
+
+<item>
+<title>Cronicas da Tribo Fantasma</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1jtMZktTk9ksErlCmUCd3PmM43UTWNPvj/edit</link>
+<info>TESTE</info>
+<genre>Cronicas da Tribo Fantasma</genre>
+<date>2015</date>
+</item>
+
+<item>
+<title>Cinquenta Tons de Cinza</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1pcb9vgEyVETfIZJWtD8QZV3GoS7MsXoi/edit</link>
+<info>TESTE</info>
+<genre>Cinquenta Tons de Cinza</genre>
+<date>2015</date>
+</item>
+
+<item>
+<title>Cinquenta Tons Mais Escuros</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/<1jcn_JHYHRNLer9d-FoFCP9mcD-PmHW_0/edit</link>
+<info>TESTE</info>
+<genre>Cinquenta Tons Mais Escuros</genre>
+<date>2017</date>
+</item>
+
+<item>
+<title>Circulo de Fogo</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1Vh1JXey8NA2zZTS6EsyxXZ6ZegWRUs36/edit</link>
+<info>TESTE</info>
+<genre>Circulo de Fogo</genre>
+<date>2013</date>
+</item>
+
+<item>
+<title>Cloverfield: Monstro</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1d905PQ-5UmUZ8t__SdSkQFGFckYbjini/edit</link>
+<info>TESTE</info>
+<genre>Cloverfield: Monstro</genre>
+<date>2008</date>
+</item>
+
+<item>
+<title>Codigo de Conduta</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1WKlUmYs5YhaPcxuzx2O55mNKdZ3nLwGW/edit</link>
+<info>TESTE</info>
+<genre>Codigo de Conduta</genre>
+<date>2009</date>
+</item>
+
+<item>
+<title>Coherence</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1j5V7lABvx_C0YXQOW-XqA-lERtm9fcOX/edit</link>
+<info>TESTE</info>
+<genre>Coherence</genre>
+<date>2013</date>
+</item>
+
+<item>
+<title>Como Eu Era Antes de Voce</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/13OaD_Z3g6cmn_Ow_BG5ESu1gUeyYq_TK/edit</link>
+<info>TESTE</info>
+<genre>Como Eu Era Antes de Voce</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>Como Nossos Pais</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1M_6jY6VAdUt8ylZ7yM3QIADlIKxUOWyd/edit</link>
+<info>TESTE</info>
+<genre>Como Nossos Pais</genre>
+<date>2017</date>
+</item>
+
+<item>
+<title>Contatos de 4º Grau</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1SvGqB-3PMwk3KydsEo5mvIUtgJFttvaX/edit</link>
+<info>TESTE</info>
+<genre>Contatos de 4º Grau</genre>
+<date>2009</date>
+</item>
+
+<item>
+<title>Contra Tempo</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/17s5ocsTBRSSyfSK5mHdeQ6EUjLL28mH_/edit</link>
+<info>TESTE</info>
+<genre>Contra Tempo</genre>
+<date>2011</date>
+</item>
+
+<item>
+<title>Corrida Mortal</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/19M6aZSEQ7iYoD2rgHxhuQ2QE70iXNvrH/edit</link>
+<info>TESTE</info>
+<genre>Corrida Mortal</genre>
+<date>2008</date>
+</item>
+
+<item>
+<title>Cacador de Demonios</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1VSpRAGbiiwkgj9Lb8MsJL9-CYApZ4hYJ/view</link>
+<info>TESTE</info>
+<genre>Cacador de Demonios</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>Com Amor, Van Gogn</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1lAOx0r5JlBfegF7Mxugx3P-uhhBTlnUG/view</link>
+<info>TESTE</info>
+<genre>Com Amor Van Gogn</genre>
+<date>2017</date>
+</item>
+
+<item>
+<title>Corra</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1S3_172TbKtgJqeuXP-24kc3PTQEX7Tit/view</link>
+<info>TESTE</info>
+<genre>Corra</genre>
+<date>2017</date>
+</item>
+
+<item>
+<title>Criminosos de Novembro</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/10F_w_q3C3_3bpHZctf1gjDjYCWFzsx12/view</link>
+<info>TESTE</info>
+<genre>Criminosos de Novembro</genre>
+<date>2017</date>
+</item>
+
+<item>
+<title>Deixe Me Entrar</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1G9lhay5Ay3gOEZKUtUC8f0hINofSFPwF/edit</link>
+<info>TESTE</info>
+<genre>Deixe Me Entrar</genre>
+<date>2010</date>
+</item>
+
+<item>
+<title>Despedida em Grande Estilo</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1uoIdVkark2P9VRCWQ3KnF9_Pv8ZSq2ab/edit</link>
+<info>TESTE</info>
+<genre>Despedida em Grande Estilo</genre>
+<date>2017</date>
+</item>
+
+<item>
+<title>Distrito 9</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1bSz3LBohIKXnU4hZI3kFUiee8oFv4B2z/edit</link>
+<info>TESTE</info>
+<genre>Distrito 9</genre>
+<date>2009</date>
+</item>
+
+<item>
+<title>Django Livre</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1JsP2pQXWSsFimbYVXLVIdcGsIYi0HfB4/edit</link>
+<info>TESTE</info>
+<genre>Django Livre</genre>
+<date>2012</date>
+</item>
+
+<item>
+<title>Doutor Estranho</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1OV5PfqykZ48L2nFVcLO1Q1q97xTiZAjA/edit</link>
+<info>TESTE</info>
+<genre>Doutor Estranho</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>Duvida</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1Ll5vVjnFu80NcvlXNgPuAB9UqhIHPqA8/edit</link>
+<info>TESTE</info>
+<genre>Duvida</genre>
+<date>2008</date>
+</item>
+
+<item>
+<title>Divergente</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1DPVesuPUuqz3z9VYfzWK2e_2tu7IWMGM/edit</link>
+<info>TESTE</info>
+<genre>Divergente</genre>
+<date>2014</date>
+</item>
+
+<item>
+<title>Enterrado Vivo</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1ZKTg0wsKGlb0zLqY0R0f6-pVpiA5Z6nM/edit</link>
+<info>TESTE</info>
+<genre>Enterrado Vivo</genre>
+<date>2010</date>
+</item>
+
+<item>
+<title>Esquadrao Classe A</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/<1kIfouqLFz3yQ8XzXWnjzHxLYjjVPEGG3/edit</link>
+<info>TESTE</info>
+<genre>Esquadrao Classe A</genre>
+<date>2010</date>
+</item>
+
+<item>
+<title>Esquadrao Suicida</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1eghvfs5JaoKoDTuWZoAPy-Fu7OP1bN7X/edit</link>
+<info>TESTE</info>
+<genre>Esquadrao Suicida</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>Eu os Declaro Marido e... Larry</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1MjXtShjU56OMdmnQ7NmXfjNdGM0VnR-F/edit</link>
+<info>TESTE</info>
+<genre>Eu os Declaro Marido e... Larry</genre>
+<date>2007</date>
+</item>
+
+<item>
+<title>Eloise</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1icDb7c9Tj2iowmvOt4Glry0p1y0EeCQU/view</link>
+<info>TESTE</info>
+<genre>Eloise</genre>
+<date>2017</date>
+</item>
+
+<item>
+<title>Ferias Frustradas de Verao</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1qoxV0EpUtWwykPYMRzF43kV3esyJx4K4/edit</link>
+<info>TESTE</info>
+<genre>Ferias Frustradas de Verao</genre>
+<date>2009</date>
+</item>
+
+<item>
+<title>Festa Da Salsicha</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/17vAxQAUh-xaNhwUz9M-XIoIvKC_vN6cP/edit</link>
+<info>TESTE</info>
+<genre>Festa Da Salsicha</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>Fim dos Tempos</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1muTxDDoQDHKE3LXsWuCXgoPf5Uq54-JV/edit</link>
+<info>TESTE</info>
+<genre>Fim dos Tempos</genre>
+<date>2008</date>
+</item>
+
+<item>
+<title>Finalmente 18</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1wk2eAMvPI6rolf3qZ-RPiX4m5Iu8xcMn/edit</link>
+<info>TESTE</info>
+<genre>Finalmente 18</genre>
+<date>2013</date>
+</item>
+
+<item>
+<title>G.I. Joe - A Origem de Cobra</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1n4iOjNeTi08sozk_ytC6hFmTTOxrb5n6/edit</link>
+<info>TESTE</info>
+<genre>G.I. Joe - A Origem de Cobra</genre>
+<date>2009</date>
+</item>
+
+<item>
+<title>G.I. Joe - Retaliacao</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1PGiuV5zKrkoar6k1KjT13D8CCVzQEHIF/edit</link>
+<info>TESTE</info>
+<genre>G.I. Joe - Retaliacao</genre>
+<date>2013</date>
+</item>
+
+<item>
+<title>Garota Exemplar</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1KaXRoll7iGt1PVzPhG2dCSd5_oaDMDhZ/edit</link>
+<info>TESTE</info>
+<genre>Garota Exemplar</genre>
+<date>2014</date>
+</item>
+
+<item>
+<title>Genios Do Crime</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1d1FmOMgP7Igglm2hzF2pe2XYXx4PPakw/edit</link>
+<info>TESTE</info>
+<genre>Genios Do Crime</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>Gente Grande 2</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1q90FEeirctdjSIdAvjO0df-3Z2SX-h8T/edit</link>
+<info>TESTE</info>
+<genre>Gente Grande 2</genre>
+<date>2013</date>
+</item>
+
+<item>
+<title>Godzilla</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1EPGxpBaE48ZQ5fNAD1stzGukM1cDGMMJ/edit</link>
+<info>TESTE</info>
+<genre>Godzilla</genre>
+<date>2014</date>
+</item>
+
+<item>
+<title>Goosebumps: Monstros e Arrepios</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1I4H5Pw2JmAJuLb4mITJ1qAQFtf61hq9s/edit</link>
+<info>TESTE</info>
+<genre>Goosebumps: Monstros e Arrepios</genre>
+<date>2015</date>
+</item>
+
+<item>
+<title>Gravidade</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/18cLPwwQnAQxZbVWlAM2tytUMSGu4XGAh/edit</link>
+<info>TESTE</info>
+<genre>Gravidade</genre>
+<date>2013</date>
+</item>
+
+<item>
+<title>Guardioes da Galaxia</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1GtadVOGmwoFhEBl2VgpVKc4gpjhT1d6a/edit</link>
+<info>TESTE</info>
+<genre>Guardioes da Galaxia</genre>
+<date>2014</date>
+</item>
+
+<item>
+<title>Guerra dos Monstros</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1I8UfTRGSRHI18k21APMV0Igu3EMToL1j/edit</link>
+<info>TESTE</info>
+<genre>Guerra dos Monstros</genre>
+<date>2015</date>
+</item>
+
+<item>
+<title>Halloween II</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1ur5NYBuTW53arUlFuIcqOVGNnw4xanEQ/edit</link>
+<info>TESTE</info>
+<genre>Halloween II</genre>
+<date>2009</date>
+</item>
+
+<item>
+<title>Halloween - O Inicio</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/16vMnewiqTGLPWuWa3FU3nCpZSa6PwAIu/edit</link>
+<info>TESTE</info>
+<genre>Halloween - O Inicio</genre>
+<date>2007</date>
+</item>
+
+<item>
+<title>Hancock</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/11tw83gqGiy-NI0x2_QbGnCNfJ_zoYGBx/edit</link>
+<info>TESTE</info>
+<genre>Hancock</genre>
+<date>2008</date>
+</item>
+
+<item>
+<title>Hannibal</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1w7Hf8uwPyJOK7Gdu0jaeJsNXf0UYHYqc/edit</link>
+<info>TESTE</info>
+<genre>Hannibal</genre>
+<date>2007</date>
+</item>
+
+<item>
+<title>Hardcore: Missao Extrema</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1JxQz1BPOKYfG0gvyHDmoW2ssI4m59hm8/edit</link>
+<info>TESTE</info>
+<genre>Hardcore: Missao Extrema</genre>
+<date>2015</date>
+</item>
+
+<item>
+<title>Harry Potter e a Pedra Filosofal</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1t0eHpunvR05ioDSg40ntlhNpbHFXTGqb/edit</link>
+<info>TESTE</info>
+<genre>Harry Potter e a Pedra Filosofal</genre>
+<date>2001</date>
+</item>
+
+<item>
+<title>Harry Potter e a Camara Secreta</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1D9s4r-4BNQkn8EhzLdCarAgMhb52e_ZW/edit</link>
+<info>TESTE</info>
+<genre>Harry Potter e a Camara Secreta</genre>
+<date>2002</date>
+</item>
+
+<item>
+<title>Harry Potter e o Prisioneiro de Azkaban</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1ZjzAGhkxg_iL5DD8XAvMt_kZ_7E61qD-/edit</link>
+<info>TESTE</info>
+<genre>Harry Potter e o Prisioneiro de Azkaban</genre>
+<date>2004</date>
+</item>
+
+<item>
+<title>Harry Potter e o Calice de Fogo</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/19hWchsj_PxUUmQbr-vm76Sd4wDVg6cnZ/edit</link>
+<info>TESTE</info>
+<genre>Harry Potter e o Calice de Fogo</genre>
+<date>2005</date>
+</item>
+
+<item>
+<title>Harry Potter e a Ordem da Fenix</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1u3XebQWQL7alpC9CdAvAMpupOLoSDdrn/edit</link>
+<info>TESTE</info>
+<genre>Harry Potter e a Ordem da Fenix</genre>
+<date>2007</date>
+</item>
+
+<item>
+<title>Harry Potter e o Enigma do Principe</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1HkKR6M7CwpnH3LC-sync9YA3VoUdAFK4/edit</link>
+<info>TESTE</info>
+<genre>Harry Potter e o Enigma do Principe</genre>
+<date>2009</date>
+</item>
+
+<item>
+<title>Harry Potter e as Reliquias da Morte - Parte 1</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1kbu6Kq0m1WE_vp-h0pM8hqgZOlayONMK/edit</link>
+<info>TESTE</info>
+<genre>Harry Potter e as Reliquias da Morte - Parte 1</genre>
+<date>2010</date>
+</item>
+
+<item>
+<title>Harry Potter e as Reliquias da Morte - Parte 2</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1b8nq_Nul7904BQkB_g_d5qIqD5njPjEe/edit</link>
+<info>TESTE</info>
+<genre>Harry Potter e as Reliquias da Morte - Parte 2</genre>
+<date>2011</date>
+</item>
+
+<item>
+<title>Hellboy II: O Exercito Dourado</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1Gs8nJCMriM8jtnsFDiRwcxQGaiDhdtSu/edit</link>
+<info>TESTE</info>
+<genre>Hellboy II: O Exercito Dourado</genre>
+<date>2008</date>
+</item>
+
+<item>
+<title>Hitman: Agente 47</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/18yO2FpSaTovnGZ_oYzfxjWCIHW2tQ-Wg/edit</link>
+<info>TESTE</info>
+<genre>Hitman: Agente 47</genre>
+<date>2015</date>
+</item>
+
+<item>
+<title>Homem de Ferro</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1Vs9QJF4JyQvFQxBanO8sbqELggdkruxn/edit</link>
+<info>TESTE</info>
+<genre>Homem de Ferro</genre>
+<date>2008</date>
+</item>
+
+<item>
+<title>Homem de Ferro 2</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1NwArnKUow21FSXb69_znXRuQ8hgETWyJ/edit</link>
+<info>TESTE</info>
+<genre>Homem de Ferro 2</genre>
+<date>2010</date>
+</item>
+
+<item>
+<title>Homem de Ferro 3</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/13VUd-9os5kzRZzET8VrjxWDdu-zweYg4/edit</link>
+<info>TESTE</info>
+<genre>Homem de Ferro 3</genre>
+<date>2013</date>
+</item>
+
+<item>
+<title>Homem-Formiga</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1y2Kl7orTKZZMW8HZ2LzKqHR15LHJN3bb/edit</link>
+<info>TESTE</info>
+<genre>Homem-Formiga</genre>
+<date>2015</date>
+</item>
+
+<item>
+<title>Hush: A Morte Ouve</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1NcOrGWOjQN3TI4eBvTV7SjigUx3XAIRt/edit</link>
+<info>TESTE</info>
+<genre>Hush: A Morte Ouve</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>Hampstead: Nunca e Tarde para Amar</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1Pc72LLsVyRwo0Lu8n_4al2TDSpsLqrk6/view</link>
+<info>TESTE</info>
+<genre>Hampstead: Nunca e Tarde para Amar</genre>
+<date>2017</date>
+</item>
+
+<item>
+<title>Harbinger Down - Terror no Gelo</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1HR-G_l8UhPx2fisPv0NDOX6sonaPBSZe/view</link>
+<info>TESTE</info>
+<genre>Harbinger Down - Terror no Gelo</genre>
+<date>2015</date>
+</item>
+
+<item>
+<title>Hellraiser IX - Revelacoes</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1J7mHKc4VkpiFmo2MaFpQoHlGiUcPvlP3/view</link>
+<info>TESTE</info>
+<genre>Hellraiser IX - Revelacoes</genre>
+<date>2011</date>
+</item>
+
+<item>
+<title>Hooligans 2</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/11Xpw7PDk9_PHIhABiNM70YvAdZMoG0NX/view</link>
+<info>TESTE</info>
+<genre>Hooligans 2</genre>
+<date>2009</date>
+</item>
+
+<item>
+<title>Impulso de Vinganca</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/18QUkT9LYW32EhUEZsxh8okrpImglH3oI/edit</link>
+<info>TESTE</info>
+<genre>Impulso de Vinganca</genre>
+<date>2014</date>
+</item>
+
+<item>
+<title>Incendios</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1f_eW5E36jIFeBYlY1Kj3wtV7gjg48kXE/edit</link>
+<info>TESTE</info>
+<genre>Incendios</genre>
+<date>2010</date>
+</item>
+
+<item>
+<title>Inferno</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/14D5XY4ht3wW894Agq1bRLOgCTI5-HmDJ/edit</link>
+<info>TESTE</info>
+<genre>Inferno</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>Interestelar</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/14595P8cQnLoA5V7BCZaHbFbMAngxNW-g/edit</link>
+<info>TESTE</info>
+<genre>Interestelar</genre>
+<date>2014</date>
+</item>
+
+<item>
+<title>Intocaveis</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1YNWMtpcDaNUc4OzPhGKZB8mZLVX3WaGy/edit</link>
+<info>TESTE</info>
+<genre>Intocaveis</genre>
+<date>2011</date>
+</item>
+
+<item>
+<title>Invasao do Mundo: Batalha de Los Angeles</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1Wdt3A2-8ROtshjp4tKmd497lUv36dw44/edit</link>
+<info>TESTE</info>
+<genre>Invasao do Mundo: Batalha de Los Angeles</genre>
+<date>2011</date>
+</item>
+
+<item>
+<title>Invasao Zumbi</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1Kk3wToPnJy2iXSKJ1I2t1UEo8_L24HXm/edit</link>
+<info>TESTE</info>
+<genre>Invasao Zumbi</genre>
+<date>2017</date>
+</item>
+
+<item>
+<title>Invocacao do Mal 2</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1fxoSQyuJVsL0SeyFNB6aW8zCyY1mQYSO/edit</link>
+<info>TESTE</info>
+<genre>Invocacao do Mal 2</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>I, Robot</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1pVsUMgZNrhX4AyyEdQ6IvGxupTx1j26A/edit</link>
+<info>TESTE</info>
+<genre>I, Robot</genre>
+<date>2004</date>
+</item>
+
+<item>
+<title>Jack: O Cacador de Gigantes</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/10905Hn6enp48-EsF7aLXFTFcmKLssjUf/edit</link>
+<info>TESTE</info>
+<genre>Jack: O Cacador de Gigantes</genre>
+<date>2013</date>
+</item>
+
+<item>
+<title>Jack Reacher: Sem Retorno</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1I-_lLxA1l42r0I-z--L8ZxLlAKHJjEY_/edit</link>
+<info>TESTE</info>
+<genre>Jack Reacher: Sem Retorno</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>Jobs</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1v_vk7D1-V-WewBuOJklGU6yQ5iiuzfLg/edit</link>
+<info>TESTE</info>
+<genre>Jobs</genre>
+<date>2013</date>
+</item>
+
+<item>
+<title>Jogos Mortais</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1_I8KSuMlQgeGAlc2AzT0mRGdytwVwOP1/edit</link>
+<info>TESTE</info>
+<genre>Jogos Mortais</genre>
+<date>2004</date>
+</item>
+
+<item>
+<title>Jogos Mortais II</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1q0uXn35zrLr-7kscfEyfG7r3H5xnvzYf/edit</link>
+<info>TESTE</info>
+<genre>Jogos Mortais II</genre>
+<date>2005</date>
+</item>
+
+<item>
+<title>Jogos Mortais II</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1Uq1uJDmmjs052TIqEBrg_fGWNqEshL8t/edit</link>
+<info>TESTE</info>
+<genre>Jogos Mortais III</genre>
+<date>2006</date>
+</item>
+
+<item>
+<title>Jogos Mortais IV</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1t5exrp-SE6Cb0KibXKZZyTz6YvXpRcjN/edit</link>
+<info>TESTE</info>
+<genre>Jogos Mortais IV</genre>
+<date>2007</date>
+</item>
+
+<item>
+<title>Jogos Mortais V</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1n6nbUfEEDmkOWMG67NWw3RS5ONa_AF_Y/edit</link>
+<info>TESTE</info>
+<genre>Jogos Mortais V</genre>
+<date>2008</date>
+</item>
+
+<item>
+<title>Jogos Mortais VI</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1lrXvEYuFn-6UWJIZayNtazS-yOR6mHoO/edit</link>
+<info>TESTE</info>
+<genre>Jogos Mortais VI</genre>
+<date>2009</date>
+</item>
+
+<item>
+<title>Jogos Mortais: O Final</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1x3bW-ED90Rpp0MBW_UcfXVYhl8EXijfP/edit</link>
+<info>TESTE</info>
+<genre>Jogos Mortais: O Final</genre>
+<date>2010</date>
+</item>
+
+<item>
+<title>Jogos Vorazes</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1YQR1ZN4TAkF0Cldc8PQj_X7Ki5wmNmoH/edit</link>
+<info>TESTE</info>
+<genre>Jogos Vorazes</genre>
+<date>2012</date>
+</item>
+
+<item>
+<title>Jogos Vorazes Em Chamas</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1keHpcVRkViQZHQkl7WoiEfPfcX2-gUkU/edit</link>
+<info>TESTE</info>
+<genre>Jogos Vorazes Em Chamas</genre>
+<date>2013</date>
+</item>
+
+<item>
+<title>Jogos Vorazes: A Esperanca - Parte 1</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1YHvGOAxK-gtlHAMw3Le1-eebkbkVDnoL/edit</link>
+<info>TESTE</info>
+<genre>Jogos Vorazes: A Esperanca - Parte 1</genre>
+<date>2014</date>
+</item>
+
+<item>
+<title>Jogos Vorazes: A Esperanca - O Final</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1toKBA1xRaXLAniaZ-OFV_ZPGxF5ovR6_/edit</link>
+<info>TESTE</info>
+<genre>Jogos Vorazes: A Esperanca - O Final</genre>
+<date>2015</date>
+</item>
+
+<item>
+<title>John Wick: Um Novo Dia Para Matar</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1vuidnUFXzUO0cytOxW6d9XAUjnN47sdi/edit</link>
+<info>TESTE</info>
+<genre>John Wick: Um Novo Dia Para Matar</genre>
+<date>2017</date>
+</item>
+
+<item>
+<title>Jumper</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1XIk9qQC8sNvw_10ozdXxb8AC81BHYpkX/edit</link>
+<info>TESTE</info>
+<genre>Jumper</genre>
+<date>2008</date>
+</item>
+
+<item>
+<title>Juntos pelo Acaso</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1kQbTQRvlMwOWCriqVBQUDqiyn60m-iwO/edit</link>
+<info>TESTE</info>
+<genre>Juntos pelo Acaso</genre>
+<date>2010</date>
+</item>
+
+<item>
+<title>Juntos e Misturados</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1_9TunvLZn8SeAxI-JBDQvXrg1vI_Lth5/edit</link>
+<info>TESTE</info>
+<genre>Juntos e Misturados</genre>
+<date>2014</date>
+</item>
+
+<item>
+<title>Jurassic World: O Mundo dos Dinossauros</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1cdVXtIP5iZD7tm7exBveer_bpqkF5aV0/edit</link>
+<info>TESTE</info>
+<genre>Jurassic World: O Mundo dos Dinossauros</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>Kick-Ass: Quebrando Tudo</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1AZJh1FUy6Yxjj2vef-ui3wK3mZo__xFI/edit</link>
+<info>TESTE</info>
+<genre>Kick-Ass: Quebrando Tudo</genre>
+<date>2010</date>
+</item>
+
+<item>
+<title>Kick-Ass 2</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1EdP0cANIBBACgQVlfyx6nzeckrrruZFl/edit</link>
+<info>TESTE</info>
+<genre>Kick-Ass 2</genre>
+<date>2013</date>
+</item>
+
+<item>
+<title>Krampus - O Terror do Natal</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/<1TrbwrLoL-6OmP0mhWsUXSD7EwF6_doLF/edit</link>
+<info>TESTE</info>
+<genre>Krampus - O Terror do Natal</genre>
+<date>2015</date>
+</item>
+
+<item>
+<title>Lanterna Verde</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1uXbOKR2woPzH0Zoxc91UT7hadY-9WSQC/edit</link>
+<info>TESTE</info>
+<genre>Lanterna Verde</genre>
+<date>2011</date>
+</item>
+
+<item>
+<title>Licenca para Casar</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/11_dSPdkSZgEJAwJCJQOxvvFvZXH65x-d/edit</link>
+<info>TESTE</info>
+<genre>Licenca para Casar</genre>
+<date>2007</date>
+</item>
+
+<item>
+<title>Looper - Assassinos do Futuro</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1sa_RgxijhGJkI3YwPNvsi86_ex5xZuen/edit</link>
+<info>TESTE</info>
+<genre>Looper - Assassinos do Futuro</genre>
+<date>2012</date>
+</item>
+
+<item>
+<title>Lucy</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1UzrjSHcY_ZJEmMUd7pMfevzgaaAbyOWO/edit</link>
+<info>TESTE</info>
+<genre>Lucy</genre>
+<date>2014</date>
+</item>
+
+<item>
+<title>Lunar</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1MYUXUwAPmPl8y7xq76gnRFtrbBQ-gOh5/edit</link>
+<info>TESTE</info>
+<genre>Lunar</genre>
+<date>2009</date>
+</item>
+
+<item>
+<title>Mad Max: Estrada da Furia</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1Q6A3cbJ-D8xQmVO4Tc-2v41srNs_Nfnh/edit</link>
+<info>TESTE</info>
+<genre>Mad Max: Estrada da Furia</genre>
+<date>2015</date>
+</item>
+
+<item>
+<title>Malevola</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/127cjRqQCaYi9rLmVuethkj5gDXCcJkSR/edit</link>
+<info>TESTE</info>
+<genre>Malevola</genre>
+<date>2014</date>
+</item>
+
+<item>
+<title>Mamma Mia! - O Filme</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/13jzzYui_2yMJbLCVMGXI-dWxYF0mGuMu/edit</link>
+<info>TESTE</info>
+<genre>Mamma Mia! - O Filme</genre>
+<date>2008</date>
+</item>
+
+<item>
+<title>Marley e Eu</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/11vWXpAy9rpDV59Yth0Ilr43vOyh02-Mn/edit</link>
+<info>TESTE</info>
+<genre>Marley e Eu</genre>
+<date>2008</date>
+</item>
+
+<item>
+<title>Max Payne</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1c-WJJA7-yY0uK-xEGIM6XwhuOxb1JLsQ/edit</link>
+<info>TESTE</info>
+<genre>Max Payne</genre>
+<date>2008</date>
+</item>
+
+<item>
+<title>Maze Runner: Correr ou Morrer</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1pcPZJvjrqdQkzKranqIx0B9x3OHfSEEB/edit</link>
+<info>TESTE</info>
+<genre>Maze Runner: Correr ou Morrer</genre>
+<date>2014</date>
+</item>
+
+<item>
+<title>Maze Runner: Prova de Fogo</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1wPCmcECwGI-injNArh4SX9yJYmdnvCCL/edit</link>
+<info>TESTE</info>
+<genre>Maze Runner: Prova de Fogo</genre>
+<date>2015</date>
+</item>
+
+<item>
+<title>Meu Amigo, o Dragao</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1Hfad23To1yytK-QNqSrnPeuO4FKNaBPc/edit</link>
+<info>TESTE</info>
+<genre>Meu Amigo, o Dragao</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>Meu Namorado e um Zumbi</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1f2gcemFQa5bJqOTK85Qy5o1KqPnOe1Kg/edit</link>
+<info>TESTE</info>
+<genre>Meu Namorado e um Zumbi</genre>
+<date>2013</date>
+</item>
+
+<item>
+<title>Minha Mae e Uma Peça 2</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1id0HNTinjfxWwQ_aGLfSD55ra2ckKLkU/edit</link>
+<info>TESTE</info>
+<genre>Minha Mae e Uma Peca 2</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>Minhas Adoraveis Ex-Namoradas</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1oF6Zvpr1K45MwRN8UEM5AYAruUR2Dlb0/edit</link>
+<info>TESTE</info>
+<genre>Minhas Adoraveis Ex-Namoradas</genre>
+<date>2009</date>
+</item>
+
+<item>
+<title>Missao: Impossivel</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/18WDeEHmvxify2IFHV4GeMI9JBjCwrtY-/edit</link>
+<info>TESTE</info>
+<genre>Missao: Impossivel</genre>
+<date>1996</date>
+</item>
+
+<item>
+<title>Missao: Impossivel 2</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1i_YE8IpXC7nnOFW3hwzuVuzgSf6vAQxp/edit</link>
+<info>TESTE</info>
+<genre>Missao: Impossivel 2</genre>
+<date>2000</date>
+</item>
+
+<item>
+<title>Missao: Impossivel 3</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1VRHh4onkJxNFOh-sHICYSwHgnUTJbFEu/edit</link>
+<info>TESTE</info>
+<genre>Missao: Impossivel 3</genre>
+<date>2006</date>
+</item>
+
+<item>
+<title>Missao: Impossivel - Protocolo Fantasma</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1s-Dov1C7bxNPnU9PTQlHTRJ62_4zsE-I/edit</link>
+<info>TESTE</info>
+<genre>Missao: Impossivel - Protocolo Fantasma</genre>
+<date>2011</date>
+</item>
+
+<item>
+<title>Missao: Impossivel - Nação Secreta</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1w_QloY-b2a2-vD4QBipDxyTRLcSsi8hG/edit</link>
+<info>TESTE</info>
+<genre>Missao: Impossivel - Nacao Secreta</genre>
+<date>2015</date>
+</item>
+
+<item>
+<title>Mogli - O Menino Lobo</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1Rs7vUzWtNfZH2DFbBnYgFxNknDva1uxa/edit</link>
+<info>TESTE</info>
+<genre>Mogli - O Menino Lobo</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>Monster Trucks</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/188rGRhF17-EIovcAx_-eaa81utIcYLGK/edit</link>
+<info>TESTE</info>
+<genre>Monster Trucks</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>Mulheres ao Ataque</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1N9y3y9e94eei5tV6Tl-wre9-jZ0gQb2h/edit</link>
+<info>TESTE</info>
+<genre>Mulheres ao Ataque</genre>
+<date>2014</date>
+</item>
+
+<item>
+<title>Mundo Ordinario</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/14NtL54iaHwJ5t4rFVpD0EL8uj1UUkJhg/edit</link>
+<info>TESTE</info>
+<genre>Mundo Ordinario</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>Me Chame Pelo Seu Nome</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1jZ6DCMb38ktIKF34SuAWtw6xTCkn48tN/view</link>
+<info>TESTE</info>
+<genre>Me Chame Pelo Seu Nome</genre>
+<date>2017</date>
+</item>
+
+<item>
+<title>Max Steel</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1MWcavKYgrr_v8At1aWquD1zfuXnVT1Kj/view</link>
+<info>TESTE</info>
+<genre>Max Steel</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>Meia-irma</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1RNvdoV9jUKRofthz0uCCf_F4nguZnjps/view</link>
+<info>TESTE</info>
+<genre>Meia-irma</genre>
+<date>2017</date>
+</item>
+
+<item>
+<title>Milada</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1SKjI_GQWj5rU0KT5LghQ910K1m478VtF/view</link>
+<info>TESTE</info>
+<genre>Milada</genre>
+<date>2017</date>
+</item>
+
+<item>
+<title>Minha Namorada e uma Vampira</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1M5ZD4ZlstKXRGQogz9TUYQ-CBJPsw_2v/view</link>
+<info>TESTE</info>
+<genre>Minha Namorada e uma Vampira</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>Need for Speed - O Filme</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1iPZg36nomH5UhLz79ahPKyFTwoBT7t0T/edit</link>
+<info>TESTE</info>
+<genre>Need for Speed - O Filme</genre>
+<date>2014</date>
+</item>
+
+<item>
+<title>No Coracao do Mar</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1oX-5ohiQY7YVUbgGLKuDYUQziblFgvAf/edit</link>
+<info>TESTE</info>
+<genre>No Coracao do Mar</genre>
+<date>2015</date>
+</item>
+
+<item>
+<title>No Corredor da Morte</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1sUx9Bk27pKJPy2_ss9kzMOd3nE0yLTUR/edit</link>
+<info>TESTE</info>
+<genre>No Corredor da Morte</genre>
+<date>2002</date>
+</item>
+
+<item>
+<title>No Olho do Tornado</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1Js4M1z8GdPK_mcH0jAlGftaWHnFjK1K_/edit</link>
+<info>TESTE</info>
+<genre>No Olho do Tornado</genre>
+<date>2014</date>
+</item>
+
+<item>
+<title>Notorious B.I.G.</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1yOlOwBMvtkGOST_0lRIm2dUQPeDCd28K/edit</link>
+<info>TESTE</info>
+<genre>Notorious B.I.G.</genre>
+<date>2009</date>
+</item>
+
+<item>
+<title>O Albergue</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1AM0PdX4mmP7Gqc53oOeOkDn43d-5MHqr/edit</link>
+<info>TESTE</info>
+<genre>O Albergue</genre>
+<date>2006</date>
+</item>
+
+<item>
+<title>O Albergue 2</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1P_Zrkbagrj_a5F8oFP7uNDT8ezFqPMLh/edit</link>
+<info>TESTE</info>
+<genre>O Albergue 2</genre>
+<date>2007</date>
+</item>
+
+<item>
+<title>O Albergue: Parte III</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1KFiQsmCUtGCSMsk84VwtCbJZg3wfhy_I/edit</link>
+<info>TESTE</info>
+<genre>O Albergue: Parte III</genre>
+<date>2011</date>
+</item>
+
+<item>
+<title>O Bebe de Bridget Jones</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1oNj28nub7lW1wtYFMl1c_PdfLtqJhn2t/edit</link>
+<info>TESTE</info>
+<genre>O Bebe de Bridget Jones</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>O Bom Gigante Amigo</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1oSiHFJ-P9kvp23Ons3KwA_XD6MHdS1d1/edit</link>
+<info>TESTE</info>
+<genre>O Bom Gigante Amigo</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>O Codigo</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1KiRDxhlUYwQZ4LFGrvVXVOsAwHc6lD1T/edit</link>
+<info>TESTE</info>
+<genre>O Codigo</genre>
+<date>2012</date>
+</item>
+
+<item>
+<title>O Contador</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1cEeLmSOw_-9-LBK9cFCy0DVh6TAUjv4c/edit</link>
+<info>TESTE</info>
+<genre>O Contador</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>O Corpo</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1mEBYB0FAxFDWzU2CmdV0HDTkkVZTc3-G/edit</link>
+<info>TESTE</info>
+<genre>O Corpo</genre>
+<date>2017</date>
+</item>
+
+<item>
+<title>O Curioso Caso de Benjamin Button</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1tzXm8FTm8wsZlZlxOat8bAQZFGZ1IfyX/edit</link>
+<info>TESTE</info>
+<genre>O Curioso Caso de Benjamin Button</genre>
+<date>2008</date>
+</item>
+
+<item>
+<title>O Dia em que a Terra Parou</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1aZ1m-BoaKeUqADe_gMMAQQz-qYuP_Qoe/edit</link>
+<info>TESTE</info>
+<genre>O Dia em que a Terra Parou</genre>
+<date>2008</date>
+</item>
+
+<item>
+<title>O Escritor Fantasma</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/155yyrbEOg9mIRmapqi9cjZKZ0KOOcevn/edit</link>
+<info>TESTE</info>
+<genre>O Escritor Fantasma</genre>
+<date>2010</date>
+</item>
+
+<item>
+<title>O Espetacular Homem-Aranha 2: A Ameaça de Electro</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1PuGwdmVyoQQS6-k3DF7EIDEWNU3DCOo8/edit</link>
+<info>TESTE</info>
+<genre>O Espetacular Homem-Aranha 2: A Ameaca de Electro</genre>
+<date>2014</date>
+</item>
+
+<item>
+<title>O Espiao Que Sabia Demais</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1BKSoVJHm42s_u974mcpXWam0Oi0ZMmE2/edit</link>
+<info>TESTE</info>
+<genre>O Espiao Que Sabia Demais</genre>
+<date>2011</date>
+</item>
+
+<item>
+<title>O Exterminador do Futuro: A Salvacao</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1lClIpd0wUFdcuxYqTYjcGSds9p82Oh8B/edit</link>
+<info>TESTE</info>
+<genre>O Exterminador do Futuro: A Salvacao</genre>
+<date>2009</date>
+</item>
+
+<item>
+<title>O Fim da Escuridao</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1rosfKbhmuJw8pOIjt-RalAfPyph-EHsE/edit</link>
+<info>TESTE</info>
+<genre>O Fim da Escuridao</genre>
+<date>2010</date>
+</item>
+
+<item>
+<title>O Gangster</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1wu9qZQGOkCafWfK9g0ZiTSXMKhe57GQE/edit</link>
+<info>TESTE</info>
+<genre>O Gangster</genre>
+<date>2007</date>
+</item>
+
+<item>
+<title>O Grande Truque</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1j61cEko8vhY0kYGWzTAANDWbC9079aSJ/edit</link>
+<info>TESTE</info>
+<genre>O Grande Truque</genre>
+<date>2006</date>
+</item>
+
+<item>
+<title>O Grito 3</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1vn9Hx0mVFKlLvLhQXxhwl8SSKo5lHbRq/edit</link>
+<info>TESTE</info>
+<genre>O Grito 3</genre>
+<date>2009</date>
+</item>
+
+<item>
+<title>O Homem Duplicado</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1oD513hEZeuMDNomPNF4SJvqtue1Ac5zz/edit</link>
+<info>TESTE</info>
+<genre>O Homem Duplicado</genre>
+<date>2013</date>
+</item>
+
+<item>
+<title>O Impossivel</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/13hgHxSRnaA31w94Xo9M4G39mvlQ7IXkF/edit</link>
+<info>TESTE</info>
+<genre>O Impossivel</genre>
+<date>2012</date>
+</item>
+
+<item>
+<title>O Incrivel Hulk</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1v8ej2TbtF_Bc3WvxJ-sxM9BRoZ_3W0zU/edit</link>
+<info>TESTE</info>
+<genre>O Incrivel Hulk</genre>
+<date>2008</date>
+</item>
+
+<item>
+<title>O Jantar</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1hsd_8isKN6NLx24NvLwAJa2gELpzygnE/edit</link>
+<info>TESTE</info>
+<genre>O Jantar</genre>
+<date>2017</date>
+</item>
+
+<item>
+<title>O Justiceiro: Em Zona de Guerra</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/11U3WRhrlqHrKCRBy4sUxrMtujKOLzYkr/edit</link>
+<info>TESTE</info>
+<genre>O Justiceiro: Em Zona de Guerra</genre>
+<date>2008</date>
+</item>
+
+<item>
+<title>O Labirinto do Fauno</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/18m90YlpbaIIVTZOkFVYs5wpXNjWxmGGM/edit</link>
+<info>TESTE</info>
+<genre>O Labirinto do Fauno</genre>
+<date>2006</date>
+</item>
+
+<item>
+<title>O Lado Bom Da Vida</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1bdpt5tQ4s85quEvZAASiu6LZXsFjmPnY/edit</link>
+<info>TESTE</info>
+<genre>O Lado Bom Da Vida</genre>
+<date>2012</date>
+</item>
+
+<item>
+<title>O Lar das Criancas Peculiares</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1OVSb2JupikqI4OpWTbXHoAtfSbLNzTBy/edit</link>
+<info>TESTE</info>
+<genre>O Lar das Criancas Peculiares</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>O Livro de Eli</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1ZH0YSzBZZtFzVRmYNmgATUStjsp0rZtL/edit</link>
+<info>TESTE</info>
+<genre>O Livro de Eli</genre>
+<date>2010</date>
+</item>
+
+<item>
+<title>O Matador</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1YemFZV34DkPfhPwYspjOUwaYmxWRls2A/edit</link>
+<info>TESTE</info>
+<genre>O Matador</genre>
+<date>2017</date>
+</item>
+
+<item>
+<title>O Matadouro</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1kdsSamFagMAR7XR7yyQmyEAXC2Q9HhJv/edit</link>
+<info>TESTE</info>
+<genre>O Matadouro</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>O Menino do Pijama Listrado</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1ATKpIDAmx2B0p7dQhz_5ynkvXiFu1mYz/edit</link>
+<info>TESTE</info>
+<genre>O Menino do Pijama Listrado</genre>
+<date>2008</date>
+</item>
+
+<item>
+<title>O Nevoeiro</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1tVfjSpsgMtZbiZg084DsNRJhImyPvGAf/edit</link>
+<info>TESTE</info>
+<genre>O Nevoeiro</genre>
+<date>2007</date>
+</item>
+
+<item>
+<title>O Preco do Amanha</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/15j19MMA1n0182v6feCY7VYs80zZyzWAK/edit</link>
+<info>TESTE</info>
+<genre>O Preco do Amanha</genre>
+<date>2011</date>
+</item>
+
+<item>
+<title>O Predestinado</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1UFQROV9HAGmbTo6BbvHDBQK-YSRF_BaM/edit</link>
+<info>TESTE</info>
+<genre>O Predestinado</genre>
+<date>2014</date>
+</item>
+
+<item>
+<title>O Procurado</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1O7AXYzfTuxcELqk-2n_bkbvF1IcKLq4g/edit</link>
+<info>TESTE</info>
+<genre>O Procurado</genre>
+<date>2008</date>
+</item>
+
+<item>
+<title>O Quarteto Fantastico</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/17IP0sYOtPV7V4s_3YSGvcXEILO-tegzY/edit</link>
+<info>TESTE</info>
+<genre>O Quarteto Fantastico</genre>
+<date>2007</date>
+</item>
+
+<item>
+<title>O Regresso</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1gwsylwFSpPTShbsMAHRZbLercT-X8IJk/edit</link>
+<info>TESTE</info>
+<genre>O Regresso</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>O Shaolin do Sertao</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1QkXaCgVgZ8To-8IDC2n8zq0uH3bDOSzh/edit</link>
+<info>TESTE</info>
+<genre>O Shaolin do Sertao</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>O Vingador do Futuro</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1HZ1XtE_MdVUwPPqpim8CGfSV3m2bE0QJ/edit</link>
+<info>TESTE</info>
+<genre>O Vingador do Futuro</genre>
+<date>2012</date>
+</item>
+
+<item>
+<title>O Zelador Animal</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/19_XAoqEXK4w5zsh5QgVshZtewQSfMgav/edit</link>
+<info>TESTE</info>
+<genre>O Zelador Animal</genre>
+<date>2011</date>
+</item>
+
+<item>
+<title>Oblivion</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1QmIDXUY0n1cU7r-C1qDZh2G4h_knCtIH/edit</link>
+<info>TESTE</info>
+<genre>Oblivion</genre>
+<date>2013</date>
+</item>
+
+<item>
+<title>Onde os Fracos Nao Tem Vez</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1_IOf32C1FzrRn2_e_fxbwT8Fv6abUOQU/edit</link>
+<info>TESTE</info>
+<genre>Onde os Fracos Nao Tem Vez</genre>
+<date>2007</date>
+</item>
+
+<item>
+<title>Ong-Bak 2</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1-84ikTnc_1DzKWFUAlAP_Xa4FJs0cptM/edit</link>
+<info>TESTE</info>
+<genre>Ong-Bak 2</genre>
+<date>2008</date>
+</item>
+
+<item>
+<title>Operacao Avalanche</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1TYEm360ebkiyKSg-W3VMUcNhobL_6rUk/edit</link>
+<info>TESTE</info>
+<genre>Operacao Avalanche</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>Os 33</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1EHRgWIzkBVAPJgO1jxPWSJ8YyfL3shn2/edit</link>
+<info>TESTE</info>
+<genre>Os 33</genre>
+<date>2015</date>
+</item>
+
+<item>
+<title>Os Caca-Noivas</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1vTj2dIJekcMFC1w-QdQB_LJ73gWdiMi5/edit</link>
+<info>TESTE</info>
+<genre>Os Caca-Noivas</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>Os Caras de Pau Em - O Misterioso Roubo do Anel</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1vqBct7MFHNeBGbvk8KWl2u1sfxy1floQ/edit</link>
+<info>TESTE</info>
+<genre>Os Caras de Pau Em - O Misterioso Roubo do Anel</genre>
+<date>2014</date>
+</item>
+
+<item>
+<title>Os Especialistas</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1LSXjTz8vLsN1v8CHpO29RSRXbHgFN_Es/edit</link>
+<info>TESTE</info>
+<genre>Os Especialistas</genre>
+<date>2011</date>
+</item>
+
+<item>
+<title>Os Estagiarios</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1M9bXZ73iRDcKGt3FFtU7k_oJBU56Ktl2/edit</link>
+<info>TESTE</info>
+<genre>Os Estagiarios</genre>
+<date>2013</date>
+</item>
+
+<item>
+<title>Os Mercenários 2</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1RbUOvMfTccSu6TPB4GtEhtm-OVGAkOl5/edit</link>
+<info>TESTE</info>
+<genre>Os Mercenarios 2</genre>
+<date>2012</date>
+</item>
+
+<item>
+<title>Os Mercenarios 3</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1GaUZ9t5pOHTjwXGtd0q3DdefQnDq-fLh/edit</link>
+<info>TESTE</info>
+<genre>Os Mercenarios 3</genre>
+<date>2014</date>
+</item>
+
+<item>
+<title>Os Olhos de Júlia</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/16T4nKjIc-XnFDiHciV0j7yoASIYuBjV_/edit</link>
+<info>TESTE</info>
+<genre>Os Olhos de Julia</genre>
+<date>2010</date>
+</item>
+
+<item>
+<title>Os Ultimos na Terra</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1UDxlYrCR4NgwEiUIUHOfG5GJrFWHs1oL/edit</link>
+<info>TESTE</info>
+<genre>Os Ultimos na Terra</genre>
+<date>2015</date>
+</item>
+
+<item>
+<title>Os Vingadores</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1zGEI6CzhZY9XKqeh-UswAqUVDck37aT1/edit</link>
+<info>TESTE</info>
+<genre>Os Vingadores</genre>
+<date>2012</date>
+</item>
+
+<item>
+<title>Ouija - O Jogo dos Espíritos</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1MkRIawcpOpyTE9s7NRY1KTnyc215Kkro/edit</link>
+<info>TESTE</info>
+<genre>Ouija - O Jogo dos Espiritos</genre>
+<date>2014</date>
+</item>
+
+<item>
+<title>Ouija - Origem do Mal</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1Phxt99omA9MaLReH_x9kUVPcwShzIpnK/edit</link>
+<info>TESTE</info>
+<genre>Ouija - Origem do Mal</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>O Ultimato Bourne</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1EBIzoKQTngosHhRzMRM_X57kks0aI23s/edit</link>
+<info>TESTE</info>
+<genre>O Ultimato Bourne</genre>
+<date>2007</date>
+</item>
+
+<item>
+<title>O Legado Bourne</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1__oNoYllG46JUwT4CSwlim4FUmgVswh0/edit</link>
+<info>TESTE</info>
+<genre>O Legado Bourne</genre>
+<date>2012</date>
+</item>
+
+<item>
+<title>O Homem de Aço</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/181-mwogWSwVSSUYlQLRi-uTCTQmFeNgC/edit</link>
+<info>TESTE</info>
+<genre>O Homem de Aço</genre>
+<date>2013</date>
+</item>
+
+<item>
+<title>O Hobbit: Uma Jornada Inesperad</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/10fByPJl2rVwyCiPLdAryeU8hsLdyh_Kc/edit</link>
+<info>TESTE</info>
+<genre>O Hobbit: Uma Jornada Inesperada</genre>
+<date>2012</date>
+</item>
+
+<item>
+<title>O Hobbit: A Desolação de Smaug</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1jT5nEx4hmwHTvAqOygkOd7CUOqeSsg6J/edit</link>
+<info>TESTE</info>
+<genre>O Hobbit: A Desolacao de Smaug</genre>
+<date>2013</date>
+</item>
+
+<item>
+<title>O Hobbit: A Batalha dos Cinco Exercitos</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1idXDOnSBJijqLKRm0qhPwwY86KAqs4iT/edit</link>
+<info>TESTE</info>
+<genre>O Hobbit: A Batalha dos Cinco Exercitos</genre>
+<date>2014</date>
+</item>
+
+<item>
+<title>O Estado das Coisas</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1CAq_ZgbnQlAI9dsdKY2Zp5q5gGvmZTdk/view</link>
+<info>TESTE</info>
+<genre>O Estado das Coisas</genre>
+<date>2017</date>
+</item>
+
+<item>
+<title>O Halloween de Madea</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1cydFd13b90A7WkFqzraFL1uTifxuHNyL/view</link>
+<info>TESTE</info>
+<genre>O Halloween de Madea</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>O Mundo de Carrie Pilby</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1NWb28FQyPqD4Fh7Aaw8vZjqEJdmnkWsu/view</link>
+<info>TESTE</info>
+<genre>O Mundo de Carrie Pilby</genre>
+<date>2017</date>
+</item>
+
+<item>
+<title>O Rei da Polca</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1pjNdeiwsJ_aK-GrJOHxf_0dJPi5v6LBN/view</link>
+<info>TESTE</info>
+<genre>O Rei da Polca</genre>
+<date>2017</date>
+</item>
+
+<item>
+<title>O Segredo da Massa</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1joY7crDXCJubCIN8bromBTXKnrquG7NY/view</link>
+<info>TESTE</info>
+<genre>O Segredo da Massa</genre>
+<date>2015</date>
+</item>
+
+<item>
+<title>P.S. Eu Te Amo</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1TjlPI7KQkvYoqvXpHyS8er874_8dxzYL/edit</link>
+<info>TESTE</info>
+<genre>P.S. Eu Te Amo</genre>
+<date>2007</date>
+</item>
+
+<item>
+<title>Pacto de Sangue</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1EdgfKYtYsiNggu2yDb3xXnCV3Dnn7rtF/edit</link>
+<info>TESTE</info>
+<genre>Pacto de Sangue</genre>
+<date>2009</date>
+</item>
+
+<item>
+<title>Pacto Maligno</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1b3uCZh2uRY0mqv7rPR0O4mvZb70P-jKU/edit</link>
+<info>TESTE</info>
+<genre>Pacto Maligno</genre>
+<date>2015</date>
+</item>
+
+<item>
+<title>Padre</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1hjPVGXmvLF9LiAhCdUsAd3wCCG8Sg-jI/edit</link>
+<info>TESTE</info>
+<genre>Padre</genre>
+<date>2011</date>
+</item>
+
+<item>
+<title>Pai em Dose Dupla</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1Tee776Fq19NOv0FoaAfjODVDrTzyKiX0/edit</link>
+<info>TESTE</info>
+<genre>Pai em Dose Dupla</genre>
+<date>2015</date>
+</item>
+
+<item>
+<title>Paixao Obsessiva</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1WtUYpiXsTkAchhuZV0JysZfwIiUwf-MN/edit</link>
+<info>TESTE</info>
+<genre>Paixao Obsessiva</genre>
+<date>2017</date>
+</item>
+
+<item>
+<title>Percy Jackson e o Mar de Monstros</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/14o1FcFJSaxJsrZRRCNWRHAEi3p-gZFVa/edit</link>
+<info>TESTE</info>
+<genre>Percy Jackson e o Mar de Monstros</genre>
+<date>2013</date>
+</item>
+
+<item>
+<title>Perdido em Marte</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1iIhqlFAFpb8I4eRFQjV3jxh3S3c7A_e1/edit</link>
+<info>TESTE</info>
+<genre>Perdido em Marte</genre>
+<date>2015</date>
+</item>
+
+<item>
+<title>Perfeita e a Mae</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1V91hsaYDWgexVmHA8vvVHUwoaS8Ilgk-/edit</link>
+<info>TESTE</info>
+<genre>Perfeita e a Mae</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>Piratas do Caribe: A Maldicao do Perola Negra</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1YD5lDwX36gBi6343SKXgvr6Oxsr4XeRz/edit</link>
+<info>TESTE</info>
+<genre>Piratas do Caribe: A Maldicao do Perola Negra</genre>
+<date>2003</date>
+</item>
+
+<item>
+<title>Piratas do Caribe: O Bau da Morte</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1h1hkRRfJ-KRi-MQmrfDBveawkH9zUUoE/edit</link>
+<info>TESTE</info>
+<genre>Piratas do Caribe: O Bau da Morte</genre>
+<date>2006</date>
+</item>
+
+<item>
+<title>Piratas do Caribe: No Fim do Mundo</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1IuIqta5X5PZl6q49qT8V4xUYJkx_76Qe/edit</link>
+<info>TESTE</info>
+<genre>Piratas do Caribe: No Fim do Mundo</genre>
+<date>2007</date>
+</item>
+
+<item>
+<title>Piratas do Caribe: Navegando em Aguas Misteriosas</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/14-Srjw24bBTrD3jH6Bw3mP6O_Qor9ix1/edit</link>
+<info>TESTE</info>
+<genre>Piratas do Caribe: Navegando em Aguas Misteriosas</genre>
+<date>2011</date>
+</item>
+
+<item>
+<title>Piratas do Caribe: A Vinganca de Salazar</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1G7cqCJhyKDo7B1ev0E4rPPcFljzcphhS/edit</link>
+<info>TESTE</info>
+<genre>Piratas do Caribe: A Vinganca de Salazar</genre>
+<date>2017</date>
+</item>
+
+<item>
+<title>Pixels</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1g7cLEJ5S3EYwFqFO2Ke6C_V4xQ3APNLz/edit</link>
+<info>TESTE</info>
+<genre>Pixels</genre>
+<date>2015</date>
+</item>
+
+<item>
+<title>Planeta dos Macacos: A Origem</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1fbVXHBbBAuQ3FQiXAbBPrAoXmzU2xk4o/edit</link>
+<info>TESTE</info>
+<genre>Planeta dos Macacos: A Origem</genre>
+<date>2011</date>
+</item>
+
+<item>
+<title>Planeta dos Macacos: A Guerra</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1srZgJmbSK8jeqjG6OVi6YQ_cjmSIi1uY/edit</link>
+<info>TESTE</info>
+<genre>Planeta dos Macacos: A Guerra</genre>
+<date>2017</date>
+</item>
+
+<item>
+<title>Poder sem Limites</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1vFne0Fq39dSDGQZR2HWcWY8MHkwhszUr/edit</link>
+<info>TESTE</info>
+<genre>Poder sem Limites</genre>
+<date>2012</date>
+</item>
+
+<item>
+<title>Poltergeist - O Fenomeno</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1AAmyYXEq0VJSWoJwS920DKZYxzo3T48z/edit</link>
+<info>TESTE</info>
+<genre>Poltergeist - O Fenomeno</genre>
+<date>2015</date>
+</item>
+
+<item>
+<title>Ponto de Vista</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1QSbxq6GuueSDaj28-jffOYkhXQIVWPhg/edit</link>
+<info>TESTE</info>
+<genre>Ponto de Vista</genre>
+<date>2008</date>
+</item>
+
+<item>
+<title>Popstar: Sem Parar Sem Limite</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1htIdlMUyAkXDiB6I-r21lfzLWWLWxoJP/edit</link>
+<info>TESTE</info>
+<genre>Popstar: Sem Parar Sem Limite</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>Power Rangers</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1gH0m2KrU5m0ppQg7CAvZ_-s1HYGNptE-/edit</link>
+<info>TESTE</info>
+<genre>Power Rangers</genre>
+<date>2017</date>
+</item>
+
+<item>
+<title>Predadores</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1g-pfhaYwTam2O8zmNcF1lgv3VekCoWBC/edit</link>
+<info>TESTE</info>
+<genre>Predadores</genre>
+<date>2010</date>
+</item>
+
+<item>
+<title>Projeto Almanaque</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1gTI1iwlm54DeGr13SpyiZbyLQ4GgA8-l/edit</link>
+<info>TESTE</info>
+<genre>Projeto Almanaque</genre>
+<date>2015</date>
+</item>
+
+<item>
+<title>Projeto X</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1wQ8r_gcXhQEUkYl1WGtnYoM9ebxg-XP9/edit</link>
+<info>TESTE</info>
+<genre>Projeto X</genre>
+<date>2012</date>
+</item>
+
+<item>
+<title>Quando as Luzes se Apagam</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1W_g6u3beF8LyBGFJhL-YyJjRFjo77-mN/edit</link>
+<info>TESTE</info>
+<genre>Quando as Luzes se Apagam</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>Quatro Vidas de um Cachorro</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1vBcAEGWbJbjT8iJDLatcahUd_apMFslN/edit</link>
+<info>TESTE</info>
+<genre>Quatro Vidas de um Cachorro</genre>
+<date>2017</date>
+</item>
+
+<item>
+<title>Quem Quer Ser um Milionario?</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1hAWrfAG7O4aCc5t6AV_hyXlLR21uQhnC/edit</link>
+<info>TESTE</info>
+<genre>Quem Quer Ser um Milionario?</genre>
+<date>2008</date>
+</item>
+
+<item>
+<title>Resident Evil - O Hospede Maldito</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1ptcoD17F1Xf-beXXVjUNfsgoBeafz_WP/edit?</link>
+<info>TESTE</info>
+<genre>Resident Evil - O Hospede Maldito</genre>
+<date>2002</date>
+</item>
+
+<item>
+<title>Resident Evil 2: Apocalipse</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1hqEeDwQXLDsWhcGfdi01gms4AxRKLhaS/edit</link>
+<info>TESTE</info>
+<genre>Resident Evil 2: Apocalipse</genre>
+<date>2004</date>
+</item>
+
+<item>
+<title>Resident Evil 3: A Extincao</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1YS7GqGFSbMkCRVXEuJOd-WfS6TOjdE6-/edit</link>
+<info>TESTE</info>
+<genre>Resident Evil 3: A Extincao</genre>
+<date>2007</date>
+</item>
+
+<item>
+<title>Resident Evil 5: Retribuicao</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/18yFntwuCU5X0j8VkGJLd2F3HqmD-TUW5/edit</link>
+<info>TESTE</info>
+<genre>Resident Evil 5: Retribuicao</genre>
+<date>2012</date>
+</item>
+
+<item>
+<title>Resident Evil 6: O Capitulo Final</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1gjj79BadDPems1UGr7PXd7YRxnP_ISc7/edit</link>
+<info>TESTE</info>
+<genre>Resident Evil 6: O Capitulo Final</genre>
+<date>2017</date>
+</item>
+
+<item>
+<title>R.I.P.D. - Agentes do Alem</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1EECxflkT0GmRldkpVCneUTzCV2W4ZEND/edit</link>
+<info>TESTE</info>
+<genre>R.I.P.D. - Agentes do Alem</genre>
+<date>2013</date>
+</item>
+
+<item>
+<title>Resident Evil: Degeneracao</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1EX5C3ym7r5b5ND_LN4TvAFqiUPy889Kq/edit</link>
+<info>TESTE</info>
+<genre>Resident Evil: Degeneracao</genre>
+<date>2008</date>
+</item>
+
+<item>
+<title>RoboCop</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1h9MA0ihAeYGd1uirz2_bugFf946SZtD1/edit</link>
+<info>TESTE</info>
+<genre>RoboCop</genre>
+<date>2014</date>
+</item>
+
+<item>
+<title>Rocky Balboa</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1UV11uzB3CEpV9IBNbDcpE7luPR1k5dhQ/edit</link>
+<info>TESTE</info>
+<genre>Rocky Balboa</genre>
+<date>2006</date>
+</item>
+
+<item>
+<title>Rua Cloverfield, 10</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1HUU0343LKYwe87NVhv_pS3I6UVVnzJ1V/edit</link>
+<info>TESTE</info>
+<genre>Rua Cloverfield, 10</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>Roman J. Israel, Esq.</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1H6YS5qA3VeRGaInqrcWuGrDReZR0CQfR/view</link>
+<info>TESTE</info>
+<genre>Roman J. Israel, Esq.</genre>
+<date>2017</date>
+</item>
+
+<item>
+<title>Sangue Negro</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/18FXtIo6CkXFaTJQuxHK3z4MBKYK5LmM6/edit</link>
+<info>TESTE</info>
+<genre>Sangue Negro</genre>
+<date>2007</date>
+</item>
+
+<item>
+<title>Se Beber, Nao Case!</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1oW_6I11eIZt8QcDwkBaAsn440qjjjHkV/edit</link>
+<info>TESTE</info>
+<genre>Se Beber, Nao Case!</genre>
+<date>2009</date>
+</item>
+
+<item>
+<title>Se Beber, Nao Case! Parte II</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1eIZLWK7Ll51J2HMeRaSN1mOTEWe4KPQq/edit</link>
+<info>TESTE</info>
+<genre>Se Beber, Nao Case! Parte II</genre>
+<date>2011</date>
+</item>
+
+<item>
+<title>Se Beber, Nao Case! Parte III</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1AauyNakkS4-pznd5DkGoIZK3LcBNPF27/edit</link>
+<info>TESTE</info>
+<genre>Se Beber, Nao Case! Parte III</genre>
+<date>2013</date>
+</item>
+
+<item>
+<title>Sem Escalas</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1OVyKoR6wl1zAw3BNTP9isvj4-4q2et9H/edit</link>
+<info>TESTE</info>
+<genre>Sem Escalas</genre>
+<date>2014</date>
+</item>
+
+<item>
+<title>Sem Limites</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1xiOHQSpPXmlPDUwOejMUabi68oGQNlqL/edit</link>
+<info>TESTE</info>
+<genre>Sem Limites</genre>
+<date>2015</date>
+</item>
+
+<item>
+<title>Sem Perdao</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1Yila2Iaz_hKn_kQHd3UqtqKu_spBdepK/edit</link>
+<info>TESTE</info>
+<genre>Sem Perdao</genre>
+<date>2017</date>
+</item>
+
+<item>
+<title>Sem Saida</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1MZe42kmayYlD4wuSHuLiPdUv-KJlxrWP/edit</link>
+<info>TESTE</info>
+<genre>Sem Saida</genre>
+<date>2011</date>
+</item>
+
+<item>
+<title>Sempre ao Seu Lado</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1RUee_eoVQsG48sChrOYmTYdI7xq4ZHhl/edit</link>
+<info>TESTE</info>
+<genre>Sempre ao Seu Lado<</genre>
+<date>2009</date>
+</item>
+
+<item>
+<title>Sentenca de Morte</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1TtM_AjowqXC4Ce4gR2jWbHIV7klmPXxk/edit</link>
+<info>TESTE</info>
+<genre>Sentenca de Morte</genre>
+<date>2007</date>
+</item>
+
+<item>
+<title>Sete Vidas</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1kE0OQqB87eCvFcFrgEmJ5_t5SbzrPf3Q/edit</link>
+<info>TESTE</info>
+<genre>Sete Vidas</genre>
+<date>2008</date>
+</item>
+
+<item>
+<title>Sex Tape: Perdido na Nuvem</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1xj5ZiJfHBn-M8BqrGWyAH1xPL3bWthxN/edit</link>
+<info>TESTE</info>
+<genre>Sex Tape: Perdido na Nuvem</genre>
+<date>2014</date>
+</item>
+
+<item>
+<title>Sexo, Drogas e Jingle Bells</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/19NONIsL6wBfkVMmwC5F2pHj0nLrba8lg/edit</link>
+<info>TESTE</info>
+<genre>Sexo, Drogas e Jingle Bells</genre>
+<date>2015</date>
+</item>
+
+<item>
+<title>Sexta-Feira 13</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1MbX9191aAKumXJaC6BAfln_tIa1lvbpn/edit</link>
+<info>TESTE</info>
+<genre>Sexta-Feira 13</genre>
+<date>2009</date>
+</item>
+
+<item>
+<title>Sin City: A Dama Fatal</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/10UQw-nrG0uglFYwARiMb4qpps51RtBCX/edit</link>
+<info>TESTE</info>
+<genre>Sin City: A Dama Fatal</genre>
+<date>2014</date>
+</item>
+
+<item>
+<title>Sob o Dominio do Medo</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1W5gnuSWAyXDDPpEPjh2w5-qmTqcCPLQS/edit</link>
+<info>TESTE</info>
+<genre>Sob o Dominio do Medo</genre>
+<date>2011</date>
+</item>
+
+<item>
+<title>Sobrenatural</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1qKNDeEoKSRTZYPWBL1vClYm3H_okUrtX/edit</link>
+<info>TESTE</info>
+<genre>Sobrenatural</genre>
+<date>2011</date>
+</item>
+
+<item>
+<title>Star Trek</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1nbaI6RlqAUBRIpwhypw3RTQCfpuFxMeP/edit</link>
+<info>TESTE</info>
+<genre>Star Trek</genre>
+<date>2009</date>
+</item>
+
+<item>
+<title>Star Wars: O Despertar da Forca</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/16pCqtwjb-wPUuwg2D2LZiOhAnijbjIRD/edit</link>
+<info>TESTE</info>
+<genre>Star Wars: O Despertar da Forca</genre>
+<date>2015</date>
+</item>
+
+<item>
+<title>Steve Jobs</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1Edwr3Mi3U1yXP8M-Zma8YqS7ls9UVaF1/edit</link>
+<info>TESTE</info>
+<genre>Steve Jobs</genre>
+<date>2015</date>
+</item>
+
+<item>
+<title>Sully - O Heroi do Rio Hudson</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/11XDmA42rSKa3bMltJJlscd1noqadHqYi/edit</link>
+<info>TESTE</info>
+<genre>Sully - O Heroi do Rio Hudson</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>Super 8</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1G1jIAgVriiV3ercNHo5p0G4YBvvaK6JK/edit</link>
+<info>TESTE</info>
+<genre>Super 8</genre>
+<date>2011</date>
+</item>
+
+<item>
+<title>Schubert Apaixonado</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1mcvJzOCby0-eLQv345XF2bPfTgDQ7-EB/view</link>
+<info>TESTE</info>
+<genre>Schubert Apaixonado</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>T2 Trainspotting</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/13OXOpCVz48Rps9U00gdv3C9a9OnkuUpq/edit</link>
+<info>TESTE</info>
+<genre>T2 Trainspotting</genre>
+<date>2017</date>
+</item>
+
+<item>
+<title>Tao Forte Tao Perto</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/10KEaoCihCoAwqn4FjW5dUYiMx_k707iZ/edit</link>
+<info>TESTE</info>
+<genre>Tao Forte Tao Perto</genre>
+<date>2011</date>
+</item>
+
+<item>
+<title>The Purge: Election Year</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1nw0zQ57wZByEJfBqkgFqUsVfr3cNB78D/edit</link>
+<info>TESTE</info>
+<genre>The Purge: Election Year</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>Ted 2</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1rFN7rxiv7juGhmWeEz3RI0j1V9resS8y/edit</link>
+<info>TESTE</info>
+<genre>Ted 2</genre>
+<date>2015</date>
+</item>
+
+<item>
+<title>Terremoto: A Falha de San Andreas</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1KmeDy1PX9s-JE7b9UMIEeZhZrP-SOeB8/edit</link>
+<info>TESTE</info>
+<genre>Terremoto: A Falha de San Andreas</genre>
+<date>2015</date>
+</item>
+
+<item>
+<title>The Fate of the Furious</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1zeu08atUgMNVAqjBoF5TzLoCmPqZympX/edit</link>
+<info>TESTE</info>
+<genre>The Fate of the Furious</genre>
+<date>2017</date>
+</item>
+
+<item>
+<title>The Human Centipede 2 (Full Sequence)</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1xMRNB_fEC7mhlLKEeVIf3_OogWgNLJ32/edit</link>
+<info>TESTE</info>
+<genre>The Human Centipede 2 (Full Sequence)</genre>
+<date>2011</date>
+</item>
+
+<item>
+<title>The Human Centipede 3 (Final Sequence)</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/16iVhRmxMcpFFfQWKHg4sVSKFldmzm6Oc/edit</link>
+<info>TESTE</info>
+<genre>The Human Centipede 3 (Final Sequence)</genre>
+<date>2015</date>
+</item>
+
+<item>
+<title>The King's Choice</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1cEcA-BYzkgeXulUU6xL3FqS4luHnH9uU/edit</link>
+<info>TESTE</info>
+<genre>The King's Choice</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>Thor</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1rXUABHx7aOQZIX02qaORJdJiJYgtyc__/edit</link>
+<info>TESTE</info>
+<genre>Thor</genre>
+<date>2011</date>
+</item>
+
+<item>
+<title>Thor: O Mundo Sombrio</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1_u8IoROJBHfaEGgPXd1kqe9AY8SgL2NK/edit</link>
+<info>TESTE</info>
+<genre>Thor: O Mundo Sombrio</genre>
+<date>2013</date>
+</item>
+
+<item>
+<title>Tinha Que Ser Ele</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1TmwYj_RvnuvFdOBt382YIcqPkwWvm481/edit</link>
+<info>TESTE</info>
+<genre>Tinha Que Ser Ele</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>Todo Mundo em Panico 4</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1VQl6_FtL7cyY6bbPlN044MbiGUsUfD7B/edit</link>
+<info>TESTE</info>
+<genre>Todo Mundo em Panico 4</genre>
+<date>2006</date>
+</item>
+
+<item>
+<title>Todo Mundo em Panico 5</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1HCswLNQsVHOLtVu2twSEnb5fLqRf4SWz/edit</link>
+<info>TESTE</info>
+<genre>Todo Mundo em Panico 5</genre>
+<date>2013</date>
+</item>
+
+<item>
+<title>Tomorrowland: Um Lugar Onde Nada e Impossível</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1yG4-2xk5ezbVeNmFcJALLgEV8517Uy3O/edit</link>
+<info>TESTE</info>
+<genre>Tomorrowland: Um Lugar Onde Nada e Impossivel</genre>
+<date>2015</date>
+</item>
+
+<item>
+<title>Transformers</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/159OZtdngarKgGfGQP-Sqf1RvEMlClnnR/edit</link>
+<info>TESTE</info>
+<genre>Transformers</genre>
+<date>2007</date>
+</item>
+
+<item>
+<title>Transformers: A Vinganca dos Derrotados</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/12fAMcGJr9yMu0P-wr_jROw9hRKfOQwcE/edit</link>
+<info>TESTE</info>
+<genre>Transformers: A Vinganca dos Derrotados</genre>
+<date>2009</date>
+</item>
+
+<item>
+<title>Transformers: O Lado Oculto da Lua</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1UwnrrtHF6sNsdYZJDKcIynsgDgsRQcMO/edit</link>
+<info>TESTE</info>
+<genre>Transformers: O Lado Oculto da Lua</genre>
+<date>2011</date>
+</item>
+
+<item>
+<title>Transformers: A Era da Extincao</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1_oUocAFUtQj-GMG5kzH_KInUfzCyd2A6/edit</link>
+<info>TESTE</info>
+<genre>Transformers: A Era da Extincao</genre>
+<date>2014</date>
+</item>
+
+
+<item>
+<title>Truque de Mestre</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1srt1e427V2dv6S5DmQFOucmFMICTnWvn/edit</link>
+<info>TESTE</info>
+<genre>Truque de Mestre</genre>
+<date>2013</date>
+</item>
+
+<item>
+<title>Truque de Mestre: O 2º Ato</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1Snsmr1k-V0xtDzbVdQLsQhVogNuyP1-K/edit</link>
+<info>TESTE</info>
+<genre>Truque de Mestre: O 2º Ato</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>Tudo e Todas as Coisas</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1LY1t7YJV7iS95b8CNM-fkazHhZqckA21/edit</link>
+<info>TESTE</info>
+<genre>Tudo e Todas as Coisas</genre>
+<date>2017</date>
+</item>
+
+<item>
+<title>Tudo Para Ficar Com Ela</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1OMzZQhro22S1W47UUBGaBJvZUeBzFYYE/edit</link>
+<info>TESTE</info>
+<genre>Tudo Para Ficar Com Ela</genre>
+<date>2014</date>
+</item>
+
+<item>
+<title>Tudo Pelo Poder</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1UeZuRpsHsWJfTjUQNUjnjc4DcSBYd8LK/edit</link>
+<info>TESTE</info>
+<genre>Tudo Pelo Poder</genre>
+<date>2011</date>
+</item>
+
+<item>
+<title>Um Ato de Liberdade</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1LIsYXKnYuIaeGyNB3mo_6uJ6MMRSLqur/edit</link>
+<info>TESTE</info>
+<genre>Um Ato de Liberdade</genre>
+<date>2008</date>
+</item>
+
+<item>
+<title>Um Espiao e Meio</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1KYcyfXS9enDfo9-4xRcjBYZuOX50Q8qB/edit</link>
+<info>TESTE</info>
+<genre>Um Espiao e Meio</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>Um Laco de Amor</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1w4lOKheiM1pECpWPu4srJthswBIpi3Ch/edit</link>
+<info>TESTE</info>
+<genre>Um Laco de Amor</genre>
+<date>2017</date>
+</item>
+
+<item>
+<title>Um Senhor Estagiario</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/13AX9sJ29-xZyrTg08E5l3bekVgAWwD1R/edit</link>
+<info>TESTE</info>
+<genre>Um Senhor Estagiario</genre>
+<date>2015</date>
+</item>
+
+<item>
+<title>Uma Licao de Vida</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1Bhd7xJ5a_TWNoL9lqzir2fdif3GQ33cG/edit</link>
+<info>TESTE</info>
+<genre>Uma Licao de Vida</genre>
+<date>2010</date>
+</item>
+
+<item>
+<title>Uma Noite de Crime</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/16190e_XDydzmu1eFl9p1imedo7CaCnrt/edit</link>
+<info>TESTE</info>
+<genre>Uma Noite de Crime</genre>
+<date>2013</date>
+</item>
+
+<item>
+<title>Uma Noite de Crime: Anarquia</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1VHGykl5BAAxLgi5QxHGbRcvFsNKucn1J/edit</link>
+<info>TESTE</info>
+<genre>Uma Noite de Crime: Anarquia</genre>
+<date>2014</date>
+</item>
+
+<item>
+<title>Uma Vida Com Proposito</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1vrUvaeNYAnxJ-zlE9VJPw-kgrjvoK1Dh/edit</link>
+<info>TESTE</info>
+<genre>Uma Vida Com Proposito</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>Um Monstro no Caminho</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1fl4w1JkxrQgpYkMbFR3h3023cvosCosk/view</link>
+<info>TESTE</info>
+<genre>Um Monstro no Caminho</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>Um Novo Olhar</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1EZghgL6FT1PL-gV6PAIhyeemBSqsgEzv/view</link>
+<info>TESTE</info>
+<genre>Um Novo Olhar</genre>
+<date>2017</date>
+</item>
+
+<item>
+<title>Velozes e Furiosos</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/11QlBJ7WEMNmYFHiY1YtOAY8vlc7kH0G-/edit</link>
+<info>TESTE</info>
+<genre>Velozes e Furiosos</genre>
+<date>2001</date>
+</item>
+
+<item>
+<title>+ Velozes + Furiosos</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1WRlxyahMyVaWAuf53X_XaXhKsYra_PM1/edit</link>
+<info>TESTE</info>
+<genre>+ Velozes + Furiosos</genre>
+<date>2003</date>
+</item>
+
+<item>
+<title>Velozes e Furiosos: Desafio em Toquio</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1jVccv2OoDWZkRidRF8w6HFxAjU9xn3Pg/edit</link>
+<info>TESTE</info>
+<genre>Velozes e Furiosos: Desafio em Toquio</genre>
+<date>2006</date>
+</item>
+
+<item>
+<title>Velozes e Furiosos 4</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1xgf4WWMidJbGHkeNj5Vdrx0MrbS8kk5p/edit</link>
+<info>TESTE</info>
+<genre>Velozes e Furiosos 4</genre>
+<date>2009</date>
+</item>
+
+<item>
+<title>Velozes e Furiosos 5 - Operação Rio</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1hk1wC-KFQp-jaSQ-gUw0wMSCKgLatCPi/edit</link>
+<info>TESTE</info>
+<genre>Velozes e Furiosos 5 - Operacao Rio</genre>
+<date>2011</date>
+</item>
+
+<item>
+<title>Velozes e Furiosos 6</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1sFRf0gDyRvsshbMJ_wLOJ9xOMtYnLQrm/edit</link>
+<info>TESTE</info>
+<genre>Velozes e Furiosos 6</genre>
+<date>2013</date>
+</item>
+
+<item>
+<title>Velozes e Furiosos 7</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1OKmgoolHiwI-6m4qMk8gygrYdqw5P9si/edit</link>
+<info>TESTE</info>
+<genre>Velozes e Furiosos 7</genre>
+<date>2015</date>
+</item>
+
+<item>
+<title>V/H/S/2</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1rVxAUHfSZLfvkQQa1w4JTUX-4kCye6uW/edit</link>
+<info>TESTE</info>
+<genre>V/H/S/2</genre>
+<date>2013</date>
+</item>
+
+<item>
+<title>Vida</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1cqoqfcyEQLW8FVi_r9ttyuUfffdTpQLL/edit</link>
+<info>TESTE</info>
+<genre>Vida</genre>
+<date>2017</date>
+</item>
+
+<item>
+<title>Vingadores: Era de Ultron</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1XHpinDYtSq0nzGPS25Ep-Hc4ii5kQB4q/edit</link>
+<info>TESTE</info>
+<genre>Vingadores: Era de Ultron</genre>
+<date>2015</date>
+</item>
+
+<item>
+<title>Vizinhos</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1ETilGx548haK6wuoiQSx4GwgMshPVZn8/edit</link>
+<info>TESTE</info>
+<genre>Vizinhos</genre>
+<date>2014</date>
+</item>
+
+<item>
+<title>Vizinhos 2</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/10cHut5j13-J5H8elQ0ebNeVGlELD8azW/edit</link>
+<info>TESTE</info>
+<genre>Vizinhos 2</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>Voce e o proximo</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1tSBQlvczw7UEwZIZiy_UbcxIzJlv66sI/edit</link>
+<info>TESTE</info>
+<genre>Voce e o proximo</genre>
+<date>2011</date>
+</item>
+
+<item>
+<title>Vovo Sem Vergonha</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1YK4IE3MZTbxutrxVSswM8uPVl0MdHl_E/edit</link>
+<info>TESTE</info>
+<genre>Vovo Sem Vergonha</genre>
+<date>2013</date>
+</item>
+
+<item>
+<title>Voldemort: Origins of the Heir</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1FyHz0KAn3EeKEBKs04-MM1QWjtE2It9p/view</link>
+<info>TESTE</info>
+<genre>Voldemort: Origins of the Heir</genre>
+<date>2018</date>
+</item>
+
+<item>
+<title>Warcraft</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1nRcu8Fjj3cXcecfE7rhMoNUF2n-0BW1b/edit</link>
+<info>TESTE</info>
+<genre>Warcraft</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>X-Men Origens: Wolverine</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/11qZ6YoiGsw09Zyj2_AUkGUoTQsw1ohKU/edit</link>
+<info>TESTE</info>
+<genre>X-Men Origens: Wolverine</genre>
+<date>2009</date>
+</item>
+
+<item>
+<title>X-Men: O Filme</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1xIFH91BTTX8ESFwA4B8rtbd6mASvZ85c/edit</link>
+<info>TESTE</info>
+<genre>X-Men: O Filme</genre>
+<date>2000</date>
+</item>
+
+<item>
+<title>X-Men 2</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1mLFeXEGNu-htUrRJ4c0vxfhYG51itpjs/edit</link>
+<info>TESTE</info>
+<genre>X-Men 2</genre>
+<date>2003</date>
+</item>
+
+<item>
+<title>X-Men: O Confronto Final</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1suEygTlimN8EeMb3ZdwdUQ3o5EmquDBi/edit</link>
+<info>TESTE</info>
+<genre>X-Men: O Confronto Final</genre>
+<date>2006</date>
+</item>
+
+<item>
+<title>X-Men: Primeira Classe</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1r2aaHb0XlllrIivZbBTxwH99bkcmL9tw/edit</link>
+<info>TESTE</info>
+<genre>X-Men: Primeira Classe</genre>
+<date>2011</date>
+</item>
+
+<item>
+<title>X-Men: Dias de um Futuro Esquecido</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1sut6xAOJFpmP-hAXUx11AIv1b_KAhJrf/edit</link>
+<info>TESTE</info>
+<genre>X-Men: Dias de um Futuro Esquecido</genre>
+<date>2014</date>
+</item>
+
+<item>
+<title>X-Men: Apocalipse</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1qLL_gRjqFofcz-kxOgTzOmHw9tuAlCco/edit</link>
+<info>TESTE</info>
+<genre>X-Men: Apocalipse</genre>
+<date>2016</date>
+</item>
+
+<item>
+<title>Zumbilandia</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/16bT3GDa_17cTeAeJLy9Z6ryeGiiGb1vV/edit</link>
+<info>TESTE</info>
+<genre>Zumbilandia</genre>
+<date>2009</date>
+</item>
+
+<item>
+<title>Zona Fria</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/171TLIiIKEY_G0h60zYXxDM64oX103Jzb/view</link>
+<info>TESTE</info>
+<genre>Zona Fria</genre>
+<date>2017</date>
+</item>
