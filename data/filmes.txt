@@ -1,5 +1,182 @@
 <channels></channels>
 <channel>
+<name>As Aventuras de Ozzy</name>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYTE0M2E4OWYtMTBiNS00NWM0LWI1NzYtYjU4ZDVhY2NkMGM2XkEyXkFqcGdeQXVyMjMwODE4ODI@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+
+<item>
+<title>As Aventuras de Ozzy</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=DAPHZFduaO4</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYTE0M2E4OWYtMTBiNS00NWM0LWI1NzYtYjU4ZDVhY2NkMGM2XkEyXkFqcGdeQXVyMjMwODE4ODI@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+<info>Quando sua família sai de férias, um cachorro jovem se encontra em uma prisão onde deve fugir com a ajuda de seus novos amigos.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=twSgIOPEqzM</trailer>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYTE0M2E4OWYtMTBiNS00NWM0LWI1NzYtYjU4ZDVhY2NkMGM2XkEyXkFqcGdeQXVyMjMwODE4ODI@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart></fanart>
+<info>Quando sua família sai de férias, um cachorro jovem se encontra em uma prisão onde deve fugir com a ajuda de seus novos amigos.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Animais Fantásticos - Os Crimes de Grindelwald</name>
+<thumbnail>https://2.bp.blogspot.com/-RwUJSEYBDXU/W--nMXsanFI/AAAAAAAAC6c/XeZrC62zoqggZv3OBrbKZ8zNY1h9m5CWgCLcBGAs/s1600/Animais%2BFant%25C3%25A1sticos%2BOs%2BCrimes%2Bde%2BGrindelwald%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+
+<item>
+<title>Animais Fantásticos - Os Crimes de Grindelwald</title>
+<link>magnet:?xt=urn:btih:3498652A2ABEBF037D91D10DD997FD211BF99D22&dn=%7bWWW.BLUDV.TV%7d%20Animais%20Fant%c3%a1sticos%20-%20Os%20Crimes%20de%20Grindelwald%202019%20%281080p%29%20FULL%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<thumbnail>https://2.bp.blogspot.com/-RwUJSEYBDXU/W--nMXsanFI/AAAAAAAAC6c/XeZrC62zoqggZv3OBrbKZ8zNY1h9m5CWgCLcBGAs/s1600/Animais%2BFant%25C3%25A1sticos%2BOs%2BCrimes%2Bde%2BGrindelwald%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+<fanart></fanart>
+<info> Em um esforço para frustrar os planos do terrível bruxo das trevas Gellert Grindelwald (Johnny Depp), Alvo Dumbledore (Jude Law) recruta seu ex-aluno Newt Scamander (Eddie Redmayne), que concorda em ajudar, desconhecendo os perigos que estão por vir. As linhas são desenhadas à medida que o amor e a lealdade são testados, mesmo entre os mais verdadeiros amigos e familiares, em um mundo bruxo cada vez mais dividido entre seres de magos sangue puro e seres não-mágicos. </info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=YNskLKO_FzE</trailer>
+<thumbnail>https://2.bp.blogspot.com/-RwUJSEYBDXU/W--nMXsanFI/AAAAAAAAC6c/XeZrC62zoqggZv3OBrbKZ8zNY1h9m5CWgCLcBGAs/s1600/Animais%2BFant%25C3%25A1sticos%2BOs%2BCrimes%2Bde%2BGrindelwald%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+<fanart></fanart>
+<info> Em um esforço para frustrar os planos do terrível bruxo das trevas Gellert Grindelwald (Johnny Depp), Alvo Dumbledore (Jude Law) recruta seu ex-aluno Newt Scamander (Eddie Redmayne), que concorda em ajudar, desconhecendo os perigos que estão por vir. As linhas são desenhadas à medida que o amor e a lealdade são testados, mesmo entre os mais verdadeiros amigos e familiares, em um mundo bruxo cada vez mais dividido entre seres de magos sangue puro e seres não-mágicos. </info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Halloween</name>
+<thumbnail>https://3.bp.blogspot.com/-ZkZVXtKn6wI/XABTAN5xnvI/AAAAAAAADSw/GMve2V_LyYEebBp8apYOsN9LhVEdLc6ZQCLcBGAs/s1600/Halloween%2Btorrent%2Bdownload%2Bdublado.jpg</thumbnail>
+
+<item>
+<title>Halloween</title>
+<link>magnet:?xt=urn:btih:DFCA2E650A73B739802C26068551E78171D70F88&dn=%7bWWW.BLUDV.TV%7d%20Walloween%202019%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<thumbnail>https://3.bp.blogspot.com/-ZkZVXtKn6wI/XABTAN5xnvI/AAAAAAAADSw/GMve2V_LyYEebBp8apYOsN9LhVEdLc6ZQCLcBGAs/s1600/Halloween%2Btorrent%2Bdownload%2Bdublado.jpg</thumbnail>
+<fanart></fanart>
+<info>Quatro década depois de ter escapado do ataque de Michael Myers em uma noite de Halloween, Laurie Strode (Jamie Lee Curtis) terá que confrontar o assassino mascarado pela última vez. Ela foi perseguida pela memória de ter sua vida por um triz, mas dessa vez, quando Myers retorna para a cidade de Haddonfield, ela está preparada.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=o7KMfkiZYaQ</trailer>
+<thumbnail>https://3.bp.blogspot.com/-ZkZVXtKn6wI/XABTAN5xnvI/AAAAAAAADSw/GMve2V_LyYEebBp8apYOsN9LhVEdLc6ZQCLcBGAs/s1600/Halloween%2Btorrent%2Bdownload%2Bdublado.jpg</thumbnail>
+<fanart></fanart>
+<info>Quatro década depois de ter escapado do ataque de Michael Myers em uma noite de Halloween, Laurie Strode (Jamie Lee Curtis) terá que confrontar o assassino mascarado pela última vez. Ela foi perseguida pela memória de ter sua vida por um triz, mas dessa vez, quando Myers retorna para a cidade de Haddonfield, ela está preparada.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Zoo - Uma Amizade Maior que a Vida</name>
+<thumbnail>https://3.bp.blogspot.com/-yd4zHYxMu-g/XGcKxsqbh7I/AAAAAAAAGA8/5CT6iujF-4gIzWAy3fsBxSiZjx1QOtk9ACLcBGAs/s1600/Zoo%2BUma%2BAmizade%2BMaior%2Bque%2Ba%2BVida%2Bdownload%2Btorrent.jpg</thumbnail>
+
+<item>
+<title>Zoo - Uma Amizade Maior que a Vida</title>
+<link>magnet:?xt=urn:btih:B09A6C35F97FC7C1F24EC60BEA2E2B375B46C422&dn=Zoo%20-%20Uma%20Amizade%20Maior%20que%20a%20Vida%202019%20%281080p%29%</link>
+<thumbnail>https://3.bp.blogspot.com/-yd4zHYxMu-g/XGcKxsqbh7I/AAAAAAAAGA8/5CT6iujF-4gIzWAy3fsBxSiZjx1QOtk9ACLcBGAs/s1600/Zoo%2BUma%2BAmizade%2BMaior%2Bque%2Ba%2BVida%2Bdownload%2Btorrent.jpg</thumbnail>
+<fanart></fanart>
+<info>Durante a Segunda Guerra Mundial, animais do zoológico de Belfast são ameaçados. O garoto Tom e seus amigos desafiam as autoridades e se aventuram para manter Buster, um bebê elefante, a salvo. Baseado em fatos reais. </info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=k4wbJ-UQNMk</trailer>
+<thumbnail>https://3.bp.blogspot.com/-yd4zHYxMu-g/XGcKxsqbh7I/AAAAAAAAGA8/5CT6iujF-4gIzWAy3fsBxSiZjx1QOtk9ACLcBGAs/s1600/Zoo%2BUma%2BAmizade%2BMaior%2Bque%2Ba%2BVida%2Bdownload%2Btorrent.jpg</thumbnail>
+<fanart></fanart>
+<info>Durante a Segunda Guerra Mundial, animais do zoológico de Belfast são ameaçados. O garoto Tom e seus amigos desafiam as autoridades e se aventuram para manter Buster, um bebê elefante, a salvo. Baseado em fatos reais. </info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Um Homem Comum</name>
+<thumbnail>https://4.bp.blogspot.com/-eRkP-FB7BGo/XGkkn5fdpiI/AAAAAAAAGCk/c9EsZUg1di0SdTlMFfiBqCR-EdybdNl9wCLcBGAs/s1600/Um%2BHomem%2BComum%2Btorrent%2Bdownload.jpg</thumbnail>
+
+<item>
+<title>Um Homem Comum</title>
+<link>magnet:?xt=urn:btih:2b4fa09671d552ed2edc97b514c226f013d5059e&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Um%20Homem%20Comum%202019%20%5bBluRay%5d%20%5b1080p%5d%20%5bDUAL%5d</link>
+<thumbnail>https://4.bp.blogspot.com/-eRkP-FB7BGo/XGkkn5fdpiI/AAAAAAAAGCk/c9EsZUg1di0SdTlMFfiBqCR-EdybdNl9wCLcBGAs/s1600/Um%2BHomem%2BComum%2Btorrent%2Bdownload.jpg</thumbnail>
+<fanart></fanart>
+<info>A história segue um criminoso de guerra na clandestinidade (Kingsley), que inicia um relacionamento com sua empregada, uma atriz islandesa em ascensão. Quando as buscas para o encontrarem ficam mais intensas, ele percebe que ela é única pessoa em que pode confiar. </info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=QSvCZ-ov5ls</trailer>
+<thumbnail>https://4.bp.blogspot.com/-eRkP-FB7BGo/XGkkn5fdpiI/AAAAAAAAGCk/c9EsZUg1di0SdTlMFfiBqCR-EdybdNl9wCLcBGAs/s1600/Um%2BHomem%2BComum%2Btorrent%2Bdownload.jpg</thumbnail>
+<fanart></fanart>
+<info>A história segue um criminoso de guerra na clandestinidade (Kingsley), que inicia um relacionamento com sua empregada, uma atriz islandesa em ascensão. Quando as buscas para o encontrarem ficam mais intensas, ele percebe que ela é única pessoa em que pode confiar. </info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Drones</name>
+<thumbnail>https://1.bp.blogspot.com/-w12ve4PJEr4/XGhjgDJ5WFI/AAAAAAAAGCA/e180DD-LTDkpwGvlr5qS0O1WKV5loGDggCLcBGAs/s1600/Drones%2Bdownload%2Btorrent.jpg</thumbnail>
+
+<item>
+<title>Drones</title>
+<link>magnet:?xt=urn:btih:BF8E0DD2D815553126A8F4FF4AEFA2293D745F49&dn=Drones%202019%20%281080p%29%20LAPUMiA&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a85%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<thumbnail>https://1.bp.blogspot.com/-w12ve4PJEr4/XGhjgDJ5WFI/AAAAAAAAGCA/e180DD-LTDkpwGvlr5qS0O1WKV5loGDggCLcBGAs/s1600/Drones%2Bdownload%2Btorrent.jpg</thumbnail>
+<fanart></fanart>
+<info>Em um futuro próximo, onde a pressão ambiental causou escassez de alimentos em todo o mundo, a tecnologia fornece um caminho estreito para a frente, com drones agrícolas maximizando o rendimento do que restou da terra. Dois prestadores de cuidados compassivos, Claudia e seu mentor John, trabalham para auxiliar os habitantes doentes das terras agrícolas que desejam por um fim em suas vidas. Depois que John morre em circunstâncias misteriosas, um grupo de moradores ajuda Claudia a descobrir uma conexão mortal entre a saúde de seus clientes e a tecnologia que eles estão usando.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Ahzf1Q0qb3M</trailer>
+<thumbnail>https://1.bp.blogspot.com/-w12ve4PJEr4/XGhjgDJ5WFI/AAAAAAAAGCA/e180DD-LTDkpwGvlr5qS0O1WKV5loGDggCLcBGAs/s1600/Drones%2Bdownload%2Btorrent.jpg</thumbnail>
+<fanart></fanart>
+<info>Em um futuro próximo, onde a pressão ambiental causou escassez de alimentos em todo o mundo, a tecnologia fornece um caminho estreito para a frente, com drones agrícolas maximizando o rendimento do que restou da terra. Dois prestadores de cuidados compassivos, Claudia e seu mentor John, trabalham para auxiliar os habitantes doentes das terras agrícolas que desejam por um fim em suas vidas. Depois que John morre em circunstâncias misteriosas, um grupo de moradores ajuda Claudia a descobrir uma conexão mortal entre a saúde de seus clientes e a tecnologia que eles estão usando.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>O Despertar de Um Assassino</name>
+<thumbnail>https://3.bp.blogspot.com/-hKz-kdimFQg/WpBd9unOqzI/AAAAAAAAI10/MxCg-JIBiFwU1PoUeoaN3JJgxoDIQrGNgCLcBGAs/s1600/Meu%2BAmigo%2BDahmer%2Btorrent%2Bdublado%2Bbluray%2Bdownload.jpg</thumbnail>
+
+<item>
+<title>O Despertar de Um Assassino</title>
+<link>magnet:?xt=urn:btih:4D1C43910924311D8929B77D812B09ECC8D575D5&dn=O%20Despertar%20De%20Um%20Assassino%202019%20%281080p%29%20LAPUMiA&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a83%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<thumbnail>https://3.bp.blogspot.com/-hKz-kdimFQg/WpBd9unOqzI/AAAAAAAAI10/MxCg-JIBiFwU1PoUeoaN3JJgxoDIQrGNgCLcBGAs/s1600/Meu%2BAmigo%2BDahmer%2Btorrent%2Bdublado%2Bbluray%2Bdownload.jpg</thumbnail>
+<fanart></fanart>
+<info> Em meado dos anos 70, Jeffrey Dahmer (Ross Lynch) tenta manter uma rotina normal na escola. Mas ele é um jovem perturbado e em casa vive brigando com a família. O adolescente ainda precisa lidar com o desejo canibal e assassino que ele tem.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jmnuC7tn9D4</trailer>
+<thumbnail>https://3.bp.blogspot.com/-hKz-kdimFQg/WpBd9unOqzI/AAAAAAAAI10/MxCg-JIBiFwU1PoUeoaN3JJgxoDIQrGNgCLcBGAs/s1600/Meu%2BAmigo%2BDahmer%2Btorrent%2Bdublado%2Bbluray%2Bdownload.jpg</thumbnail>
+<fanart></fanart>
+<info> Em meado dos anos 70, Jeffrey Dahmer (Ross Lynch) tenta manter uma rotina normal na escola. Mas ele é um jovem perturbado e em casa vive brigando com a família. O adolescente ainda precisa lidar com o desejo canibal e assassino que ele tem.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Até que a Gente te Separe</name>
+<thumbnail>https://4.bp.blogspot.com/-Bcvjx0wfLW4/XGN8ncBpyBI/AAAAAAAAF44/QL6vMZwH0mYhiuvxK4tD4DDTuSaU2bftgCLcBGAs/s1600/At%25C3%25A9%2Bque%2Ba%2BGente%2Bte%2BSepare%2Btorrent%2Bdownload%2Bdublado.jpg</thumbnail>
+
+<item>
+<title>Até que a Gente te Separe</title>
+<link>magnet:?xt=urn:btih:ff1f7e1031016063bf0f3750094983b870388d57&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20At%c3%a9%20que%20a%20Gente%20te%20Separe%202019%20%5bBluRay%5d%20%5b1080p%5d%20%5bDUAL%5d</link>
+<thumbnail>https://4.bp.blogspot.com/-Bcvjx0wfLW4/XGN8ncBpyBI/AAAAAAAAF44/QL6vMZwH0mYhiuvxK4tD4DDTuSaU2bftgCLcBGAs/s1600/At%25C3%25A9%2Bque%2Ba%2BGente%2Bte%2BSepare%2Btorrent%2Bdownload%2Bdublado.jpg</thumbnail>
+<fanart></fanart>
+<info>Mel (Madeleine Sami) e Jen (Jackie van Beek), duas amigas desiludidas e desacreditadas no amor decidem criar a Breaker Upperes, uma pequena empresa que separa casais por dinheiro. Mas a amizade e o negócio entram em conflito quando Jen descobre que Mel está transando com um cliente.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zKAjnXG3m4A</trailer>
+<thumbnail>https://4.bp.blogspot.com/-Bcvjx0wfLW4/XGN8ncBpyBI/AAAAAAAAF44/QL6vMZwH0mYhiuvxK4tD4DDTuSaU2bftgCLcBGAs/s1600/At%25C3%25A9%2Bque%2Ba%2BGente%2Bte%2BSepare%2Btorrent%2Bdownload%2Bdublado.jpg</thumbnail>
+<fanart></fanart>
+<info>Mel (Madeleine Sami) e Jen (Jackie van Beek), duas amigas desiludidas e desacreditadas no amor decidem criar a Breaker Upperes, uma pequena empresa que separa casais por dinheiro. Mas a amizade e o negócio entram em conflito quando Jen descobre que Mel está transando com um cliente.</info>
+</item>
+</channel>
+
+
+<channels></channels>
+<channel>
 <name>Bohemian Rhapsody [Disco Duplo]</name>
 <thumbnail>https://4.bp.blogspot.com/-YfeuA1Qal9U/W-Bhgbo47pI/AAAAAAAACbw/09WmM7DJsx883zfUxG9jKjuytnHztq48ACLcBGAs/s1600/Bohemian%2BRhapsody%2Btorrent%2Bdownload%2Bdublado.jpg</thumbnail>
 
@@ -4913,278 +5090,4 @@
 <link>magnet:?xt=urn:btih:c7d4f5b14996fa98560a42b5c2e45458c4082368&dn=O.Calhambeque.M%C3%A1gico.%281968%29.Dual.720p.by.jhonatan28</link>
 <thumbnail>https://2.bp.blogspot.com/-xSyYLl88To0/W41pJ1XSYaI/AAAAAAAAQdQ/Ed5oiGbnnP83_BqTZaKDexPFGgEQrDRyACLcBGAs/s1600/O%2BCalhambeque%2BM%25C3%25A1gico%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
 <fanart></fanart>
-<info>Na primeira década do século XX um carro de corrida, que tinha ganho três grandes prêmios, sofre um acidente e fica totalmente queimado. Algum tempo depois duas crianças, Jemima (Heather Ripley) e Jeremy (Adrian Hall), os filhos de Caractacus Potts (Dick Van Dyke), um inventor fracassado, vêem a carcaça deste carro de corrida, que seria vendido por 30 xelins. Eles imploram ao pai que o compre, mas Potts está sem dinheiro e o avô das crianças (Lionel Jeffries), que mora com eles, se encontra na mesma situação. Após uma tentativa desastrosa de vender uma de suas invenções para o Lorde Scrumptious (James Robertson Justice), o fabricante de doces da região, Potts consegue acidentalmente dinheiro suficiente em um parque de diversões. Potts compra o carro e, milagrosamente, transforma um veículo que estava caindo aos pedaços em um carro novo em folha. Ele resolve fazer um piquenique com as crianças e o vovô, para comemorar o carro novo. No caminho eles quase batem no carro de Truly Scrumptious (Sally Ann Howes), a bela filha de Lorde Scrumptious. Como o carro dela ficou atolado, eles a convidam a ir ao piquenique. Já na praia, todos se divertem e as crianças pedem ao pai que lhes conte uma história. Potts cria uma fantástica aventura, no qual o carro deles pode andar sobre a água e voar. No conto o barão Bomburst (Gert Fröbe), o cruel ditador da Vulgária, quer o carro para ele e seqüestra o vovô, pensando que é o inventor. Então Potts, Truly e as crianças voam no carro até a Vulgária, para libertá-lo. Prêmios:1 Indicação ao Oscar2 Indicação ao Globo de Ouro</info>
-</item>
-
-<item>
-<title>Trailer</title>
-<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fz3wIk46M0s</trailer>
-<thumbnail>https://2.bp.blogspot.com/-xSyYLl88To0/W41pJ1XSYaI/AAAAAAAAQdQ/Ed5oiGbnnP83_BqTZaKDexPFGgEQrDRyACLcBGAs/s1600/O%2BCalhambeque%2BM%25C3%25A1gico%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
-<fanart></fanart>
-<info>Na primeira década do século XX um carro de corrida, que tinha ganho três grandes prêmios, sofre um acidente e fica totalmente queimado. Algum tempo depois duas crianças, Jemima (Heather Ripley) e Jeremy (Adrian Hall), os filhos de Caractacus Potts (Dick Van Dyke), um inventor fracassado, vêem a carcaça deste carro de corrida, que seria vendido por 30 xelins. Eles imploram ao pai que o compre, mas Potts está sem dinheiro e o avô das crianças (Lionel Jeffries), que mora com eles, se encontra na mesma situação. Após uma tentativa desastrosa de vender uma de suas invenções para o Lorde Scrumptious (James Robertson Justice), o fabricante de doces da região, Potts consegue acidentalmente dinheiro suficiente em um parque de diversões. Potts compra o carro e, milagrosamente, transforma um veículo que estava caindo aos pedaços em um carro novo em folha. Ele resolve fazer um piquenique com as crianças e o vovô, para comemorar o carro novo. No caminho eles quase batem no carro de Truly Scrumptious (Sally Ann Howes), a bela filha de Lorde Scrumptious. Como o carro dela ficou atolado, eles a convidam a ir ao piquenique. Já na praia, todos se divertem e as crianças pedem ao pai que lhes conte uma história. Potts cria uma fantástica aventura, no qual o carro deles pode andar sobre a água e voar. No conto o barão Bomburst (Gert Fröbe), o cruel ditador da Vulgária, quer o carro para ele e seqüestra o vovô, pensando que é o inventor. Então Potts, Truly e as crianças voam no carro até a Vulgária, para libertá-lo. Prêmios:1 Indicação ao Oscar2 Indicação ao Globo de Ouro</info>
-</item>
-</channel>
-
-<channels></channels>
-<channel>
-<name>Uma Aventura no Gelo</name>
-<thumbnail>https://3.bp.blogspot.com/-1IVP8nyGAxM/W4Rs89_xjqI/AAAAAAAAQJc/DdIrxNtiEgM1G01XZySwin2Dn4FQZtg0wCLcBGAs/s1600/Uma%2BAventura%2Bno%2BGelo%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
-
-<item>
-<title>Uma Aventura no Gelo</title>
-<link>magnet:?xt=urn:btih:20308135b347c6c54da2a1d45f332f867857b67d&dn=Uma%20Aventura%20No%20Gelo%202018%20%5bDVDRip%5d%20%5bDUAL%5d%20COMANDOTORRENTS.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
-<thumbnail>https://3.bp.blogspot.com/-1IVP8nyGAxM/W4Rs89_xjqI/AAAAAAAAQJc/DdIrxNtiEgM1G01XZySwin2Dn4FQZtg0wCLcBGAs/s1600/Uma%2BAventura%2Bno%2BGelo%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
-<fanart></fanart>
-<info> O pinguim Buffet recruta seus amigos Euri, um iaque preguiçoso, e Luke, um coelho fã de artes marciais, em uma missão rumo ao Polo Sul. O objetivo é decifrar o misterioso desaparecimento do avô de Buffet. Mas a viagem não será nada fácil: perigosos desafios testarão a força da amizade do trio. </info>
-</item>
-
-<item>
-<title>Trailer</title>
-<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mb_B_94Evxs</trailer>
-<thumbnail>https://3.bp.blogspot.com/-1IVP8nyGAxM/W4Rs89_xjqI/AAAAAAAAQJc/DdIrxNtiEgM1G01XZySwin2Dn4FQZtg0wCLcBGAs/s1600/Uma%2BAventura%2Bno%2BGelo%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
-<fanart></fanart>
-<info> O pinguim Buffet recruta seus amigos Euri, um iaque preguiçoso, e Luke, um coelho fã de artes marciais, em uma missão rumo ao Polo Sul. O objetivo é decifrar o misterioso desaparecimento do avô de Buffet. Mas a viagem não será nada fácil: perigosos desafios testarão a força da amizade do trio. </info>
-</item>
-</channel>
-
-<channels></channels>
-<channel>
-<name>O Conto</name>
-<thumbnail>https://2.bp.blogspot.com/-UNGvi4l25TE/Ww_omvwPx1I/AAAAAAAAL7Y/Tg7T2ryvzssWc7M7dxutnoXTs20HsRsYACLcBGAs/s1600/The%2BTale%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
-
-<item>
-<title>O Conto</title>
-<link>magnet:?xt=urn:btih:5dcd65307693fd43e30a788b31151e2faa2c8ee3&dn=O%20Conto%202018%20%5bWEB-DL%5d%20%5b720p%5d%20%5bDUAL%5d%20BAIXE%20NO%20COMANDOTORRENTS.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
-<thumbnail>https://2.bp.blogspot.com/-UNGvi4l25TE/Ww_omvwPx1I/AAAAAAAAL7Y/Tg7T2ryvzssWc7M7dxutnoXTs20HsRsYACLcBGAs/s1600/The%2BTale%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
-<fanart></fanart>
-<info>Uma mulher se vê forçada a reexaminar seu primeiro relacionamento sexual e as histórias que contou para si mesma com o intuito de sobreviver a seus traumas. Jennifer (Laura Dern) tem uma ótima carreira como documentarista e professora e um relacionamento repleto de carinho e respeito mútuo com seu noivo, Martin (Common). Porém, quando sua mãe encontra uma história que ela escreveu para escola quando tinha 13 anos contando sobre um relacionamento que teve com dois adultos, ela é obrigada a revisitar um passado traumático e reconciliar suas lembranças com o que de fato aconteceu com ela. </info>
-</item>
-
-<item>
-<title>Trailer</title>
-<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=https://www.youtube.com/watch?v=tXpYsr3AL4U</trailer>
-<thumbnail>https://2.bp.blogspot.com/-UNGvi4l25TE/Ww_omvwPx1I/AAAAAAAAL7Y/Tg7T2ryvzssWc7M7dxutnoXTs20HsRsYACLcBGAs/s1600/The%2BTale%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
-<fanart></fanart>
-<info>Uma mulher se vê forçada a reexaminar seu primeiro relacionamento sexual e as histórias que contou para si mesma com o intuito de sobreviver a seus traumas. Jennifer (Laura Dern) tem uma ótima carreira como documentarista e professora e um relacionamento repleto de carinho e respeito mútuo com seu noivo, Martin (Common). Porém, quando sua mãe encontra uma história que ela escreveu para escola quando tinha 13 anos contando sobre um relacionamento que teve com dois adultos, ela é obrigada a revisitar um passado traumático e reconciliar suas lembranças com o que de fato aconteceu com ela. </info>
-</item>
-</channel>
-
-<channels></channels>
-<channel>
-<name>O Conto</name>
-<thumbnail>https://2.bp.blogspot.com/-UNGvi4l25TE/Ww_omvwPx1I/AAAAAAAAL7Y/Tg7T2ryvzssWc7M7dxutnoXTs20HsRsYACLcBGAs/s1600/The%2BTale%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
-
-<item>
-<title>O Conto</title>
-<link>magnet:?xt=urn:btih:5dcd65307693fd43e30a788b31151e2faa2c8ee3&dn=O%20Conto%202018%20%5bWEB-DL%5d%20%5b720p%5d%20%5bDUAL%5d%20BAIXE%20NO%20COMANDOTORRENTS.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
-<thumbnail>https://2.bp.blogspot.com/-UNGvi4l25TE/Ww_omvwPx1I/AAAAAAAAL7Y/Tg7T2ryvzssWc7M7dxutnoXTs20HsRsYACLcBGAs/s1600/The%2BTale%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
-<fanart></fanart>
-<info>Uma mulher se vê forçada a reexaminar seu primeiro relacionamento sexual e as histórias que contou para si mesma com o intuito de sobreviver a seus traumas. Jennifer (Laura Dern) tem uma ótima carreira como documentarista e professora e um relacionamento repleto de carinho e respeito mútuo com seu noivo, Martin (Common). Porém, quando sua mãe encontra uma história que ela escreveu para escola quando tinha 13 anos contando sobre um relacionamento que teve com dois adultos, ela é obrigada a revisitar um passado traumático e reconciliar suas lembranças com o que de fato aconteceu com ela. </info>
-</item>
-
-<item>
-<title>Trailer</title>
-<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=https://www.youtube.com/watch?v=tXpYsr3AL4U</trailer>
-<thumbnail>https://2.bp.blogspot.com/-UNGvi4l25TE/Ww_omvwPx1I/AAAAAAAAL7Y/Tg7T2ryvzssWc7M7dxutnoXTs20HsRsYACLcBGAs/s1600/The%2BTale%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
-<fanart></fanart>
-<info>Uma mulher se vê forçada a reexaminar seu primeiro relacionamento sexual e as histórias que contou para si mesma com o intuito de sobreviver a seus traumas. Jennifer (Laura Dern) tem uma ótima carreira como documentarista e professora e um relacionamento repleto de carinho e respeito mútuo com seu noivo, Martin (Common). Porém, quando sua mãe encontra uma história que ela escreveu para escola quando tinha 13 anos contando sobre um relacionamento que teve com dois adultos, ela é obrigada a revisitar um passado traumático e reconciliar suas lembranças com o que de fato aconteceu com ela. </info>
-</item>
-</channel>
-<channels></channels>
-<channel>
-<name>O Regresso</name>
-<thumbnail>https://4.bp.blogspot.com/-ZbJJ-p06DmQ/W348zm-wiGI/AAAAAAAAP4Q/Gb_gLqK7NIQcvufgfTcesoeYd6z9sLtQACLcBGAs/s1600/Filme%2BO%2BRegresso%2Btorrent%2Bhd%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
-
-<item>
-<title>O Regresso</title>
-<link>magnet:?xt=urn:btih:2D5F3589F4AC5EEC112AFA9CF16DDFF34913F8B7&dn=O%20Regresso%202016%20Bluray%20720p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.trackerfix.com%3a80/announce</link>
-<thumbnail>https://4.bp.blogspot.com/-ZbJJ-p06DmQ/W348zm-wiGI/AAAAAAAAP4Q/Gb_gLqK7NIQcvufgfTcesoeYd6z9sLtQACLcBGAs/s1600/Filme%2BO%2BRegresso%2Btorrent%2Bhd%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
-<fanart></fanart>
-<info> Em uma expedição pelo desconhecido deserto americano, o lendário explorador Hugh Glass (Leonardo DiCaprio) é brutalmente atacado por um urso e deixado como morto pelos membros de sua própria equipe de caça. Em uma luta para sobreviver, Glass resiste à dor inimaginável, bem como à traição de seu confidente, John Fitzgerald (Tom Hardy). Guiado pela força de vontade e pelo amor de sua família, Glass deve navegar um inverno brutal em uma incessante busca por sobrevivência e redenção. </info>
-</item>
-
-<item>
-<title>Trailer</title>
-<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WVJKIQC0hSE</trailer>
-<thumbnail>https://4.bp.blogspot.com/-ZbJJ-p06DmQ/W348zm-wiGI/AAAAAAAAP4Q/Gb_gLqK7NIQcvufgfTcesoeYd6z9sLtQACLcBGAs/s1600/Filme%2BO%2BRegresso%2Btorrent%2Bhd%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
-<fanart></fanart>
-<info> Em uma expedição pelo desconhecido deserto americano, o lendário explorador Hugh Glass (Leonardo DiCaprio) é brutalmente atacado por um urso e deixado como morto pelos membros de sua própria equipe de caça. Em uma luta para sobreviver, Glass resiste à dor inimaginável, bem como à traição de seu confidente, John Fitzgerald (Tom Hardy). Guiado pela força de vontade e pelo amor de sua família, Glass deve navegar um inverno brutal em uma incessante busca por sobrevivência e redenção. </info>
-</item>
-</channel>
-
-<channels></channels>
-<channel>
-<name>Rango  Versão Estendida</name>
-<thumbnail>https://1.bp.blogspot.com/-GbDjONyVVAs/W4DLParvbGI/AAAAAAAAP_c/1tD0EkwAfWk-95n-GEYu-o_i2q0HeUsugCLcBGAs/s1600/Rango%2BVers%25C3%25A3o%2Bestendida%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
-
-<item>
-<title>Rango  Versão Estendida</title>
-<link>magnet:?xt=urn:btih:282576D0053FCE4E748D1B760F3A7AC17941EA69&dn=Rango%20-%20Vers%C3%A3o%20Estendida%202011%20%5b1080p%5d%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a82%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2750%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
-<thumbnail>https://1.bp.blogspot.com/-GbDjONyVVAs/W4DLParvbGI/AAAAAAAAP_c/1tD0EkwAfWk-95n-GEYu-o_i2q0HeUsugCLcBGAs/s1600/Rango%2BVers%25C3%25A3o%2Bestendida%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
-<fanart></fanart>
-<info>Rango (Johnny Depp) é um camaleão da cidade grande que vai parar no velho oeste. A questão toda é que ele estava acostumado a boa vida "camuflada" de animal de estimação e, agora, a história real é muito diferente, fazendo com que ele tenha que enfrentar inimigos que não estava acostumado para se manter vivo. </info>
-</item>
-
-<item>
-<title>Trailer</title>
-<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=k-OOfW6wWyQ</trailer>
-<thumbnail>https://1.bp.blogspot.com/-GbDjONyVVAs/W4DLParvbGI/AAAAAAAAP_c/1tD0EkwAfWk-95n-GEYu-o_i2q0HeUsugCLcBGAs/s1600/Rango%2BVers%25C3%25A3o%2Bestendida%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
-<fanart></fanart>
-<info>Rango (Johnny Depp) é um camaleão da cidade grande que vai parar no velho oeste. A questão toda é que ele estava acostumado a boa vida "camuflada" de animal de estimação e, agora, a história real é muito diferente, fazendo com que ele tenha que enfrentar inimigos que não estava acostumado para se manter vivo. </info>
-</item>
-</channel>
-
-<channels></channels>
-<channel>
-<name>A Luz Divina</name>
-<thumbnail>https://3.bp.blogspot.com/-Ao94wvVRtzA/W3ZeOQrlsBI/AAAAAAAAPpc/ddQWDQ9z8fgNoI5CVUblkDgRoJAzLxAkACLcBGAs/s1600/A%2BLuz%2BDivina%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
-
-<item>
-<title>A Luz Divina</title>
-<link>magnet:?xt=urn:btih:02c825c4b65a5cd50ea516e3718b86fe8d2469f9&dn=A%20Luz%20Divina%20(2018)%20%5bBluRay%5d%20%5b720p%5d%20%5bDUAL%5d%20BAIXE%20NO%20COMANDOTORRENTS.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
-<thumbnail>https://3.bp.blogspot.com/-Ao94wvVRtzA/W3ZeOQrlsBI/AAAAAAAAPpc/ddQWDQ9z8fgNoI5CVUblkDgRoJAzLxAkACLcBGAs/s1600/A%2BLuz%2BDivina%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
-<fanart></fanart>
-<info> Um ateu tenta experimentar uma experiência de quase-morte e converte-se ao cristianismo. Sol Harkens ( Kevin Sorbo) é o ateu mais famoso do mundo. Por sua opinião sempre contundentes e muitas vezes polêmica, ele alcançou muitos fãs e odiadores, mas mesmo assim leva uma vida solitária e amargurada, além de não conseguir dar de ser um bom pai. Mas, depois de quase morrer, ele verá todas as suas convicções sendo testadas e a sua rotina tendo mudanças radicais.</info>
-</item>
-
-<item>
-<title>Trailer</title>
-<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Ni1pJEPWHYs</trailer>
-<thumbnail>https://3.bp.blogspot.com/-Ao94wvVRtzA/W3ZeOQrlsBI/AAAAAAAAPpc/ddQWDQ9z8fgNoI5CVUblkDgRoJAzLxAkACLcBGAs/s1600/A%2BLuz%2BDivina%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
-<fanart></fanart>
-<info> Um ateu tenta experimentar uma experiência de quase-morte e converte-se ao cristianismo. Sol Harkens ( Kevin Sorbo) é o ateu mais famoso do mundo. Por sua opinião sempre contundentes e muitas vezes polêmica, ele alcançou muitos fãs e odiadores, mas mesmo assim leva uma vida solitária e amargurada, além de não conseguir dar de ser um bom pai. Mas, depois de quase morrer, ele verá todas as suas convicções sendo testadas e a sua rotina tendo mudanças radicais.</info>
-</item>
-</channel>
-
-<channels></channels>
-<channel>
-<name>Te Peguei!</name>
-<thumbnail>https://i.imgur.com/9dNRCFP.jpg</thumbnail>
-
-<item>
-<title>Te Peguei!</title>
-<link>magnet:?xt=urn:btih:BE0CE398974AD6176418B38873F4A32D9E0A8A99&dn=%7bWWW.BLUDV.COM%7d%20Te%20Peguei%21%202018%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
-<thumbnail>https://i.imgur.com/9dNRCFP.jpg</thumbnail>
-<fanart></fanart>
-<info>Desde a primeira série na escola um grupo de cinco amigos têm um hábito curioso, que realizam pelo menos uma vez ao ano: brincar enlouquecidamente de pega-pega, correndo em uma partida alucinante para ser o último homem de pé ao final da brincadeira, arriscando seus empregos e relacionamentos. Neste ano, que coincide com o casamento do jogador invicto da trupe, eles farão de tudo para derrubá-lo no momento de vulnerabilidade. </info>
-</item>
-
-<item>
-<title>Trailer</title>
-<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=b8A12w4RqOY</trailer>
-<thumbnail>https://i.imgur.com/9dNRCFP.jpg</thumbnail>
-<fanart></fanart>
-<info>Desde a primeira série na escola um grupo de cinco amigos têm um hábito curioso, que realizam pelo menos uma vez ao ano: brincar enlouquecidamente de pega-pega, correndo em uma partida alucinante para ser o último homem de pé ao final da brincadeira, arriscando seus empregos e relacionamentos. Neste ano, que coincide com o casamento do jogador invicto da trupe, eles farão de tudo para derrubá-lo no momento de vulnerabilidade. </info>
-</item>
-</channel>
-
-<channels></channels>
-<channel>
-<name>Pai em Dose Dupla 2</name>
-<thumbnail>https://2.bp.blogspot.com/-aw9CbooS99c/WnmmWu0xuiI/AAAAAAAAIO4/9-uY5lVdRaUK1N26a7HwEg-ECWpJwNFnQCLcBGAs/s1600/Pai-em-Dose-Dupla-2-torrent-dublado-bluray-1080p-720p.jpg</thumbnail>
-
-<item>
-<title>Pai em Dose Dupla 2</title>
-<link>magnet:?xt=urn:btih:A480093079A181D2A210200B1E62516B8F0A3977&dn=Pai%20em%20Dose%20Dupla%202%202018%20%28720p%29%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
-<thumbnail>https://2.bp.blogspot.com/-aw9CbooS99c/WnmmWu0xuiI/AAAAAAAAIO4/9-uY5lVdRaUK1N26a7HwEg-ECWpJwNFnQCLcBGAs/s1600/Pai-em-Dose-Dupla-2-torrent-dublado-bluray-1080p-720p.jpg</thumbnail>
-<fanart></fanart>
-<info> Pai em Dose Dubla 2 (Daddys Home 2). Após resolverem suas diferenças, Brad (Will Ferrell) e Dusty (Mark Wahlberg) precisam agora lidar com uma nova situação complicada: a súbita aparição de seus pais (John Lithgow e Mel Gibson), que possuem comportamentos bem diferentes.</info>
-</item>
-
-<item>
-<title>Trailer</title>
-<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=p8shgJX14HQ</trailer>
-<thumbnail>https://2.bp.blogspot.com/-aw9CbooS99c/WnmmWu0xuiI/AAAAAAAAIO4/9-uY5lVdRaUK1N26a7HwEg-ECWpJwNFnQCLcBGAs/s1600/Pai-em-Dose-Dupla-2-torrent-dublado-bluray-1080p-720p.jpg</thumbnail>
-<fanart></fanart>
-<info> Pai em Dose Dubla 2 (Daddys Home 2). Após resolverem suas diferenças, Brad (Will Ferrell) e Dusty (Mark Wahlberg) precisam agora lidar com uma nova situação complicada: a súbita aparição de seus pais (John Lithgow e Mel Gibson), que possuem comportamentos bem diferentes.</info>
-</item>
-</channel>
-
-<channels></channels>
-<channel>
-<name>Tal Pai, Tal Filha</name>
-<thumbnail>https://3.bp.blogspot.com/-hF_qo-HKS0E/W2R5Fm5iZNI/AAAAAAAAO74/KP8XE188eO8CF98JRv4VWziDrR_ujmb_QCLcBGAs/s1600/Tal%2BPai%252C%2BTal%2BFilha%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
-
-<item>
-<title>Tal Pai, Tal Filha</title>
-<link>magnet:?xt=urn:btih:E2DF4E9C3FEFF13E3B091D72729E71E2490272FA&dn=Tal%20Pai%2c%20Tal%20Filha%202018%20%5bWEB-DL%5d%20%5b720p%5d%20%5bDUAL%5d%20BAIXE%20NO%20COMANDOTORRENTS.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2780%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
-<thumbnail>https://3.bp.blogspot.com/-hF_qo-HKS0E/W2R5Fm5iZNI/AAAAAAAAO74/KP8XE188eO8CF98JRv4VWziDrR_ujmb_QCLcBGAs/s1600/Tal%2BPai%252C%2BTal%2BFilha%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
-<fanart></fanart>
-<info> Uma jovem executiva (Kristen Bell) viciada no trabalho é deixada no altar pelo seu noivo. Ela resolve ir na viagem de lua-de-mel mesmo assim, mas acompanhada pela última pessoa que ela pensaria ir - seu pai (Kelsey Grammer), também viciado em trabalho, que abandonou sua mãe quando ela tinha 5 anos pois achava que sua família atrapalhava a carreira profissional. </info>
-</item>
-
-<item>
-<title>Trailer</title>
-<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KlPd6-M3jKI</trailer>
-<thumbnail>https://3.bp.blogspot.com/-hF_qo-HKS0E/W2R5Fm5iZNI/AAAAAAAAO74/KP8XE188eO8CF98JRv4VWziDrR_ujmb_QCLcBGAs/s1600/Tal%2BPai%252C%2BTal%2BFilha%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
-<fanart></fanart>
-<info> Uma jovem executiva (Kristen Bell) viciada no trabalho é deixada no altar pelo seu noivo. Ela resolve ir na viagem de lua-de-mel mesmo assim, mas acompanhada pela última pessoa que ela pensaria ir - seu pai (Kelsey Grammer), também viciado em trabalho, que abandonou sua mãe quando ela tinha 5 anos pois achava que sua família atrapalhava a carreira profissional. </info>
-</item>
-</channel>
-
-<channels></channels>
-<channel>
-<name>Para Todos os Garotos que Já Amei</name>
-<thumbnail>https://i.imgur.com/Omn49BX.jpg</thumbnail>
-
-<item>
-<title>Para Todos os Garotos que Já Amei</title>
-<link>magnet:?xt=urn:btih:3E77F3981A53A31F02DE452B4ED995ED3CED4300&dn=%7bWWW.BLUDV.COM%7d%20Para%20Todos%20os%20Garotos%20que%20J%C3%A1%20Amei%202018%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
-<thumbnail>https://i.imgur.com/Omn49BX.jpg</thumbnail>
-<fanart></fanart>
-<info>Para Todos os Garotos que Já Amei (To All the Boys Ive Loved Before) filme exclusivo da Netflix dublado. Lara Jean é uma garota atrapalhada e ingênua, mas muito forte. Romântica, ela escreve cartas para os garotos por quem se apaixonou. Mas tem um detalhe: nunca as envia. Até que um dia essas cartas são misteriosamente enviadas aos respectivos destinatários, e a vida amorosa da garota toma outro rumo. </info>
-</item>
-
-<item>
-<title>Trailer</title>
-<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=CK-g0OqzQHQ</trailer>
-<thumbnail>https://i.imgur.com/Omn49BX.jpg</thumbnail>
-<fanart></fanart>
-<info>Para Todos os Garotos que Já Amei (To All the Boys Ive Loved Before) filme exclusivo da Netflix dublado. Lara Jean é uma garota atrapalhada e ingênua, mas muito forte. Romântica, ela escreve cartas para os garotos por quem se apaixonou. Mas tem um detalhe: nunca as envia. Até que um dia essas cartas são misteriosamente enviadas aos respectivos destinatários, e a vida amorosa da garota toma outro rumo. </info>
-</item>
-</channel>
-
-<channels></channels>
-<channel>
-<name>Deadpool 2</name>
-<thumbnail>https://3.bp.blogspot.com/-adrkGKbs7ys/W34PTheQGlI/AAAAAAAAP2I/9nDxLWYsefcyf7T2frAgoGK0C0K4Qe5yACLcBGAs/s1600/Deadpool%2B2%2Bdublado%2Btorrent%2Bdownload%2Bcompleto%2Bbluray%2B4k%2Buhd%2Bhd.jpg</thumbnail>
-
-<item>
-<title>Deadpool 2</title>
-<link>magnet:?xt=urn:btih:30DFA6447A7ACAEAFC5FFA2D49833245955EB5C1&dn=%7bWWW.BLUDV.COM%7d%20Deadpool%202%202018%20%28720p%29%20DUBLADO%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
-<thumbnail>https://3.bp.blogspot.com/-adrkGKbs7ys/W34PTheQGlI/AAAAAAAAP2I/9nDxLWYsefcyf7T2frAgoGK0C0K4Qe5yACLcBGAs/s1600/Deadpool%2B2%2Bdublado%2Btorrent%2Bdownload%2Bcompleto%2Bbluray%2B4k%2Buhd%2Bhd.jpg</thumbnail>
-<fanart></fanart>
-<info>O bocudo mercenário da Marvel está de volta! Maior, melhor e, ocasionalmente, mais pelado do que nunca. Quando um super soldado chega em uma missão assassina, Deadpool é forçado a pensar em amizade, família e o que realmente significa ser um herói - tudo isso, enquanto chuta 50 tons de bundas. Porque, às vezes, para fazer a coisa certa, você precisa lutar sujo.</info>
-</item>
-
-<item>
-<title>Trailer</title>
-<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1P9OzWX6nzE</trailer>
-<thumbnail>https://3.bp.blogspot.com/-adrkGKbs7ys/W34PTheQGlI/AAAAAAAAP2I/9nDxLWYsefcyf7T2frAgoGK0C0K4Qe5yACLcBGAs/s1600/Deadpool%2B2%2Bdublado%2Btorrent%2Bdownload%2Bcompleto%2Bbluray%2B4k%2Buhd%2Bhd.jpg</thumbnail>
-<fanart></fanart>
-<info>O bocudo mercenário da Marvel está de volta! Maior, melhor e, ocasionalmente, mais pelado do que nunca. Quando um super soldado chega em uma missão assassina, Deadpool é forçado a pensar em amizade, família e o que realmente significa ser um herói - tudo isso, enquanto chuta 50 tons de bundas. Porque, às vezes, para fazer a coisa certa, você precisa lutar sujo.</info>
-</item>
-</channel>
-
-<channels></channels>
-<channel>
-<name>Os Inocentes</name>
-<thumbnail>https://3.bp.blogspot.com/-vcmHpk4dyGo/W4AwnMuIMRI/AAAAAAAAP9k/sB43UP31ldIAS9HtMw23pYlfOp5C0NlkQCLcBGAs/s1600/Os%2BInocentes%2Btorrent%2Bdownload%2Bdublada%2Bcompleta%2Bnetflix%2Bhd.jpg</thumbnail>
-
-<item>
-<title>Os Inocentes</title>
-<link>magnet:?xt=urn:btih:54971C8F560762B956E20499571BF4F0DB4AA777&</link>
-<thumbnail>https://3.bp.blogspot.com/-vcmHpk4dyGo/W4AwnMuIMRI/AAAAAAAAP9k/sB43UP31ldIAS9HtMw23pYlfOp5C0NlkQCLcBGAs/s1600/Os%2BInocentes%2Btorrent%2Bdownload%2Bdublada%2Bcompleta%2Bnetflix%2Bhd.jpg</thumbnail>
-<fanart></fanart>
-<info>Quando os adolescentes Harry e June fogem de suas famílias repressoras para ficarem juntos, eles são lançados em uma extraordinária jornada de auto descobrimento que desvia de seus sonhos inocentes. Segredos mantidos pelos pais testam o amor deles ao limite e o dom extraordinário que possuem desencadeia forças poderosas que podem dividi-los para sempre. </info>
-</item>
-
-<item>
-<title>Trailer</title>
-<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PuLeuC0AdOQ</trailer>
-<thumbnail>https://3.bp.blogspot.com/-vcmHpk4dyGo/W4AwnMuIMRI/AAAAAAAAP9k/sB43UP31ldIAS9HtMw23pYlfOp5C0NlkQCLcBGAs/s1600/Os%2BInocentes%2Btorrent%2Bdownload%2Bdublada%2Bcompleta%2Bnetflix%2Bhd.jpg</thumbnail>
-<fanart></fanart>
-<info>Quando os adolescentes Harry e June fogem de suas famílias repressoras para ficarem juntos, eles são lançados em uma extraordinária jornada de auto descobrimento que desvia de seus sonhos inocentes. Segredos mantidos pelos pais testam o amor deles ao limite e o dom extraordinário que possuem desencadeia forças poderosas que podem dividi-los para sempre. </info>
-</item>
-</channel>
-
+<info>Na primeira década do século XX um carro de corrida, que tinha ganho três grandes prêmios, sofre um acidente e fica totalmente queimado. Algum tempo depois duas crianças, Jemima (Heather Ripley) e Jeremy (Adrian Hall), os filhos de Caractacus Potts (Dick Van Dyke), um inventor fracassado, vêem a carcaça deste carro de corrida, que seria vendido por 30 xelins. Eles imploram ao pai que o compre, mas Potts está sem dinheiro e o avô das crianças (Lionel Jeffries), que mora com eles, se encontra na mesma situação. Após uma tentativa desastrosa de vender uma de suas invenções para o Lorde Scrumptious (James Robertson Justice), o fabricante de doces da região, Potts consegue acidentalmente dinheiro suficiente em um parque de diversões. Potts compra o carro e, milagrosamente, transforma um veículo que estava caindo aos pedaços em um carro novo em folha. Ele resolve fazer um piquenique com as crianças e o vovô, para comemorar o carro novo. No caminho eles quase batem no carro de Truly Scrumptious (Sally Ann Howes), a bela fil
