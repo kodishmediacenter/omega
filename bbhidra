@@ -1,13 +1,3 @@
-<channels></channels>
-<channel>
-<name>Series</name>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/series.txt</externallink>
-<thumbnail>http://icons.iconarchive.com/icons/dailyoverview/tv/256/television-08-icon.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</channel>
-</channels>
-
 <channels>
 <channel>
 <name>Filmes</name>
@@ -18,13 +8,17 @@
 </channel>
 </channels>
 
-<channels>
+<channels></channels>
 <channel>
-<name>Filmes Gdrive Kratos</name>
-<thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/gfilmes.txt</externallink>
-<fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
+<name>Series</name>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/series.txt</externallink>
+<thumbnail>http://icons.iconarchive.com/icons/dailyoverview/tv/256/television-08-icon.png</thumbnail>
+<fanart></fanart>
 <info></info>
 </channel>
 </channels>
+
+
+
+
 
