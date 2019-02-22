@@ -1,5 +1,94 @@
 <channels></channels>
 <channel>
+<name>Nasce Uma Estrela</name>
+<thumbnail>https://1.bp.blogspot.com/-2nyvD5-sS10/XD4fNDd2tjI/AAAAAAAAE0Y/isQ4fIRwyQo8mGTCVjbhqV3HhJbS1WCswCLcBGAs/s1600/Nasce%2Buma%2Bestrela%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+
+<item>
+<title>Nasce Uma Estrela</title>
+<link>magnet:?xt=urn:btih:3C342FB2B4CBC265B206E3ECF01125AE21613B9A&dn=%7bWWW.BLUDV.TV%7d%20Nasce%20uma%20Estrela%202019%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<thumbnail>https://1.bp.blogspot.com/-2nyvD5-sS10/XD4fNDd2tjI/AAAAAAAAE0Y/isQ4fIRwyQo8mGTCVjbhqV3HhJbS1WCswCLcBGAs/s1600/Nasce%2Buma%2Bestrela%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+<fanart></fanart>
+<info>Jackson Maine (Bradley Cooper) é um cantor no auge da fama. Um dia, após deixar uma apresentação, ele para em um bar para beber algo. É quando conhece Ally (Lady Gaga), uma insegura cantora que ganha a vida trabalhando em um restaurante. Jackson se encanta pela mulher e seu talento, decidindo acolhê-la debaixo de suas asas. Ao mesmo tempo em que Ally ascende ao estrelato, Jackson vive uma crise pessoal e profissional devido aos problemas com o álcool.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jF2nWaWqVaQ</trailer>
+<thumbnail>https://1.bp.blogspot.com/-2nyvD5-sS10/XD4fNDd2tjI/AAAAAAAAE0Y/isQ4fIRwyQo8mGTCVjbhqV3HhJbS1WCswCLcBGAs/s1600/Nasce%2Buma%2Bestrela%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+<fanart></fanart>
+<info>Jackson Maine (Bradley Cooper) é um cantor no auge da fama. Um dia, após deixar uma apresentação, ele para em um bar para beber algo. É quando conhece Ally (Lady Gaga), uma insegura cantora que ganha a vida trabalhando em um restaurante. Jackson se encanta pela mulher e seu talento, decidindo acolhê-la debaixo de suas asas. Ao mesmo tempo em que Ally ascende ao estrelato, Jackson vive uma crise pessoal e profissional devido aos problemas com o álcool.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Detetives do Prédio Azul 2 - O Mistério Italiano [NAC] </name>
+<thumbnail>https://4.bp.blogspot.com/-mYtUm7utofU/XG72s9bUH-I/AAAAAAAAGLo/xst12Vyxu0AeiADXv5MtQbbiMlQBOhxMgCLcBGAs/s1600/Detetives%2Bdo%2BPr%25C3%25A9dio%2BAzul%2B2%2B-%2BO%2BMist%25C3%25A9rio%2BItaliano%2Bdownload%2Btorrent.jpg</thumbnail>
+
+<item>
+<title>Detetives do Prédio Azul 2 - O Mistério Italiano [NAC]</title>
+<link>magnet:?xt=urn:btih:716B577867759F9E99A7A788F0E828C3FCE0E52F&dn=%7bWWW.BLUDV.TV%7d%20Detetives%20do%20Pr%c3%a9dio%20Azul%202%20-%20O%20Mist%c3%a9rio%20Italiano%202019%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<thumbnail>https://4.bp.blogspot.com/-mYtUm7utofU/XG72s9bUH-I/AAAAAAAAGLo/xst12Vyxu0AeiADXv5MtQbbiMlQBOhxMgCLcBGAs/s1600/Detetives%2Bdo%2BPr%25C3%25A9dio%2BAzul%2B2%2B-%2BO%2BMist%25C3%25A9rio%2BItaliano%2Bdownload%2Btorrent.jpg</thumbnail>
+<fanart></fanart>
+<info>Durante a Expo-Bruxas, a maior feira de bruxos do mundo, Pippo Bento e Sol viajam até a Itália para investigar o sumiço da feiticeira Berenice, que foi sequestrada pelos bruxos Máximo e Mínima Buongusto. Com trabalho em equipe e a ajuda do avô de Pippo, eles conseguirão desvendar esse mistério.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SkJPGgzZUqY</trailer>
+<thumbnail>https://4.bp.blogspot.com/-mYtUm7utofU/XG72s9bUH-I/AAAAAAAAGLo/xst12Vyxu0AeiADXv5MtQbbiMlQBOhxMgCLcBGAs/s1600/Detetives%2Bdo%2BPr%25C3%25A9dio%2BAzul%2B2%2B-%2BO%2BMist%25C3%25A9rio%2BItaliano%2Bdownload%2Btorrent.jpg</thumbnail>
+<fanart></fanart>
+<info>Durante a Expo-Bruxas, a maior feira de bruxos do mundo, Pippo Bento e Sol viajam até a Itália para investigar o sumiço da feiticeira Berenice, que foi sequestrada pelos bruxos Máximo e Mínima Buongusto. Com trabalho em equipe e a ajuda do avô de Pippo, eles conseguirão desvendar esse mistério.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Yonlu [NAC]</name>
+<thumbnail>https://2.bp.blogspot.com/-Ve58bFXAj4w/XG7Hat6Ie_I/AAAAAAAAGK0/SH9SA_zRsGY8tJtQHq8XB-IpVbxMO6vEgCLcBGAs/s1600/Yonlu%2Btorrent%2Bdownload%2Bdublado.jpg</thumbnail>
+
+<item>
+<title>Yonlu [NAC]</title>
+<link>magnet:?xt=urn:btih:5c457b4fc735be9773a71c2db4e42d24d244a899&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Yonlu%202019%20%5b720p%5d%20%5bWEB-DL%5d%20%5bNACIONAL%5d</link>
+<thumbnail>https://2.bp.blogspot.com/-Ve58bFXAj4w/XG7Hat6Ie_I/AAAAAAAAGK0/SH9SA_zRsGY8tJtQHq8XB-IpVbxMO6vEgCLcBGAs/s1600/Yonlu%2Btorrent%2Bdownload%2Bdublado.jpg</thumbnail>
+<fanart></fanart>
+<info> Vinícius Gageiro (Thalles Cabral), mais conhecido como Yonlu, é um jovem poeta, músico e desenhista, além de ser fluente em quatro idiomas. Apesar de talentoso, ele decidiu dar fim à sua vida depois de ingressar em uma comunidade virtual de assistência para potenciais suicidas.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=MW1jHA5ArR4</trailer>
+<thumbnail>https://2.bp.blogspot.com/-Ve58bFXAj4w/XG7Hat6Ie_I/AAAAAAAAGK0/SH9SA_zRsGY8tJtQHq8XB-IpVbxMO6vEgCLcBGAs/s1600/Yonlu%2Btorrent%2Bdownload%2Bdublado.jpg</thumbnail>
+<fanart></fanart>
+<info> Vinícius Gageiro (Thalles Cabral), mais conhecido como Yonlu, é um jovem poeta, músico e desenhista, além de ser fluente em quatro idiomas. Apesar de talentoso, ele decidiu dar fim à sua vida depois de ingressar em uma comunidade virtual de assistência para potenciais suicidas.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Papillon</name>
+<thumbnail>https://4.bp.blogspot.com/-V3xkat712RA/W98RgLHAFmI/AAAAAAAACXc/BlQjU5h8BsUgwaOQO4HEnZNefLTiCd2uQCLcBGAs/s1600/Papillon%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+
+<item>
+<title>Papillon</title>
+<link>magnet:?xt=urn:btih:5ADBC9B4E052098A1AFDB180A5EE193743DA494C&dn=%7bWWW.BLUDV.TV%7d%20Papillon%202019%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<thumbnail>https://4.bp.blogspot.com/-V3xkat712RA/W98RgLHAFmI/AAAAAAAACXc/BlQjU5h8BsUgwaOQO4HEnZNefLTiCd2uQCLcBGAs/s1600/Papillon%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+<fanart></fanart>
+<info> Henri Charrière (Charlie Hunnam), chamado de Papillon, pequeno bandido das baixadas de Paris da década de 30, é condenado à prisão perpétua por um crime que não cometeu. Enviado para a Ilha do Diabo, Guiana Francesa, ele conhece Louis Dega, um homem que Papillon promete ajudar em troca de auxílio para escapar da prisão. </info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4NuCY8i1J44</trailer>
+<thumbnail>https://4.bp.blogspot.com/-V3xkat712RA/W98RgLHAFmI/AAAAAAAACXc/BlQjU5h8BsUgwaOQO4HEnZNefLTiCd2uQCLcBGAs/s1600/Papillon%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+<fanart></fanart>
+<info> Henri Charrière (Charlie Hunnam), chamado de Papillon, pequeno bandido das baixadas de Paris da década de 30, é condenado à prisão perpétua por um crime que não cometeu. Enviado para a Ilha do Diabo, Guiana Francesa, ele conhece Louis Dega, um homem que Papillon promete ajudar em troca de auxílio para escapar da prisão. </info>
+</item>
+</channel>
+
+
+<channels></channels>
+<channel>
 <name>As Aventuras de Ozzy</name>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYTE0M2E4OWYtMTBiNS00NWM0LWI1NzYtYjU4ZDVhY2NkMGM2XkEyXkFqcGdeQXVyMjMwODE4ODI@._V1_SY1000_SX675_AL_.jpg</thumbnail>
 
