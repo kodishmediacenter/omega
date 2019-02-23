@@ -1,0 +1,19 @@
+<channels></channels>
+<channel>
+<name>Acampamento Sagrado</name>
+<thumbnail>https://4.bp.blogspot.com/-tHlV-JTpSHE/W6UNgA2YujI/AAAAAAAAQ1M/TCwNd5EHBPYhlOn2KKiq3tQMs9bmE08UgCLcBGAs/s1600/Holy%2BCamp%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+<item>
+<title>Acampamento Sagrado</title>
+<link>magnet:?xt=urn:btih:D200746144120FA173E5F0D4C4F5798376CB2EFA&dn=Santo%20Acampamento%202018%20%28720p%29%20WwW.LAPUMiAFiLMES.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<thumbnail>https://4.bp.blogspot.com/-tHlV-JTpSHE/W6UNgA2YujI/AAAAAAAAQ1M/TCwNd5EHBPYhlOn2KKiq3tQMs9bmE08UgCLcBGAs/s1600/Holy%2BCamp%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+<fanart></fanart>
+<info>Acampamento Sagrado (Holy Camp! La llamada) Ã© a adaptaÃ§Ã£o cinematogrÃ¡fica do musical popular de Javier Calvo e Javier Ambrossi, estreando como diretores de cinema. A histÃ³ria original conta as aventuras de MarÃ­a e Susana, duas jovens que passam o verÃ£o de 2013 em um acampamento de freiras em SegÃ³via, um lugar isolado e cercado pela natureza. Mas as garotas querem se divertir e como boas amantes de festa e mÃºsica eletro latina, vÃ£o Ã  noite na rota das discotecas nas proximidades, tentando fazer com que as irmÃ£s Bernarda e Milagros nÃ£o descubram. Mas uma noite, depois de danÃ§ar muito na pista, o prÃ³prio Deus aparece a MarÃ­a e tenta encantÃ¡-la com mÃºsica de Whitney Houston.</info>
+</item>
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jc9PIBWSNjA</trailer>
+<thumbnail>https://4.bp.blogspot.com/-tHlV-JTpSHE/W6UNgA2YujI/AAAAAAAAQ1M/TCwNd5EHBPYhlOn2KKiq3tQMs9bmE08UgCLcBGAs/s1600/Holy%2BCamp%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+<fanart></fanart>
+<info>jc9PIBWSNjA</info>
+</item>
+</channel>
