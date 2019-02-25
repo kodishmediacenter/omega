@@ -1,5 +1,34 @@
 <channels></channels>
 <channel>
+<name>O Levante da Páscoa - Rebellion</name>
+<thumbnail>https://1.bp.blogspot.com/--oyjBC16R88/XHI-euzf8NI/AAAAAAAAGWs/1Qe0_L-smGAtmY3-Q4YxbRtpKVvyoRvtgCLcBGAs/s1600/Rebellion%2B2%2Btemporada%2Btorrent%2Bdownload.jpg</thumbnail>
+
+<item>
+<title>O Levante da Páscoa - Rebellion 1º Temporada</title>
+<link>magnet:?xt=urn:btih:6c4cd059088bb8e25c03406920caf19025ab69b6&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Rebellion%202%c2%aa%20Temporada%20Completa%202019%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d</link>
+<thumbnail>https://1.bp.blogspot.com/--oyjBC16R88/XHI-euzf8NI/AAAAAAAAGWs/1Qe0_L-smGAtmY3-Q4YxbRtpKVvyoRvtgCLcBGAs/s1600/Rebellion%2B2%2Btemporada%2Btorrent%2Bdownload.jpg</thumbnail>
+<fanart></fanart>
+<info>A história é situada em 1916, quando um grupo com cerca de mil homens, liderados por James Connolly e Patrick Pearse, iniciou uma rebelião em Dublin, Irlanda do Norte, a qual ficou conhecida como a Revolta da Páscoa.Enfrentando as forças armadas, eles resistiram por quase uma semana. Neste meio tempo, Eamon DeValera, e outros líderes do movimento nacionalista, proclamou a independência da Grã-Bretanha.Rebellion apresentará a história de personagens ficcionais vivendo um momento histórico. </info>
+</item>
+
+<item>
+<title>O Levante da Páscoa - Rebellion 2º Temporada</title>
+<link>magnet:?xt=urn:btih:9AFD038CA9B2579251BCB5D3A20A241CA59DB187&dn=Rebellion%201%c2%aa%20Temporada%20%5bMinisserie%5d%20%5b720p%5d%20%5bDUAL%5d%20-%20COMANDOTORRENTS.COM</link>
+<thumbnail>https://1.bp.blogspot.com/--oyjBC16R88/XHI-euzf8NI/AAAAAAAAGWs/1Qe0_L-smGAtmY3-Q4YxbRtpKVvyoRvtgCLcBGAs/s1600/Rebellion%2B2%2Btemporada%2Btorrent%2Bdownload.jpg</thumbnail>
+<fanart></fanart>
+<info>A história é situada em 1916, quando um grupo com cerca de mil homens, liderados por James Connolly e Patrick Pearse, iniciou uma rebelião em Dublin, Irlanda do Norte, a qual ficou conhecida como a Revolta da Páscoa.Enfrentando as forças armadas, eles resistiram por quase uma semana. Neste meio tempo, Eamon DeValera, e outros líderes do movimento nacionalista, proclamou a independência da Grã-Bretanha.Rebellion apresentará a história de personagens ficcionais vivendo um momento histórico. </info>
+</item>
+
+<item>
+<title>[COLOR yellow]Trailer[/COLOR]O Levante da Páscoa - Rebellion[COLOR orange] (IMDB nota:)[/COLOR]7.1</title>
+<utube>2ueThSkUgk4</utube>
+<thumbnail>https://1.bp.blogspot.com/--oyjBC16R88/XHI-euzf8NI/AAAAAAAAGWs/1Qe0_L-smGAtmY3-Q4YxbRtpKVvyoRvtgCLcBGAs/s1600/Rebellion%2B2%2Btemporada%2Btorrent%2Bdownload.jpg</thumbnail>
+<fanart></fanart>
+<info>A história é situada em 1916, quando um grupo com cerca de mil homens, liderados por James Connolly e Patrick Pearse, iniciou uma rebelião em Dublin, Irlanda do Norte, a qual ficou conhecida como a Revolta da Páscoa.Enfrentando as forças armadas, eles resistiram por quase uma semana. Neste meio tempo, Eamon DeValera, e outros líderes do movimento nacionalista, proclamou a independência da Grã-Bretanha.Rebellion apresentará a história de personagens ficcionais vivendo um momento histórico. </info>
+</item>
+
+<channels></channels>
+<channel>
 <name>Trigger Warning with Killer Mike</name>
 <thumbnail>https://2.bp.blogspot.com/-ryAzRYuGsXQ/XEd7f8MWAgI/AAAAAAAAFCM/mesewaeospQ3QCtNnjsuU1XejewOZ2TSQCLcBGAs/s1600/Trigger%2BWarning%2Bwith%2BKiller%2BMike%2Btorrent%2Bdownload%2Bdublada%2Bcompleta.jpg</thumbnail>
 
