@@ -73,3 +73,83 @@
 </item>
 
 
+
+
+
+
+
+
+<channels></channels>
+<channel>
+<name>Carnaval RJ 2019 Grupo A</name>
+<thumbnail>http://www.luftur.com.br/arquivos_loja/6895/arquivo/ordem-lierj-2019-2.png</thumbnail>
+<item>
+
+<title>Unidos da Ponte</title>
+<link>plugin://plugin.video.youtube/play/?video_id=uL59ujZTwGA&list=PLV__MeJUlVO-nB3cuMbTmGnv2QAnJU02l&index=1</link>
+<thumbnail>https://i.ytimg.com/vi/uL59ujZTwGA/maxresdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>Alegria da Zona Sul</title>
+<link>plugin://plugin.video.youtube/play/?video_id=10Pzriw5QIY&list=PLV__MeJUlVO-nB3cuMbTmGnv2QAnJU02l&index=2</link>
+<thumbnail>https://i.ytimg.com/vi/10Pzriw5QIY/maxresdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>Academicos da Rocinha</title>
+<link>plugin://plugin.video.youtube/play/?video_id=HK4r_mrtgiE&list=PLV__MeJUlVO-nB3cuMbTmGnv2QAnJU02l&index=3</link>
+<thumbnail>https://i.ytimg.com/vi/HK4r_mrtgiE/maxresdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>Academicos de Santa Cruz</title>
+<link>plugin://plugin.video.youtube/play/?video_id=w23xDaHaBu0&list=PLV__MeJUlVO-nB3cuMbTmGnv2QAnJU02l&index=4</link>
+<thumbnail>https://i.ytimg.com/vi/w23xDaHaBu0/maxresdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>Unidos de Padre Miguel</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Tf6O0bKkc1w&list=PLV__MeJUlVO-nB3cuMbTmGnv2QAnJU02l&index=5</link>
+<thumbnail>https://i.ytimg.com/vi/Tf6O0bKkc1w/maxresdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>Inocentes de Belford Roxo</title>
+<link>plugin://plugin.video.youtube/play/?video_id=T96LgyO7Das&list=PLV__MeJUlVO-nB3cuMbTmGnv2QAnJU02l&index=6</link>
+<thumbnail>https://i.ytimg.com/vi/T96LgyO7Das/maxresdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>Academicos do Sossego</title>
+<link>plugin://plugin.video.youtube/play/?video_id=iwy3UiVcVXo&list=PLV__MeJUlVO-nB3cuMbTmGnv2QAnJU02l&index=7</link>
+<thumbnail>https://i.ytimg.com/vi/iwy3UiVcVXo/maxresdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
