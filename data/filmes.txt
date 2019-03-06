@@ -1,5 +1,224 @@
 <channels></channels>
 <channel>
+<name>Leal, solo hay una forma de vivir</name>
+<thumbnail>https://hidratorrent.com/capa/leal-solo-hay-una-forma-de-vivir-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Leal, solo hay una forma de vivir</title>
+<link>magnet:?xt=urn:btih:ED33FB186E00421E96CDD7D53CFDD213883A51D9&dn=%5bWWW.BLUDV.TV%5d%20Leal%202019%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<thumbnail>https://hidratorrent.com/capa/leal-solo-hay-una-forma-de-vivir-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Um ex-coronel paraguaio forma um grupo paramilitar especial focado no combate ao narcotráfico para proteger as fronteiras de seu país.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=RtCMfOWY10E</trailer>
+<thumbnail>https://hidratorrent.com/capa/leal-solo-hay-una-forma-de-vivir-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Um ex-coronel paraguaio forma um grupo paramilitar especial focado no combate ao narcotráfico para proteger as fronteiras de seu país.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Aquaman</name>
+<thumbnail>https://hidratorrent.com/capa/aquaman-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Aquaman</title>
+<link>magnet:?xt=urn:btih:1172B201184ABC54DD673C7750E12B9619C45D91&dn=%5bWWW.BLUDV.TV%5d%20Aquaman%202019%20%281080p%20-%20WEB-DL%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<thumbnail>https://hidratorrent.com/capa/aquaman-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>O meio-humano, meio-Atlante Arthur Curry (Jason Momoa), é levado à jornada de sua vida — uma jornada que vai forçá-lo a não só encarar sua verdadeira identidade, mas também a descobrir se ele tem o que é necessário para ser… um rei.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=90bG43JcwRE</trailer>
+<thumbnail>https://hidratorrent.com/capa/aquaman-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>O meio-humano, meio-Atlante Arthur Curry (Jason Momoa), é levado à jornada de sua vida — uma jornada que vai forçá-lo a não só encarar sua verdadeira identidade, mas também a descobrir se ele tem o que é necessário para ser… um rei.</info>
+</item>
+</channel>
+<! myfc tt1477834_Aq_2018_A+PT.mp4>
+
+<channels></channels>
+<channel>
+<name>Infiltrado na Klan</name>
+<thumbnail>https://hidratorrent.com/capa/infiltrado-na-klan-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Infiltrado na Klan</title>
+<link>magnet:?xt=urn:btih:12F5FE1929254B30498AC3C93648BD0611F48DF4&dn=%5bWWW.BLUDV.TV%5d%20Infiltrado%20na%20Klan%202019%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<thumbnail>https://hidratorrent.com/capa/infiltrado-na-klan-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Em 1978, Ron Stallworth, um policial negro do Colorado, conseguiu se infiltrar na Ku Klux Klan local. Ele se comunicava com os outros membros do grupo através de telefonemas e cartas, quando precisava estar fisicamente presente enviava um outro policial branco no seu lugar. Depois de meses de investigação, Ron se tornou o líder da seita, sendo responsável por sabotar uma série de linchamentos e outros crimes de ódio orquestrados pelos racistas. </info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ie339j2Qeog</trailer>
+<thumbnail>https://hidratorrent.com/capa/infiltrado-na-klan-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Em 1978, Ron Stallworth, um policial negro do Colorado, conseguiu se infiltrar na Ku Klux Klan local. Ele se comunicava com os outros membros do grupo através de telefonemas e cartas, quando precisava estar fisicamente presente enviava um outro policial branco no seu lugar. Depois de meses de investigação, Ron se tornou o líder da seita, sendo responsável por sabotar uma série de linchamentos e outros crimes de ódio orquestrados pelos racistas. </info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Megarromântico</name>
+<thumbnail>https://hidratorrent.com/capa/megarrromantico-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Megarromântico</title>
+<link>magnet:?xt=urn:btih:d4ecec9241a5b65069802c32f2c55e405df210df&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Megarromantico%202019%20%5b1080p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d</link>
+<thumbnail>https://hidratorrent.com/capa/megarrromantico-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Natalie (Rebel Wilson) é uma jovem arquiteta que se empenha para ser reconhecida por seu trabalho. Ela que sempre foi uma cética quanto ao amor, tem um encontro conturbado que termina com ela sendo assaltada e deixada inconsciente. Quando acorda. a moça vê que misteriosamente foi parar em um filme de comédia romântica.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=g2l-X7q4eh8</trailer>
+<thumbnail>https://hidratorrent.com/capa/megarrromantico-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Natalie (Rebel Wilson) é uma jovem arquiteta que se empenha para ser reconhecida por seu trabalho. Ela que sempre foi uma cética quanto ao amor, tem um encontro conturbado que termina com ela sendo assaltada e deixada inconsciente. Quando acorda. a moça vê que misteriosamente foi parar em um filme de comédia romântica.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Os Caubóis do Apocalipse [NAC]</name>
+<thumbnail>https://hidratorrent.com/capa/os-caubois-do-apocalipse-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Os Caubóis do Apocalipse [NAC]</title>
+<link>magnet:?xt=urn:btih:8910d3d5edc7d3fea6e5d6740ff531ea13f2a784&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Os%20Caub%c3%b3is%20do%20Apocalipse%202019%20%5b1080p%5d%20%5bWEB-DL%5d%20%5bNACIONAL%5d</link>
+<thumbnail>https://hidratorrent.com/capa/os-caubois-do-apocalipse-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Tom é um adolescente apaixonado por música, por um breve período na infância, ele montou a banda "Caubóis do Apocalipse", com Nanda e Dedão, seus dois melhores amigos da época que agora encontram-se afastados. Depois de anos sem tocar, o menino decide reunir os antigos integrantes do grupo para a filmagem de um clipe. </info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=oMNek3YRLLQ</trailer>
+<thumbnail>https://hidratorrent.com/capa/os-caubois-do-apocalipse-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Tom é um adolescente apaixonado por música, por um breve período na infância, ele montou a banda "Caubóis do Apocalipse", com Nanda e Dedão, seus dois melhores amigos da época que agora encontram-se afastados. Depois de anos sem tocar, o menino decide reunir os antigos integrantes do grupo para a filmagem de um clipe. </info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>WiFi Ralph - Quebrando a Internet </name>
+<thumbnail>https://4.bp.blogspot.com/-KkmYAPKUUyk/XCj8ykUbs1I/AAAAAAAAEPs/jP36OWOahegdNJWW-p-2pQC1T5gXh9pZwCLcBGAs/s1600/WiFi%2BRalph%2BQuebrando%2Ba%2BInternet%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+
+<item>
+<title>WiFi Ralph - Quebrando a Internet </title>
+<link>magnet:?xt=urn:btih:184ab19e0fbfc12c379fcfe6d14118e8cdb08ede&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20WiFi%20Ralph%20-%20Quebrando%20a%20Internet%20%5bBluRay%5d%20%5b1080p%5d%20%5bDUAL%5d</link>
+<thumbnail>https://4.bp.blogspot.com/-KkmYAPKUUyk/XCj8ykUbs1I/AAAAAAAAEPs/jP36OWOahegdNJWW-p-2pQC1T5gXh9pZwCLcBGAs/s1600/WiFi%2BRalph%2BQuebrando%2Ba%2BInternet%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+<fanart></fanart>
+<info>Ralph, o mais famoso vilão dos videogames, e Vanellope, sua companheira atrapalhada, iniciam mais uma arriscada aventura. Após a gloriosa vitória no Fliperama Litwak, a dupla viaja para a world wide web, no universo expansivo e desconhecido da internet. Dessa vez, a missão é achar uma peça reserva para salvar o videogame Corrida Doce, de Vanellope. Para isso, eles contam com a ajuda dos "cidadãos da Internet" e de Yess, a alma por trás do Buzzztube, um famoso website que dita tendências. </info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_Q0qHkFoc8Y</trailer>
+<thumbnail>https://4.bp.blogspot.com/-KkmYAPKUUyk/XCj8ykUbs1I/AAAAAAAAEPs/jP36OWOahegdNJWW-p-2pQC1T5gXh9pZwCLcBGAs/s1600/WiFi%2BRalph%2BQuebrando%2Ba%2BInternet%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+<fanart></fanart>
+<info>Ralph, o mais famoso vilão dos videogames, e Vanellope, sua companheira atrapalhada, iniciam mais uma arriscada aventura. Após a gloriosa vitória no Fliperama Litwak, a dupla viaja para a world wide web, no universo expansivo e desconhecido da internet. Dessa vez, a missão é achar uma peça reserva para salvar o videogame Corrida Doce, de Vanellope. Para isso, eles contam com a ajuda dos "cidadãos da Internet" e de Yess, a alma por trás do Buzzztube, um famoso website que dita tendências. </info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>The Hard Way</name>
+<thumbnail>https://hidratorrent.com/capa/the-hard-way-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>The Hard Way</title>
+<link>magnet:?xt=urn:btih:3531ac85f16954f8333369be9f7b240604de027c&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20The%20Hard%20Way%202019%20%5b1080p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d</link>
+<thumbnail>https://hidratorrent.com/capa/the-hard-way-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> Depois de ficar sabendo que seu irmão morreu em uma missão na Romênia, um antigo soldado se junta a dois aliados para caçar e se vingar de um inimigo misterioso.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=AjWfY7SnMBI</trailer>
+<thumbnail>https://hidratorrent.com/capa/the-hard-way-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> Depois de ficar sabendo que seu irmão morreu em uma missão na Romênia, um antigo soldado se junta a dois aliados para caçar e se vingar de um inimigo misterioso.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Velocidade Mortal </name>
+<thumbnail>https://hidratorrent.com/capa/velocidade-mortal-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Velocidade Mortal </title>
+<link>magnet:?xt=urn:btih:1A136D125BC8E9DB4DA64DE713A5BE06CB7F2EFE&dn=%5bWWW.BLUDV.TV%5d%20Velocidade%20Mortal%202019%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<thumbnail>https://hidratorrent.com/capa/velocidade-mortal-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>O filme traz a história real de Don Aronow, um campeão de corrida de barcos que se tornou multimilionário e é conhecido por ser mulherengo e pela criação da lancha cigarette. Don fez sua fortuna vendendo barcos para líderes mundiais, bilionários e estrelas POP, além de trabalhar com o governo americano e com cartéis de drogas. Seu envolvimento com negócios perigosos acabaram se voltando contra si mesmo e em 1987 Aronow foi assassinado em seu carro em Miami, sob circunstâncias misteriosas.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=drIqjJ36NvY</trailer>
+<thumbnail>https://hidratorrent.com/capa/velocidade-mortal-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>O filme traz a história real de Don Aronow, um campeão de corrida de barcos que se tornou multimilionário e é conhecido por ser mulherengo e pela criação da lancha cigarette. Don fez sua fortuna vendendo barcos para líderes mundiais, bilionários e estrelas POP, além de trabalhar com o governo americano e com cartéis de drogas. Seu envolvimento com negócios perigosos acabaram se voltando contra si mesmo e em 1987 Aronow foi assassinado em seu carro em Miami, sob circunstâncias misteriosas.</info>
+</item>
+</channel>
+<channels></channels>
+<channel>
+<name>Zumbilênio - O Parque dos Monstros</name>
+<thumbnail>https://hidratorrent.com/capa/zumbilenio-o-parque-dos-monstros-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Zumbilênio - O Parque dos Monstros</title>
+<link>magnet:?xt=urn:btih:489b380c34496c34c56e36cc789f8b3d5f445ab2&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Zumbilenio%20O%20Parque%20dos%20Monstros%202019%20%5b1080p%5d%20%5bBluRay%5d%20%5bDUAL%5d</link>
+<thumbnail>https://hidratorrent.com/capa/zumbilenio-o-parque-dos-monstros-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Zombillenium, é um parque de diversões em que as principais atrações são vampiros, lobisomens, zumbis e outros demônios. Seu dono é ninguém menos que o próprio diabo em pessoa. Os empregados estão cansados de seu trabalho e não querem mais ser meros objetos para a satisfação dos humanos. É quando Hector, um fiscal, visitando o parque em busca de possíveis irregularidades é morto, tornando-se um de seus funcionários, e deixando a filha órfã. Eles agora devem se adaptar a essa nova </info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=iABn3LNabuk</trailer>
+<thumbnail>https://hidratorrent.com/capa/zumbilenio-o-parque-dos-monstros-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Zombillenium, é um parque de diversões em que as principais atrações são vampiros, lobisomens, zumbis e outros demônios. Seu dono é ninguém menos que o próprio diabo em pessoa. Os empregados estão cansados de seu trabalho e não querem mais ser meros objetos para a satisfação dos humanos. É quando Hector, um fiscal, visitando o parque em busca de possíveis irregularidades é morto, tornando-se um de seus funcionários, e deixando a filha órfã. Eles agora devem se adaptar a essa nova </info>
+</item>
+</channel>
+<channels></channels>
+<channel>
+<name>As Viúvas</name>
+<thumbnail>https://1.bp.blogspot.com/-MlYaQP7YC9I/XEd7eASUoBI/AAAAAAAAFB4/fK7sidONf-cl4zOls6qg0_a9HFKSFWXkQCLcBGAs/s1600/As%2BVi%25C3%25BAvas%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+
+<item>
+<title>As Viúvas</title>
+<link>magnet:?xt=urn:btih:f40a202ba20a4497fb99571cc6bc74432cfc67c2&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20As%20Viuvas%20%5bBluRay%5d%20%5b1080p%5d%20%5bDUAL%5d</link>
+<thumbnail>https://1.bp.blogspot.com/-MlYaQP7YC9I/XEd7eASUoBI/AAAAAAAAFB4/fK7sidONf-cl4zOls6qg0_a9HFKSFWXkQCLcBGAs/s1600/As%2BVi%25C3%25BAvas%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+<fanart></fanart>
+<info>A história de quatro mulheres sem nada em comum, exceto uma dívida deixada pelas atividades criminosas de seus maridos mortos. Situada na contemporânea Chicago, em meio a um tumulto, as tensões aumentam quando Veronica (Viola Davis), Alice (Elizabeth Debicki), Linda (Michelle Rodriguez) e Belle (Cynthia Erivo) assumem o destino em suas próprias mãos e conspiram para forjar um futuro em seus próprios termos.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=nN2yBBSRC78</trailer>
+<thumbnail>https://1.bp.blogspot.com/-MlYaQP7YC9I/XEd7eASUoBI/AAAAAAAAFB4/fK7sidONf-cl4zOls6qg0_a9HFKSFWXkQCLcBGAs/s1600/As%2BVi%25C3%25BAvas%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+<fanart></fanart>
+<info>A história de quatro mulheres sem nada em comum, exceto uma dívida deixada pelas atividades criminosas de seus maridos mortos. Situada na contemporânea Chicago, em meio a um tumulto, as tensões aumentam quando Veronica (Viola Davis), Alice (Elizabeth Debicki), Linda (Michelle Rodriguez) e Belle (Cynthia Erivo) assumem o destino em suas próprias mãos e conspiram para forjar um futuro em seus próprios termos.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
 <name>Em seu lugar</name>
 <thumbnail>https://hidratorrent.com/capa/em-seu-lugar-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 
