@@ -1,0 +1,400 @@
+
+
+<item>
+<title>A Cabana</title>
+<link>plugin://plugin.video.youtube/play/?video_id=WkSizIsHLvw</link>
+<thumbnail>https://i.ytimg.com/vi/WkSizIsHLvw/hqdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>Entrevista com Deus</title>
+<link>plugin://plugin.video.youtube/play/?video_id=0J41FRQmbkg</link>
+<thumbnail>https://i.ytimg.com/vi/0J41FRQmbkg/hqdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>Deus Não Está Morto 3</title>
+<link>plugin://plugin.video.youtube/play/?video_id=tKV5f208eb0</link>
+<thumbnail>https://i.ytimg.com/vi/tKV5f208eb0/hqdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>Tacada Para a Vitoria</title>
+<link>plugin://plugin.video.youtube/play/?video_id=-sMt7PXeRLI</link>
+<thumbnail>https://i.ytimg.com/vi/-sMt7PXeRLI/hqdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>Os meninos que enganavam os nazistas</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Trt85izXV1k</link>
+<thumbnail>https://i.ytimg.com/vi/Trt85izXV1k/hqdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>O Poder do Perdão</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ksvCB62sPvo</link>
+<thumbnail>https://i.ytimg.com/vi/ksvCB62sPvo/hqdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>O Melhor de Mim</title>
+<link>plugin://plugin.video.youtube/play/?video_id=hLzoHqjaYdI</link>
+<thumbnail>https://i.ytimg.com/vi/hLzoHqjaYdI/hqdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>Uma Vida com Propósito</title>
+<link>plugin://plugin.video.youtube/play/?video_id=63UNr4PCtAk</link>
+<thumbnail>https://i.ytimg.com/vi/63UNr4PCtAk/hqdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>O Milagre em Cokeville</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ZUGReMWvJnY</link>
+<thumbnail>https://i.ytimg.com/vi/ZUGReMWvJnY/hqdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>Num piscar de olhos</title>
+<link>plugin://plugin.video.youtube/play/?video_id=789wawEp6Mg</link>
+<thumbnail>https://i.ytimg.com/vi/789wawEp6Mg/hqdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>Ligados Pelo Amor O filme</title>
+<link>plugin://plugin.video.youtube/play/?video_id=kuPYH_eFXn4</link>
+<thumbnail>https://i.ytimg.com/vi/kuPYH_eFXn4/maxresdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>Uma questão de Fé</title>
+<link>plugin://plugin.video.youtube/play/?video_id=PCGCXusK2pc</link>
+<thumbnail>https://i.ytimg.com/vi/PCGCXusK2pc/maxresdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>Jogo de Amor em Florença</title>
+<link>plugin://plugin.video.youtube/play/?video_id=3vFgAoRmvHs</link>
+<thumbnail>https://i.ytimg.com/vi/3vFgAoRmvHs/hqdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>Gosto não se discute</title>
+<link>plugin://plugin.video.youtube/play/?video_id=hHbbBHPwHQ8</link>
+<thumbnail>https://i.ytimg.com/vi/hHbbBHPwHQ8/hqdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>O Evangelho Segundo João</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Xi35IRFWSBU</link>
+<thumbnail>https://i.ytimg.com/vi/Xi35IRFWSBU/maxresdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>Nova Esperança</title>
+<link>plugin://plugin.video.youtube/play/?video_id=5nT-UFL5yz8</link>
+<thumbnail>https://i.ytimg.com/vi/5nT-UFL5yz8/hqdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>Uma Família de Dois</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Uy1riH9Vks8</link>
+<thumbnail>https://i.ytimg.com/vi/Uy1riH9Vks8/hqdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>A Luta de Um Campeão</title>
+<link>plugin://plugin.video.youtube/play/?video_id=UeqKE1GsK2I</link>
+<thumbnail>https://i.ytimg.com/vi/UeqKE1GsK2I/maxresdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>Um Amor Para Recordar</title>
+<link>plugin://plugin.video.youtube/play/?video_id=S7SxRT3jLjA</link>
+<thumbnail>https://i.ytimg.com/vi/S7SxRT3jLjA/hqdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>Aos Olhos De Deus</title>
+<link>plugin://plugin.video.youtube/play/?video_id=OP_BDqWq3YQ</link>
+<thumbnail>https://i.ytimg.com/vi/OP_BDqWq3YQ/hqdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>Petter Rabbit</title>
+<link>plugin://plugin.video.youtube/play/?video_id=7KyVeuTX040</link>
+<thumbnail>https://i.ytimg.com/vi/7KyVeuTX040/hqdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>Força de Viver,</title>
+<link>plugin://plugin.video.youtube/play/?video_id=26-T-AM8JCQ</link>
+<thumbnail>https://i.ytimg.com/vi/26-T-AM8JCQ/hqdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>Conversando com Deus</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ukjtbZNRb-k</link>
+<thumbnail>https://i.ytimg.com/vi/ukjtbZNRb-k/hqdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>Mãos talentosas Bem Carson</title>
+<link>plugin://plugin.video.youtube/play/?video_id=GKcKXt2s_cw</link>
+<thumbnail>https://i.ytimg.com/vi/GKcKXt2s_cw/hqdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>O Refugio</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Qm7P3Q-EZ2s</link>
+<thumbnail>https://i.ytimg.com/vi/Qm7P3Q-EZ2s/maxresdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>Um pedido de Socorro</title>
+<link>plugin://plugin.video.youtube/play/?video_id=d_MJLxrwNRM</link>
+<thumbnail>https://i.ytimg.com/vi/d_MJLxrwNRM/hqdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>Vivendo a vida</title>
+<link>plugin://plugin.video.youtube/play/?video_id=BCFBqBLHBiY</link>
+<thumbnail>https://i.ytimg.com/vi/BCFBqBLHBiY/hqdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>Lição de Amor</title>
+<link>plugin://plugin.video.youtube/play/?video_id=dkEg_iXvUAU</link>
+<thumbnail>https://i.ytimg.com/vi/dkEg_iXvUAU/hqdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>Não Aceitamos devoluções</title>
+<link>plugin://plugin.video.youtube/play/?video_id=VaepJez6HvY</link>
+<thumbnail>https://i.ytimg.com/vi/VaepJez6HvY/hqdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>Milagres do Paraiso</title>
+<link>plugin://plugin.video.youtube/play/?video_id=0zX3AxJkTCo</link>
+<thumbnail>https://i.ytimg.com/vi/0zX3AxJkTCo/maxresdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>As Metas de Jessica Darling [SD]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=17O-qZmhQIc</link>
+<thumbnail>https://i.ytimg.com/vi/17O-qZmhQIc/hqdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>Uma Patricinha de Outro Mundo [SD]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=nf8YKpOH6Zo</link>
+<thumbnail>https://i.ytimg.com/vi/nf8YKpOH6Zo/hqdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>Romeu e Julieta </title>
+<link>plugin://plugin.video.youtube/play/?video_id=twkntlx_UU4</link>
+<thumbnail>https://i.ytimg.com/vi/twkntlx_UU4/hqdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>O Relogio do Céu</title>
+<link>plugin://plugin.video.youtube/play/?video_id=35lil131GiM</link>
+<thumbnail>https://i.ytimg.com/vi/35lil131GiM/maxresdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>Com Mérito</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Bhqakbtr3fU</link>
+<thumbnail>https://i.ytimg.com/vi/Bhqakbtr3fU/hqdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>Ensinando a Viver</title>
+<link>plugin://plugin.video.youtube/play/?video_id=-LSHqbuQaM4</link>
+<thumbnail>https://i.ytimg.com/vi/-LSHqbuQaM4/maxresdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>A Arte da Conquista</title>
+<link>plugin://plugin.video.youtube/play/?video_id=YKm8YMFcWjg</link>
+<thumbnail>https://i.ytimg.com/vi/YKm8YMFcWjg/maxresdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>O Misterio da Floricutura</title>
+<link>plugin://plugin.video.youtube/play/?video_id=2To43oBf8NI</link>
+<thumbnail>https://i.ytimg.com/vi/2To43oBf8NI/hqdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>Fazenda dos Cisnes</title>
+<link>plugin://plugin.video.youtube/play/?video_id=hwsXoxnUkY8</link>
+<thumbnail>https://i.ytimg.com/vi/hwsXoxnUkY8/hqdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
+
+
+<item>
+<title>Archie O Cão Robo</title>
+<link>plugin://plugin.video.youtube/play/?video_id=fY8bqYH-UXI</link>
+<thumbnail>https://i.ytimg.com/vi/fY8bqYH-UXI/hqdefault.jpg</thumbnail>
+<fanart>http://www.spain.info/export/sites/spaininfo/comun/galeria_imagenes/genericas/d_cine_s20903101.jpg_369272544.jpg</fanart>
+<info></info>
+<info2></info2>
+</item>
