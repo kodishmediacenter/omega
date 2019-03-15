@@ -41,7 +41,6 @@
 <info>O meio-humano, meio-Atlante Arthur Curry (Jason Momoa), é levado à jornada de sua vida — uma jornada que vai forçá-lo a não só encarar sua verdadeira identidade, mas também a descobrir se ele tem o que é necessário para ser… um rei.</info>
 </item>
 </channel>
-<! myfc tt1477834_Aq_2018_A+PT.mp4>
 
 <channels></channels>
 <channel>
