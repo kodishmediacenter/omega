@@ -24,7 +24,6 @@
 <channel>
 <name>Aquaman</name>
 <thumbnail>https://hidratorrent.com/capa/aquaman-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-
 <item>
 <title>Aquaman</title>
 <link>magnet:?xt=urn:btih:1172B201184ABC54DD673C7750E12B9619C45D91&dn=%5bWWW.BLUDV.TV%5d%20Aquaman%202019%20%281080p%20-%20WEB-DL%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
@@ -32,7 +31,6 @@
 <fanart></fanart>
 <info>O meio-humano, meio-Atlante Arthur Curry (Jason Momoa), é levado à jornada de sua vida — uma jornada que vai forçá-lo a não só encarar sua verdadeira identidade, mas também a descobrir se ele tem o que é necessário para ser… um rei.</info>
 </item>
-
 <item>
 <title>Trailer</title>
 <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=90bG43JcwRE</trailer>
