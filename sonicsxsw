@@ -1,42 +1,9 @@
-<channels></channels>
-<channel>
-<name>Sonic SXSW 2019</name>
-<thumbnail>http://www.powersonic.com.br/wp-content/uploads/2019/03/D02WaaGWsAAN_zo.jpg</thumbnail>
-
 #EXTM3U
- 
-<item>
-<title>Opção 1</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eI-tBjjgg4g</link>
-<thumbnail>http://www.powersonic.com.br/wp-content/uploads/2019/03/D02WaaGWsAAN_zo.jpg</thumbnail>
-<fanart></fanart>
-<info>A Live Novidades do Sonic</info>
-</item>
-
-
-<item>
-<title>Opção 2</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=OS-g0euapco</link>
-<thumbnail>http://www.powersonic.com.br/wp-content/uploads/2019/03/D02WaaGWsAAN_zo.jpg</thumbnail>
-<fanart></fanart>
-<info>A Live Novidades do Sonic</info>
-</item>
-
-
-<item>
-<title>Opção 3</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zc2p9TB4KLQ</link>
-<thumbnail>http://www.powersonic.com.br/wp-content/uploads/2019/03/D02WaaGWsAAN_zo.jpg</thumbnail>
-<fanart></fanart>
-<info>A Live Novidades do Sonic</info>
-</item>
-
-
-<item>
-<title>Opção 4</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zc2p9TB4KLQ</link>
-<thumbnail>http://www.powersonic.com.br/wp-content/uploads/2019/03/D02WaaGWsAAN_zo.jpg</thumbnail>
-<fanart></fanart>
-<info>A Live Novidades do Sonic</info>
-</item>
-</channel>
+#EXTINF:-1 tvg-id="Sonic SXSW 2019" tvg-logo="http://www.powersonic.com.br/wp-content/uploads/2019/03/D02WaaGWsAAN_zo.jpg" group-title="Sonic SXSW 2019",Opcao 1
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=eI-tBjjgg4g
+#EXTINF:-1 tvg-id="Sonic SXSW 2019" tvg-logo="http://www.powersonic.com.br/wp-content/uploads/2019/03/D02WaaGWsAAN_zo.jpg" group-title="Sonic SXSW 2019",Opcao 2
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=OS-g0euapco
+#EXTINF:-1 tvg-id="Sonic SXSW 2019" tvg-logo="http://www.powersonic.com.br/wp-content/uploads/2019/03/D02WaaGWsAAN_zo.jpg" group-title="Sonic SXSW 2019",Opcao 3
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=zc2p9TB4KLQ
+#EXTINF:-1 tvg-id="Sonic SXSW 2019" tvg-logo="http://www.powersonic.com.br/wp-content/uploads/2019/03/D02WaaGWsAAN_zo.jpg" group-title="Sonic SXSW 2019",Opcao 4
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=zc2p9TB4KLQ
