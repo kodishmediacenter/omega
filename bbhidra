@@ -30,9 +30,9 @@
 
 <channels></channels>
 <channel>
-<name>Carnaval</name>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/sp</externallink>
-<thumbnail>https://tribunaonline.com.br/thumbs/square_xs/2019-02/logo-carnaval-2019-5a01e2213e9cd440c7e3d7ba5879762c.jpg</thumbnail>
+<name>Sonic SXSW 2019</name>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/sonicsxsw</externallink>
+<thumbnail>http://www.powersonic.com.br/wp-content/uploads/2019/03/D02WaaGWsAAN_zo.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
 </channel>
