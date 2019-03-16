@@ -1,0 +1,41 @@
+<channels></channels>
+<channel>
+<name>Sonic SXSW 2019</name>
+<thumbnail>http://www.powersonic.com.br/wp-content/uploads/2019/03/D02WaaGWsAAN_zo.jpg</thumbnail>
+
+
+<item>
+<title>Opção 1</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eI-tBjjgg4g</trailer>
+<thumbnail>http://www.powersonic.com.br/wp-content/uploads/2019/03/D02WaaGWsAAN_zo.jpg</thumbnail>
+<fanart></fanart>
+<info>A Live Novidades do Sonic</info>
+</item>
+</channel>
+
+<item>
+<title>Opção 2</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=OS-g0euapco</trailer>
+<thumbnail>http://www.powersonic.com.br/wp-content/uploads/2019/03/D02WaaGWsAAN_zo.jpg</thumbnail>
+<fanart></fanart>
+<info>A Live Novidades do Sonic</info>
+</item>
+</channel>
+
+<item>
+<title>Opção 3</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zc2p9TB4KLQ</trailer>
+<thumbnail>http://www.powersonic.com.br/wp-content/uploads/2019/03/D02WaaGWsAAN_zo.jpg</thumbnail>
+<fanart></fanart>
+<info>A Live Novidades do Sonic</info>
+</item>
+</channel>
+
+<item>
+<title>Opção 4</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zc2p9TB4KLQ</trailer>
+<thumbnail>http://www.powersonic.com.br/wp-content/uploads/2019/03/D02WaaGWsAAN_zo.jpg</thumbnail>
+<fanart></fanart>
+<info>A Live Novidades do Sonic</info>
+</item>
+</channel>
