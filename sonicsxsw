@@ -1,3 +1,5 @@
+<channels></channels>
+<channel>
 <item>	
 <title>Opção 1</title>	
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eI-tBjjgg4g</link>	
@@ -33,3 +35,4 @@
 <info>A Live Novidades do Sonic</info>	
 </item>	
 
+</channel>
