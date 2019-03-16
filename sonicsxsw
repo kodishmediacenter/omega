@@ -1,3 +1,8 @@
+<channels></channels>
+<channel>
+<name>Sonic SXSW 2019</name>
+<thumbnail>http://www.powersonic.com.br/wp-content/uploads/2019/03/D02WaaGWsAAN_zo.jpg</thumbnail>
+
 <item>	
 <title>Opção 1</title>	
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eI-tBjjgg4g</link>	
@@ -33,3 +38,4 @@
 <info>A Live Novidades do Sonic</info>	
 </item>	
 
+</channel>
