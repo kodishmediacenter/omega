@@ -1,5 +1,71 @@
 <channels></channels>
 <channel>
+<name>Até o Último Homem</name>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+
+<item>
+<title>Até o Último Homem</title>
+<link>magnet://?xt=urn:btih:6D79959476A20154018063CBE162AECA6AC4CC5C&dn=Até%20o%20Último%20Homem%202017%20%28720p%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+<info>Até o Último Homem Torrent – Durante a Segunda Guerra Mundial, o médico do exército Desmond T. Doss se recusa a pegar em uma arma e matar pessoas, porém, durante a Batalha de Okinawa ele trabalha na ala médica e salva mais de 75 homens, sendo condecorado. O que faz de Doss o primeiro Opositor Consciente da história norte-americana a receber a Medalha de Honra do Congresso.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=s2-1hz1juBI</trailer>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+<info>Até o Último Homem Torrent – Durante a Segunda Guerra Mundial, o médico do exército Desmond T. Doss se recusa a pegar em uma arma e matar pessoas, porém, durante a Batalha de Okinawa ele trabalha na ala médica e salva mais de 75 homens, sendo condecorado. O que faz de Doss o primeiro Opositor Consciente da história norte-americana a receber a Medalha de Honra do Congresso.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Quarto de Guerra</name>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTYyNTUxMjQwNF5BMl5BanBnXkFtZTgwNDY5MDIwNTE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+
+<item>
+<title>Quarto de Guerra</title>
+<link>magnet:?xt=urn:btih:e7e5d882a42245985d6c6df6eaea9f63093a711b&dn=Quarto+de+Guerra+%5B1080p%5D+BLUDV</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTYyNTUxMjQwNF5BMl5BanBnXkFtZTgwNDY5MDIwNTE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+<info>Elizabeth (Priscilla Evans Shirer) e Tony (T.C. Stallings) formam um casal em crise de relacionamento. A filha pequena percebe que ambos estão à beira do divórcio, mas eles não conseguem chegar a um acordo. Um dia, Elizabeth conhece uma mulher idosa que lhe apresenta o poder da oração e, a partir deste momento, a jovem mãe decide depositar a sua fé nas preces divinas.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=MsNmagELjpQ</trailer>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTYyNTUxMjQwNF5BMl5BanBnXkFtZTgwNDY5MDIwNTE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+<info>Elizabeth (Priscilla Evans Shirer) e Tony (T.C. Stallings) formam um casal em crise de relacionamento. A filha pequena percebe que ambos estão à beira do divórcio, mas eles não conseguem chegar a um acordo. Um dia, Elizabeth conhece uma mulher idosa que lhe apresenta o poder da oração e, a partir deste momento, a jovem mãe decide depositar a sua fé nas preces divinas.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>O Encontro Perfeito [DVD]</name>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODQ0ODYxODAyOV5BMl5BanBnXkFtZTcwOTA2NTAzMQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+
+<item>
+<title>O Encontro Perfeito [DVD]</title>
+<link>magnet:?xt=urn:btih:5618B11BDD32A7223BB44F950B8DEF301789D4A0&dn=O%20Encontro%20Perfeito%20DVDRip%20Dublado&tr=http%3a%2f%2fdenis.stalker.h3q.com%2fannounce&tr=http%3a%2f%2fdenis.stalker.h3q.com%3a80%2fannounce&tr=http%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fnemesis.1337x.org%2fannounce&tr=http%3a%2f%2fpubt.net%3a2710%2fannounce&tr=http%3a%2f%2ftracker.bittorrent.am%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2f10.rarbg.com%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2fbt.rghost.net%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2ffr33domtracker.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpow7.com%3a80%2fannounce&tr=udp%3a%2f%2ftpb.tracker.prq.to%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.ilibr.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.pow7.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publichd.eu%2fannounce&tr=udp%3a%2f%2fwww.h33t.com%3a3310%2fannounce</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODQ0ODYxODAyOV5BMl5BanBnXkFtZTcwOTA2NTAzMQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+<info>Nikki Cominsky (Pamela Brumley) é uma advogada bem-sucedida que enfrenta um verdadeiro desafio quando o assunto é família. Certo dia, um convite misterioso é deixado em seu escritório com a seguinte mensagem: “Você está convidada para um jantar com Jesus Cristo”. Certa de que se trata de uma brincadeira, Nikki comparece ao encontro. Entretanto, em meio a uma noite tumultuada, o jantar é cheio de debates e revelações, e ela percebe que acabara de conhecer uma pessoa inesquecível, que jamais tinha visto em sua vida.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=IgHRGHpHxfA</trailer>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODQ0ODYxODAyOV5BMl5BanBnXkFtZTcwOTA2NTAzMQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+<info>Nikki Cominsky (Pamela Brumley) é uma advogada bem-sucedida que enfrenta um verdadeiro desafio quando o assunto é família. Certo dia, um convite misterioso é deixado em seu escritório com a seguinte mensagem: “Você está convidada para um jantar com Jesus Cristo”. Certa de que se trata de uma brincadeira, Nikki comparece ao encontro. Entretanto, em meio a uma noite tumultuada, o jantar é cheio de debates e revelações, e ela percebe que acabara de conhecer uma pessoa inesquecível, que jamais tinha visto em sua vida.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
 <name>Sereias - Elas Existem!</name>
 <thumbnail>https://hidratorrent.com/capa/sereias-elas-existem-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 
