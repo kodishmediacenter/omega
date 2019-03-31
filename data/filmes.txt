@@ -1,5 +1,181 @@
 <channels></channels>
 <channel>
+<name>Máquinas Mortais</name>
+<thumbnail>https://hidratorrent.com/capa/maquinas-mortais-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Máquinas Mortais</title>
+<link>magnet:?xt=urn:btih:4151edfe03d02a7e51e22ebb30464bc37dcc74f0&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20M%c3%a1quinas%20Mortais%202019%20%5b1080p%5d%20%5bBluRay%5d%20%5bDUAL%5d</link>
+<thumbnail>https://hidratorrent.com/capa/maquinas-mortais-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Anos depois da "Guerra dos Sessenta Minutos", a Terra está destruída e para sobreviver as cidades se movem em rodas gigantes, conhecidas como Cidades Tração, lutando com outras para conseguir mais recursos naturais. Quando Londres se envolve em um ataque, Tom (Robert Sheehan) é lançado para fora da cidade junto com uma fora-da-lei (Hera Hilmar) e os dois juntos precisam lutar para sobreviver e ainda enfrentar uma ameaça que coloca a vida no planeta em risco.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SkpjIHxT0ys</trailer>
+<thumbnail>https://hidratorrent.com/capa/maquinas-mortais-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Anos depois da "Guerra dos Sessenta Minutos", a Terra está destruída e para sobreviver as cidades se movem em rodas gigantes, conhecidas como Cidades Tração, lutando com outras para conseguir mais recursos naturais. Quando Londres se envolve em um ataque, Tom (Robert Sheehan) é lançado para fora da cidade junto com uma fora-da-lei (Hera Hilmar) e os dois juntos precisam lutar para sobreviver e ainda enfrentar uma ameaça que coloca a vida no planeta em risco.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>A Lenda da Ilha do Pó</name>
+<thumbnail>https://hidratorrent.com/capa/a-lenda-da-ilha-do-po-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>A Lenda da Ilha do Pó</title>
+<link>magnet:?xt=urn:btih:1b38c87c59eeafdb3ed4487992d312ff39bfa58c&dn=%5b%5d%20A%20Lenda%20da%20Ilha%20do%20P%C3%B3%202019%20%5b1080p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d</link>
+<thumbnail>https://hidratorrent.com/capa/a-lenda-da-ilha-do-po-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Embalado pelos boatos sobre uma mala de cocaína enterrada no Caribe, um grupo de desajustados sai à procura da droga.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kK3c1zXnQgU</trailer>
+<thumbnail>https://hidratorrent.com/capa/a-lenda-da-ilha-do-po-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Embalado pelos boatos sobre uma mala de cocaína enterrada no Caribe, um grupo de desajustados sai à procura da droga.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>A Caminho de Casa</name>
+<thumbnail>https://hidratorrent.com/capa/a-caminho-de-casa-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>A Caminho de Casa</title>
+<link>magnet:?xt=urn:btih:4AE0833771480FA8B894F26EF6FDB0EBCBAEBC68&dn=%5bWWW.BLUDV.TV%5d%20A%20Caminho%20de%20Casa%202019%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<thumbnail>https://hidratorrent.com/capa/a-caminho-de-casa-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> Bella é uma cadela que embarcou numa jornada épica de 400 milhas depois que a separaram de seu amado humano, Lucas, um estudante de medicina e voluntário no hospital para veteranos. Bella toca a vida de muitos durante sua busca inabalável trazendo alegria e conforto a todos que ela conhece com seu espírito e fé. </info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1pKdCHvH310</trailer>
+<thumbnail>https://hidratorrent.com/capa/a-caminho-de-casa-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> Bella é uma cadela que embarcou numa jornada épica de 400 milhas depois que a separaram de seu amado humano, Lucas, um estudante de medicina e voluntário no hospital para veteranos. Bella toca a vida de muitos durante sua busca inabalável trazendo alegria e conforto a todos que ela conhece com seu espírito e fé. </info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Estrada Sem Lei</name>
+<thumbnail>https://hidratorrent.com/capa/estrada-sem-lei-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Estrada Sem Lei</title>
+<link>magnet:?xt=urn:btih:8b64d2fa7bf5d9a25a491123e6c207239f8ca3c5&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Estrada%20Sem%20Lei%202019%20%5b1080p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d</link>
+<thumbnail>https://hidratorrent.com/capa/estrada-sem-lei-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> Uma dupla de policiais deixam a aposentadoria para caçar os bandidos infames Bonnie & Clyde.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=https://www.youtube.com/watch?v=aH6vC-BBKOc</trailer>
+<thumbnail>https://hidratorrent.com/capa/estrada-sem-lei-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> Uma dupla de policiais deixam a aposentadoria para caçar os bandidos infames Bonnie & Clyde.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Bayoneta</name>
+<thumbnail>https://hidratorrent.com/capa/bayoneta-download-torrent-2018-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Bayoneta</title>
+<link>magnet:?xt=urn:btih:13f8c1255972b241dc38548fa5d888abdba180cb&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Bayoneta%202019%20%5b1080p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d</link>
+<thumbnail>https://hidratorrent.com/capa/bayoneta-download-torrent-2018-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>A história de um boxeador que é exilado na Finlândia, onde tenta reencontrar sua vida em um ambiente hostil. </info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=19iR-oS_ios</trailer>
+<thumbnail>https://hidratorrent.com/capa/bayoneta-download-torrent-2018-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>A história de um boxeador que é exilado na Finlândia, onde tenta reencontrar sua vida em um ambiente hostil. </info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Direção Explosiva</name>
+<thumbnail>https://hidratorrent.com/capa/direcao-explosiva-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Direção Explosiva</title>
+<link>magnet:?xt=urn:btih:ED6C5B814882D170E5A2F8D57D2BF75FE10425AC&dn=Dire%c3%a7%c3%a3o%20Explosiva%202019%20%281080p%29%20LAPUMiA&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capa/direcao-explosiva-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Pronto para levar os filhos para a escola, Karl recebe uma ligação anônima anunciando que tem uma bomba sob o assento do carro e agora ele tem apenas algumas horas para levantar uma grande quantia de dinheiro. Se falhar, a bomba explodirá.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1RYQp1BVQPI</trailer>
+<thumbnail>https://hidratorrent.com/capa/direcao-explosiva-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Pronto para levar os filhos para a escola, Karl recebe uma ligação anônima anunciando que tem uma bomba sob o assento do carro e agora ele tem apenas algumas horas para levantar uma grande quantia de dinheiro. Se falhar, a bomba explodirá.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Minha Vida em Marte</name>
+<thumbnail>https://hidratorrent.com/capa/minha-vida-em-marte-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Minha Vida em Marte</title>
+<link>magnet:?xt=urn:btih:e20de400a9963dfb4ab86fbed96f511da89dfc02&dn=%7bWWW.BLUDV.TV%7d%20Minha%20Vida%20em%20Marte%202018%20(720p)%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<thumbnail>https://hidratorrent.com/capa/minha-vida-em-marte-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>A luta diária pelo amor da empresária Fernanda, interpretada por Mônica Martelli, poderá ser acompanhada no filme "Minha Vida em Marte". A atriz, ao lado de Paulo Gustavo, o inseparável amigo Aníbal, vai mostrar nas telonas que a sua protagonista viverá algumas aventuras para salvar o casamento.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=X9h0iduJ0BA</trailer>
+<thumbnail>https://hidratorrent.com/capa/minha-vida-em-marte-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>A luta diária pelo amor da empresária Fernanda, interpretada por Mônica Martelli, poderá ser acompanhada no filme "Minha Vida em Marte". A atriz, ao lado de Paulo Gustavo, o inseparável amigo Aníbal, vai mostrar nas telonas que a sua protagonista viverá algumas aventuras para salvar o casamento.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Bia (2.0) NAC</name>
+<thumbnail>https://hidratorrent.com/capa/bia-20-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Bia (2.0) NAC</title>
+<link>magnet:?xt=urn:btih:e949928ac0960fc87ef6832328c657d28294f90c&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Bia%20(2.0)%202019%20%5b720p%5d%20%5bWEB-DL%5d%20%5bFULL%5d%20%5bNACIONAL%5d</link>
+<thumbnail>https://hidratorrent.com/capa/bia-20-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Beatriz, uma jovem de 18 anos, tenta retomar sua vida e sair da fossa após flagrar seu namorado com outra garota. Trabalhando na floricultura de sua mãe, passa seus dias na companhia da gótica Naty e do espalhafatoso Fabiba, e toma coragem para entrar em uma trupe de palhaços amadores que fazem trabalho voluntário. Junto com os Atrupelhados, Bia descobre sua palhaça interior, Tutu, e se apaixona por Daniel, estudante de cinema que vive o palhaço mudo Abraço. Uma viagem colocará esse relacionamento à prova: Bia terá que escolher entre seu sonho de estudar canto na Europa ou ficar com Dan, que está cuidando do pai com câncer de pulmão em estágio avançado. Será que Bia irá desistir de seus planos e desejos por um novo amor? </info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ealsf2kp4zU</trailer>
+<thumbnail>https://hidratorrent.com/capa/bia-20-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Beatriz, uma jovem de 18 anos, tenta retomar sua vida e sair da fossa após flagrar seu namorado com outra garota. Trabalhando na floricultura de sua mãe, passa seus dias na companhia da gótica Naty e do espalhafatoso Fabiba, e toma coragem para entrar em uma trupe de palhaços amadores que fazem trabalho voluntário. Junto com os Atrupelhados, Bia descobre sua palhaça interior, Tutu, e se apaixona por Daniel, estudante de cinema que vive o palhaço mudo Abraço. Uma viagem colocará esse relacionamento à prova: Bia terá que escolher entre seu sonho de estudar canto na Europa ou ficar com Dan, que está cuidando do pai com câncer de pulmão em estágio avançado. Será que Bia irá desistir de seus planos e desejos por um novo amor? </info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
 <name>Até o Último Homem</name>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 
