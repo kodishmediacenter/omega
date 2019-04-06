@@ -1,5 +1,116 @@
 <channels></channels>
 <channel>
+<name>Holmes e Watson</name>
+<thumbnail>https://hidratorrent.com/capa/holmes-e-watson-legendado-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Holmes e Watson</title>
+<link>magnet:?xt=urn:btih:1de4fb4f2130079fca8f963f09ba98b5c28dbba6&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Holmes%20e%20Watson%202019%20%5b1080p%5d%20%5bBluRay%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capa/holmes-e-watson-legendado-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Um olhar cômico sobre as aventuras e mistérios revelados pela dupla Sherlock Holmes e Watson. Sherlock Holmes (Will Ferrell) e seu fiel parceiro Watson (John C.Reilly) precisam impedir o maior dos planos malignos de Moriarty (Ralph Fiennes): assassinar a rainha da Inglaterra.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=brjkpRBpFnc</trailer>
+<thumbnail>https://hidratorrent.com/capa/holmes-e-watson-legendado-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Um olhar cômico sobre as aventuras e mistérios revelados pela dupla Sherlock Holmes e Watson. Sherlock Holmes (Will Ferrell) e seu fiel parceiro Watson (John C.Reilly) precisam impedir o maior dos planos malignos de Moriarty (Ralph Fiennes): assassinar a rainha da Inglaterra.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Loja de Unicórnios</name>
+<thumbnail>https://hidratorrent.com/capa/loja-de-unicornios-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Loja de Unicórnios</title>
+<link>magnet:?xt=urn:btih:b0cb2d0408a34c722a429728212df92617ecea00&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Loja%20de%20Unic%c3%b3rnios%202019%20%5b1080p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capa/loja-de-unicornios-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Uma jovem falida retorna à casa dos pais e imediatamente recebe um misterioso convite para comparecer à Unicorn Store, uma loja que a levará em uma jornada para descobrir o que significa amadurecer de verdade.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=r_51UsTDBAE</trailer>
+<thumbnail>https://hidratorrent.com/capa/loja-de-unicornios-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Uma jovem falida retorna à casa dos pais e imediatamente recebe um misterioso convite para comparecer à Unicorn Store, uma loja que a levará em uma jornada para descobrir o que significa amadurecer de verdade.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Tito e os Pássaros</name>
+<thumbnail>https://hidratorrent.com/capa/tito-e-os-passaros-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Tito e os Pássaros</title>
+<link>magnet:?xt=urn:btih:667ef8c8d4db36553505145180be25f31a64dee8&dn=Tito.e.os.Passaros.2018.720p.WEB-DL.DD2.0.H264-LAPUMiA&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a85%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capa/tito-e-os-passaros-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>'Tito e os Pássaros' é um filme sobre um garoto e sua jornada para salvar o mundo do “surto”, uma epidemia de medo que faz com que as pessoas fiquem doentes quando são assustadas improvisadamente. Tito é um menino tímido de 10 anos vivendo uma vida normal (passando tempo com seus dois melhores amigos, tendo dificuldades com os garotos populares da escola e com sua mãe neurótica em casa). Após o início do surto, Tito resolve partir em busca de seu antídoto. Ele descobre que a cura está de alguma forma relacionada à pesquisa de seu pai sobre o canto dos pássaros. Seu pai é um inventor que saiu de casa quando ele tinha 6 anos de idade.Usando uma técnica de recortes combinados com o trabalho do computador 2D, a produção está programada para começar em outubro de 2017, enquanto a pós-produção vai terminar em março de 2018.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=oRn7-NVmO48</trailer>
+<thumbnail>https://hidratorrent.com/capa/tito-e-os-passaros-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>'Tito e os Pássaros' é um filme sobre um garoto e sua jornada para salvar o mundo do “surto”, uma epidemia de medo que faz com que as pessoas fiquem doentes quando são assustadas improvisadamente. Tito é um menino tímido de 10 anos vivendo uma vida normal (passando tempo com seus dois melhores amigos, tendo dificuldades com os garotos populares da escola e com sua mãe neurótica em casa). Após o início do surto, Tito resolve partir em busca de seu antídoto. Ele descobre que a cura está de alguma forma relacionada à pesquisa de seu pai sobre o canto dos pássaros. Seu pai é um inventor que saiu de casa quando ele tinha 6 anos de idade.Usando uma técnica de recortes combinados com o trabalho do computador 2D, a produção está programada para começar em outubro de 2017, enquanto a pós-produção vai terminar em março de 2018.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Guerra contra Aliens</name>
+<thumbnail>https://hidratorrent.com/capa/guerra-contra-aliens-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Guerra contra Aliens</title>
+<link>magnet:?xt=urn:btih:0b0e0e05f4eb96f329cec64989199d6e923d72fb&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Guerra%20contra%20Aliens%202019%20%5b1080p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capa/guerra-contra-aliens-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Com a missão de investigar o misterioso desaparecimento de cientistas, militares americanos descobrem uma nova e terrível forma de vida. </info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=AjWfY7SnMBI</trailer>
+<thumbnail>https://hidratorrent.com/capa/guerra-contra-aliens-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Com a missão de investigar o misterioso desaparecimento de cientistas, militares americanos descobrem uma nova e terrível forma de vida. </info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>A Babá - The Nanny </name>
+<thumbnail>https://hidratorrent.com/capa/a-baba-download-torrent-2018-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>A Babá - The Nanny </title>
+<link>magnet:?xt=urn:btih:ee99cd73bab6855c75d15a0ab64fb945c8c16494&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20A%20Bab%c3%a1%202019%20%5b1080p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capa/a-baba-download-torrent-2018-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Uma jovem, Noa, suspeita que sua nova babá não é deste mundo. Noa luta para revelar a identidade da babá, que é mais distorcida do que ela imaginava nesse conto sombrio de fantasia. </info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SYaGo6SGLqM</trailer>
+<thumbnail>https://hidratorrent.com/capa/a-baba-download-torrent-2018-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Uma jovem, Noa, suspeita que sua nova babá não é deste mundo. Noa luta para revelar a identidade da babá, que é mais distorcida do que ela imaginava nesse conto sombrio de fantasia. </info>
+</item>
+</channel>
+
+
+<channels></channels>
+<channel>
 <name>Casa das Trevas 2</name>
 <thumbnail>https://hidratorrent.com/capa/casa-das-trevas-2-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 
