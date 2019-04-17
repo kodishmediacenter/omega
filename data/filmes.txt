@@ -24,30 +24,6 @@
 
 <channels></channels>
 <channel>
-<name>Não Olhe</name>
-<thumbnail>https://hidratorrent.com/capa/nao-olhe-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
- 
-
-<item>
-<title>Não Olhe</title>
-<link>magnet:?xt=urn:btih:314A87B30F09EBA5B55590CF13BEC7D1296A4D59&amp;dn=%5bWWW.BLUDV.TV%5d%20N%c3%a3o%20Olhe%202019%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
-<thumbnail>https://hidratorrent.com/capa/nao-olhe-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart></fanart>
-<info>Uma solitária jovem de 18 anos não encontra suporte familiar e nem amigos para que possa desabafar sobre os problemas de sua vida. Cansada, ela começa a conversar com o próprio reflexo no espelho apenas para externalizar sua angústia, mas rapidamente descobre que está trocando de lugar com uma espécie de clone que tenta convencê-la a tomar atitudes vingativas.</h1></info>
-</item>
-
-<item>
-<title>Trailer</title>
-<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lb5UsiTQRMg</trailer>
-<thumbnail>https://hidratorrent.com/capa/nao-olhe-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart></fanart>
-<info>Uma solitária jovem de 18 anos não encontra suporte familiar e nem amigos para que possa desabafar sobre os problemas de sua vida. Cansada, ela começa a conversar com o próprio reflexo no espelho apenas para externalizar sua angústia, mas rapidamente descobre que está trocando de lugar com uma espécie de clone que tenta convencê-la a tomar atitudes vingativas.</h1></info>
-</item>
-</channel>
-
-
-<channels></channels>
-<channel>
 <name>Sexo Música e Amor</name>
 <thumbnail>https://hidratorrent.com/capa/sexo-musica-e-amor-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
  
