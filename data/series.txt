@@ -1,5 +1,27 @@
 <channels></channels>
 <channel>
+<name>Primeira Vez Amor</name>
+<thumbnail>https://hidratorrent.com/capa/primeira-vez-amor-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Primeira Vez Amor 1º Temporada</title>
+<link>magnet:?xt=urn:btih:17F5C3FC92EF09B36C17B997E07CE6E29C56F7C3&dn=Primeira%20Vez%20Amor%202019%20-%201%c2%aa%20Temporada%20Completa%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<thumbnail>https://hidratorrent.com/capa/primeira-vez-amor-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Quando um estudante universitário decide dividir a casa onde vive com seus amigos, eles iniciam uma jornada de autoconhecimento, amor e amizade.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=sv1tSKSNnt0</trailer>
+<thumbnail>https://hidratorrent.com/capa/primeira-vez-amor-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Quando um estudante universitário decide dividir a casa onde vive com seus amigos, eles iniciam uma jornada de autoconhecimento, amor e amizade.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
 <name>Tijuana</name>
 <thumbnail>https://hidratorrent.com/capa/tijuana-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 
