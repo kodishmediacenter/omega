@@ -1,5 +1,202 @@
 <channels></channels>
 <channel>
+<name>Cinderela Pop</name>
+<thumbnail>https://hidratorrent.com/capa/cinderela-pop-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Cinderela Pop</title>
+<link>magnet:?xt=urn:btih:52B4FF2736AE565C2056BD8BC1CA22A2ADF08E16&amp;dn=%5bWWW.BLUDV.TV%5d%20Cinderela%20Pop%202019%20%281080p%20-%20FULL%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.to%3a2790%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&amp;tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capa/cinderela-pop-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Cintia Dorella (Maisa Silva) é uma adolescente que descobre uma traição no casamento dos pais. Descrente no amor, ela vai morar na casa da tia e passa a trabalhar como DJ, se tornando a Cinderela Pop. Mas ela não esperava que um príncipe encantado pudesse fazê-la se apaixonar.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_fdIB1tIJrY</trailer>
+<thumbnail>https://hidratorrent.com/capa/cinderela-pop-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Cintia Dorella (Maisa Silva) é uma adolescente que descobre uma traição no casamento dos pais. Descrente no amor, ela vai morar na casa da tia e passa a trabalhar como DJ, se tornando a Cinderela Pop. Mas ela não esperava que um príncipe encantado pudesse fazê-la se apaixonar.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Green Book O Guia</name>
+<thumbnail>https://hidratorrent.com/capa/green-book-o-guia-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Green Book O Guia</title>
+<link>magnet:?xt=urn:btih:0D58AB80530193FC1E088680F8E33AE29FBF0E59&amp;dn=%5bWWW.BLUDV.TV%5d%20Green%20Book%20-%20O%20Guia%202019%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<thumbnail>https://hidratorrent.com/capa/green-book-o-guia-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Quando Tony Lip (Viggo Mortensen), um segurança ítalo-americano, é contratado como motorista do Dr. Don Shirley (Mahershala Ali), um pianista negro de classe alta, durante uma turnê pelo sul dos Estados Unidos, eles devem seguir o "O Guia" para leva-los aos poucos estabelecimentos que eram seguros para os afro-americanos. Confrontados com o racismo, o perigo – assim como pela humanidade e o humor inesperados - eles são forçados a deixar de lado as diferenças para sobreviver e prosperar nessa jornada.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=QkZxoko_HC0</trailer>
+<thumbnail>https://hidratorrent.com/capa/green-book-o-guia-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Quando Tony Lip (Viggo Mortensen), um segurança ítalo-americano, é contratado como motorista do Dr. Don Shirley (Mahershala Ali), um pianista negro de classe alta, durante uma turnê pelo sul dos Estados Unidos, eles devem seguir o "O Guia" para leva-los aos poucos estabelecimentos que eram seguros para os afro-americanos. Confrontados com o racismo, o perigo – assim como pela humanidade e o humor inesperados - eles são forçados a deixar de lado as diferenças para sobreviver e prosperar nessa jornada.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Vidro</name>
+<thumbnail>https://hidratorrent.com/capa/vidro-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Vidro</title>
+<link>magnet:?xt=urn:btih:97E857EC934B4ED8E37B267535A4348CBE13E9FE&amp;dn=%5bWWW.BLUDV.TV%5d%20Vidro%202019%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<thumbnail>https://hidratorrent.com/capa/vidro-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Após os eventos de “Fragmentado”, Elijah Price (Samuel L. Jackson), também conhecido como Mr. Glass, descobre que David Dunn (Bruce Willis) está perseguindo Kevin (James McAvoy) e sua figura super-humana, A Fera. Em uma série de encontros crescentes, a sombria presença de Glass surge como um orquestrador que detém segredos críticos para ambos os homens.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=oGWa5tp5RLs</trailer>
+<thumbnail>https://hidratorrent.com/capa/vidro-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Após os eventos de “Fragmentado”, Elijah Price (Samuel L. Jackson), também conhecido como Mr. Glass, descobre que David Dunn (Bruce Willis) está perseguindo Kevin (James McAvoy) e sua figura super-humana, A Fera. Em uma série de encontros crescentes, a sombria presença de Glass surge como um orquestrador que detém segredos críticos para ambos os homens.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Sob o Sol do Oeste</name>
+<thumbnail>https://hidratorrent.com/capa/sob-o-sol-do-oeste-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Sob o Sol do Oeste</title>
+<link>magnet:?xt=urn:btih:19210f7436f5623900e56ab37cfc1fea3479a029&amp;dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Sob%20o%20Sol%20do%20Oeste%202019%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.blazing.de%2fannounce&amp;tr=udp%3a%2f%2ftracker.prq.to%2fannounce&amp;tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2780%2fannounce&amp;tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&amp;tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&amp;tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce&amp;tr=udp%3a%2f%2f11.rarbg.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capa/sob-o-sol-do-oeste-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Samuel Alabaster (Robert Pattinson), um rico pioneiro, aventura-se pela remota fronteira dos EUA para se casar com o amor de sua vida, Penelope (Mia Wasikowska). Enquanto Samuel atravessa o Velho Oeste com um bêbado chamado Parson Henry (David Zellner) e um minicavalo chamado Butterscotch, sua jornada vai se tornando traiçoeira, apagando as linhas divisórias entre herói, vilão e donzela.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=yqkeDHvcArs</trailer>
+<thumbnail>https://hidratorrent.com/capa/sob-o-sol-do-oeste-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Samuel Alabaster (Robert Pattinson), um rico pioneiro, aventura-se pela remota fronteira dos EUA para se casar com o amor de sua vida, Penelope (Mia Wasikowska). Enquanto Samuel atravessa o Velho Oeste com um bêbado chamado Parson Henry (David Zellner) e um minicavalo chamado Butterscotch, sua jornada vai se tornando traiçoeira, apagando as linhas divisórias entre herói, vilão e donzela.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Gaby Estrella O Filme [NAC]</name>
+<thumbnail>https://hidratorrent.com/capa/gaby-estrella-o-filme-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Gaby Estrella O Filme [NAC]</title>
+<link>magnet:?xt=urn:btih:293c8aa3420ea7a21fc5a83aab3005269deb6d65&amp;dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Gaby%20Estrella%20-%20O%20Filme%202019%20%5b720p%5d%20%5bWEB-DL%5d%20%5bNACIONAL%5d&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.blazing.de%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.prq.to%2fannounce&amp;tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&amp;tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&amp;tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&amp;tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f11.rarbg.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&amp;tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capa/gaby-estrella-o-filme-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Uma menina de 15 anos vive seu sonho de ser uma cantora profissional famosa, mas está sem tempo para sua família e amigos. Além disso, está com sua carreira ameaçada, ainda mais agora que o dono da gravadora a pressiona para construir uma imagem mais forte nas redes sociais.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Hp08aCs0RwI</trailer>
+<thumbnail>https://hidratorrent.com/capa/gaby-estrella-o-filme-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Uma menina de 15 anos vive seu sonho de ser uma cantora profissional famosa, mas está sem tempo para sua família e amigos. Além disso, está com sua carreira ameaçada, ainda mais agora que o dono da gravadora a pressiona para construir uma imagem mais forte nas redes sociais.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Poderia Me Perdoar?</name>
+<thumbnail>https://hidratorrent.com/capa/poderia-me-perdoar-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Poderia Me Perdoar?</title>
+<link>magnet:?xt=urn:btih:50AC8D74CB4BF29007A1B86314096F65FC86D0F9&amp;dn=%5bWWW.BLUDV.TV%5d%20Poderia%20Me%20Perdoar%202019%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<thumbnail>https://hidratorrent.com/capa/poderia-me-perdoar-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Passando por problemas financeiros, a jornalista Lee Israel (Melissa McCarthy) decide forjar e vender cartas de personalidades já falecidas, um negócio criminoso que dá muito certo. Quando as primeiras suspeitas começam, para não parar de lucrar, ela modifica o esquema e passa a roubar os textos originais de arquivos e bibliotecas.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UvJIaNsf_bY</trailer>
+<thumbnail>https://hidratorrent.com/capa/poderia-me-perdoar-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Passando por problemas financeiros, a jornalista Lee Israel (Melissa McCarthy) decide forjar e vender cartas de personalidades já falecidas, um negócio criminoso que dá muito certo. Quando as primeiras suspeitas começam, para não parar de lucrar, ela modifica o esquema e passa a roubar os textos originais de arquivos e bibliotecas.</info>
+</item>
+</channel>
+<channels></channels>
+<channel>
+<name>Fascinação Mortal O Retorno </name>
+<thumbnail>https://hidratorrent.com/capa/fascinacao-mortal-o-retorno-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Fascinação Mortal O Retorno </title>
+<link>magnet:?xt=urn:btih:4b0e7ef2d5ff924d63ed6d8252b67f29d7cfe4c1&amp;dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Fascinacao%20Mortal%20A%20Vingan%c3%a7a%202019%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.blazing.de%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.prq.to%2fannounce&amp;tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&amp;tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&amp;tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&amp;tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f11.rarbg.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&amp;tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capa/fascinacao-mortal-o-retorno-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Julgado inocente pela tentativa de assassinato de uma ex-paciente, Dr. Albert Beck tenta recomeçar a vida como professor em uma escola de medicina. Lá, uma estudante fica apaixonada por ele e Albert decide embarcar nessa relação. Mas, as coisas se complicam quando uma pessoa do passado reaparece.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eRGMt1R0-Hk</trailer>
+<thumbnail>https://hidratorrent.com/capa/fascinacao-mortal-o-retorno-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Julgado inocente pela tentativa de assassinato de uma ex-paciente, Dr. Albert Beck tenta recomeçar a vida como professor em uma escola de medicina. Lá, uma estudante fica apaixonada por ele e Albert decide embarcar nessa relação. Mas, as coisas se complicam quando uma pessoa do passado reaparece.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>O Peso do Passado</name>
+<thumbnail>https://hidratorrent.com/capa/o-peso-do-passado-legendado-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>O Peso do Passado</title>
+<link>magnet:?xt=urn:btih:458e456318273a461087a64e3e8dcf3074186bd1&amp;dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20O%20Peso%20do%20Passado%202019%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.blazing.de%2fannounce&amp;tr=udp%3a%2f%2ftracker.prq.to%2fannounce&amp;tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2780%2fannounce&amp;tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&amp;tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&amp;tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce&amp;tr=udp%3a%2f%2f11.rarbg.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capa/o-peso-do-passado-legendado-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Erin Bell (Nicole Kidman) é uma detetive da polícia norte-americana que aceita participar de um plano arriscado, infiltrando-se entre bandidos para obter informações. A estratégia dá errado, gerando uma tragédia que marca a sua vida para sempre. Anos mais tarde, ela reencontra pistas da gangue de antigamente, e volta a perseguir os responsáveis por seu drama pessoal.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9K8yXMO6Tfw</trailer>
+<thumbnail>https://hidratorrent.com/capa/o-peso-do-passado-legendado-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Erin Bell (Nicole Kidman) é uma detetive da polícia norte-americana que aceita participar de um plano arriscado, infiltrando-se entre bandidos para obter informações. A estratégia dá errado, gerando uma tragédia que marca a sua vida para sempre. Anos mais tarde, ela reencontra pistas da gangue de antigamente, e volta a perseguir os responsáveis por seu drama pessoal.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Paixão de Cristo de Nova Jerusalem [NAC]</name>
+<thumbnail>https://hidratorrent.com/capa/paixao-de-cristo-de-nova-jerusalem-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Paixão de Cristo de Nova Jerusalem [NAC]</title>
+<link>magnet:?xt=urn:btih:B4F2E5E32965431ADDD6CAC58897B85FB5B5AEE8&amp;dn=Paix%c3%a3o.de.Cristo.de.Nova.Jerusal%c3%a9m.2019.720p.WEBRip.x264.DUAL-WWW.BLUDV.TV.mkv</link>
+<thumbnail>https://hidratorrent.com/capa/paixao-de-cristo-de-nova-jerusalem-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Paixão de Cristo de Nova Jerusalém é uma peça teatral brasileira criada por Epaminondas Mendonça no ano de 1951, com base na Paixão, que é celebrada todos os anos durante a Semana Santa em Brejo da Madre de Deus, no estado brasileiro de Pernambuco.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FoXtDUbfwWM</trailer>
+<thumbnail>https://hidratorrent.com/capa/paixao-de-cristo-de-nova-jerusalem-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Paixão de Cristo de Nova Jerusalém é uma peça teatral brasileira criada por Epaminondas Mendonça no ano de 1951, com base na Paixão, que é celebrada todos os anos durante a Semana Santa em Brejo da Madre de Deus, no estado brasileiro de Pernambuco.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
 <name>Em Busca da Carta Proibida</name>
 <thumbnail>https://hidratorrent.com/capa/em-busca-da-carta-proibida-storm-letters-van-vuur-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
  
