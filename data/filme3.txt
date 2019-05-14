@@ -1,6 +1,279 @@
+
 <channels></channels>
 <channel>
-<name>Cinderela Pop</name>
+<name>Contos Macabros 2</name>
+<thumbnail>https://hidratorrent.com/capa/contos-macabros-2-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Contos Macabros 2</title>
+<link>magnet:?xt=urn:btih:83A6348690CF52AFB388EF6B2F7467465D12101C&&dn=%5bWWW.BLUDV.TV%5d%20Contos%20Macabros%202%202019%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&&tr=udp%3a%2f%2f9.rarbg.to%3a2740%2fannounce&&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capa/contos-macabros-2-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Quatro histórias sobre luxúria, ganância, orgulho e política envolvendo bonecas demoníacas, médiuns possuídos, uma mulher atrás de vingança e fantasmas históricos. </info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=W_TVql8JOjE</trailer>
+<thumbnail>https://hidratorrent.com/capa/contos-macabros-2-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Quatro histórias sobre luxúria, ganância, orgulho e política envolvendo bonecas demoníacas, médiuns possuídos, uma mulher atrás de vingança e fantasmas históricos. </info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Asim - O Vigarista</name>
+<thumbnail>https://hidratorrent.com/capa/asim-o-vigarista-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Asim - O Vigarista</title>
+<link>magnet:?xt=urn:btih:2af760e51332e4811cc0a2f0659c9644683196ff&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Asim%20%e2%80%93%20O%20Vigarista%202019%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capa/asim-o-vigarista-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Quando sua filha e seu genro são vítimas de um golpe, o vigarista de Istambul Asım Noyan acha um rival à altura: o chefão insano do submundo das apostas.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=gcH0KPQVVH4</trailer>
+<thumbnail>https://hidratorrent.com/capa/asim-o-vigarista-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Quando sua filha e seu genro são vítimas de um golpe, o vigarista de Istambul Asım Noyan acha um rival à altura: o chefão insano do submundo das apostas.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>O Horror Entre Nós</name>
+<thumbnail>https://hidratorrent.com/capa/o-horror-entre-nos-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>O Horror Entre Nós</title>
+<link>magnet:?xt=urn:btih:558eaf9faa2a257f256c650e0227826538af85ff&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20O%20Horror%20Entre%20Nos%202019%20%5b1080p%5d%20%5bFULL%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2780%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capa/o-horror-entre-nos-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> Um homem que sofre de sonambulismo encontra um livro antigo em sua casa nova, no qual há passagens macabras sobre uma maldição misteriosa. A partir de então, ele começa a ser vítima de aterrorizantes visões e ferimentos inexplicáveis que aparecem repentinamente em seu corpo. Todos ao seu redor, incluindo a esposa e o filho pequeno, também passam a ser afetados por uma força maligna.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bdOAeJAZYKg</trailer>
+<thumbnail>https://hidratorrent.com/capa/o-horror-entre-nos-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> Um homem que sofre de sonambulismo encontra um livro antigo em sua casa nova, no qual há passagens macabras sobre uma maldição misteriosa. A partir de então, ele começa a ser vítima de aterrorizantes visões e ferimentos inexplicáveis que aparecem repentinamente em seu corpo. Todos ao seu redor, incluindo a esposa e o filho pequeno, também passam a ser afetados por uma força maligna.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Virando a Mesa do Poder</name>
+<thumbnail>https://hidratorrent.com/capa/virando-a-mesa-do-poder-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Virando a Mesa do Poder</title>
+<link>magnet:?xt=urn:btih:d0ab39caf3d70e13687b5f8faed09dde59b9541c&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Virando%20a%20Mesa%20do%20Poder%202019%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2780%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capa/virando-a-mesa-do-poder-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Uma jovem atendente de bar, no Bronx, em New York, filha de um mineiro de carvão na Virgínia Ocidental, uma mãe em luto em Nevada e uma enfermeira registrada no Missouri, constroem um movimento de candidatos insurgentes desafiando poderosos representantes no Congresso. A mais chocante virada política na recente história do congresso americano.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_wGZc8ZjFY4</trailer>
+<thumbnail>https://hidratorrent.com/capa/virando-a-mesa-do-poder-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Uma jovem atendente de bar, no Bronx, em New York, filha de um mineiro de carvão na Virgínia Ocidental, uma mãe em luto em Nevada e uma enfermeira registrada no Missouri, constroem um movimento de candidatos insurgentes desafiando poderosos representantes no Congresso. A mais chocante virada política na recente história do congresso americano.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Uma Nova Chance</name>
+<thumbnail>https://hidratorrent.com/capa/uma-nova-chance-download-torrent-2018-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Uma Nova Chance</title>
+<link>magnet:?xt=urn:btih:1460bd6d73f93af1cf7a0f414db21fd6f182a939&dn=Uma%20Nova%20Chance%202019%20%5BBluRay%5D%20%5B1080p%5D%20%5BDUAL%5D</link>
+<thumbnail>https://hidratorrent.com/capa/uma-nova-chance-download-torrent-2018-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>ado insatisfeita com sua vida profissional. Porém, tudo muda com uma pequena alteração em seu currículo e suas redes sociais. Com sua experiêcia das ruas, habilidades excepcionais e a ajuda de seus amigos, ela se reinventa e se torna uma executiva de sucesso.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZhcHJ7S8sQM</trailer>
+<thumbnail>https://hidratorrent.com/capa/uma-nova-chance-download-torrent-2018-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>ado insatisfeita com sua vida profissional. Porém, tudo muda com uma pequena alteração em seu currículo e suas redes sociais. Com sua experiêcia das ruas, habilidades excepcionais e a ajuda de seus amigos, ela se reinventa e se torna uma executiva de sucesso.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Minhas Famílias</name>
+<thumbnail>https://hidratorrent.com/capa/minhas-familias-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Minhas Famílias</title>
+<link>magnet:?xt=urn:btih:fbd4ecbd3fe31a3bca08091d001ec8e37f55c3ea&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Minhas%20Fam%c3%adlias%202019%20%5b1080p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2780%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capa/minhas-familias-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Do documentarista Hao Wu, vem um retrato sincero de como ele criou uma família completamente moderna nos Estados Unidos, apenas para enfrentar o dilema de apresentar seu parceiro do mesmo sexo e seus filhos a pais e parentes profundamente tradicionais na China. </info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lXiSr8I39fM</trailer>
+<thumbnail>https://hidratorrent.com/capa/minhas-familias-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Do documentarista Hao Wu, vem um retrato sincero de como ele criou uma família completamente moderna nos Estados Unidos, apenas para enfrentar o dilema de apresentar seu parceiro do mesmo sexo e seus filhos a pais e parentes profundamente tradicionais na China. </info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>White Boy Rick </name>
+<thumbnail>https://hidratorrent.com/capa/white-boy-rick-download-torrent-2018-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ 
+
+<item>
+<title>White Boy Rick </title>
+<link>magnet:?xt=urn:btih:DA269AE63E726C1882ABC3B19126D64F85A742D8&amp;&amp;dn=%5bWWW.BLUDV.TV%5d%20White%20Boy%20Rick%202019%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&amp;&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;&amp;tr=udp%3a%2f%2f9.rarbg.to%3a2770%2fannounce&amp;&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;&amp;tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&amp;&amp;tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce
+ </link>
+<thumbnail>https://hidratorrent.com/capa/white-boy-rick-download-torrent-2018-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>A história de Richard Wershe Jr. (Richie Merritt) que, em meados da década de 1980, quando tinha apenas 14 anos, se tornou um informante disfarçado para a polícia. Depois acabou virando um grande traficante de drogas e, quando tinha 17 anos, sua vida dupla foi desmascarada ao ser pego com 17 quilos de cocaína. Richard foi condenado a prisão perpétua.></info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=95QHAd-T6TU</trailer>
+<thumbnail>https://hidratorrent.com/capa/white-boy-rick-download-torrent-2018-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>A história de Richard Wershe Jr. (Richie Merritt) que, em meados da década de 1980, quando tinha apenas 14 anos, se tornou um informante disfarçado para a polícia. Depois acabou virando um grande traficante de drogas e, quando tinha 17 anos, sua vida dupla foi desmascarada ao ser pego com 17 quilos de cocaína. Richard foi condenado a prisão perpétua.></info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Jo Pil-ho - O Despertar da Ira</name>
+<thumbnail>https://hidratorrent.com/capa/jo-pil-ho-o-despertar-da-ira-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Jo Pil-ho - O Despertar da Ira</title>
+<link>magnet:?xt=urn:btih:b8cf318df0e0db94e1c1d098eec75cbad1548853&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Jo%20Pil-ho%20%e2%80%93%20O%20Despertar%20da%20Ira%202019%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2780%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capa/jo-pil-ho-o-despertar-da-ira-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>A história segue um policial ruim ao confrontar uma sociedade ainda mais cruel. Perseguido obstinadamente por um corregedor, um policial corrupto é forçado a se aliar a uma adolescente rebelde para derrubar uma conspiração. </info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8f4iAlHtRMA</trailer>
+<thumbnail>https://hidratorrent.com/capa/jo-pil-ho-o-despertar-da-ira-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>A história segue um policial ruim ao confrontar uma sociedade ainda mais cruel. Perseguido obstinadamente por um corregedor, um policial corrupto é forçado a se aliar a uma adolescente rebelde para derrubar uma conspiração. </info>
+</item>
+
+</channel>
+<channels></channels>
+<channel>
+<name>Sai de Baixo O Filme </name>
+<thumbnail>https://hidratorrent.com/capa/sai-de-baixo-o-filme-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ 
+<item>
+<title>Sai de Baixo O Filme [NAC]</title>
+<link>magnet:?xt=urn:btih:96FC6708A2BA87A4DEDB9396E5F1712B5501CE38&amp;&amp;dn=%5bWWW.BLUDV.TV%5d%20Sai%20de%20Baixo%20-%20O%20Filme%202019%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&amp;&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;&amp;tr=udp%3a%2f%2f9.rarbg.to%3a2770%2fannounce&amp;&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;&amp;tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&amp;&amp;tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce
+ </link>
+<thumbnail>https://hidratorrent.com/capa/sai-de-baixo-o-filme-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Depois de uma longa temporada na prisão, Caco Antibes (Miguel Falabella) volta ao Largo do Arouche para descobrir que todos estão mais falidos do que nunca. A família foi despejada do apartamento e, como se não bastasse, está morando de favor com o porteiro Ribamar (Tom Cavalcante). Como algumas coisas nunca mudam, não demorou muito até Caco meter a família inteira em uma nova roubada. Ao lado de Magda (Marisa Orth), Ribamar, Vavá (Luis Gustavo), Cassandra (Aracy Balabanian) e Cibalena (Cacau Protásio), o trambique dessa vez será a nível internacional e ninguém vai querer ficar de fora desse esquema. </info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=chjasTR4CSs</trailer>
+<thumbnail>https://hidratorrent.com/capa/sai-de-baixo-o-filme-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Depois de uma longa temporada na prisão, Caco Antibes (Miguel Falabella) volta ao Largo do Arouche para descobrir que todos estão mais falidos do que nunca. A família foi despejada do apartamento e, como se não bastasse, está morando de favor com o porteiro Ribamar (Tom Cavalcante). Como algumas coisas nunca mudam, não demorou muito até Caco meter a família inteira em uma nova roubada. Ao lado de Magda (Marisa Orth), Ribamar, Vavá (Luis Gustavo), Cassandra (Aracy Balabanian) e Cibalena (Cacau Protásio), o trambique dessa vez será a nível internacional e ninguém vai querer ficar de fora desse esquema. </info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>O Outro Pai </name>
+<thumbnail>https://hidratorrent.com/capa/o-outro-pai-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ 
+
+<item>
+<title>O Outro Pai </title>
+<link>magnet:?xt=urn:btih:65015fbe4cff974ab01e7711329018ad69c0f86d&amp;dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20O%20Outro%20Pai%202019%20%5b1080p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.blazing.de%2fannounce&amp;tr=udp%3a%2f%2ftracker.prq.to%2fannounce&amp;tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2780%2fannounce&amp;tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&amp;tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&amp;tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce&amp;tr=udp%3a%2f%2f11.rarbg.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce
+ </link>
+<thumbnail>https://hidratorrent.com/capa/o-outro-pai-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Quatro irmãs se envolvem em um caso misterioso desencadeado pelo último desejo de sua mãe morta. Antes de morrer, a mãe faz um vídeo para cada uma de suas filhas que contém uma série de revelações sobre um segredo de família que transformará o mundo delas de cabeça para baixo e as colocará juntas em uma jornada que as ajudará a se redescobrirem, e si mesmos.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rBYGA78PbyE</trailer>
+<thumbnail>https://hidratorrent.com/capa/o-outro-pai-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Quatro irmãs se envolvem em um caso misterioso desencadeado pelo último desejo de sua mãe morta. Antes de morrer, a mãe faz um vídeo para cada uma de suas filhas que contém uma série de revelações sobre um segredo de família que transformará o mundo delas de cabeça para baixo e as colocará juntas em uma jornada que as ajudará a se redescobrirem, e si mesmos.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Operação Overlord</name>
+<thumbnail>https://3.bp.blogspot.com/-yN-NkOHxj_s/W-cP9A-IyJI/AAAAAAAACtU/dCnvwgvfWHISDL1PuqedvWesyIOy338dQCLcBGAs/s1600/Opera%25C3%25A7%25C3%25A3o%2BOverlord%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+ 
+
+<item>
+<title>Operação Overlord</title>
+<link>magnet:?xt=urn:btih:6772B25D02EFC3E70D145889F80AE36361571524&amp;dn=Overlord+2018+1080p+BRRip+x264+%5BDual+Audio%5D+%5BENG%2FPTBR%5D+</link>
+<thumbnail>https://3.bp.blogspot.com/-yN-NkOHxj_s/W-cP9A-IyJI/AAAAAAAACtU/dCnvwgvfWHISDL1PuqedvWesyIOy338dQCLcBGAs/s1600/Opera%25C3%25A7%25C3%25A3o%2BOverlord%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+<fanart></fanart>
+<info>Uma tropa de paraquedistas americanos é lançada atrás das linhas inimigas para uma missão crucial. Mas, quando se aproximam do alvo percebem que não é só uma simples operação militar e tem mais coisas acontecendo no lugar, que está ocupado por nazistas.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eDSKTnH8KAU</trailer>
+<thumbnail>https://3.bp.blogspot.com/-yN-NkOHxj_s/W-cP9A-IyJI/AAAAAAAACtU/dCnvwgvfWHISDL1PuqedvWesyIOy338dQCLcBGAs/s1600/Opera%25C3%25A7%25C3%25A3o%2BOverlord%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+<fanart></fanart>
+<info>Uma tropa de paraquedistas americanos é lançada atrás das linhas inimigas para uma missão crucial. Mas, quando se aproximam do alvo percebem que não é só uma simples operação militar e tem mais coisas acontecendo no lugar, que está ocupado por nazistas.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Nosso Último Verão </name>
+<thumbnail>https://hidratorrent.com/capa/nosso-ultimo-verao-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ 
+
+<item>
+<title>Nosso Último Verão </title>
+<link>magnet:?xt=urn:btih:2f854415497957341fd39d6de9b016c45f515953&amp;dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Nosso%20%c3%9altimo%20Ver%c3%a3o%202019%20%5b1080p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.blazing.de%2fannounce&amp;tr=udp%3a%2f%2ftracker.prq.to%2fannounce&amp;tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2780%2fannounce&amp;tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&amp;tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&amp;tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce&amp;tr=udp%3a%2f%2f11.rarbg.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce
+ </link>
+<thumbnail>https://hidratorrent.com/capa/nosso-ultimo-verao-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Um grupo de jovens recém-graduados do ensino médio passam um último verão juntos se preparando para a vida adulta. Histórias se cruzam à medida que o grupo luta com amores perdidos e achados, relacionamentos frágeis com seus pais e, ultimamente, a batalha para descobrir quem são e o que devem fazer a seguir.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PxID8zcTQ54</trailer>
+<thumbnail>https://hidratorrent.com/capa/nosso-ultimo-verao-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Um grupo de jovens recém-graduados do ensino médio passam um último verão juntos se preparando para a vida adulta. Histórias se cruzam à medida que o grupo luta com amores perdidos e achados, relacionamentos frágeis com seus pais e, ultimamente, a batalha para descobrir quem são e o que devem fazer a seguir.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Cinderela Pop [NAC]</name>
 <thumbnail>https://hidratorrent.com/capa/cinderela-pop-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 
 <item>
