@@ -1,0 +1,35 @@
+plugin://plugin.video.webplayer/?logos=&amp;move=0&amp;mode=3&amp;index=-1&amp;url=
+
+<channels></channels>
+<channel>
+<name>Todos Itens abaixo usa addon Webplayer pode ser obtido na Kodish Store</name>
+<thumbnail>http://www.eidh.eu/magazine/wp-content/uploads/2013/10/atention.png</thumbnail>
+
+<channels></channels>
+<channel>
+<name>Aptoide [Normal]</name>
+<thumbnail>https://cdn6.aptoide.com/imgs/a/0/f/a0fa75907e641f99b87cf8ac25621cfd_icon.png</thumbnail>
+
+<item>
+<title>Aptoide [Normal]</title>
+<link>plugin://plugin.video.webplayer/?logos=&amp;move=0&amp;mode=3&amp;index=-1&amp;url=http://bit.ly/2ZvPgg6</link>
+<thumbnail>https://cdn6.aptoide.com/imgs/a/0/f/a0fa75907e641f99b87cf8ac25621cfd_icon.png</thumbnail>
+<fanart></fanart>
+<info>Loja de Aplicativos alternativa a Play Store</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Aptoide [TV]</name>
+<thumbnail>https://cdn6.aptoide.com/imgs/a/0/f/a0fa75907e641f99b87cf8ac25621cfd_icon.png</thumbnail>
+
+<item>
+<title>Aptoide [TV]</title>
+<link>plugin://plugin.video.webplayer/?logos=&amp;move=0&amp;mode=3&amp;index=-1&amp;url=http://apkins.aptoide.com/AptoideTV-5.0.2.apk</link>
+<thumbnail>https://cdn6.aptoide.com/imgs/a/0/f/a0fa75907e641f99b87cf8ac25621cfd_icon.png</thumbnail>
+<fanart></fanart>
+<info>Loja de Aplicativos alternativa a Play Store</info>
+</item>
+</channel>
+
