@@ -9,7 +9,19 @@ plugin://plugin.video.webplayer/?logos=&amp;move=0&amp;mode=3&amp;index=-1&amp;u
 
 
 
+<channels></channels>
+<channel>
+<name>Spotify Premiun [Hack]</name>
+<thumbnail>https://freeapkdownload.xyz/wp-content/uploads/2018/10/Spotify-Premium-APK-Download.jpg</thumbnail>
 
+<item>
+<title>Spotify Premiun [Hack]</title>
+<link>plugin://plugin.video.webplayer/?logos=&amp;move=0&amp;mode=3&amp;index=-1&amp;url=http://bit.ly/2KWLDLS</link>
+<thumbnail>https://freeapkdownload.xyz/wp-content/uploads/2018/10/Spotify-Premium-APK-Download.jpg</thumbnail>
+<fanart></fanart>
+<info>Player alternativo a Kodish Team nao se resposabiliza em caso de BAN</info>
+</item>
+</channel>
 
 <channel>
 <name>Perfect Player</name>
