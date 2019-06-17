@@ -4,6 +4,26 @@ plugin://plugin.video.webplayer/?logos=&amp;move=0&amp;mode=3&amp;index=-1&amp;u
 <channel>
 <name>Todos Itens abaixo usa addon Webplayer pode ser obtido na Kodish Store</name>
 <thumbnail>http://www.eidh.eu/magazine/wp-content/uploads/2013/10/atention.png</thumbnail>
+<channels></channels>
+
+
+
+
+
+
+<channel>
+<name>Perfect Player</name>
+<thumbnail>https://lh3.googleusercontent.com/9EK6WnbaxgCSQUfwYn0wfFCrE6R_j_lNn6ndwAfFXR45JwzGDsC6VJ-JmQIuWid0hWk</thumbnail>
+
+<item>
+<title>Perfect Player</title>
+<link>plugin://plugin.video.webplayer/?logos=&amp;move=0&amp;mode=3&amp;index=-1&amp;url=https://play.google.com/store/apps/details?id=com.niklabs.pp</link>
+<thumbnail>https://lh3.googleusercontent.com/9EK6WnbaxgCSQUfwYn0wfFCrE6R_j_lNn6ndwAfFXR45JwzGDsC6VJ-JmQIuWid0hWk</thumbnail>
+<fanart></fanart>
+<info>Player alternativo para rodar listas m3u </info>
+</item>
+
+</channel>
 
 <channels></channels>
 <channel>
