@@ -1,4 +1,16 @@
 <! teste>
+
+<channels>
+
+<channel>
+<name>Apks</name>
+<thumbnail>https://lh5.ggpht.com/aCdAa44RDJNrNx2ZtN93_CsTV19w-NjBnbXI7B15PuqH0uAizyD-GEkvHqFaigGBqw</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/apks</externallink>
+<fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
 <channels>
 <channel>
 <name>Filmes 1</name>
