@@ -11,7 +11,7 @@
 <fanart></fanart>
 <info>Ola apenas um teste</info>
 </item>
-
+</channel>
 
 <channels></channels>
 <channel>
