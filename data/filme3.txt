@@ -1,4 +1,17 @@
 
+<channels></channels>
+<channel>
+<name>Teste</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>Teste</title>
+<texto>Ola apenas um teste</texto>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Ola apenas um teste</info>
+</item>
+
 
 <channels></channels>
 <channel>
