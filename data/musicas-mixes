@@ -1,12 +1,26 @@
 <channels></channels>
 <channel>
 <name>Lady Gaga Mixes</name>
-<thumbnail></thumbnail>
+<thumbnail>https://yt3.ggpht.com/-p1ejPKmyA2s/AAAAAAAAAAI/AAAAAAACSbc/0Oxh2e3JdgY/s256-nd-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
 
 <item>
 <title>Lady Gaga Mixes</title>
-<ptube>RDEMp7_432lokhimq4eaoILwZA</ptube>
-<thumbnail></thumbnail>
+<putube>RDEMp7_432lokhimq4eaoILwZA</putube>
+<thumbnail>https://yt3.ggpht.com/-p1ejPKmyA2s/AAAAAAAAAAI/AAAAAAACSbc/0Oxh2e3JdgY/s256-nd-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Madonna Mixes</name>
+<thumbnail>https://yt3.ggpht.com/-ZBSb8I6yBCw/AAAAAAAAAAI/AAAAAAAAAjo/i8KM-rADvSY/s256-nd-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+
+<item>
+<title>Madonna Mixes</title>
+<putube>RDEMaN9C20MoM3K8E1iVi3CAmg</putube>
+<thumbnail>https://yt3.ggpht.com/-ZBSb8I6yBCw/AAAAAAAAAAI/AAAAAAAAAjo/i8KM-rADvSY/s256-nd-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
