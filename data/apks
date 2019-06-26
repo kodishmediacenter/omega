@@ -7,6 +7,19 @@ plugin://plugin.video.webplayer/?logos=&amp;move=0&amp;mode=3&amp;index=-1&amp;u
 <channels></channels>
 
 
+<channels></channels>
+<channel>
+<name>MrZIPtv</name>
+<thumbnail>https://i.ytimg.com/vi/ZCs3ZZ1Ljnk/hqdefault.jpg</thumbnail>
+
+<item>
+<title>MrZIPtv</title>
+<link>plugin://plugin.video.webplayer/?logos=&amp;move=0&amp;mode=3&amp;index=-1&amp;url=</link>
+<thumbnail>https://i.ytimg.com/vi/ZCs3ZZ1Ljnk/hqdefault.jpg</thumbnail>
+<fanart></fanart>
+<info>Programa de IPTV</info>
+</item>
+</channel>
 
 
 <channels></channels>
