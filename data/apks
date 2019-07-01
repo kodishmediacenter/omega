@@ -6,6 +6,19 @@ plugin://plugin.video.webplayer/?logos=&amp;move=0&amp;mode=3&amp;index=-1&amp;u
 <thumbnail>http://www.eidh.eu/magazine/wp-content/uploads/2013/10/atention.png</thumbnail>
 <channels></channels>
 
+<channels></channels>
+<channel>
+<name>Filmes Para Familia</name>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/ic_launcher.png</thumbnail>
+
+<item>
+<title>Filmes Para Familia</title>
+<link>plugin://plugin.video.webplayer/?logos=&amp;move=0&amp;mode=3&amp;index=-1&amp;url=https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/Filmes%20Para%20Familia_1_1.0.apk</link>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/ic_launcher.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
 
 <channels></channels>
 <channel>
