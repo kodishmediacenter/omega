@@ -1,15 +1,273 @@
+<channels></channels>
+<channel>
+<name>Cemitério Maldito Pet Sematary </name>
+<thumbnail>https://hidratorrent.com/capas/cemiterio-maldito-pet-sematary-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ 
+
+<item>
+<title>Cemitério Maldito Pet Sematary </title>
+<link>magnet:?xt=urn:btih:2ef739752364dde4f26a5e68f228506c48088b55&amp;&amp;dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Cemit%c3%a9rio%20Maldito%202019%20%5b1080p%5d%20%5bBluRay%5d%20%5bDUAL%5d&amp;&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;&amp;tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;&amp;tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&amp;&amp;tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&amp;&amp;tr=http%3a%2f%2ftracker.blazing.de%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;&amp;tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.prq.to%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;&amp;tr=udp%3a%2f%2f11.rarbg.com%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&amp;&amp;tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capas/cemiterio-maldito-pet-sematary-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>O Dr. Louis Creed (Jason Clarke), após se mudar de Boston para a zona rural do Maine com sua esposa Rachel (Amy Seimetz) e seus dois filhos, descobre um misterioso terreno indígena nos fundos da sua nova propriedade. Quando uma tragédia ocorre, Louis recorre ao seu vizinho, Jud Crandall (John Lithgow), e acaba iniciando uma cadeia de horrores que libera um mal insondável com terríveis consequências. </info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SDHEr1F8pcU</trailer>
+<thumbnail>https://hidratorrent.com/capas/cemiterio-maldito-pet-sematary-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>O Dr. Louis Creed (Jason Clarke), após se mudar de Boston para a zona rural do Maine com sua esposa Rachel (Amy Seimetz) e seus dois filhos, descobre um misterioso terreno indígena nos fundos da sua nova propriedade. Quando uma tragédia ocorre, Louis recorre ao seu vizinho, Jud Crandall (John Lithgow), e acaba iniciando uma cadeia de horrores que libera um mal insondável com terríveis consequências. </info>
+</item>
+</channel>
 
 <channels></channels>
 <channel>
-<name>Teste</name>
-<thumbnail></thumbnail>
+<name>Salvando Leningrado </name>
+<thumbnail>https://hidratorrent.com/capas/salvando-leningrado-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ 
 
 <item>
-<title>Teste</title>
-<texto>Ola apenas um teste</texto>
-<thumbnail></thumbnail>
+<title>Salvando Leningrado Dublado</title>
+<link>magnet:?xt=urn:btih:cad31c4b3b8b87c6be755eba69d8dd00836dcef0&amp;&amp;dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Salvando%20Leningrado%202019%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUBLADO%5d&amp;&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;&amp;tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;&amp;tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&amp;&amp;tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&amp;&amp;tr=http%3a%2f%2ftracker.blazing.de%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;&amp;tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.prq.to%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;&amp;tr=udp%3a%2f%2f11.rarbg.com%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&amp;&amp;tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capas/salvando-leningrado-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart></fanart>
-<info>Ola apenas um teste</info>
+<info>Setembro de 1941. Numa reviravolta dos acontecimentos, Kostya e Nastya se encontram a bordo de uma barcaça que evacuará as pessoas de Leningrado sitiada. À noite, a barcaça entra na tempestade. Quando começa a afundar, os aviões inimigos - mas não os socorristas - são os primeiros a chegar ao local.</info>
+</item>
+
+<item>
+<title>Salvando Leningrado Legendado</title>
+<link>magnet:?xt=urn:btih:e261d2a3a863714062dcab310c7ee6d08a76e2c9&amp;&amp;dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Salvando%20Leningrado%202019%20%5b720p%5d%20%5bWEB-DL%5d%20%5bLEGENDADO%5d&amp;&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;&amp;tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;&amp;tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&amp;&amp;tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&amp;&amp;tr=http%3a%2f%2ftracker.blazing.de%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;&amp;tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.prq.to%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;&amp;tr=udp%3a%2f%2f11.rarbg.com%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&amp;&amp;tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce
+ </link>
+<thumbnail>https://hidratorrent.com/capas/salvando-leningrado-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Setembro de 1941. Numa reviravolta dos acontecimentos, Kostya e Nastya se encontram a bordo de uma barcaça que evacuará as pessoas de Leningrado sitiada. À noite, a barcaça entra na tempestade. Quando começa a afundar, os aviões inimigos - mas não os socorristas - são os primeiros a chegar ao local.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rF3YJUrEj4Y</trailer>
+<thumbnail>https://hidratorrent.com/capas/salvando-leningrado-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Setembro de 1941. Numa reviravolta dos acontecimentos, Kostya e Nastya se encontram a bordo de uma barcaça que evacuará as pessoas de Leningrado sitiada. À noite, a barcaça entra na tempestade. Quando começa a afundar, os aviões inimigos - mas não os socorristas - são os primeiros a chegar ao local.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Shaft </name>
+<thumbnail>https://hidratorrent.com/capas/shaft-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ 
+
+<item>
+<title>Shaft </title>
+<link>magnet:?xt=urn:btih:c7e8d9ac214000b4ae68874543bc95eed72e90f1&amp;&amp;dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Shaft%202019%20%5b1080p%5d%20%5bFULL%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&amp;&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;&amp;tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;&amp;tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&amp;&amp;tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&amp;&amp;tr=http%3a%2f%2ftracker.blazing.de%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;&amp;tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.prq.to%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;&amp;tr=udp%3a%2f%2f11.rarbg.com%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&amp;&amp;tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce
+ </link>
+<thumbnail>https://hidratorrent.com/capas/shaft-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>John Shaft III (Jessie Usher) é um agente do FBI que recorre à seu pai distanciado, o legendário John Shaft II (Samuel L. Jackson), após seu melhor amigo morrer sob circunstâncias suspeitas. Pai e filho precisam navegar pelo submundo do Harlem para resolver o crime, mas não sem a ajuda da primeira geração: John Shaft (Richard Roundtree)</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dtObSxBOCkM</trailer>
+<thumbnail>https://hidratorrent.com/capas/shaft-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>John Shaft III (Jessie Usher) é um agente do FBI que recorre à seu pai distanciado, o legendário John Shaft II (Samuel L. Jackson), após seu melhor amigo morrer sob circunstâncias suspeitas. Pai e filho precisam navegar pelo submundo do Harlem para resolver o crime, mas não sem a ajuda da primeira geração: John Shaft (Richard Roundtree)</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Nossa Vida com Cães </name>
+<thumbnail>https://hidratorrent.com/capas/nossa-vida-com-caes-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ 
+
+<item>
+<title>Nossa Vida com Cães </title>
+<link>magnet:?xt=urn:btih:bf2617ded9a81c3a7eefa4f4ab1f1f62bc40ef66&amp;&amp;dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Nossa%20Vida%20com%20C%c3%a3es%202019%20%5b1080p%5d%20%5bBluRay%5d%20%5bDUAL%5d&amp;&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;&amp;tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;&amp;tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&amp;&amp;tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&amp;&amp;tr=http%3a%2f%2ftracker.blazing.de%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;&amp;tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.prq.to%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;&amp;tr=udp%3a%2f%2f11.rarbg.com%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&amp;&amp;tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce
+ </link>
+<thumbnail>https://hidratorrent.com/capas/nossa-vida-com-caes-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>A vida de um grupo de pessoas interconectadas em Los Angeles, reunidas por seus adoráveis colegas caninos.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=GDgyaR-ek0U</trailer>
+<thumbnail>https://hidratorrent.com/capas/nossa-vida-com-caes-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>A vida de um grupo de pessoas interconectadas em Los Angeles, reunidas por seus adoráveis colegas caninos.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Desobediência </name>
+<thumbnail>https://hidratorrent.com/capas/desobediencia-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ 
+
+<item>
+<title>Desobediência </title>
+<link>magnet:?xt=urn:btih:4555427b3cda7db6dde64aba715d51f99d8a4ebb&amp;&amp;dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Desobediencia%202019%20%5b1080p%5d%20%5bBluRay%5d%20%5bDUAL%5d&amp;&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;&amp;tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;&amp;tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&amp;&amp;tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&amp;&amp;tr=http%3a%2f%2ftracker.blazing.de%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;&amp;tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.prq.to%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;&amp;tr=udp%3a%2f%2f11.rarbg.com%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&amp;&amp;tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce
+ </link>
+<thumbnail>https://hidratorrent.com/capas/desobediencia-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Ronit (Rachel Weisz) precisa voltar para sua cidade natal após a morte de seu pai distante - um rabino. Mas ela causa um rebuliço no pacato local ao recordar uma paixão proibida pela melhor amiga de infância, que atualmente é casada com seu primo.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1AEIGqGBGno</trailer>
+<thumbnail>https://hidratorrent.com/capas/desobediencia-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Ronit (Rachel Weisz) precisa voltar para sua cidade natal após a morte de seu pai distante - um rabino. Mas ela causa um rebuliço no pacato local ao recordar uma paixão proibida pela melhor amiga de infância, que atualmente é casada com seu primo.</info>
+</item>
+</channel>
+
+
+
+<channels></channels>
+<channel>
+<name>Dumbo O Filme </name>
+<thumbnail>https://hidratorrent.com/capas/dumbo-live-action-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ 
+
+<item>
+<title>Dumbo O Filme </title>
+<link>magnet:?xt=urn:btih:3b7ed5d93e4c7e2c1d221bb8b3a8cb913303e88f&amp;&amp;dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Dumbo%202019%20%5b1080p%5d%20%5bBluRay%5d%20%5bDUAL%5d&amp;&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;&amp;tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;&amp;tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&amp;&amp;tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&amp;&amp;tr=http%3a%2f%2ftracker.blazing.de%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;&amp;tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.prq.to%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;&amp;tr=udp%3a%2f%2f11.rarbg.com%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&amp;&amp;tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capas/dumbo-live-action-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Holt Farrier é uma ex-estrela de circo que retorna da guerra e encontra seu mundo virado de cabeça para baixo. O circo em que trabalhava está passando por grandes dificuldades, e ele fica encarregado de cuidar de um elefante recém-nascido, cujas orelhas gigantes fazem dele motivo de piada. No entanto, os filhos de Holt descobrem que o pequeno elefante é capaz de uma façanha enorme.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=VXXXJ0tIHnk</trailer>
+<thumbnail>https://hidratorrent.com/capas/dumbo-live-action-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Holt Farrier é uma ex-estrela de circo que retorna da guerra e encontra seu mundo virado de cabeça para baixo. O circo em que trabalhava está passando por grandes dificuldades, e ele fica encarregado de cuidar de um elefante recém-nascido, cujas orelhas gigantes fazem dele motivo de piada. No entanto, os filhos de Holt descobrem que o pequeno elefante é capaz de uma façanha enorme.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Sem Amor </name>
+<thumbnail>https://hidratorrent.com/capas/sem-amor-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ 
+
+<item>
+<title>Sem Amor </title>
+<link>magnet:?xt=urn:btih:1C869B12405F4E68220211D3F30CBC3345306F0F&amp;dn=Sem%20Amor%202019%20%281080p%29%20LAPUMiA&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.trackerfix.com%3a82%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&amp;tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce
+ </link>
+<thumbnail>https://hidratorrent.com/capas/sem-amor-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Boris (Alexey Rozin) e Zhenya (Maryana Spivak) estão se divorciando. Depois de anos juntos, os dois se preparam para suas novas vidas: ele com sua nova namorada, que está grávida, e ela com seu parceiro rico. Com tantas preocupações eles acabam não dando atenção ao filho Alyosha (Matvey Novikov), que acaba desaparecendo misteriosamente.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mLegoO4NdD8</trailer>
+<thumbnail>https://hidratorrent.com/capas/sem-amor-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Boris (Alexey Rozin) e Zhenya (Maryana Spivak) estão se divorciando. Depois de anos juntos, os dois se preparam para suas novas vidas: ele com sua nova namorada, que está grávida, e ela com seu parceiro rico. Com tantas preocupações eles acabam não dando atenção ao filho Alyosha (Matvey Novikov), que acaba desaparecendo misteriosamente.</info>
+</item>
+</channel>
+
+
+<channels></channels>
+<channel>
+<name>Saída Proibida </name>
+<thumbnail>https://hidratorrent.com/capas/saida-proibida-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ 
+
+<item>
+<title>Saída Proibida </title>
+<link>magnet:?xt=urn:btih:553dddaae28afe0ede62f7a5bfd8d4e39219a1bc&amp;&amp;dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Sa%c3%adda%20Proibida%202019%20%5b1080p%5d%20%5bBluRay%5d%20%5bDUAL%5d&amp;&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;&amp;tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;&amp;tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&amp;&amp;tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&amp;&amp;tr=http%3a%2f%2ftracker.blazing.de%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;&amp;tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.prq.to%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;&amp;tr=udp%3a%2f%2f11.rarbg.com%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&amp;&amp;tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce
+ </link>
+<thumbnail>https://hidratorrent.com/capas/saida-proibida-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>É Natal e a família Milgram encontra uma misteriosa substância preta ao redor de sua casa ao acordar. Algo monumental está acontecendo bem à sua porta, mas o que, exatamente – um acidente industrial, um ataque terrorista, uma guerra nuclear? Decaindo para argumentos aterrorizantes, eles ligam a televisão, desesperados por qualquer informação. Na tela, uma mensagem brilha ameaçadora: Fiquem dentro de casa e aguardem mais instruções. Quando a televisão exerce uma fascinação ainda mais sinistra, sua paranoia se torna uma carnificina sangrenta.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=B52gv7ZNLLY</trailer>
+<thumbnail>https://hidratorrent.com/capas/saida-proibida-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>É Natal e a família Milgram encontra uma misteriosa substância preta ao redor de sua casa ao acordar. Algo monumental está acontecendo bem à sua porta, mas o que, exatamente – um acidente industrial, um ataque terrorista, uma guerra nuclear? Decaindo para argumentos aterrorizantes, eles ligam a televisão, desesperados por qualquer informação. Na tela, uma mensagem brilha ameaçadora: Fiquem dentro de casa e aguardem mais instruções. Quando a televisão exerce uma fascinação ainda mais sinistra, sua paranoia se torna uma carnificina sangrenta.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Nas Trevas </name>
+<thumbnail>https://hidratorrent.com/capas/the-dark-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ 
+
+<item>
+<title>Nas Trevas </title>
+<link>magnet:?xt=urn:btih:b6846c771005f0ed4add9ad6c633133d63f6bb1c&amp;&amp;dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Nas%20Trevas%202019%20%5b1080p%5d%20%5bBluRay%5d%20%5bDUAL%5d&amp;&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;&amp;tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;&amp;tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&amp;&amp;tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&amp;&amp;tr=http%3a%2f%2ftracker.blazing.de%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;&amp;tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.prq.to%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;&amp;tr=udp%3a%2f%2f11.rarbg.com%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&amp;&amp;tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce
+ </link>
+<thumbnail>https://hidratorrent.com/capas/the-dark-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Uma jovem faminta por carne humana assombra as florestas em que foi assassinada. Quando ela descobre um menino cego vítima de abusos no porta-malas de um carro, decide deixá-lo viver, algo que causa uma mudança na sua existência.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jWAeb5CMZK0</trailer>
+<thumbnail>https://hidratorrent.com/capas/the-dark-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Uma jovem faminta por carne humana assombra as florestas em que foi assassinada. Quando ela descobre um menino cego vítima de abusos no porta-malas de um carro, decide deixá-lo viver, algo que causa uma mudança na sua existência.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>O Gênio e o Louco </name>
+<thumbnail>https://hidratorrent.com/capas/o-genio-e-o-louco-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ 
+
+<item>
+<title>O Gênio e o Louco </title>
+<link>magnet:?xt=urn:btih:4A8D658379ACFEA35ADEDFB973060BC2500215F2&amp;dn=%5bWWW.BLUDV.TV%5d%20O%20G%c3%aanio%20e%20o%20Louco%202019%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.to%3a2740%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&amp;tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce
+ </link>
+<thumbnail>https://hidratorrent.com/capas/o-genio-e-o-louco-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>O filme conta a história real de dois homens ambiciosos que tentam concluir um dos maiores projetos do mundo: a criação do Dicionário Oxford. Um deles é o Professor James Murray (Mel Gibson), que tomou a decisão de iniciar o compilado, em 1857, e o outro é Doutor W.C. Minor (Sean Penn), que contribuiu com mais de 10.000 verbetes para o dicionário estando internado em um hospício para criminosos. Os dois têm suas vidas ligadas pela loucura, genialidade e obsessão.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8UG0-caYLfc</trailer>
+<thumbnail>https://hidratorrent.com/capas/o-genio-e-o-louco-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>O filme conta a história real de dois homens ambiciosos que tentam concluir um dos maiores projetos do mundo: a criação do Dicionário Oxford. Um deles é o Professor James Murray (Mel Gibson), que tomou a decisão de iniciar o compilado, em 1857, e o outro é Doutor W.C. Minor (Sean Penn), que contribuiu com mais de 10.000 verbetes para o dicionário estando internado em um hospício para criminosos. Os dois têm suas vidas ligadas pela loucura, genialidade e obsessão.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Velvet Buzzsaw Original Netflix </name>
+<thumbnail>https://3.bp.blogspot.com/-rdzQku62Rso/XFT4tF7odgI/AAAAAAAAFUU/AhHwt9spnS8z8bWF50pqukrHN3JpRjKZgCLcBGAs/s1600/Velvet%2BBuzzsaw%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+ 
+
+<item>
+<title>Velvet Buzzsaw </title>
+<link>magnet:?xt=urn:btih:acd3450c3b8c8c462dea907b2b244ddc2a870e80&amp;dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Velvet%20Buzzsaw%202019%20%5bWEB-DL%5d%20%5b1080p%5d%20%5bDUAL%5d
+ </link>
+<thumbnail>https://3.bp.blogspot.com/-rdzQku62Rso/XFT4tF7odgI/AAAAAAAAFUU/AhHwt9spnS8z8bWF50pqukrHN3JpRjKZgCLcBGAs/s1600/Velvet%2BBuzzsaw%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+<fanart></fanart>
+<info>Após uma série de pinturas de um autor desconhecido serem encontradas, uma força sobrenatural começa a pôr em prática um plano de vingança naqueles que permitiram que a ganância viesse antes da arte.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XdAR-lK43YU</trailer>
+<thumbnail>https://3.bp.blogspot.com/-rdzQku62Rso/XFT4tF7odgI/AAAAAAAAFUU/AhHwt9spnS8z8bWF50pqukrHN3JpRjKZgCLcBGAs/s1600/Velvet%2BBuzzsaw%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+<fanart></fanart>
+<info>Após uma série de pinturas de um autor desconhecido serem encontradas, uma força sobrenatural começa a pôr em prática um plano de vingança naqueles que permitiram que a ganância viesse antes da arte.</info>
 </item>
 </channel>
 
