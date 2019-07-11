@@ -152,7 +152,19 @@ http://serverrdc/RedeCanais/RedeCanais/RCServer03/ondemand/MRCLSLDBGSGRDSEP11.mp
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", -----------
 http://serverrdc/RedeCanais/RedeCanais/RCServer03/ondemand/MRCLSLDBGT01EP26.mp4?attachment=true
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", Miraculous: Segredos
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", Miraculous: Contos de Paris
 http://serverrdc/RedeCanais/RedeCanais/RCServer03/ondemand/MRCLSLDBGT01EP26.mp4?attachment=true
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", -----------
 http://serverrdc/RedeCanais/RedeCanais/RCServer03/ondemand/MRCLSLDBGT01EP26.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg",Episódio 01 - O Caderno
+http://serverrdc/RedeCanais/RedeCanais/RCServer03/ondemand/MRCLSLDBGCNTSDPRSEP01.mp4?attachment=true
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg",Episódio 02 - Inspiração
+http://serverrdc/RedeCanais/RedeCanais/RCServer03/ondemand/MRCLSLDBGCNTSDPRSEP02.mp4?attachment=true
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg",Episódio 03 - Repetição
+http://serverrdc/RedeCanais/RedeCanais/RCServer03/ondemand/MRCLSLDBGCNTSDPRSEP03.mp4?attachment=true
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg",Episódio 04 - Dia Cheio
+http://serverrdc/RedeCanais/RedeCanais/RCServer03/ondemand/MRCLSLDBGCNTSDPRSEP04.mp4?attachment=true
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg",Episódio 05 - Dever de Casa
+http://serverrdc/RedeCanais/RedeCanais/RCServer03/ondemand/MRCLSLDBGCNTSDPRSEP05.mp4?attachment=true
+
