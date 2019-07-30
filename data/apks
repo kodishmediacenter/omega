@@ -9,6 +9,19 @@ plugin://plugin.video.webplayer/?logos=&amp;move=0&amp;mode=3&amp;index=-1&amp;u
 
 <channels></channels>
 <channel>
+<name>Brasil TV [Celular]</name>
+<thumbnail>https://cdn-08.anonfiles.com/Neie3319n1/13d6ffdb-1564438911/brasiltv.png</thumbnail>
+
+<item>
+<title>Brasil TV [Celular]</title>
+<link>plugin://plugin.video.webplayer/?logos=&amp;move=0&amp;mode=3&amp;index=-1&amp;url=https://www.mediafire.com/file/urtroup8bx9jpp7/Brasil_TV_New_1.2.3.apk/file</link>
+<thumbnail>https://cdn-08.anonfiles.com/Neie3319n1/13d6ffdb-1564438911/brasiltv.png</thumbnail>
+<fanart></fanart>
+<info>O SD Maid é uma app que busca todo o lixo acumulado no seu smartphone com o decorrer do tempo, limpando pastas desnecessárias para liberar espaço no seu celular. Ele realmente encontra coisas em locais que você nunca imaginará.</info>
+</item>
+
+<channels></channels>
+<channel>
 <name>SD Maid v4.14.25 Pro [Root]</name>
 <thumbnail>https://img.mewe.com/api/v2/photo/cW_5RAecWdx3qREg5YavfWTmHEBb0-5E2OM12zNbaRFdGrn0tjSAMcNpoVw/768x768/img?static=0</thumbnail>
 
