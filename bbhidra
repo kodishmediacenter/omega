@@ -71,7 +71,7 @@
 <channels></channels>
 <channel>
 <name>Doramas [Youtube]</name>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/dorama</externallink>
+<externallink>http://audio.globoradio.globo.com/podcast/feed/702/o-assunto</externallink>
 <thumbnail>https://www.soulgeek.com.br/wp-content/uploads/2017/09/Boys-over-flowers.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -81,7 +81,7 @@
 
 <channels></channels>
 <channel>
-<name>Podcast [Teste]</name>
+<name>Podcast</name>
 <externallink>http://audio.globoradio.globo.com/podcast/feed/702/o-assunto</externallink>
 <thumbnail>https://www.soulgeek.com.br/wp-content/uploads/2017/09/Boys-over-flowers.jpg</thumbnail>
 <fanart></fanart>
