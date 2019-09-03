@@ -78,6 +78,17 @@
 </channel>
 </channels>
 
+<channels></channels>
+<channel>
+<name>Doramas [Youtube]</name>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/doramatorrent</externallink>
+<thumbnail>https://www.soulgeek.com.br/wp-content/uploads/2017/09/Boys-over-flowers.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+
 
 <channels></channels>
 <channel>
