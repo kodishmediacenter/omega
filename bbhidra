@@ -17,46 +17,16 @@
 </channel>
 </channels>
 
-<channels>
+
+<channels></channels>
 <channel>
-<name>Filmes 1</name>
+<name>Filmes</name>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes-cat</externallink>
 <thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes4</externallink>
-<fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
+<fanart></fanart>
 <info></info>
 </channel>
 </channels>
-
-<channels>
-<channel>
-<name>Filmes 2</name>
-<thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filme3.txt</externallink>
-<fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
-<info></info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>Filmes 3</name>
-<thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes.txt</externallink>
-<fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
-<info></info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>Filmes 4</name>
-<thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes2</externallink>
-<fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
-<info></info>
-</channel>
-</channels>
-
 
 <channels></channels>
 <channel>
