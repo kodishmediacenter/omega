@@ -1,5 +1,35 @@
 <channels></channels>
 <channel>
+<name>O Conto da Aia</name>
+<thumbnail>https://2.bp.blogspot.com/-kT2aMeAqCpE/WqcozqjmN2I/AAAAAAAAJe4/Uby_zDdQiRkINyYwr8nQ2nVJcMOut45lwCLcBGAs/s1600/O%2BConto%2Bde%2BAia%2Bdownload%2Btorrent%2Bdublada%2Be%2Bcompleta.jpg</thumbnail>
+
+<item>
+<title>O Conto da Aia 1 temporada</title>
+<link>magnet:?xt=urn:btih:FA36A727B6581F6A95B177DF93684457EF012D93&dn=O%20Conto%20da%20Aia%20-1%C2%AA%20Temporada%20Completa%20%28720p%29%20Baixe%20do%20original%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2770%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://2.bp.blogspot.com/-kT2aMeAqCpE/WqcozqjmN2I/AAAAAAAAJe4/Uby_zDdQiRkINyYwr8nQ2nVJcMOut45lwCLcBGAs/s1600/O%2BConto%2Bde%2BAia%2Bdownload%2Btorrent%2Bdublada%2Be%2Bcompleta.jpg</thumbnail>
+<fanart></fanart>
+<info>O Conto da Aia (The Handmaids Tale)  Depois que um atentado terrorista ceifa a vida do Presidente dos Estados Unidos e de grande parte dos outros políticos eleitos, uma facção católica toma o poder com o intuito declarado de restaurar a paz. O grupo transforma o país na República de Gilead, instaurando um regime totalitário baseado nas leis do antigo testamento, retirando os direitos das minorias e das mulheres em especial. Em meio a isso tudo, Offred é uma handmaid, ou seja, uma mulher cujo único fim é procriar para manter os níveis demográficos da população. Na sua terceira atribuição, ela é entregue ao Comandante, um oficial de alto escalão do regime, e a relação sai dos rumos planejados pelo sistema.</info>
+</item>
+
+<item>
+<title>O Conto da Aia 2 temporada</title>
+<link>magnet:?xt=urn:btih:0bb10a7e9e5482d0aad0892c4355cf3b55f8644e</link>
+<thumbnail>https://2.bp.blogspot.com/-kT2aMeAqCpE/WqcozqjmN2I/AAAAAAAAJe4/Uby_zDdQiRkINyYwr8nQ2nVJcMOut45lwCLcBGAs/s1600/O%2BConto%2Bde%2BAia%2Bdownload%2Btorrent%2Bdublada%2Be%2Bcompleta.jpg</thumbnail>
+<fanart></fanart>
+<info>O Conto da Aia (The Handmaids Tale)  Depois que um atentado terrorista ceifa a vida do Presidente dos Estados Unidos e de grande parte dos outros políticos eleitos, uma facção católica toma o poder com o intuito declarado de restaurar a paz. O grupo transforma o país na República de Gilead, instaurando um regime totalitário baseado nas leis do antigo testamento, retirando os direitos das minorias e das mulheres em especial. Em meio a isso tudo, Offred é uma handmaid, ou seja, uma mulher cujo único fim é procriar para manter os níveis demográficos da população. Na sua terceira atribuição, ela é entregue ao Comandante, um oficial de alto escalão do regime, e a relação sai dos rumos planejados pelo sistema.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qlaQS_x9PlI</trailer>
+<thumbnail>https://2.bp.blogspot.com/-kT2aMeAqCpE/WqcozqjmN2I/AAAAAAAAJe4/Uby_zDdQiRkINyYwr8nQ2nVJcMOut45lwCLcBGAs/s1600/O%2BConto%2Bde%2BAia%2Bdownload%2Btorrent%2Bdublada%2Be%2Bcompleta.jpg</thumbnail>
+<fanart></fanart>
+<info>O Conto da Aia (The Handmaids Tale)  Depois que um atentado terrorista ceifa a vida do Presidente dos Estados Unidos e de grande parte dos outros políticos eleitos, uma facção católica toma o poder com o intuito declarado de restaurar a paz. O grupo transforma o país na República de Gilead, instaurando um regime totalitário baseado nas leis do antigo testamento, retirando os direitos das minorias e das mulheres em especial. Em meio a isso tudo, Offred é uma handmaid, ou seja, uma mulher cujo único fim é procriar para manter os níveis demográficos da população. Na sua terceira atribuição, ela é entregue ao Comandante, um oficial de alto escalão do regime, e a relação sai dos rumos planejados pelo sistema.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
 <name>O Doutrinador - A Série [NAC]</name>
 <thumbnail>https://hidratorrent.com/capas/o-doutrinador-a-serie-1-temporada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 
