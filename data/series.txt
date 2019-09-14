@@ -1,5 +1,185 @@
 <channels></channels>
 <channel>
+<name>Monarca</name>
+<thumbnail>https://hidratorrent.com/capas/monarca-1-temporada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Monarca 1 Temporada</title>
+<link>magnet:?xt=urn:btih:1289b5f17c9b1466ac5a3712bbc53cebcf97443b&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Monarca%201%c2%aa%20Temporada%20Completa%202019%20%5b1080p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capas/monarca-1-temporada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Saga familiar de várias gerações sobre um império de negócios mexicano nascido na tequila, e a batalha que se segue quando um membro da família decide combater o sistema sujo que sua família ajudou a criar.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=cbOmRtbISi0</trailer>
+<thumbnail>https://hidratorrent.com/capas/monarca-1-temporada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Saga familiar de várias gerações sobre um império de negócios mexicano nascido na tequila, e a batalha que se segue quando um membro da família decide combater o sistema sujo que sua família ajudou a criar.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Inacreditável</name>
+<thumbnail>https://hidratorrent.com/capas/inacreditavel-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Inacreditável 1 Temporada</title>
+<link>magnet:?xt=urn:btih:C6D2EAD92E3848CC4EA3F7217F8B6A3778A14FAF&dn=Inacredit%c3%a1vel%20%28Unbelievable%29%202019%20-%201%c2%aa%20Temporada%20COmpleta%20%281080p%20-%20WEB-DL%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capas/inacreditavel-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Após uma adolescente denunciar ter sido estuprada e depois voltar atrás, duas detetives se empenham para descobrir a verdade. Baseado em uma história real.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=U93mSpoXF80</trailer>
+<thumbnail>https://hidratorrent.com/capas/inacreditavel-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Após uma adolescente denunciar ter sido estuprada e depois voltar atrás, duas detetives se empenham para descobrir a verdade. Baseado em uma história real.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Marianne</name>
+<thumbnail>https://hidratorrent.com/capas/marianne-1-temporada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Marianne</title>
+<link>magnet:?xt=urn:btih:7D51BA82F5ED4831599CD93276968C8314E22347&dn=Marianne%202019%20-%201%20Temporada%20Completa%20%281080p%20-%20WEB-DL%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capas/marianne-1-temporada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Ao descobrir que suas histórias aterrorizantes estão se tornando reais, uma escritora retorna à sua cidade natal para enfrentar os demônios do passado que inspiram seus livros.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dA2ri3pTKH4</trailer>
+<thumbnail>https://hidratorrent.com/capas/marianne-1-temporada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Ao descobrir que suas histórias aterrorizantes estão se tornando reais, uma escritora retorna à sua cidade natal para enfrentar os demônios do passado que inspiram seus livros.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Os Saqueadores</name>
+<thumbnail>https://hidratorrent.com/capas/os-saqueadores-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Os Saqueadores</title>
+<link>magnet:?xt=urn:btih:780d296b517f69da505862e87e04881fa5242721&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Os%20Saqueadores%201%c2%aa%20Temporada%20Completa%202019%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capas/os-saqueadores-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Na Bélgica do século XVIII, Jan volta de um período traumático e encontra sua comunidade dominada por franceses. Junto a uma gangue de ladrões, o jovem se tornará um herói local. </info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=13fw9M_YBYY</trailer>
+<thumbnail>https://hidratorrent.com/capas/os-saqueadores-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Na Bélgica do século XVIII, Jan volta de um período traumático e encontra sua comunidade dominada por franceses. Junto a uma gangue de ladrões, o jovem se tornará um herói local. </info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Os Imortais do Brasil [NAC]</name>
+<thumbnail>https://hidratorrent.com/capas/os-imortais-do-brasil-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Os Imortais do Brasil [NAC]</title>
+<link>magnet:?xt=urn:btih:d8e37272fba2eeba2c03d9a6e2d8b6ca8055f9e0&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Os%20Imortais%201%c2%aa%20Temporada%20Completa%202019%20%5b720p%5d%20%5bWEB-DL%5d%20%5bNACIONAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capas/os-imortais-do-brasil-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Os Imortais do Brasil mostra a diversidade e riqueza da literatura brasileira. A série é baseada nos trabalhos de muitos gigantes da literatura brasileira, incluindo Machado de Assis, Érico Veríssimo, Jorge Amado, Monteiro Lobato, Aluísio Azevedo, Carlos Heitor Cony and João do Rio.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=AjWfY7SnMBI</trailer>
+<thumbnail>https://hidratorrent.com/capas/os-imortais-do-brasil-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Os Imortais do Brasil mostra a diversidade e riqueza da literatura brasileira. A série é baseada nos trabalhos de muitos gigantes da literatura brasileira, incluindo Machado de Assis, Érico Veríssimo, Jorge Amado, Monteiro Lobato, Aluísio Azevedo, Carlos Heitor Cony and João do Rio.</info>
+</item>
+</channel>
+
+
+
+
+
+
+
+
+
+<channels></channels>
+<channel>
+<name>Black Mirror</name>
+<thumbnail>https://hidratorrent.com/capas/black-mirror-todas-as-temporadas-completas-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Black Mirror 1 Temporada</title>
+<link>magnet:?xt=urn:btih:382B0AEB43A770840F6830993BB04E5D6F8BF912&dn=Black%20Mirror%201%c2%aa%20Temporada%20720p%20%282011%29%20Dual%20%c3%81udio%20BluRay%20--%20By%20-%20DeG&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capas/black-mirror-todas-as-temporadas-completas-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Esta série antológica de ficção científica explora um futuro próximo onde a natureza humana e a tecnologia de ponta entram em um perigoso conflito. Em Striking Vipers, dois colegas universitários se reencontram após anos, desencadeando uma série de eventos que podem alterar suas vidas para sempre.</info>
+</item>
+
+<item>
+<title>Black Mirror 2 Temporada</title>
+<link>magnet:?xt=urn:btih:e81bba17800a2e65b49948cf4ccb8349bf7014c9&dn=Black+Mirror+2013+-+2%C2%AA+Temporada+Completa+%5BWEBRip%5D+BLUDV</link>
+<thumbnail>https://hidratorrent.com/capas/black-mirror-todas-as-temporadas-completas-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Esta série antológica de ficção científica explora um futuro próximo onde a natureza humana e a tecnologia de ponta entram em um perigoso conflito. Em Striking Vipers, dois colegas universitários se reencontram após anos, desencadeando uma série de eventos que podem alterar suas vidas para sempre.</info>
+</item>
+
+<item>
+<title>Black Mirror 3 Temporada</title>
+<link>magnet:?xt=urn:btih:501F13DBABD94C8753DAD8C9166213E01220847B&dn=Black%20Mirror%202016%20-%203%c2%aa%20Temporada%20Completa%20%5bWEBRip%5d%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a85%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2770%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capas/black-mirror-todas-as-temporadas-completas-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Esta série antológica de ficção científica explora um futuro próximo onde a natureza humana e a tecnologia de ponta entram em um perigoso conflito. Em Striking Vipers, dois colegas universitários se reencontram após anos, desencadeando uma série de eventos que podem alterar suas vidas para sempre.</info>
+</item>
+
+<item>
+<title>Black Mirror 4 Temporada</title>
+<link>magnet:?xt=urn:btih:C9F557C083C1F0E62FF41864BBBA5BE8CCD7BC80&dn=Black%20Mirror%202017%20%E2%80%93%204%C2%AA%20Temporada%20Completa%20%5bWEB-DL%5d%20%28720p%29%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2740%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capas/black-mirror-todas-as-temporadas-completas-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Esta série antológica de ficção científica explora um futuro próximo onde a natureza humana e a tecnologia de ponta entram em um perigoso conflito. Em Striking Vipers, dois colegas universitários se reencontram após anos, desencadeando uma série de eventos que podem alterar suas vidas para sempre.</info>
+</item>
+
+<item>
+<title>Black Mirror 5 Temporada</title>
+<link>magnet:?xt=urn:btih:0b992d36753bf401039867ab16d7e60fe4b340cd&&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Black%20Mirror%205%c2%aa%20Temporada%20Completa%202019%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&&tr=http%3a%2f%2ft2.pow7.com%2fannounce&&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&&tr=http%3a%2f%2fexodus.desync.com%2fannounce&&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capas/black-mirror-todas-as-temporadas-completas-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Esta série antológica de ficção científica explora um futuro próximo onde a natureza humana e a tecnologia de ponta entram em um perigoso conflito. Em Striking Vipers, dois colegas universitários se reencontram após anos, desencadeando uma série de eventos que podem alterar suas vidas para sempre.</info>
+</item>
+
+<item>
+<title>Black Mirror Epsodio especial</title>
+<link>magnet:?xt=urn:btih:5871b73429e1d8fd3aa416393939923a242a00a7&dn=%5bEXCLUSIVO%20COMANDOTORRENTS.COM%5d%20Black%20Mirror%20-%20Bandersnatch%202018%20%5bWEB-DL%5d%20%5b720p%5d%20%5bDUAL%5d</link>
+<thumbnail>https://hidratorrent.com/capas/black-mirror-todas-as-temporadas-completas-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Esta série antológica de ficção científica explora um futuro próximo onde a natureza humana e a tecnologia de ponta entram em um perigoso conflito. Em Striking Vipers, dois colegas universitários se reencontram após anos, desencadeando uma série de eventos que podem alterar suas vidas para sempre.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2bVik34nWws</trailer>
+<thumbnail>https://hidratorrent.com/capas/black-mirror-todas-as-temporadas-completas-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Esta série antológica de ficção científica explora um futuro próximo onde a natureza humana e a tecnologia de ponta entram em um perigoso conflito. Em Striking Vipers, dois colegas universitários se reencontram após anos, desencadeando uma série de eventos que podem alterar suas vidas para sempre.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
 <name>O Conto da Aia</name>
 <thumbnail>https://2.bp.blogspot.com/-kT2aMeAqCpE/WqcozqjmN2I/AAAAAAAAJe4/Uby_zDdQiRkINyYwr8nQ2nVJcMOut45lwCLcBGAs/s1600/O%2BConto%2Bde%2BAia%2Bdownload%2Btorrent%2Bdublada%2Be%2Bcompleta.jpg</thumbnail>
 
