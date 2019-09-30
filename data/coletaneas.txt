@@ -1,0 +1,9 @@
+<channels>
+<channel>
+<name>Rambo Quadriologia</name>
+<thumbnail>https://4.bp.blogspot.com/-NdrGXovBtcg/W5MqsXmX-HI/AAAAAAAAQvA/n1fMi2XYYRQDzsk0fLx6rMjXqNXxwjJsgCLcBGAs/s1600/Rambo%2Bcole%25C3%25A7%25C3%25A3o%2Bcompleta%2Btodos%2Bos%2Bfilmes%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpeg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/Rambo</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/virtualaddon/kodish%20faroeste/fanart.jpg</fanart>
+<info></info>
+</channel>
+</channels>
