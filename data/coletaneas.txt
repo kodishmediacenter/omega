@@ -7,3 +7,14 @@
 <info></info>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>Pixar</name>
+<thumbnail>http://www.disneycidadania.com/wp-content/uploads/2016/06/Pixar_Animation_Studios.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/pixar</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/virtualaddon/kodish%20faroeste/fanart.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+https://raw.githubusercontent.com/kodishmediacenter/omega/master/pixar
