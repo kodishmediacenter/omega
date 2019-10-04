@@ -102,24 +102,3 @@
 </item>
 </channel>
 
-<channels></channels>
-<channel>
-<name>Duelo de Titãs</name>
-<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2016/11/20343423.jpg</thumbnail>
-
-<item>
-<title>Duelo de Titãs</title>
-<mmfilmes>https://www.mmfilmes.tv/assistir-duelo-de-titas/</mmfilmes>
-<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2016/11/20343423.jpg</thumbnail>
-<fanart></fanart>
-<info>Herman Boone (Denzel Washington) um técnico de futebol americano contratado para trabalhar no comando de um time universitário dividido pelo racismo, os Titans. Inicialmente, Boone sofre preconceitos raciais por parte dos demais técnicos e até mesmo de jogadores do seu time, mas aos poucos ele conquista o respeito de todos e torna-se um grande exemplo para o time e também para a pequena cidade em que vive.</info>
-</item>
-
-<item>
-<title>Trailer</title>
-<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=How4dFEyxNU</trailer>
-<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2016/11/20343423.jpg</thumbnail>
-<fanart></fanart>
-<info>Herman Boone (Denzel Washington) um técnico de futebol americano contratado para trabalhar no comando de um time universitário dividido pelo racismo, os Titans. Inicialmente, Boone sofre preconceitos raciais por parte dos demais técnicos e até mesmo de jogadores do seu time, mas aos poucos ele conquista o respeito de todos e torna-se um grande exemplo para o time e também para a pequena cidade em que vive.</info>
-</item>
-</channel>
