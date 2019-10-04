@@ -41,3 +41,25 @@
 <info>Herman Boone (Denzel Washington) um técnico de futebol americano contratado para trabalhar no comando de um time universitário dividido pelo racismo, os Titans. Inicialmente, Boone sofre preconceitos raciais por parte dos demais técnicos e até mesmo de jogadores do seu time, mas aos poucos ele conquista o respeito de todos e torna-se um grande exemplo para o time e também para a pequena cidade em que vive.</info>
 </item>
 </channel>
+
+<channels></channels>
+<channel>
+<name>O Menino que Queria Ser Rei</name>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2019/03/images-204x300.jpg</thumbnail>
+
+<item>
+<title>O Menino que Queria Ser Rei</title>
+<mmfilmes>https://www.mmfilmes.tv/assistir-o-menino-que-queria-ser-rei/</mmfilmes>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2019/03/images-204x300.jpg</thumbnail>
+<fanart></fanart>
+<info>Alex (Louis Serkis) é um garoto que enfrenta problemas no colégio, por sempre defender o amigo Bedders (Dean Chaumoo) dos valentões Lance (Tom Taylor) e Kaye (Rhianna Dorris). Um dia, ao fugir da dupla, ele se esconde em um canteiro de obras abandonado. Lá encontra uma espada encravada em uma pedra, da qual retira com grande facilidade. O que Alex não sabia era que a espada era a lendária Excalibur e que, como seu novo portador, precisa agora enfrentar a meia-irmã do rei Arthur, Morgana (Rebecca Ferguson), que está prestes a retomar seu poder. Para tanto, ele conta com a ajuda do mago Merlin (Angus Imrie), transformado em uma versão bem mais jovem.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=B8nX_C36084</trailer>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2019/03/images-204x300.jpg</thumbnail>
+<fanart></fanart>
+<info>Alex (Louis Serkis) é um garoto que enfrenta problemas no colégio, por sempre defender o amigo Bedders (Dean Chaumoo) dos valentões Lance (Tom Taylor) e Kaye (Rhianna Dorris). Um dia, ao fugir da dupla, ele se esconde em um canteiro de obras abandonado. Lá encontra uma espada encravada em uma pedra, da qual retira com grande facilidade. O que Alex não sabia era que a espada era a lendária Excalibur e que, como seu novo portador, precisa agora enfrentar a meia-irmã do rei Arthur, Morgana (Rebecca Ferguson), que está prestes a retomar seu poder. Para tanto, ele conta com a ajuda do mago Merlin (Angus Imrie), transformado em uma versão bem mais jovem.</info>
+</item>
+</channel>
