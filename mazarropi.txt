@@ -1,0 +1,21 @@
+<channels></channels>
+<channel>
+<name>Coletania Mazarropi</name>
+<thumbnail>https://i.imgur.com/4tSEh8s.jpg</thumbnail>
+
+<item>
+<title>Coletania Mazarropi</title>
+<link>magnet:?xt=urn:btih:4c13b1ce21a17e37eac882f2a748820d70fbda91&dn=Mazzaropi+Cole%26ccedil%3B%26atilde%3Bo+DVD+Pack&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://i.imgur.com/4tSEh8s.jpg</thumbnail>
+<fanart></fanart>
+<info>Coleção Completa do Mazzaropi</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=iKbXQk3xRaQ</trailer>
+<thumbnail>https://i.imgur.com/4tSEh8s.jpg</thumbnail>
+<fanart></fanart>
+<info>Coleção Completa do Mazzaropi</info>
+</item>
+</channel>
