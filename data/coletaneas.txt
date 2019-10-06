@@ -17,4 +17,15 @@
 <info></info>
 </channel>
 </channels>
-https://raw.githubusercontent.com/kodishmediacenter/omega/master/pixar
+
+<channels>
+<channel>
+<name>Mazarropi</name>
+<thumbnail>https://i.imgur.com/4tSEh8s.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/mazarropi.txt</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/virtualaddon/kodish%20faroeste/fanart.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+
