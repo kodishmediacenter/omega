@@ -58,6 +58,15 @@
 </channel>
 </channels>
 
+<channels></channels>
+<channel>
+<name>Vagalume FM</name>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/vagalumefm</externallink>
+<thumbnail>https://lh3.googleusercontent.com/oli9ixdieLia03jDIdS-R_fsTME9GgCYEuDst7mJD9-WI3BvG5VnrpTVw_clmrRQSA</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
 
 
 <channels></channels>
