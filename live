@@ -1,13 +1,28 @@
 <channels></channels>
 <channel>
-<name>Kpop 24 horas [YTB]</name>
+<name>Kpop 24 horas[YTB]</name>
 <thumbnail>https://yt3.ggpht.com/a/AGF-l7-Khh1EdzUh5u0r1RuMnjSC7SMtjdfu_Cfolg=s256-c-k-c0xffffffff-no-rj-mo</thumbnail>
 
 <item>
-<title>Kpop 24 horas [YTB]</title>
-<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=https://www.youtube.com/watch?v=BTdIvxe_8HM</trailer>
+<title>Kpop 24 horas[YTB]</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BTdIvxe_8HM</trailer>
 <thumbnail>https://yt3.ggpht.com/a/AGF-l7-Khh1EdzUh5u0r1RuMnjSC7SMtjdfu_Cfolg=s256-c-k-c0xffffffff-no-rj-mo</thumbnail>
 <fanart></fanart>
 <info>Canal de Kpop</info>
 </item>
 </channel>
+
+<channels></channels>
+<channel>
+<name>JTBC Entertainment 24 horas[YTB]</name>
+<thumbnail>https://yt3.ggpht.com/a/AGF-l7-Khh1EdzUh5u0r1RuMnjSC7SMtjdfu_Cfolg=s256-c-k-c0xffffffff-no-rj-mo</thumbnail>
+
+<item>
+<title>JTBC Entertainment [YTB]</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0Q1b3ePgOB0</trailer>
+<thumbnail>https://yt3.ggpht.com/a/AGF-l79khKpxPDfPCLlq55EzBB0VeJBt1IRxEdB7qQ=s256-c-k-c0xffffffff-no-rj-mo</thumbnail>
+<fanart></fanart>
+<info>Canal de Kpop</info>
+</item>
+</channel>
+
