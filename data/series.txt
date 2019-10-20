@@ -1,5 +1,146 @@
 <channels></channels>
 <channel>
+<name>Desplugados</name>
+<thumbnail>https://hidratorrent.com/capas/desplugados-1-temporada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title> 1ª temporada completa  dublada dual áudio mkv 720p</title>
+<link>magnet:?xt=urn:btih:edb2cb1be400fc960b249a2eaf5833981e59a724&amp;dn=Desplugados%201%c2%aa%20Temporada%20Completa%202019%20(720p)%20LAPUMiA.NeT&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.trackerfix.com%3a83%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&amp;tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capas/desplugados-1-temporada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> Dru e Kal, dois gêmeos idênticos de doze anos, descobrem que o governo está secretamente rastreando e manipulando a juventude da Austrália por meio de dispositivos eletrônicos.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=f-PizmjwP1Y</trailer>
+<thumbnail>https://hidratorrent.com/capas/desplugados-1-temporada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> Dru e Kal, dois gêmeos idênticos de doze anos, descobrem que o governo está secretamente rastreando e manipulando a juventude da Austrália por meio de dispositivos eletrônicos.</info>
+</item>
+
+<channels></channels>
+<channel>
+<name>Prisão de Mulheres </name>
+<thumbnail>https://hidratorrent.com/capas/prisao-de-mulheres-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+
+<item>
+<title>1ª temporada completa  dublado dual áudio mkv 720p</title>
+<link>magnet:?xt=urn:btih:4dc8e5277f4993818d0f0a3b83d23b581517fea6&amp;dn=Pris%c3%a3o%20de%20Mulheres%201%c2%aa%20Temporada%20Completa%202019%20(720p)%20LAPUMiA.NeT&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.trackerfix.com%3a83%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&amp;tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capas/prisao-de-mulheres-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> Uma mãe é presa depois de atirar no marido para se defender. Agora, ela tem de encontrar meios de sobreviver na prisão e de se reencontrar com a filha.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2-lkCjPehLA</trailer>
+<thumbnail>https://hidratorrent.com/capas/prisao-de-mulheres-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> Uma mãe é presa depois de atirar no marido para se defender. Agora, ela tem de encontrar meios de sobreviver na prisão e de se reencontrar com a filha.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Cara x Cara </name>
+<thumbnail>https://hidratorrent.com/capas/cara-x-cara-1-temporada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+
+<item>
+<title>1ª temporada completa  dublada dual áudio mkv 720p</title>
+<link>magnet:?xt=urn:btih:db4f47f0d42386746eb24863a2d29c6b10967cf9&amp;dn=%5bCOMANDOTORRENTS.COM%5d%20Cara%20x%20Cara%201%c2%aa%20Temporada%20Completa%202019%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fbt.ca</link>
+<thumbnail>https://hidratorrent.com/capas/cara-x-cara-1-temporada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> Empenhado em se tornar uma pessoa melhor, um homem (Paul Rudd) decide começar um tratamento especial e descobre que foi substituído por uma nova e aperfeiçoada versão - revelando que seu pior inimigo é ele mesmo.</info>
+</item>
+
+
+
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=cnuB-aECCyE</trailer>
+<thumbnail>https://hidratorrent.com/capas/cara-x-cara-1-temporada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> Empenhado em se tornar uma pessoa melhor, um homem (Paul Rudd) decide começar um tratamento especial e descobre que foi substituído por uma nova e aperfeiçoada versão - revelando que seu pior inimigo é ele mesmo.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>O Último Dragão</name>
+<thumbnail>https://hidratorrent.com/capas/o-ultimo-dragao-1-temporada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>1ª temporada completa  dublado dual áudio mkv 1080p</title>
+<link>magnet:?xt=urn:btih:6c24e39ce260d606c687c2abf5cc63c28fe7e795&amp;dn=O%20Ultimo%20Drag%c3%a3o%201%c2%aa%20Temporada%20Completa%202019%20(1080p)%20LAPUMiA.NeT&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.trackerfix.com%3a83%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&amp;tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capas/o-ultimo-dragao-1-temporada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> Após o assassinato de seus pais, quando criança, o mexicano Miguel Garza foi mandado para o Japão, onde treinou artes marciais enquanto se tornava consultor financeiro de primeira linha. 20 anos depois, o jovem vive com simplicidade e sobriedade em Tóquio, sem saber estar sendo preparado pelo confidente de seu avô - um membro do maior sindicato do crime organizado do Japão, para representar sua família em casa, como herdeira do cartel da família. /strong>.</p></info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lyWI-ndLbrM</trailer>
+<thumbnail>https://hidratorrent.com/capas/o-ultimo-dragao-1-temporada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> Após o assassinato de seus pais, quando criança, o mexicano Miguel Garza foi mandado para o Japão, onde treinou artes marciais enquanto se tornava consultor financeiro de primeira linha. 20 anos depois, o jovem vive com simplicidade e sobriedade em Tóquio, sem saber estar sendo preparado pelo confidente de seu avô - um membro do maior sindicato do crime organizado do Japão, para representar sua família em casa, como herdeira do cartel da família. /strong>.</p></info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Marvel - O Justiceiro</name>
+<thumbnail>https://hidratorrent.com/capas/marvel-o-justiceiro-1-temporada-download-torrent-2017-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+
+<item>
+<title>1ª temporada completa  dublada dual áudio 5.1 mkv 720p</title>
+<link>magnet:?xt=urn:btih:211B6008DE799F8956E7A293B4B578D2700C9BB3&amp;dn=Marvel%20-%20O%20Justiceiro%202017%20-%201%c2%aa%20Temporada%20Completa%20%5bWEB-DL%5d%20WWW.BLUDV.COM&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&amp;tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capas/marvel-o-justiceiro-1-temporada-download-torrent-2017-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> Depois de se vingar dos responsáveis pela morte de sua mulher e de seus filhos, Frank Castle (Jon Bernthal) revela uma conspiração que corre de forma muito mais profunda do que o submundo do crime em Nova York. Agora, conhecido na cidade como O Justiceiro, ele deve descobrir a verdade sobre injustiças que afetam não só a sua família.</info>
+</item>
+
+
+<item>
+<title>1ª temporada completa  dublada dual áudio 5.1 mkv 1080p</title>
+<link>magnet:?xt=urn:btih:FDD3AB68ACC06724B6E3D748734946453C4ED70A&amp;dn=Marvel%20-%20O%20Justiceiro%202017%20-%201%c2%aa%20Temporada%20Completa%20%5bWEB-DL%5d%20%5b1080p%5d%20WWW.BLUDV.COM&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&amp;tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capas/marvel-o-justiceiro-1-temporada-download-torrent-2017-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> Depois de se vingar dos responsáveis pela morte de sua mulher e de seus filhos, Frank Castle (Jon Bernthal) revela uma conspiração que corre de forma muito mais profunda do que o submundo do crime em Nova York. Agora, conhecido na cidade como O Justiceiro, ele deve descobrir a verdade sobre injustiças que afetam não só a sua família.</info>
+</item>
+
+<item>
+<title>2ª temporada completa  dublada dual áudio 5.1 mkv 720p</title>
+<link>magnet:?xt=urn:btih:018EE73566AB31A93B5AC0ADD93FA8EE3805AD55&amp;dn=%7bWWW.BLUDV.TV%7d%20O%20Justiceiro%202019%20-%202%c2%aa%20Temporada%20Completa%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capas/marvel-o-justiceiro-2-temporada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> O crime não dura quando Frank Castle está por perto. O veterano de guerra é impiedoso na sua guerra contra malfeitores, alimentada pelo ódio gerado quando sua família foi pega no fogo cruzado durante um tiroteio entre mafiosos</info>
+</item>
+
+
+<item>
+<title>2ª temporada completa  dublada dual áudio 5.1 mkv x265 hdr 1080p</title>
+<link>magnet:?xt=urn:btih:5EAA307396BCA3BF3CEA263DFE064B8BD29FF15E&amp;dn=%7bWWW.BLUDV.TV%7d%20O%20Justiceiro%202019%20-%202%c2%aa%20Temporada%20Completa%20%281080p%20-%20HDR%20X265%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.to%3a2750%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&amp;tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capas/marvel-o-justiceiro-2-temporada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> O crime não dura quando Frank Castle está por perto. O veterano de guerra é impiedoso na sua guerra contra malfeitores, alimentada pelo ódio gerado quando sua família foi pega no fogo cruzado durante um tiroteio entre mafiosos</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=STuXgXcOVPE</trailer>
+<thumbnail>https://hidratorrent.com/capas/marvel-o-justiceiro-2-temporada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> O crime não dura quando Frank Castle está por perto. O veterano de guerra é impiedoso na sua guerra contra malfeitores, alimentada pelo ódio gerado quando sua família foi pega no fogo cruzado durante um tiroteio entre mafiosos</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
 <name>Manifest - O Mistério do Voo 828</name>
 <thumbnail>https://hidratorrent.com/capas/manifest-o-misterio-do-voo-828-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 
