@@ -1,4 +1,15 @@
 
+
+<channels>
+<channel>
+<name>American Pie</name>
+<thumbnail>https://3.bp.blogspot.com/-3oR_Ge5FupU/WVcbsjVTl6I/AAAAAAAAD40/jPK5tUWcLnwocXrMATR6TToe-QmISmPpACLcBGAs/s1600/colecao_filmes_american_pie_bluray_torrent_1080p_720p.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/American%20pie</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/virtualaddon/kodish%20faroeste/fanart.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
 <channels>
 <channel>
 <name>Marvel Pack</name>
