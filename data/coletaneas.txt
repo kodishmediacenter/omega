@@ -1,3 +1,14 @@
+
+<channels>
+<channel>
+<name>Marvel Pack</name>
+<thumbnail>https://4.bp.blogspot.com/-ZVB9tpVFqr4/WwfWtrDcsUI/AAAAAAAALtU/xxkIjHGjWV4jL6-cl1LdJdkLQYxGIoorACLcBGAs/s1600/Universo%2BMarvel%2Btodos%2Bos%2Bfilmes%2Bdownload%2Bcole%25C3%25A7%25C3%25A3o%2Bcompleta%2Bdublado%2Bbluray.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/marvel-UCM</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/virtualaddon/kodish%20faroeste/fanart.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
 <channels>
 <channel>
 <name>Rambo Quadriologia</name>
