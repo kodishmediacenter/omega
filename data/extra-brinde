@@ -1,7 +1,7 @@
 <channels></channels>
 <channel>
 <name>Top Canais Favoritos</name>
-<thumbnail></thumbnail>
+<thumbnail>https://yt3.ggpht.com/a/AGF-l79Dpy9yGG-j3hTwtQiN3iXRVaC0UHu2cgSUvQ=s900-c-k-c0xffffffff-no-rj-mo</thumbnail>
  
  <item>
  <title>Paloma Cipriano</title>
@@ -114,6 +114,7 @@
  <thumbnail>https://yt3.ggpht.com/a/AGF-l7_mjeWK0LV0wwI5ZttYw79Hn-Wmc5s3j3n5VA=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
  </fanart></fanart>
  </item>
+ 
  <item>
  <title>Chipart</title>
  <utube>CanalChipart</utube>
@@ -146,7 +147,7 @@
 <channels></channels>
 <channel>
 <name>Playlist Musical</name>
-<thumbnail></thumbnail>
+<thumbnail>https://img.quizur.com/f/img5dbb05d92ef0b5.05692404.jpg</thumbnail>
 
  <item>
  <title>Pop Music Playlist</title>
@@ -159,7 +160,7 @@
 <channels></channels>
 <channel>
 <name>Desenhos TV Cultura</name>
-<thumbnail></thumbnail>
+<thumbnail>http://www.vermelho.org.br/admin/arquivos/biblioteca/tvcultura131831.jpg</thumbnail>
 
  <item>
  <title>Pequeno Urso</title>
