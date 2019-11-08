@@ -78,4 +78,14 @@
 </channel>
 </channels>
 
+<channels></channels>
+<channel>
+<name>24 Horas[Youtube]</name>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/24horas</externallink>
+<thumbnail>https://i.ytimg.com/vi/yJDmFVKbI3Q/hqdefault.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
 
