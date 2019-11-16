@@ -1,31 +1,5 @@
 <channels></channels>
 <channel>
-<name>Irmandade</name>
-<thumbnail>https://hidratorrent.com/capas/irmandade-1-temporada-completa-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-
-
-<item>
-<title>1º Temporada Completa</title>
-<link>magnet:?xt=urn:btih:59d432f22f0b9f2eb80149b15a617ca19d0b3de7&amp;dn=%5d%20Irmandade%201ª%20Temporada%20Completa%202019%20%5b720p%5d%20%5bWEB-DL%5d%20%5bNACIONAL%5d&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fbt.ca</link>
-<thumbnail>https://hidratorrent.com/capas/irmandade-1-temporada-completa-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart></fanart>
-<info> Nos anos 90, conhecemos Cristina (Naruna Costa), uma advogada honesta e dedicada, que descobre que seu irmão (Seu Jorge) esteve preso há anos e é líder de uma ascendente facção criminosa. Coagida pela polícia, ela é obrigada a se tornar informante e trabalhar contra o irmão a quem ela sempre idolatrou. Mas conforme se infiltra na Irmandade, começa a questionar seus próprios valores sobre a lei e a justiça, e entra em contato com um lado sombrio de si mesma que não imaginava ter</info>
-</item>
-
-
-
-
-<item>
-<title>Trailer</title>
-<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xt11-wM_UdY</trailer>
-<thumbnail>https://hidratorrent.com/capas/irmandade-1-temporada-completa-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart></fanart>
-<info> Nos anos 90, conhecemos Cristina (Naruna Costa), uma advogada honesta e dedicada, que descobre que seu irmão (Seu Jorge) esteve preso há anos e é líder de uma ascendente facção criminosa. Coagida pela polícia, ela é obrigada a se tornar informante e trabalhar contra o irmão a quem ela sempre idolatrou. Mas conforme se infiltra na Irmandade, começa a questionar seus próprios valores sobre a lei e a justiça, e entra em contato com um lado sombrio de si mesma que não imaginava ter</info>
-</item>
-</channel>
-
-<channels></channels>
-<channel>
 <name>Narcos na Vida Real </name>
 <thumbnail>https://hidratorrent.com/capas/narcos-na-vida-real-1-temporada-completa-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 
