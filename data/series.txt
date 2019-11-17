@@ -1,5 +1,29 @@
 <channels></channels>
 <channel>
+<name>Os Crimes ABC</name>
+<thumbnail>https://hidratorrent.com/capas/os-crimes-abc-1-temporada-completa-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+
+<item>
+<title>1ª temporada completa Dual Audio</title>
+<link>magnet:?xt=urn:btih:07f06f14c1121366e22470a3f5540ed08bfea7f1&amp;dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20The%20ABC%20Murders%201%c2%aa%20Temporada%20Completa%202019%20%5b1080p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fbt.ca</link>
+<thumbnail>https://hidratorrent.com/capas/os-crimes-abc-1-temporada-completa-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> Situado na década de 1930, uma época em que a Grã-Bretanha está perigosamente dividida e a suspeita e o ódio estão em ascensão, a história mostra Poirot (John Malkovich) enfrentando um serial killer conhecido apenas como A.B.C. À medida que a contagem de corpos aumenta, a única pista é uma cópia do The ABC Railway Guide em cada cena do crime. As investigações de Poirot são continuamente frustradas por um inimigo determinado a ser mais esperto do que ele. /strong>.</p></info>
+</item>
+
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UgWfvO_M0g0</trailer>
+<thumbnail>https://hidratorrent.com/capas/os-crimes-abc-1-temporada-completa-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> Situado na década de 1930, uma época em que a Grã-Bretanha está perigosamente dividida e a suspeita e o ódio estão em ascensão, a história mostra Poirot (John Malkovich) enfrentando um serial killer conhecido apenas como A.B.C. À medida que a contagem de corpos aumenta, a única pista é uma cópia do The ABC Railway Guide em cada cena do crime. As investigações de Poirot são continuamente frustradas por um inimigo determinado a ser mais esperto do que ele. /strong>.</p></info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
 <name>Narcos na Vida Real </name>
 <thumbnail>https://hidratorrent.com/capas/narcos-na-vida-real-1-temporada-completa-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 
