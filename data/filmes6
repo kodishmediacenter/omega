@@ -1,5 +1,35 @@
 <channels></channels>
 <channel>
+<name>Fruits on Basket [Exclusivo]</name>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51Y4WXX2Z6L.jpg</thumbnail>
+
+<item>
+<title>Fruits on Basket #1</title>
+<link>https://archive.org/download/fruitsbasket_201910/Fruits_Basket.mp4</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51Y4WXX2Z6L.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>Fruits on Basket #2</title>
+<link>https://archive.org/download/fruitsonbasket2/Fruits%20On%20Basket%202.mp4</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51Y4WXX2Z6L.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=QACMMbu22uA</trailer>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51Y4WXX2Z6L.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
 <name>Atlantique </name>
 <thumbnail>https://hidratorrent.com/capas/atlantique-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 
