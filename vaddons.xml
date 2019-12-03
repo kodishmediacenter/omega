@@ -319,7 +319,7 @@ Channels and Playlists organized by categories. Source: Youtube Website.
 
 <addon id="plugin.video.apollo"
                name="[COLOR deepskyblue][B]APOLLO[/COLOR][/B]"
-       version="1.1.3"
+       version="1.1.4"
        provider-name="APOLLO">
   <requires>
     <import addon="xbmc.python" version="2.24.0"/>
@@ -560,6 +560,7 @@ Channels and Playlists organized by categories. Source: Youtube Website.
 	<platform>all</platform>
   </extension>
 </addon>
+
 <addon id="plugin.video.brasilfull"
        name="[COLOR green][B]Brasil [/B][/COLOR][COLOR yellow][B]Full[/B][/COLOR]"
        version="3.2"
@@ -1241,6 +1242,7 @@ Toda a fonte  vem de utilizadores do Youtube. Addon criado pela Kodiazor Team.</
     <website></website>
   </extension>
 </addon>
+
 <addon id="plugin.video.kidzflix"
        name="KIDzFLIX"
        version="1.0"
@@ -1789,32 +1791,36 @@ Levando o lazer e o prazer para vocÃªs assistir e curtir cada momento com a fa
 </addon>
 
 <addon id="plugin.video.pikachu"
-       name="[B][COLOR yellow]PIKACHU [COLOR green] ENTRETERIMENTOS[/COLOR][/B]"
-       version="1.0.6"
-       provider-name="[B][COLOR yellow]PIKACHU [COLOR firebrick] ENTRETERIMENTOS[/COLOR][/B]">
+       name="[B][COLOR yellow][B]PIKACHU [COLOR lime] EMTRETERIMENTOS!!![/B][/COLOR]"
+       version="1.0.7"
+       provider-name="[B][COLOR yellow] PIKACHU [COLOR lime] ENTRETERIMENTOS!!![/COLOR][/B]">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="script.module.t0mm0.common" version="2.0.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
     <import addon="script.module.simple.downloader" version="0.9.4"/>
     <import addon="script.module.beautifulsoup4" />
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
     <import addon="script.module.requests" />
     <import addon="script.module.httplib2" />
+    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
     <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" version="3.0.0"/>
+    <import addon="plugin.video.youtube" optional="true" />
+	<import addon="plugin.video.SportsDevil" optional="true" />
     <import addon="script.module.urlresolver" optional="true"/>
     <import addon="script.module.simplejson" />
-    <import addon="script.common.plugin.cache" version="2.5.2"/>
-    <import addon="script.module.metahandler" version="2.5.1"/>
-
+     <import addon="script.module.livestreamer" optional="true"/>
+     <import addon="script.module.pyamf" optional="true"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
   </extension>
+
+
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">[B][COLOR gray]OBRIGADO POR ESCOLHER NOSSO ADDON[/COLOR][/B]</summary>
-    <description lang="en">[COLOR gold][B]CONTEÃšDOS RETRANSMITIDOS POR INTERNET E OUTRAS PLATAFORMAS, AGRADECEMOS SUA PREFERÃŠNCIA[/B][/COLOR]</description>
+    <summary>[B][COLOR yellow] PIKACHU [COLOR lime] ENTRETERIMENTOS!!![/COLOR][/B]</summary>
+    <description>
+       [B]ATENCAO:[B] [COLOR yellow] Os conteudos diponibilizados neste [ ADDON ],sao conteudos retransmitidos de iternet e outras plataformas digitais;Nessecitando assim de uma periodica manutencao.Caso o conteudo que voce queira assistir esteja  [COLOR lime][ OFF ]  [COLOR firebrick] Por favor avise-nos : [ 85]  99738-1821 [COLOR yellow] PIKACHU [COLOR lime] ENTRETERIMENTOS!!![/COLOR][/B]
+
+    </description>
     <platform>all</platform>
   </extension>
 </addon>
@@ -2463,47 +2469,7 @@ Skin and code for skin by Demonstratorz</description>
   </extension>
 </addon>
 
-<addon id="repo.vikings" name="[B][COLOR yellow]  Vikings  [COLOR orange]Repositorio Vikings Oficial, SEM BANIMENTO!![/B][/COLOR]"
-version="1.16"
-provider-name="Vikings TEAM">">
-	<requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.t0mm0.common" version="2.0.0"/>
-    <import addon="script.module.beautifulsoup4" />
-    <import addon="script.module.requests" />
-    <import addon="script.module.httplib2" />
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.urlresolver" />
-    <import addon="script.module.simplejson" />
-    <import addon="script.module.livestreamer"/>
-    <import addon="script.module.pyamf"/>
-    <import addon="script.common.plugin.cache" version="2.5.2"/>
-    <import addon="script.module.metahandler" version="2.5.1"/>
-	<import addon="script.module.addon.common" />
-	<import addon="script.module.addon.signals" version="0.0.1"/>
-
-  </requires>
-  <extension point="xbmc.addon.repository" name="Vikings Repository">
-		<info compressed="false">http://raw.github.com/vikingsbuild/repo.vikings/master/addons.xml</info>
-		<checksum>http://raw.github.com/vikingsbuild/repo.vikings/master/addons.xml.md5</checksum>
-		<datadir zip="true">http://raw.github.com/vikingsbuild/repo.vikings/master/addons/</datadir>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary>Repositorio Vikings</summary>
-		<description>Repositorio oficial Vikings Build - Proibido reproducao sem previa autorizacao</description>
-		<news>
-	Estamos voltando, aguardem...!!!
-	Os addons que serÃ¡ instalado, nÃ£o Ã© hospedado, tampouco o conteÃºdo dos mesmos Ã© de responsabilidade da Vikings Build. O autor nÃ£o Ã© responsÃ¡vel pelo uso incorreto ou pelo conteÃºdo encontrado nestes addons!!
-</news>
-
-		<disclaimer></disclaimer>
-		<platform>all</platform>
-	</extension>
-</addon>
-
-    <addon id="repositorio.attoplay" name="[B][COLOR green]|||[COLOR chartreuse]|||[COLOR gold]|||[COLOR blue] â€¢ [COLOR beige]REPOSITORIO ATTOPLAY[/COLOR] â€¢ [COLOR gold]|||[COLOR chartreuse]|||[COLOR green]|||[/COLOR][/B]" provider-name="[COLOR aqua]Team ATTO[/COLOR]" version="1.0">
+<addon id="repositorio.attoplay" name="[B][COLOR green]|||[COLOR chartreuse]|||[COLOR gold]|||[COLOR blue] â€¢ [COLOR beige]REPOSITORIO ATTOPLAY[/COLOR] â€¢ [COLOR gold]|||[COLOR chartreuse]|||[COLOR green]|||[/COLOR][/B]" provider-name="[COLOR aqua]Team ATTO[/COLOR]" version="1.0">
         <extension point="xbmc.addon.repository" name="Attoplay Repositorio">
             <info compressed="true">https://raw.githubusercontent.com/attoflix/atto-repository-official/master/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/attoflix/atto-repository-official/master/addons.xml.md5</checksum>
