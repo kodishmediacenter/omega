@@ -1,5 +1,181 @@
 <channels></channels>
 <channel>
+<name>Percy Jackson - Todos os Filmes </name>
+<thumbnail>https://1.bp.blogspot.com/-2IJoJ4llkHQ/WOSNd3Nyq4I/AAAAAAAABnc/KX3pmkEme_Es-8KTieh7Xb4575xVM4ZAQCLcB/s1600/percy-jackson-2-filmes.jpg</thumbnail>
+
+
+<item>
+<title>1ª opção  Dublado dual áudio 5.1  hd</title>
+<link>magnet:?xt=urn:btih:B1FF2B0B4E53398CD5C37D57F25FD23F839F7289&amp;dn=Duologia%20Percy%20Jackson%202010-2013%20%28720p%29&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&amp;tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://1.bp.blogspot.com/-2IJoJ4llkHQ/WOSNd3Nyq4I/AAAAAAAABnc/KX3pmkEme_Es-8KTieh7Xb4575xVM4ZAQCLcB/s1600/percy-jackson-2-filmes.jpg</thumbnail>
+<fanart></fanart>
+<info> Percy Jackson descobre que ele é um semideus, ou seja, filho do deus Poseidon com uma mulher humana, e possui poderes. Protegido por seu guarda costas Grover Underwood, ele é levado ao acampamento dos meio sangue, onde está ficará segurança. Percy Jackson e o Ladrão de Raios e o Mar dos Monstros são dois filmes para toda a família, baixe e assista de graça em nosso site.</info>
+</item>
+
+
+<item>
+<title>2ª opção  Dublado dual áudio 5.1  fullhd</title>
+<link>magnet:?xt=urn:btih:B1D23ADBCE49CDB9591A9ABEB9B3812FC972D5B8&amp;dn=Duologia%20Percy%20Jackson%202010-2013%20%281080p%29&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&amp;tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://1.bp.blogspot.com/-2IJoJ4llkHQ/WOSNd3Nyq4I/AAAAAAAABnc/KX3pmkEme_Es-8KTieh7Xb4575xVM4ZAQCLcB/s1600/percy-jackson-2-filmes.jpg</thumbnail>
+<fanart></fanart>
+<info> Percy Jackson descobre que ele é um semideus, ou seja, filho do deus Poseidon com uma mulher humana, e possui poderes. Protegido por seu guarda costas Grover Underwood, ele é levado ao acampamento dos meio sangue, onde está ficará segurança. Percy Jackson e o Ladrão de Raios e o Mar dos Monstros são dois filmes para toda a família, baixe e assista de graça em nosso site.</info>
+</item>
+
+
+
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=MaCZqNuyDIQ</trailer>
+<thumbnail>https://1.bp.blogspot.com/-2IJoJ4llkHQ/WOSNd3Nyq4I/AAAAAAAABnc/KX3pmkEme_Es-8KTieh7Xb4575xVM4ZAQCLcB/s1600/percy-jackson-2-filmes.jpg</thumbnail>
+<fanart></fanart>
+<info> Percy Jackson descobre que ele é um semideus, ou seja, filho do deus Poseidon com uma mulher humana, e possui poderes. Protegido por seu guarda costas Grover Underwood, ele é levado ao acampamento dos meio sangue, onde está ficará segurança. Percy Jackson e o Ladrão de Raios e o Mar dos Monstros são dois filmes para toda a família, baixe e assista de graça em nosso site.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Tainá - Todos os Filmes </name>
+<thumbnail>https://3.bp.blogspot.com/-nCmQoZ_c1m8/Wq0zkVxP3FI/AAAAAAAAJsU/vxwmSrJ5RVASO4p6E9tqXK9O1on-QtfYwCLcBGAs/s1600/Tain%25C3%25A1%2Btodos%2Bos%2Bfilmes%2Bcompletos%2Btorrent%2Bdownload%2Bnacional.jpg</thumbnail>
+
+
+<item>
+<title>todos os 3 filmes de tainá  nacional avi dvdrip</title>
+<link>magnet:?xt=urn:btih:DD160F2A387C82EA03B905F07DACDBE18F4EEFF7" </link>
+<thumbnail>https://3.bp.blogspot.com/-nCmQoZ_c1m8/Wq0zkVxP3FI/AAAAAAAAJsU/vxwmSrJ5RVASO4p6E9tqXK9O1on-QtfYwCLcBGAs/s1600/Tain%25C3%25A1%2Btodos%2Bos%2Bfilmes%2Bcompletos%2Btorrent%2Bdownload%2Bnacional.jpg</thumbnail>
+<fanart></fanart>
+<info> Todos os 3 filmes nacionais lançados da indiazinha Tainá. Tainá - Uma Aventura na Amazônia lançado em 2001, Tainá 2 - A Aventura continua de 2005 e Tainá 3 - A Origem, lançado em 2011 em outros países e no Brasil foi lançado em 2013.</info>
+</item>
+
+
+
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1NxCCjCbpkQ</trailer>
+<thumbnail>https://3.bp.blogspot.com/-nCmQoZ_c1m8/Wq0zkVxP3FI/AAAAAAAAJsU/vxwmSrJ5RVASO4p6E9tqXK9O1on-QtfYwCLcBGAs/s1600/Tain%25C3%25A1%2Btodos%2Bos%2Bfilmes%2Bcompletos%2Btorrent%2Bdownload%2Bnacional.jpg</thumbnail>
+<fanart></fanart>
+<info> Todos os 3 filmes nacionais lançados da indiazinha Tainá. Tainá - Uma Aventura na Amazônia lançado em 2001, Tainá 2 - A Aventura continua de 2005 e Tainá 3 - A Origem, lançado em 2011 em outros países e no Brasil foi lançado em 2013.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Tinker Bell - Coleção com todos os Filmes </name>
+<thumbnail>https://hidratorrent.com/capa/tinker-bell-colecao-com-todos-os-filmes-download-torrent-2008-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+
+<item>
+<title>Tinker bell fadas e piratas Dublado dual áudio  720p</title>
+<link>magnet:?xt=urn:btih:F19B69B420054731466F24CDDCE66DF8C267D643&amp;dn=Cole%c3%a7%c3%a3o%20Tinker%20Bell%20-%20%20720p%20-%201080p%20Dublado&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capa/tinker-bell-colecao-com-todos-os-filmes-download-torrent-2008-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> Coleção completa com todos os filmes da fadinha Tinker Bell (Sininho no Brasil) dublados em português do Brasil. Vai mostrar o que acontecerá no mundo das Fadas, quando a fada mais popular de todos os tempos é trancada dentro de um vidro por uma garotinha. Para salva-lá, todos os amigos do refugio das Fadas partem em uma emocionante aventura a traz da fada Tinker Bell. /strong>.</p></info>
+</item>
+
+
+<item>
+<title>Tinker bell fadas e piratas  Dublado dual áudio  720p</title>
+<link>magnet:?xt=urn:btih:63495E267C2EECCCDFBA14E77F3E79AF08046B97&amp;dn=Tinker.Bell.Fadas.e.Piratas.2014.1080p.Dual-&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&amp;tr=udp%3A%2F%2Ftracker.istole.it%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.ccc.de%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337" </link>
+<thumbnail>https://hidratorrent.com/capa/tinker-bell-colecao-com-todos-os-filmes-download-torrent-2008-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> Coleção completa com todos os filmes da fadinha Tinker Bell (Sininho no Brasil) dublados em português do Brasil. Vai mostrar o que acontecerá no mundo das Fadas, quando a fada mais popular de todos os tempos é trancada dentro de um vidro por uma garotinha. Para salva-lá, todos os amigos do refugio das Fadas partem em uma emocionante aventura a traz da fada Tinker Bell. /strong>.</p></info>
+</item>
+
+
+
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UrcYFCzigcw</trailer>
+<thumbnail>https://hidratorrent.com/capa/tinker-bell-colecao-com-todos-os-filmes-download-torrent-2008-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> Coleção completa com todos os filmes da fadinha Tinker Bell (Sininho no Brasil) dublados em português do Brasil. Vai mostrar o que acontecerá no mundo das Fadas, quando a fada mais popular de todos os tempos é trancada dentro de um vidro por uma garotinha. Para salva-lá, todos os amigos do refugio das Fadas partem em uma emocionante aventura a traz da fada Tinker Bell. /strong>.</p></info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Kung Fu Panda - Todos os Filmes </name>
+<thumbnail>https://1.bp.blogspot.com/-0mmzgWG4Oqk/W-JKaM32DeI/AAAAAAAACmI/8-6zEG3ANuUw5E1CxZUx7AkNWDSSOGbbACLcBGAs/s1600/Kung%2Bfu%2BPanda%2Bcole%25C3%25A7%25C3%25A3o%2Bcompleta%2Btodos%2Bos%2Bfilmes%2Btorrent.jpg</thumbnail>
+
+
+<item>
+<title>kung fu panda 1  Dublado  720p</title>
+<link>magnet:?xt=urn:btih:2eaf274c84c8ad5a0d91dd5f2c1b0beb8ae2f469&amp;dn=Kung+Fu+Panda+%282008%29+720p+Dublado+pt-BR+%2F+Brazilian+Pt" </link>
+<thumbnail>https://1.bp.blogspot.com/-0mmzgWG4Oqk/W-JKaM32DeI/AAAAAAAACmI/8-6zEG3ANuUw5E1CxZUx7AkNWDSSOGbbACLcBGAs/s1600/Kung%2Bfu%2BPanda%2Bcole%25C3%25A7%25C3%25A3o%2Bcompleta%2Btodos%2Bos%2Bfilmes%2Btorrent.jpg</thumbnail>
+<fanart></fanart>
+<info> Coleção completa com todos os filmes da franquia Kung Fu Panda em blu-ray dublado, dual áudio e legendado. Todos os filmes de Kung Fu Panda, incluindo, Kung Fu Panda 1 de 2008, Kung Fu Panda 2 de 2011, Kung Fu Panda 3 de 2016, e como bônus 2 curtas da franquia Kung Fu Panda Segredos do Pergaminho e Kung Fu Panda Especial de Natal. Po (Jack Black) é um urso panda desajeitado, que trabalha no restaurante de macarrão de sua família. Um dia ele é surpreendido ao saber que foi escolhido para cumprir uma antiga profecia, o que faz com que treine ao lado de seus ídolos no kung fu: os mestres Shifu (Dustin Hoffman), Garça (David Cross), Tigresa (Angelina Jolie), Louva-deus (Seth Rogen), Macaco (Jackie Chan) e Víbora (Lucy Liu). Quando o traiçoeiro leopardo da neve Tai Lung (Ian McShane) retorna, cabe a Po defender o Vale da Paz. /strong>.</p></info>
+</item>
+
+
+<item>
+<title>kung fu panda 2  Dublado  720p</title>
+<link>magnet:?xt=urn:btih:f41edc7a3cfd20ad8b3b714e72f25c0b54cbd24c&amp;dn=Kung+Fu+Panda+2+%282011%29+720p+Dublado+pt-BR+%2F+Brazilian+Pt" </link>
+<thumbnail>https://1.bp.blogspot.com/-0mmzgWG4Oqk/W-JKaM32DeI/AAAAAAAACmI/8-6zEG3ANuUw5E1CxZUx7AkNWDSSOGbbACLcBGAs/s1600/Kung%2Bfu%2BPanda%2Bcole%25C3%25A7%25C3%25A3o%2Bcompleta%2Btodos%2Bos%2Bfilmes%2Btorrent.jpg</thumbnail>
+<fanart></fanart>
+<info> Coleção completa com todos os filmes da franquia Kung Fu Panda em blu-ray dublado, dual áudio e legendado. Todos os filmes de Kung Fu Panda, incluindo, Kung Fu Panda 1 de 2008, Kung Fu Panda 2 de 2011, Kung Fu Panda 3 de 2016, e como bônus 2 curtas da franquia Kung Fu Panda Segredos do Pergaminho e Kung Fu Panda Especial de Natal. Po (Jack Black) é um urso panda desajeitado, que trabalha no restaurante de macarrão de sua família. Um dia ele é surpreendido ao saber que foi escolhido para cumprir uma antiga profecia, o que faz com que treine ao lado de seus ídolos no kung fu: os mestres Shifu (Dustin Hoffman), Garça (David Cross), Tigresa (Angelina Jolie), Louva-deus (Seth Rogen), Macaco (Jackie Chan) e Víbora (Lucy Liu). Quando o traiçoeiro leopardo da neve Tai Lung (Ian McShane) retorna, cabe a Po defender o Vale da Paz. /strong>.</p></info>
+</item>
+
+
+<item>
+<title>kung fu panda 3  Dublado  720p</title>
+<link>magnet:?xt=urn:btih:45DF36477F6CB7E37B8780DF38C325131A4D5D56&amp;dn=Kung%20Fu%20Panda%203%202016%20720p%20Dublado%20-%20WWWW.THEPIRATEFILMES.COM" </link>
+<thumbnail>https://1.bp.blogspot.com/-0mmzgWG4Oqk/W-JKaM32DeI/AAAAAAAACmI/8-6zEG3ANuUw5E1CxZUx7AkNWDSSOGbbACLcBGAs/s1600/Kung%2Bfu%2BPanda%2Bcole%25C3%25A7%25C3%25A3o%2Bcompleta%2Btodos%2Bos%2Bfilmes%2Btorrent.jpg</thumbnail>
+<fanart></fanart>
+<info> Coleção completa com todos os filmes da franquia Kung Fu Panda em blu-ray dublado, dual áudio e legendado. Todos os filmes de Kung Fu Panda, incluindo, Kung Fu Panda 1 de 2008, Kung Fu Panda 2 de 2011, Kung Fu Panda 3 de 2016, e como bônus 2 curtas da franquia Kung Fu Panda Segredos do Pergaminho e Kung Fu Panda Especial de Natal. Po (Jack Black) é um urso panda desajeitado, que trabalha no restaurante de macarrão de sua família. Um dia ele é surpreendido ao saber que foi escolhido para cumprir uma antiga profecia, o que faz com que treine ao lado de seus ídolos no kung fu: os mestres Shifu (Dustin Hoffman), Garça (David Cross), Tigresa (Angelina Jolie), Louva-deus (Seth Rogen), Macaco (Jackie Chan) e Víbora (Lucy Liu). Quando o traiçoeiro leopardo da neve Tai Lung (Ian McShane) retorna, cabe a Po defender o Vale da Paz. /strong>.</p></info>
+</item>
+
+
+<item>
+<title>kung fu panda 3  Dublado  1080p</title>
+<link>magnet:?xt=urn:btih:88A26A81502ED2A5D5CD776462AE512E1DD334A2&amp;dn=Kung%20Fu%20Panda%203%202016%201080p%20Dublado%20-%20WWWW.THEPIRATEFILMES.COM" </link>
+<thumbnail>https://1.bp.blogspot.com/-0mmzgWG4Oqk/W-JKaM32DeI/AAAAAAAACmI/8-6zEG3ANuUw5E1CxZUx7AkNWDSSOGbbACLcBGAs/s1600/Kung%2Bfu%2BPanda%2Bcole%25C3%25A7%25C3%25A3o%2Bcompleta%2Btodos%2Bos%2Bfilmes%2Btorrent.jpg</thumbnail>
+<fanart></fanart>
+<info> Coleção completa com todos os filmes da franquia Kung Fu Panda em blu-ray dublado, dual áudio e legendado. Todos os filmes de Kung Fu Panda, incluindo, Kung Fu Panda 1 de 2008, Kung Fu Panda 2 de 2011, Kung Fu Panda 3 de 2016, e como bônus 2 curtas da franquia Kung Fu Panda Segredos do Pergaminho e Kung Fu Panda Especial de Natal. Po (Jack Black) é um urso panda desajeitado, que trabalha no restaurante de macarrão de sua família. Um dia ele é surpreendido ao saber que foi escolhido para cumprir uma antiga profecia, o que faz com que treine ao lado de seus ídolos no kung fu: os mestres Shifu (Dustin Hoffman), Garça (David Cross), Tigresa (Angelina Jolie), Louva-deus (Seth Rogen), Macaco (Jackie Chan) e Víbora (Lucy Liu). Quando o traiçoeiro leopardo da neve Tai Lung (Ian McShane) retorna, cabe a Po defender o Vale da Paz. /strong>.</p></info>
+</item>
+
+
+<item>
+<title>kung fu panda segredos do pergaminho  Dublado  720p</title>
+<link>magnet:?xt=urn:btih:C883E7395E52E5AA64952C9C301BAD8F073911BE&amp;dn=kung+fu+panda+segredos+do+pergaminho+2016+720p+web+dl+x264+dual+bludv" </link>
+<thumbnail>https://1.bp.blogspot.com/-0mmzgWG4Oqk/W-JKaM32DeI/AAAAAAAACmI/8-6zEG3ANuUw5E1CxZUx7AkNWDSSOGbbACLcBGAs/s1600/Kung%2Bfu%2BPanda%2Bcole%25C3%25A7%25C3%25A3o%2Bcompleta%2Btodos%2Bos%2Bfilmes%2Btorrent.jpg</thumbnail>
+<fanart></fanart>
+<info> Coleção completa com todos os filmes da franquia Kung Fu Panda em blu-ray dublado, dual áudio e legendado. Todos os filmes de Kung Fu Panda, incluindo, Kung Fu Panda 1 de 2008, Kung Fu Panda 2 de 2011, Kung Fu Panda 3 de 2016, e como bônus 2 curtas da franquia Kung Fu Panda Segredos do Pergaminho e Kung Fu Panda Especial de Natal. Po (Jack Black) é um urso panda desajeitado, que trabalha no restaurante de macarrão de sua família. Um dia ele é surpreendido ao saber que foi escolhido para cumprir uma antiga profecia, o que faz com que treine ao lado de seus ídolos no kung fu: os mestres Shifu (Dustin Hoffman), Garça (David Cross), Tigresa (Angelina Jolie), Louva-deus (Seth Rogen), Macaco (Jackie Chan) e Víbora (Lucy Liu). Quando o traiçoeiro leopardo da neve Tai Lung (Ian McShane) retorna, cabe a Po defender o Vale da Paz. /strong>.</p></info>
+</item>
+
+
+<item>
+<title>kung fu panda segredos do pergaminho  Dublado  1080p</title>
+<link>magnet:?xt=urn:btih:4FF8B2C280D3DD458A13AC6F31D65B4C9A945891&amp;dn=kung+fu+panda+segredos+do+pergaminho+2016+1080p+web+dl+x264+dual+bludv" </link>
+<thumbnail>https://1.bp.blogspot.com/-0mmzgWG4Oqk/W-JKaM32DeI/AAAAAAAACmI/8-6zEG3ANuUw5E1CxZUx7AkNWDSSOGbbACLcBGAs/s1600/Kung%2Bfu%2BPanda%2Bcole%25C3%25A7%25C3%25A3o%2Bcompleta%2Btodos%2Bos%2Bfilmes%2Btorrent.jpg</thumbnail>
+<fanart></fanart>
+<info> Coleção completa com todos os filmes da franquia Kung Fu Panda em blu-ray dublado, dual áudio e legendado. Todos os filmes de Kung Fu Panda, incluindo, Kung Fu Panda 1 de 2008, Kung Fu Panda 2 de 2011, Kung Fu Panda 3 de 2016, e como bônus 2 curtas da franquia Kung Fu Panda Segredos do Pergaminho e Kung Fu Panda Especial de Natal. Po (Jack Black) é um urso panda desajeitado, que trabalha no restaurante de macarrão de sua família. Um dia ele é surpreendido ao saber que foi escolhido para cumprir uma antiga profecia, o que faz com que treine ao lado de seus ídolos no kung fu: os mestres Shifu (Dustin Hoffman), Garça (David Cross), Tigresa (Angelina Jolie), Louva-deus (Seth Rogen), Macaco (Jackie Chan) e Víbora (Lucy Liu). Quando o traiçoeiro leopardo da neve Tai Lung (Ian McShane) retorna, cabe a Po defender o Vale da Paz. /strong>.</p></info>
+</item>
+
+
+<item>
+<title>kung fu panda especial de natal  Dublado  720p</title>
+<link>magnet:?xt=urn:btih:e4666f8f6a63f854d0ff09bc4477e47a7472c23c&amp;dn=Kung+Fu+Panda+-+Especial+de+Natal+-+BDRip+720p+Dublado&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&amp;tr=udp%3A%2F%2Ftracker.istole.it%3A6969&amp;tr=udp%3A%2F%2Ftracker.ccc.de%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337" </link>
+<thumbnail>https://1.bp.blogspot.com/-0mmzgWG4Oqk/W-JKaM32DeI/AAAAAAAACmI/8-6zEG3ANuUw5E1CxZUx7AkNWDSSOGbbACLcBGAs/s1600/Kung%2Bfu%2BPanda%2Bcole%25C3%25A7%25C3%25A3o%2Bcompleta%2Btodos%2Bos%2Bfilmes%2Btorrent.jpg</thumbnail>
+<fanart></fanart>
+<info> Coleção completa com todos os filmes da franquia Kung Fu Panda em blu-ray dublado, dual áudio e legendado. Todos os filmes de Kung Fu Panda, incluindo, Kung Fu Panda 1 de 2008, Kung Fu Panda 2 de 2011, Kung Fu Panda 3 de 2016, e como bônus 2 curtas da franquia Kung Fu Panda Segredos do Pergaminho e Kung Fu Panda Especial de Natal. Po (Jack Black) é um urso panda desajeitado, que trabalha no restaurante de macarrão de sua família. Um dia ele é surpreendido ao saber que foi escolhido para cumprir uma antiga profecia, o que faz com que treine ao lado de seus ídolos no kung fu: os mestres Shifu (Dustin Hoffman), Garça (David Cross), Tigresa (Angelina Jolie), Louva-deus (Seth Rogen), Macaco (Jackie Chan) e Víbora (Lucy Liu). Quando o traiçoeiro leopardo da neve Tai Lung (Ian McShane) retorna, cabe a Po defender o Vale da Paz. /strong>.</p></info>
+</item>
+
+
+
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=q75bGipJzIg</trailer>
+<thumbnail>https://1.bp.blogspot.com/-0mmzgWG4Oqk/W-JKaM32DeI/AAAAAAAACmI/8-6zEG3ANuUw5E1CxZUx7AkNWDSSOGbbACLcBGAs/s1600/Kung%2Bfu%2BPanda%2Bcole%25C3%25A7%25C3%25A3o%2Bcompleta%2Btodos%2Bos%2Bfilmes%2Btorrent.jpg</thumbnail>
+<fanart></fanart>
+<info> Coleção completa com todos os filmes da franquia Kung Fu Panda em blu-ray dublado, dual áudio e legendado. Todos os filmes de Kung Fu Panda, incluindo, Kung Fu Panda 1 de 2008, Kung Fu Panda 2 de 2011, Kung Fu Panda 3 de 2016, e como bônus 2 curtas da franquia Kung Fu Panda Segredos do Pergaminho e Kung Fu Panda Especial de Natal. Po (Jack Black) é um urso panda desajeitado, que trabalha no restaurante de macarrão de sua família. Um dia ele é surpreendido ao saber que foi escolhido para cumprir uma antiga profecia, o que faz com que treine ao lado de seus ídolos no kung fu: os mestres Shifu (Dustin Hoffman), Garça (David Cross), Tigresa (Angelina Jolie), Louva-deus (Seth Rogen), Macaco (Jackie Chan) e Víbora (Lucy Liu). Quando o traiçoeiro leopardo da neve Tai Lung (Ian McShane) retorna, cabe a Po defender o Vale da Paz. /strong>.</p></info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
 <name>Coleção Quadrilogia - Hannibal Lecter </name>
 <thumbnail>https://i.imgur.com/f63lVIX.jpg</thumbnail>
 
