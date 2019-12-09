@@ -1,5 +1,18 @@
 <channels></channels>
 <channel>
+<name>Scooby-Doo Quadriologia</name>
+<thumbnail>https://i.imgur.com/63R4d5W.jpg</thumbnail>
+<item>
+<title>Scooby-Doo Quadriologia</title>
+<link>magnet:?xt=urn:btih:5c4b3dd505abf55d0ccdde7b27811d764f3c8f73&amp;dn=Scooby-Doo+4+Filmes+Coletanea++Dublado+%2F+Dual+Audio+BDRIP+720p&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&amp;tr=udp%3A%2F%2Ftracker.istole.it%3A6969&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337" </link>
+<thumbnail>https://i.imgur.com/63R4d5W.jpg</thumbnail>
+<fanart></fanart>
+<info> Scooby-Doo - 4 Filmes </info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
 <name>Harry Potter - Coleção Completa </name>
 <thumbnail>https://i.imgur.com/9IxHZnc.jpg</thumbnail>
 
