@@ -1,5 +1,118 @@
 <channels></channels>
 <channel>
+<name>Coleção Quadrilogia - Hannibal Lecter </name>
+<thumbnail>https://i.imgur.com/f63lVIX.jpg</thumbnail>
+
+
+<item>
+<title>Quadrilogia - Hannibal Lecter</title>
+<link>magnet:?xt=urn:btih:706A3475802E093DD385203FDD074F6F770A1DB1&amp;dn=Cole%c3%a7%c3%a3o%20Quadrilogia%20-%20Hannibal%20Lecter%20%281991-2007%29%20-%20Dublado%20720p%20%28By-LuanHarper%29&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&amp;tr=http%3a%2f%2fpow7.com%2fannounce&amp;tr=http%3a%2f%2ftracker.blazing.de%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
+<thumbnail>https://i.imgur.com/f63lVIX.jpg</thumbnail>
+<fanart></fanart>
+<info> O Silêncio dos Inocentes: 
+
+A agente do FBI, Clarice Starling (Jodie Foster) é ordenada a encontrar um assassino que arranca a pele de suas vítimas. Para entender como ele pensa, ela procura o periogoso psicopata, Hannibal Lecter (Anthony Hopkins), encarcerado sob a acusação de canibalismo.
+Hannibal: 
+
+Sete anos se passaram desde que o Dr. Hannibal Lecter (Anthony Hopkins) escapou da prisão. O múltiplo homicida agora trabalha na biblioteca de uma família nobre de Florença e transita livremente pela Europa. A agente do FBI Clarice Sterling (Julianne Moore), que entrevistou o Dr. Lecter antes que ele fugisse do hospital de segurança máxima para criminosos insanos, nunca esqueceu o assassino, cuja voz ainda atormenta seus sonhos. Mas também Mason Verger (Gary Oldman) não se esqueceu de Hannibal. Vítima que conseguiu sobreviver ao ataque do psicopata e ficou terrivelmente desfigurado, Verger se torna um obcecado pela vingança e percebe que, para fazer com que o Dr. Lecter seja descoberto, terá que usar como isca a própria Clarice Sterling. 
+Dragão Vermelho:
+Will Graham (Edward Norton) é um agente do FBI que por pouco não foi morto por Hannibal Lecter (Anthony Hopkins) quando tentava capturá-lo. Com Lecter já preso, Graham é obrigado a usar o psicopata como consultor para obter maiores informações sobre Francis Dolarhyde (Ralph Fiennes), um serial killer que tem deixado a cidade em pânico. Mas o que Graham não sabe é que ao mesmo tempo em que Lecter o auxilia em sua investigação também repassa ao próprio Dolarhyde informações sobre a família do policial que o persegue. 
+Hannibal – A Origem do Mal: 
+Leste da Europa, pouco após o fim da 2ª Guerra Mundial. Hannibal Lecter (Gaspard Ulliel) assiste de perto a morte violenta de seus pais. Sem apoio, ele é obrigado a morar em um orfanato soviético, onde sua família morava anteriormente. Logo Lecter parte para Paris na tentativa de encontrar seu tio, mas é recebido pela sra. Murasaki Shikibu (Gong Li), uma viúva bela e misteriosa que lhe dá carinho e amor. Na cidade Lecter decide estudar Medicina, como forma de aumentar suas habilidades para poder fazer justiça contra os criminosos de guerra que o perseguem.</info>
+</item>
+
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1O4Tp99w6RA</trailer>
+<thumbnail>https://i.imgur.com/f63lVIX.jpg</thumbnail>
+<fanart></fanart>
+<info></item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>DC Comics - Coleção de Filmes Animados Originais </name>
+<thumbnail>https://i.imgur.com/hZOnSj8.jpg</thumbnail>
+
+
+<item>
+<title>DC Comics - Coleção de Filmes Animados Originais 720p</title>
+<link>magnet:?xt=urn:btih:921B85A8C84CF32B0594F8F67428291DAA465F03</link>
+<thumbnail>https://i.imgur.com/hZOnSj8.jpg</thumbnail>
+<fanart></fanart>
+<info> DC Comics Coleção de Filmes Animados Originais 
+
+Filmes:
+
+01. 1993 Batman - A Másscara do Fantasma <br/> 
+
+02. 1998 Batman &amp; Mr. Freeze - Abaixo de Zero<br/> 
+
+03. 2000 Batman do Futuro - O Retorno do Coringa<br/> 
+
+04. 2003 Batman - O Mistério da Mulher-Morcego<br/> 
+
+05. 2005 Batman vs. Drácula<br/> 
+
+06. 2006 Superman - Brainiac Ataca<br/> 
+
+07. 2007 Jovens Titãs - Missão Tóquio<br/> 
+
+08. 2007 A Morte do Superman<br/> 
+
+09. 2008 Liga da Justiça - A Nova Fronteira<br/> 
+
+10. 2008 Batman - O Cavaleiro de Gotham<br/> 
+
+11. 2009 Mulher Maravilha<br/> 
+
+12. 2009 Watchmen - Contos do Cargueiro Negro<br/> 
+
+13. 2009 Lanterna Verde - Primeiro Voo<br/> 
+
+14. 2009 Superman &amp; Batman - Inimigos Públicos<br/> 
+
+15. 2010 Liga da Justiça - Crise em Duas Terras<br/> 
+
+16. 2010 Batman Contra o Capuz Vermelho<br/> 
+
+17. 2010 Superman &amp; Batman - Apocalipse<br/> 
+
+18. 2011 Grandes Astros - Superman<br/> 
+
+19. 2011 Laterna Verde - Cavaleiros Esmeralda<br/> 
+
+20. 2011 Batman - Ano Um<br/> 
+
+21. 2012 Liga da Justiça - A Legião do Mal<br/> 
+
+22. 2012 Superman contra a Elite<br/> 
+
+23. 2012 Batman - O Cavaleiro das Trevas - Parte 1<br/> 
+
+24. 2013 Batman - O Cavaleiro das Trevas - Parte 2<br/> 
+
+25. 2013 Superman - Sem Limites<br/> 
+
+26. 2013 Batman Lego - O Filme - Super-Heróis Se Unem<br/> 
+
+27. 2013 Liga da Justiça - Ponto de Ignição<br/> 
+
+28. DC Showcase - Animated Original Shorts<br/> /strong>.</p></info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2Oi36Mdcgss</trailer>
+<thumbnail>https://i.imgur.com/hZOnSj8.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
 <name>A Hora do Pesadelo - Coleção - Todos os Filmes </name>
 <thumbnail>https://hidratorrent.com/capa/a-hora-do-pesadelo-colecao-todos-os-filmes-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 
