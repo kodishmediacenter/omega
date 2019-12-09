@@ -1,3 +1,78 @@
+<channels></channels>
+<channel>
+<name>Harry Potter - Coleção Completa </name>
+<thumbnail>https://i.imgur.com/9IxHZnc.jpg</thumbnail>
+
+
+<item>
+<title>1ª opção  Dublado  720p</title>
+<link>magnet:?xt=urn:btih:28EB43F88E9123B32058905B3DD1B94FB44BAB21&amp;dn=COLE%c3%87%c3%83O%20COMPLETA%20-%20Harry%20Potter%20%282001-2011%29%20Dublado%205.1%20CH%20720p%20%28By-LuanHarper%29&amp;tr=udp%3a%2f%2ftracker.trackerfix.com%3a83%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce&amp;tr=http%3a%2f%2fpow7.com%2fannounce&amp;tr=%2audp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.blazing.de%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
+<thumbnail>https://i.imgur.com/9IxHZnc.jpg</thumbnail>
+<fanart></fanart>
+<info>Esse torrent contém todos os filmes da saga Harry Potter
+
+Harry Potter e a Pedra Filosofal
+
+Harry Potter e a Câmara Secreta
+
+Harry Potter e o Prisioneiro de Azkaban
+
+Harry Potter e o Cálice de Fogo
+
+Harry Potter e a Ordem da Fênix
+
+Harry Potter e o Enigma do Príncipe
+
+Harry Potter e as Relíquias da Morte
+
+Harry Potter e as Relíquias da Morte (Parte II)</info>
+</item>
+
+
+<item>
+<title>2ª opção  Dublado  1080p</title>
+<link>magnet:?xt=urn:btih:36C0239458B98BC3D89E8AD322A3DEAA571753C7&amp;dn=COLE%c3%87%c3%83O%20COMPLETA%20-%20Harry%20Potter%20%282001-2011%29%20Dublado%205.1%20CH%201080p%20%28By-LuanHarper%29&amp;tr=udp%3a%2f%2ftracker.trackerfix.com%3a83%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce&amp;tr=http%3a%2f%2fpow7.com%2fannounce&amp;tr=%2audp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.blazing.de%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce
+ </link>
+<thumbnail>https://i.imgur.com/9IxHZnc.jpg</thumbnail>
+<fanart></fanart>
+<info> Esse torrent contém todos os filmes da saga Harry Potter
+
+Harry Potter e a Pedra Filosofal
+
+Harry Potter e a Câmara Secreta
+
+Harry Potter e o Prisioneiro de Azkaban
+
+Harry Potter e o Cálice de Fogo
+
+Harry Potter e a Ordem da Fênix
+
+Harry Potter e o Enigma do Príncipe
+
+Harry Potter e as Relíquias da Morte
+
+Harry Potter e as Relíquias da Morte (Parte II)</info>
+</item>
+
+
+
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=L8-e_VdwAME</trailer>
+<thumbnail>https://i.imgur.com/9IxHZnc.jpg</thumbnail>
+<fanart></fanart>
+<info> Esse torrent contém todos os filmes da saga Harry Potter
+Harry Potter e a Pedra Filosofal
+Harry Potter e a Câmara Secreta
+Harry Potter e o Prisioneiro de Azkaban
+Harry Potter e o Cálice de Fogo
+Harry Potter e a Ordem da Fênix
+Harry Potter e o Enigma do Príncipe
+Harry Potter e as Relíquias da Morte
+Harry Potter e as Relíquias da Morte (Parte II)</info>
+</item>
+</channel>
 
 
 <channels>
