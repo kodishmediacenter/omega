@@ -20,6 +20,17 @@
 
 <channels>
 <channel>
+<name>Filmes 4K</name>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/4k.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/4kfilmes</externallink>
+<fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
 <name>Filmes 1</name>
 <thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes6</externallink>
