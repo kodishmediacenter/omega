@@ -1,0 +1,22 @@
+<channels></channels>
+<channel>
+<name>Mundial de Clubes</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/1/16/2019_FIFA_Club_World_Cup.png/200px-2019_FIFA_Club_World_Cup.png</thumbnail>
+
+<item>
+<title>Al-Hilal  1 x  0 Esperance</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8XOqysvX3XA</trailer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/1/16/2019_FIFA_Club_World_Cup.png/200px-2019_FIFA_Club_World_Cup.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+<item>
+<title>Monterrey   x   Al-Sadd 14:30</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8XOqysvX3XA</trailer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/1/16/2019_FIFA_Club_World_Cup.png/200px-2019_FIFA_Club_World_Cup.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
