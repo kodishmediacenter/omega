@@ -8,6 +8,16 @@
 </channel>
 </channels>
 
+<channels>
+<channel>
+<name>Mundial Interclubes</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/1/16/2019_FIFA_Club_World_Cup.png/200px-2019_FIFA_Club_World_Cup.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/mundial.txt</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/virtualaddon/kodish%20faroeste/fanart.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
 <channel>
 <name>Apks</name>
 <thumbnail>https://lh5.ggpht.com/aCdAa44RDJNrNx2ZtN93_CsTV19w-NjBnbXI7B15PuqH0uAizyD-GEkvHqFaigGBqw</thumbnail>
