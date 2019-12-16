@@ -10,13 +10,25 @@
 
 <channels>
 <channel>
-<name>Filmes Direto [LHMTV]</name>
+<name>Filmes Direto [LHMTV] </name>
 <thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/lhmtv.txt</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
 <info></info>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>Filmes Direto [RC] </name>
+<thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmes-red</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+
 
 <channels>
 <channel>
