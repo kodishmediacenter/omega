@@ -1,7 +1,7 @@
 <channel>
 <item>
 <title>O Ursinho Pooh (Dublado) - 2011 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/OURSNHPOH.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/OURSNHPOH.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -12,7 +12,7 @@
 <channel>
 <item>
 <title>Zathura: Uma Aventura Espacial (Dublado) - 2005 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/ZTHRUMAVNTESPCL.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/ZTHRUMAVNTESPCL.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -23,7 +23,7 @@
 <channel>
 <item>
 <title>Zé Colmeia: O Filme (Dublado) - 2011 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/ZECLMEIOFLM.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/ZECLMEIOFLM.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -34,7 +34,7 @@
 <channel>
 <item>
 <title>Wing Chun: Uma Luta Milenar (Dublado) - 1994 - 720p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/WNGCHNUMLTMLNR.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/WNGCHNUMLTMLNR.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -45,7 +45,7 @@
 <channel>
 <item>
 <title>Samurai Shodown: O Filme (Dublado) - 1994 - 480p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/SMRASHDWNTHMTNO.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/SMRASHDWNTHMTNO.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -56,7 +56,7 @@
 <channel>
 <item>
 <title>Se Beber, Não Entre no Jogo (Dublado) - 2014 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/SBBRNENTNJGO.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/SBBRNENTNJGO.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -67,7 +67,7 @@
 <channel>
 <item>
 <title>Oz, Mágico e Poderoso (Dublado) - 2013 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/OZMGCEPDRSO.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/OZMGCEPDRSO.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -78,17 +78,106 @@
 <channel>
 <item>
 <title>O Agente Flintstone 1.007 - A.C. (Dublado) - 1966 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/OHMEMCHMDFLSTNS.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/OHMEMCHMDFLSTNS.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 </channel>
 
+
+<channel>
+<item>
+<title>O Ursinho Pooh (Dublado) - 2011 - 1080p</title>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/OURSNHPOH.mp4?attachment=true</link>
+<thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+
+<channel>
+<item>
+<title>Zathura: Uma Aventura Espacial (Dublado) - 2005 - 1080p</title>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/ZTHRUMAVNTESPCL.mp4?attachment=true</link>
+<thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+
+<channel>
+<item>
+<title>Zé Colmeia: O Filme (Dublado) - 2011 - 1080p</title>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/ZECLMEIOFLM.mp4?attachment=true</link>
+<thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+
+<channel>
+<item>
+<title>Wing Chun: Uma Luta Milenar (Dublado) - 1994 - 720p</title>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/WNGCHNUMLTMLNR.mp4?attachment=true</link>
+<thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+
+<channel>
+<item>
+<title>Samurai Shodown: O Filme (Dublado) - 1994 - 480p</title>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/SMRASHDWNTHMTNO.mp4?attachment=true</link>
+<thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+
+<channel>
+<item>
+<title>Se Beber, Não Entre no Jogo (Dublado) - 2014 - 1080p</title>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/SBBRNENTNJGO.mp4?attachment=true</link>
+<thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+
+<channel>
+<item>
+<title>Oz, Mágico e Poderoso (Dublado) - 2013 - 1080p</title>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/OZMGCEPDRSO.mp4?attachment=true</link>
+<thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+
+<channel>
+<item>
+<title>O Agente Flintstone 1.007 - A.C. (Dublado) - 1966 - 1080p</title>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/OHMEMCHMDFLSTNS.mp4?attachment=true</link>
+<thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+
 <channel>
 <item>
 <title>Firebreather: O Lança-Fogo (Dublado) - 2010 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/FREBRTHR.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/FREBRTHR.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -99,7 +188,7 @@
 <channel>
 <item>
 <title>Muppets 2: Procurados e Amados (Dublado) - 2014 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/OSMPTS2.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/OSMPTS2.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -110,7 +199,7 @@
 <channel>
 <item>
 <title>Os Muppets (Dublado) - 2011 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/OSMPTS.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/OSMPTS.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -121,7 +210,7 @@
 <channel>
 <item>
 <title>O Conto de Natal dos Muppets (Dublado) - 1992 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/OCNTDNTLDOSMPTS.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/OCNTDNTLDOSMPTS.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -132,7 +221,7 @@
 <channel>
 <item>
 <title>Muppets: O Filme (Dublado) - 1979 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/MUPTSOFLME.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/MUPTSOFLME.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -143,7 +232,7 @@
 <channel>
 <item>
 <title>Jimmy Neutron, o Menino Gênio (Dublado) - 2001 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/JMYNTRNOMNOGNIO.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/JMYNTRNOMNOGNIO.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -154,7 +243,7 @@
 <channel>
 <item>
 <title>Fatal Fury 2: O Desafio de Krauser (Dublado) - 1993 - 480p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/FTLFRY2ODFSDKRSR.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/FTLFRY2ODFSDKRSR.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -165,17 +254,18 @@
 <channel>
 <item>
 <title>Fatal Fury: Rei dos Lutadores (Dublado) - 1992 - 480p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/FTLFRY.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/FTLFRY.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 </channel>
 
+
 <channel>
 <item>
 <title>A Lenda de Oz (Dublado) - 2014 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/ALNDEOZ.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/ALNDEOZ.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -186,7 +276,7 @@
 <channel>
 <item>
 <title>Titanic (Legendado) - 1997 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/TITANCLEG.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/TITANCLEG.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -197,7 +287,7 @@
 <channel>
 <item>
 <title>Os Mortos Não Morrem (Dublado) - 2019 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/OSMRTSNMOREM.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/OSMRTSNMOREM.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -208,7 +298,7 @@
 <channel>
 <item>
 <title>Especial de Natal Porta dos Fundos: A Primeira Tentação de Cristo (Nacional) - 2019 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/EPSCLDNTLPRTDSFNDS.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/EPSCLDNTLPRTDSFNDS.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -219,7 +309,7 @@
 <channel>
 <item>
 <title>Dora e a Cidade Perdida (Dublado) - 2019 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/DRAEACDEPRDA.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/DRAEACDEPRDA.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -230,7 +320,7 @@
 <channel>
 <item>
 <title>Corgi: Top Dog (Dublado) - 2019 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/CRGTOPDOG.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/CRGTOPDOG.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -241,7 +331,7 @@
 <channel>
 <item>
 <title>Sammy: A Grande Fuga (Dublado) - 2012 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/SMYAGRNDFGA.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/SMYAGRNDFGA.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -252,17 +342,18 @@
 <channel>
 <item>
 <title>As Aventuras de Sammy (Dublado) - 2010 - 480p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/ASAVNTRSDSMY.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/ASAVNTRSDSMY.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 </channel>
 
+
 <channel>
 <item>
 <title>Ad Astra: Rumo às Estrelas (Dublado) - 2019 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/ADSTRMASESTRLS.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/ADSTRMASESTRLS.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -273,7 +364,7 @@
 <channel>
 <item>
 <title>Os Flintstones Encontram Pedrácula e Frankenstone (Dublado) - 1979 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/OSFLSTNSENCRTMPDRCEFRNKSTNE.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/OSFLSTNSENCRTMPDRCEFRNKSTNE.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -284,7 +375,7 @@
 <channel>
 <item>
 <title>Do Outro Lado da Porta (Dublado) - 2016 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/DOUTRLDODPRTA.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/DOUTRLDODPRTA.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -295,7 +386,7 @@
 <channel>
 <item>
 <title>Boneco do Mal (Dublado) - 2016 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/BONCDML.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/BONCDML.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -306,7 +397,7 @@
 <channel>
 <item>
 <title>George, O Curioso (Dublado) - 2006 - 480p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/GEORGOCURSO.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/GEORGOCURSO.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -317,7 +408,7 @@
 <channel>
 <item>
 <title>Tekken 2: A Vingança de Kazuya (Dublado) - 2014 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/TKKN2.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/TKKN2.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -328,7 +419,7 @@
 <channel>
 <item>
 <title>Rambo: Até o Fim (Dublado) - 2019 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/RMBOATOFM.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/RMBOATOFM.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -339,17 +430,18 @@
 <channel>
 <item>
 <title>Luccas Neto em O Fim do Natal (Nacional) - 2019 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/LCSNTOEMFMDNTL.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/LCSNTOEMFMDNTL.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 </channel>
 
+
 <channel>
 <item>
 <title>Centro de Trauma (Dublado) - 2019 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/CNTRDTRMA.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/CNTRDTRMA.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -360,7 +452,7 @@
 <channel>
 <item>
 <title>Poderia Me Perdoar? (Dublado) - 2019 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/PDRMPRDR.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/PDRMPRDR.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -371,7 +463,7 @@
 <channel>
 <item>
 <title>The Mustang (Dublado) - 2019 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/THMSTNG.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/THMSTNG.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -382,7 +474,7 @@
 <channel>
 <item>
 <title>Hala (Dublado) - 2019 - 720p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/HLA.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/HLA.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -393,7 +485,7 @@
 <channel>
 <item>
 <title>Dor e Glória (Dublado) - 2019 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/DREGLRIA.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/DREGLRIA.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -404,7 +496,7 @@
 <channel>
 <item>
 <title>Uma Mente Brilhante (Dublado) - 2002 - 720p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/UMNTRBRLHNTE.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/UMNTRBRLHNTE.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -415,7 +507,7 @@
 <channel>
 <item>
 <title>Spirit - O Corcel Indomável (Dublado) - 2002 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/SPRTOCRCLINDMVL.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/SPRTOCRCLINDMVL.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -426,17 +518,18 @@
 <channel>
 <item>
 <title>Roubar é uma Arte (Dublado) - 2014 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/RBREUMARTE.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/RBREUMARTE.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 </channel>
 
+
 <channel>
 <item>
 <title>Paintball: Jogue para Sobreviver (Dublado) - 2009 - 720p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/PNTBLJGPRSBRVR.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/PNTBLJGPRSBRVR.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -447,7 +540,7 @@
 <channel>
 <item>
 <title>O Último Rei da Escócia (Dublado) - 2007 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/OULTMREIDESCOA.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/OULTMREIDESCOA.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -458,7 +551,7 @@
 <channel>
 <item>
 <title>O Segredo da Caveira: Um Mistério de Aurora Teagarden (Dublado) - 2015 - 480p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/OSGRDACVRAUMSTRODAURTEGRN.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/OSGRDACVRAUMSTRODAURTEGRN.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -469,7 +562,7 @@
 <channel>
 <item>
 <title>Os Donos da Rua (Dublado) - 1991 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/OSDNSDRUA.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/OSDNSDRUA.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -480,7 +573,7 @@
 <channel>
 <item>
 <title>O Príncipe do Natal: O Bebê Real (Dublado) - 2019 - 720p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/OPRNCPDNTL.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/OPRNCPDNTL.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -491,7 +584,7 @@
 <channel>
 <item>
 <title>Let's Dance (Dublado) - 2019 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/LTSDNCE.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/LTSDNCE.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -502,7 +595,7 @@
 <channel>
 <item>
 <title>Little Nicky, Um Diabo Diferente (Dublado) - 2000 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/LTLENCKYUMDABODFRNTE.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/LTLENCKYUMDABODFRNTE.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -513,17 +606,18 @@
 <channel>
 <item>
 <title>História de um Casamento (Dublado) - 2019 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/HSTRDUMCSMNTO.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/HSTRDUMCSMNTO.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 </channel>
 
+
 <channel>
 <item>
 <title>Filhas do Sol (Dublado) - 2019 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/FLHSDSL.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/FLHSDSL.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -534,7 +628,7 @@
 <channel>
 <item>
 <title>Death Note: Iluminando um Novo Mundo (Dublado) - 2017 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/DTHNTIUNMDUB.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/DTHNTIUNMDUB.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -545,7 +639,7 @@
 <channel>
 <item>
 <title>Dragon Tiger Gate (Dublado) - 2006 - 720p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/DRGNTGR.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/DRGNTGR.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -556,7 +650,7 @@
 <channel>
 <item>
 <title>Doutor Estranho (Dublado) - 2007 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/DOTRESTNHO2007.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/DOTRESTNHO2007.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -567,7 +661,7 @@
 <channel>
 <item>
 <title>Dead Kids (Dublado) - 2019 - 1080p</title>
-<link>http://hele8081.azureedge.net/RCFServer3/ondemand/DEDKDS.mp4</link>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/DEDKDS.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -578,7 +672,7 @@
 <channel>
 <item>
 <title>Conquista de Reis (Dublado) - 2006 - 1080p</title>
-<sony>http://hele8081.azureedge.net/RCFServer3/ondemand/CQNSTDRES.mp4</sony>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/CQNSTDRES.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -589,7 +683,7 @@
 <channel>
 <item>
 <title>Capitão Sky e o Mundo de Amanhã (Dublado) - 2003 - 1080p</title>
-<sony>http://hele8081.azureedge.net/RCFServer3/ondemand/CPTAOSKYEOMNDODAMANHA.mp4</sony>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/CPTAOSKYEOMNDODAMANHA.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -600,7 +694,183 @@
 <channel>
 <item>
 <title>Código de Conduta (Dublado) - 2009 - 720p</title>
-<sony>http://hele8081.azureedge.net/RCFServer3/ondemand/CDGODCNDTA.mp4</sony>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/CDGODCNDTA.mp4?attachment=true</link>
+<thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+
+<channel>
+<item>
+<title>Busca Explosiva 6: Sem Saída (Legendado) - 2018 - 1080p</title>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/BSCEXPLSV6LEG.mp4?attachment=true</link>
+<thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+
+<channel>
+<item>
+<title>Beleza Americana (Dublado) - 1999 - 1080p</title>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/BLZAMRCNA.mp4?attachment=true</link>
+<thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+
+<channel>
+<item>
+<title>A Visita (Dublado) - 2015 - 1080p</title>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/AVSTA.mp4?attachment=true</link>
+<thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+
+<channel>
+<item>
+<title>Arctic Dogs (Dublado) - 2019 - 1080p</title>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/ARCTDGS.mp4?attachment=true</link>
+<thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+
+<channel>
+<item>
+<title>A Magia Do Natal (Dublado) - 2016 - 720p</title>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/AMGIADNTL.mp4?attachment=true</link>
+<thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+
+<channel>
+<item>
+<title>Funcionário do Mês (Dublado) - 2006 - 1080p</title>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/FNCRDMES.mp4?attachment=true</link>
+<thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+
+<channel>
+<item>
+<title>O Despertar De Uma Paixão (Dublado) - 2006 - 1080p</title>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/ODSPRTDUMPXAO.mp4?attachment=true</link>
+<thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+
+<channel>
+<item>
+<title>O Gênio do Videogame (Dublado) - 1989 - 1080p</title>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/OGNIODVDGME.mp4?attachment=true</link>
+<thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+
+<channel>
+<item>
+<title>Aladdin: O Retorno de Jafar (Dublado) - 1994 - 1080p</title>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/ALDN2ORTNDJFR.mp4?attachment=true</link>
+<thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+
+<channel>
+<item>
+<title>Acho Que Matei Minha Chefe (Dublado) - 2019 - 720p</title>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/ACHQMTMNHCHFE.mp4?attachment=true</link>
+<thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+
+<channel>
+<item>
+<title>Acho Que Amo Minha Mulher (Dublado) - 2007 - 720p</title>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/ACHQAMOMNHMLHR.mp4?attachment=true</link>
+<thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+
+<channel>
+<item>
+<title>A Copa do Peru (Dublado) - 2019 - 1080p</title>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/ACOPDPRU.mp4?attachment=true</link>
+<thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+
+<channel>
+<item>
+<title>A Pedra Mágica (Dublado) - 2009 - 1080p</title>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/APDRMGCA.mp4?attachment=true</link>
+<thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+
+<channel>
+<item>
+<title>Tekken: Vingança de Sangue (Legendado) - 2011 - 1080p</title>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/TKNVNGCDSNGLEG.mp4?attachment=true</link>
+<thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+
+<channel>
+<item>
+<title>Tarzan 2: O Início Da Lenda (Dublado) - 2005 - 1080p</title>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/TRZN2.mp4?attachment=true</link>
+<thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+
+<channel>
+<item>
+<title>Tá Dando Onda 2 (Dublado) - 2017 - 1080p</title>
+<link>http://origa8081.azureedge.net/RCFServer3/ondemand/TDNDOND2.mp4?attachment=true</link>
 <thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
 <fanart></fanart>
 <info></info>
