@@ -28,6 +28,17 @@
 </channel>
 </channels>
 
+<channels>
+<channel>
+<name>Pedidos de Filmes</name>
+<thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/pedidos</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+
 
 
 <channels>
