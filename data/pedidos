@@ -1,5 +1,27 @@
 <channels></channels>
 <channel>
+<name>Leiame [Clique aqui]</name>
+<thumbnail>https://st2.depositphotos.com/3554337/9846/i/950/depositphotos_98466568-stock-photo-man-with-warning-attention-sign.jpg</thumbnail>
+
+<item>
+<title>Leiame [Clique aqui]</title>
+<texto>Ola aqui é area destinada a pedidos abra seus filmes com addon elementum ou via quasar drive ou quasar fork SIM habilitado</texto>
+<thumbnail>https://st2.depositphotos.com/3554337/9846/i/950/depositphotos_98466568-stock-photo-man-with-warning-attention-sign.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>Tutorial de Instalação</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6_jwxxYWbrU</trailer>
+<thumbnail>https://st2.depositphotos.com/3554337/9846/i/950/depositphotos_98466568-stock-photo-man-with-warning-attention-sign.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
 <name>13º Distrito Torrent (2014)</name>
 <thumbnail>https://i.imgur.com/dPvzjws.jpg</thumbnail>
 
