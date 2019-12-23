@@ -1,8 +1,11 @@
 <channels></channels>
+
 <channel>
+<name>Band</name>
+<thumbnail></thumbnail>
 <item>
 <title>Band</title>
-<link>$doregex[BP1]band.m3u8$doregex[BPY]</link>
+<link>band.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
