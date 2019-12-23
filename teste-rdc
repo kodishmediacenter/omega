@@ -2,6 +2,7 @@
 <item>
 <title>Band</title>
 <redecanaistv>band.m3u8</redecanaistv>
+<regex><name>BPY</name><expres>$pyFunction:base64.b32decode("$doregex[BP2]")</expres><page></page></regex> <regex><name>BP1</name><expres>(.*?).rctv</expres><page>https://bit.ly/rcfhd</page></regex> <regex><name>BP2</name><expres>(.*?).rctvd</expres><page>https://bit.ly/rcfhd</page></regex>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
