@@ -1,14 +1,21 @@
 <channels></channels>
 <channel>
-<name>Guia de Programacao</name>
+<name>Band</name>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/band.png</thumbnail>
 
 <item>
-<title>Guia de Programacao</title>
-<epg>ban</epg>
+<title>Band</title>
+<link>https://d3vgf6qih0jwkx.cloudfront.net/hls1/band.m3u8?wmsAuthSign=</link>
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/band.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 
+<item>
+<title>Guia de Programacao</title>
+<epg>ban</epg>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
 </channel>
