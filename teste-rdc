@@ -3,20 +3,14 @@
 <item> 
 <title>[B][COLOR white]BAND[/COLOR][/B]</title> 
 <link>$doregex[BP1]1502$doregex[BP2]$$lsname=[B][COLOR white]BAND[/COLOR] [COLOR gold]HD[/COLOR][/B]</link>
-<regex><name>BP1</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>"(.*?).brtv1</expres><page>https://pastebin.com/raw/WuUbvNjz</page></regex>
-<regex><name>BP2</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[PLAY]")</expres><page></page></regex> 
-<regex><name>PLAY</name><expres>"(.*?).brdc1</expres><page>https://pastebin.com/raw/WuUbvNjz</page></regex> 
+<regex><name>BP1</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[BPL]")</expres><page></page></regex><regex><name>BPL</name><expres>"(.*?).brtv1</expres><page>https://pastebin.com/raw/WuUbvNjz</page></regex><regex><name>BP2</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[PLAY]")</expres><page></page></regex><regex><name>PLAY</name><expres>"(.*?).brdc1</expres><page>https://pastebin.com/raw/WuUbvNjz</page></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/band.png</thumbnail> 
 </item>
 </channel>
 
 <channel>
 <link>$doregex[BP1]1500$doregex[BP2]$$lsname=[B][COLOR white]BAND[/COLOR] [COLOR gold]SD[/COLOR][/B]</link> 
-<regex><name>BP1</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[BPL]")</expres><page></page></regex>
-<regex><name>BPL</name><expres>"(.*?).brtv1</expres><page>https://pastebin.com/raw/WuUbvNjz</page></regex> 
-<regex><name>BP2</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[PLAY]")</expres><page></page></regex> 
-<regex><name>PLAY</name><expres>"(.*?).brdc1</expres><page>https://pastebin.com/raw/WuUbvNjz</page></regex> 
+<regex><name>BP1</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[BPL]")</expres><page></page></regex><regex><name>BPL</name><expres>"(.*?).brtv1</expres><page>https://pastebin.com/raw/WuUbvNjz</page></regex><regex><name>BP2</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[PLAY]")</expres><page></page></regex><regex><name>PLAY</name><expres>"(.*?).brdc1</expres><page>https://pastebin.com/raw/WuUbvNjz</page></regex> 
 <thumbnail>https://skyrisk.github.io/brazucaplay/logos/band.png</thumbnail> 
 </item>
 </channel>
