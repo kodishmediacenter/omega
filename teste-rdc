@@ -1,5 +1,8 @@
 <channels></channels>
 <channel>
+<name>Guia de Programacao</name>
+<thumbnail>https://skyrisk.github.io/brazucaplay/logos/band.png</thumbnail>
+
 <item>
 <title>Guia de Programacao</title>
 <epg>ban</epg>
@@ -7,6 +10,5 @@
 <fanart></fanart>
 <info></info>
 </item>
+
 </channel>
-
-
