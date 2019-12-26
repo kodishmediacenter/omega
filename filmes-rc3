@@ -1,4 +1,3 @@
-<channel>
 <item>
 <title>Coringa (Dublado) - 2019 - 1080p</title>
 <link>$doregex[BP1]CRNGA.mp4$doregex[BP2]</link><regex><name>BP4</name>
@@ -10,4 +9,16 @@
 <fanart></fanart>
 <info></info>
 </item>
-</channel>
+
+<item>
+<title>[B][COLOR white]A COPA DO PERU[/COLOR][/B]</title>
+<link>$doregex[BP1]ACOPDPRU.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Filmes/A%20Copa%20do%20Peru.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Filmes/A%20Copa%20do%20Peru.jpg</fanart>
+<info>Um urbanista é levado de volta a sua cidade natal por seus amigos do colégio no Dia de Ação de Graças para terminar o The Turkey Bowl - um jogo épico de futebol contra os rivais de cidades vizinhas.</info>
+<date>2019</date>
+</item>
