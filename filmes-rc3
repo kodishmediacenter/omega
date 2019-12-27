@@ -1,3 +1,17 @@
+<channel>
+<item>
+<title>Up: Altas Aventuras (Dublado) - 2009 - 1080p</title>
+<link>$doregex[BP1]UPALTSAVNTRS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://icon-icons.com/icons2/1056/PNG/256/movies_icon-icons.com_76714.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
 <item>
 <title>Coringa (Dublado) - 2019 - 1080p</title>
 <link>$doregex[BP1]CRNGA.mp4$doregex[BP2]</link>
