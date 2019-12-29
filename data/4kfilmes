@@ -1,5 +1,27 @@
 <channels></channels>
 <channel>
+<name>Teste Rede Canais</name>
+<thumbnail></thumbnail>
+
+<item>
+<title>Teste Rede Canais</title>
+<redecanais>https://redecanais.futbol/fievel-um-conto-americano-dublado-1986-1080p_78a2e6508.html</redecanais>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>teste</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=teste</trailer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>teste</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
 <name>O Grinch - The Grinch</name>
 <thumbnail>https://hidratorrent.com/capas/o-grinch-the-grinch-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 
