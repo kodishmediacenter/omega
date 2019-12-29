@@ -10,9 +10,9 @@
 
 <channels>
 <channel>
-<name>Mundial Interclubes</name>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/1/16/2019_FIFA_Club_World_Cup.png/200px-2019_FIFA_Club_World_Cup.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/mundial.txt</externallink>
+<name>[B][COLOR red]500 mais d[/COLOR][/B][COLOR black][B]a Kiss FM [2019/2020] 31/dez a 01/jan [/B][/COLOR]</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/4/46/Logotipo_da_Kiss_FM.png</thumbnail>
+<externallink>https://github.com/kodishmediacenter/omega/blob/master/data/500maisdakiss</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/virtualaddon/kodish%20faroeste/fanart.jpg</fanart>
 <info></info>
 </channel>
