@@ -53,7 +53,7 @@
 
 <channels>
 <channel>
-<name>Filmes 4K OP 2</name>
+<name>Filmes 4K e Varias resoluções</name>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/4k.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/4k-op2.txt</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
