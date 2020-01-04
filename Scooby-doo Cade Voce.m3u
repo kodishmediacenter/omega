@@ -1,5 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="",
+https://ignoore.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/90oCtoT.jpg",Scooby-doo Cade Voce ? 1ª Temporada
+https://ignoore.me
+#EXTINF:-1 tvg-logo="",
 https://ignoore.me
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/90oCtoT.jpg",Scooby-doo Cade Voce Noite do Motoqueiro Fantasma 
@@ -53,8 +57,12 @@ plugin://plugin.executable.redecanais/https://redecanais.pictures/scooby-doo-cad
 #EXTINF:-1 tvg-logo="https://i.imgur.com/90oCtoT.jpg",Scooby-doo Cade Voce O Fantasma da Neve 
 plugin://plugin.executable.redecanais/https://redecanais.pictures/scooby-doo-cade-voce-1a-temporada-episodio-17-o-fantasma-da-neve_b012f416b.html
 
+#EXTINF:-1 tvg-logo="",
+https://ignoore.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/90oCtoT.jpg",Scooby-doo Cade Voce ? 2ª Temporada
 https://ignore.me
+#EXTINF:-1 tvg-logo="",
+https://ignoore.me
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/90oCtoT.jpg",Scooby-doo Cade Voce Onde está o Monstro? 
 plugin://plugin.executable.redecanais/https://redecanais.pictures/scooby-doo-cade-voce-2a-temporada-episodio-18-onde-esta-o-monstro_7bbdbe187.html
