@@ -1,63 +1,27 @@
+<channels></channels>
 <channel>
 <item>
 <title>Assistir TNT Series - Online - 24 Horas - Ao Vivo</title>
+Assistir TNT Series - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/tntseries.jpg</thumbnail>
-<link>https://cdn.canais.link/hls1/tntseries.m3u8?wmsAuthSign=|Referer=https://redecanais.bz/%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 Edge/79.0.309.51</link>
+<link>https://cdn.canais.link/hls1/tntseries.m3u8?wmsAuthSign=|Referer=</thumbnail>
+<link>https://redecanais.bz/%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 Edge/79.0.309.51</link>
+
 <fanart></fanart>
 <info></info>
 </item>
 </channel>
 
 
+<channels></channels>
 <channel>
 <item>
 <title>Assistir Warner TV - Online - 24 Horas - Ao Vivo</title>
+Assistir Warner TV - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/warner.jpg</thumbnail>
-<link>https://cdn.canais.link/hls1/warner.m3u8?wmsAuthSign=|Referer=https://redecanais.bz/%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 Edge/79.0.309.51</link>
-<fanart></fanart>
-<info></info>
-</item>
-</channel>
+<link>https://cdn.canais.link/hls1/warner.m3u8?wmsAuthSign=|Referer=</thumbnail>
+<link>https://redecanais.bz/%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 Edge/79.0.309.51</link>
 
-
-<channel>
-<item>
-<title>Assistir Band News - Online - 24 Horas - Ao Vivo</title>
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/bandnews.jpg</thumbnail>
-<link>https://cdn.canais.link/hls1/bandnews.m3u8?wmsAuthSign=|Referer=https://redecanais.bz/%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 Edge/79.0.309.51</link>
-<fanart></fanart>
-<info></info>
-</item>
-</channel>
-
-
-<channel>
-<item>
-<title>Assistir Globo News - Online - 24 Horas - Ao Vivo</title>
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/globonews.jpg</thumbnail>
-<link>https://cdn.canais.link/hls1/globonews.m3u8?wmsAuthSign=|Referer=https://redecanais.bz/%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 Edge/79.0.309.51</link>
-<fanart></fanart>
-<info></info>
-</item>
-</channel>
-
-
-<channel>
-<item>
-<title>Assistir Rede Globo Nordeste - Online 24 Horas Ao Vivo</title>
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/bobonordeste.jpg</thumbnail>
-<link>https://cdn.canais.link/hls1/bobonordeste.m3u8?wmsAuthSign=|Referer=https://redecanais.bz/%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 Edge/79.0.309.51</link>
-<fanart></fanart>
-<info></info>
-</item>
-</channel>
-
-
-<channel>
-<item>
-<title>Assistir Rede Globo SP - Online 24 Horas Ao Vivo</title>
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/bobosp.jpg</thumbnail>
-<link>https://cdn.canais.link/hls1/bobosp.m3u8?wmsAuthSign=|Referer=https://redecanais.bz/%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 Edge/79.0.309.51</link>
 <fanart></fanart>
 <info></info>
 </item>
