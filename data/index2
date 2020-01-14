@@ -1,4 +1,14 @@
 <channels>
+ <channel>
+ <name>Lista TV [COLOR red][B]||| Hidra [/B][/COLOR][COLOR red][B]Cangaço |||[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/iptv.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/lista-teste.xml</externallink>
+ <fanart>https://spinoff.com.br/wp-content/uploads/watch-free-iptv-online-with-tablet-pc-smartphone-laptop-tv.jpg</fanart>
+ <info></info>
+ </channel>
+ </channels>
+
+<channels>
 <channel>
 <name>[COLOR whinte][B]Kodish Faroeste[/B][/COLOR] [COLOR red][B]||| Hidra [/B][/COLOR][COLOR red][B]Cangaço |||[/B][/COLOR]</name>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/store/master/virtualaddon/kodish%20faroeste/icon.png</thumbnail>
