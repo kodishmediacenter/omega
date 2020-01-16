@@ -62,11 +62,20 @@
 </channels>
 
 
+<channels>
+<channel>
+<name>Filmes 1</name>
+<thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes7</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
+<info></info>
+</channel>
+</channels>
 
 
 <channels>
 <channel>
-<name>Filmes 1</name>
+<name>Filmes 2</name>
 <thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes6</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
@@ -76,7 +85,7 @@
 
 <channels>
 <channel>
-<name>Filmes 2</name>
+<name>Filmes 3</name>
 <thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes5</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
@@ -86,7 +95,7 @@
 
 <channels>
 <channel>
-<name>Filmes 3</name>
+<name>Filmes 4</name>
 <thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes4</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
@@ -96,7 +105,7 @@
 
 <channels>
 <channel>
-<name>Filmes 4</name>
+<name>Filmes 5</name>
 <thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filme3.txt</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
@@ -106,7 +115,7 @@
 
 <channels>
 <channel>
-<name>Filmes 5</name>
+<name>Filmes 6</name>
 <thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes.txt</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
@@ -116,7 +125,7 @@
 
 <channels>
 <channel>
-<name>Filmes 6</name>
+<name>Filmes 7</name>
 <thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes2</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
