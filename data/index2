@@ -7,6 +7,17 @@
  <info></info>
  </channel>
  </channels>
+ 
+ <channels>
+ <channel>
+ <name>[COLOR whinte]Conteudo 24 horas[COLOR red][B][/COLOR] ||| Hidra [/B][/COLOR][COLOR red][B]Cangaço |||[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/tv24horas.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/24horas.xml</externallink>
+ <fanart>https://spinoff.com.br/wp-content/uploads/watch-free-iptv-online-with-tablet-pc-smartphone-laptop-tv.jpg</fanart>
+ <info></info>
+ </channel>
+ </channels>
+
 
 <channels>
 <channel>
