@@ -49,3 +49,16 @@
 <info></info>
 </item>
 </channel>
+
+<channels></channels>
+<channel>
+<name>Peppa Pig 24 horas</name>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61JISH-WgeL.png</thumbnail>
+<item>
+<title>Peppa Pig 24 horas</title>
+<m3ul>https://raw.githubusercontent.com/kodishmediacenter/omega/master/pepapig-24horas.m3u</m3ul>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61JISH-WgeL.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
