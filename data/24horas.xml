@@ -62,3 +62,16 @@
 <info></info>
 </item>
 </channel>
+
+<channels></channels>
+<channel>
+<name>Bob Zoom 24 horas</name>
+<thumbnail>https://yt3.ggpht.com/a/AGF-l7_Wj-C_gmQFf_ASJjBjib4snUuNRAD7iA4s2w=s900-c-k-c0xffffffff-no-rj-mo</thumbnail>
+<item>
+<title>Bob Zoom 24 horas</title>
+<m3ul>https://raw.githubusercontent.com/kodishmediacenter/omega/master/bob-zoom.m3u</m3ul>
+<thumbnail>https://yt3.ggpht.com/a/AGF-l7_Wj-C_gmQFf_ASJjBjib4snUuNRAD7iA4s2w=s900-c-k-c0xffffffff-no-rj-mo</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
