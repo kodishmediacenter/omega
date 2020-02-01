@@ -14,10 +14,19 @@
  <thumbnail>https://img.freepik.com/vetores-gratis/neon-24-horas-aberta-tabuleta_1017-19487.jpg?size=338&ext=jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/24horas.xml</externallink>
  <fanart>https://spinoff.com.br/wp-content/uploads/watch-free-iptv-online-with-tablet-pc-smartphone-laptop-tv.jpg</fanart>
- <info></info>
+ <info>Creditos a Fluxus Radio Credits the fluxus radio</info>
  </channel>
  </channels>
 
+<channels></channels>
+<channel>
+<name>[COLOR whinte][B]Radios do Mundo Inteiro[/B][/COLOR] [COLOR red][B]||| Hidra [/B][/COLOR][COLOR red][B]Cangaço |||[/B][/COLOR]</name>
+<externallink>https://pastebin.com/raw/d5cb3Wxw</externallink>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
 
 <channels>
 <channel>
