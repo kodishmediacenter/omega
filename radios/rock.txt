@@ -1,201 +1,201 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'ROCK ANTENNE'
-http://dir.xiph.org/listen/536246/listen.m3u
+http://dir.xiph.org/listen/536246/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'ROCK ANTENNE'
-http://dir.xiph.org/listen/536241/listen.m3u
+http://dir.xiph.org/listen/536241/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'CYBER ROCK'
-http://dir.xiph.org/listen/367272/listen.m3u
+http://dir.xiph.org/listen/367272/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'ROCK ANTENNE Deut...'
-http://dir.xiph.org/listen/2827/listen.m3u
+http://dir.xiph.org/listen/2827/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'Rocker RÃƒÂ¡diÃƒÂ³'
-http://dir.xiph.org/listen/666608/listen.m3u
+http://dir.xiph.org/listen/666608/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'Vibe CT 105 FM'
-http://dir.xiph.org/listen/720372/listen.m3u
+http://dir.xiph.org/listen/720372/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'RADIO 1 ROCK'
-http://dir.xiph.org/listen/705506/listen.m3u
+http://dir.xiph.org/listen/705506/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'ROCK ANTENNE Heav...'
-http://dir.xiph.org/listen/1963/listen.m3u
+http://dir.xiph.org/listen/1963/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'Aakash Vani 106.5 FM'
-http://dir.xiph.org/listen/710479/listen.m3u
+http://dir.xiph.org/listen/710479/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'wunschradio.fm'
-http://dir.xiph.org/listen/744495/listen.m3u
+http://dir.xiph.org/listen/744495/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'Arabella Relax'
-http://dir.xiph.org/listen/731749/listen.m3u
+http://dir.xiph.org/listen/731749/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'Mundo Livre FM Cu...'
-http://dir.xiph.org/listen/547302/listen.m3u
+http://dir.xiph.org/listen/547302/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'FREQUENCE3 - www....'
-http://dir.xiph.org/listen/717526/listen.m3u
+http://dir.xiph.org/listen/717526/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'ROCK ANTENNE Clas...'
-http://dir.xiph.org/listen/1547/listen.m3u
+http://dir.xiph.org/listen/1547/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", '..:: RUSSIAN ROCK...'
-http://dir.xiph.org/listen/755012/listen.m3u
+http://dir.xiph.org/listen/755012/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'ANTENNE BAYERN Cl...'
-http://dir.xiph.org/listen/388/listen.m3u
+http://dir.xiph.org/listen/388/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'ROCK ANTENNE HAMBURG'
-http://dir.xiph.org/listen/1025/listen.m3u
+http://dir.xiph.org/listen/1025/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'Slam 100.5 FM'
-http://dir.xiph.org/listen/720380/listen.m3u
+http://dir.xiph.org/listen/720380/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", '951 FM Remix'
-http://dir.xiph.org/listen/720367/listen.m3u
+http://dir.xiph.org/listen/720367/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'Sangeet 106.1 FM'
-http://dir.xiph.org/listen/720351/listen.m3u
+http://dir.xiph.org/listen/720351/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'ROCK ANTENNE Heav...'
-http://dir.xiph.org/listen/989/listen.m3u
+http://dir.xiph.org/listen/989/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'RadioMonster.FM -...'
-http://dir.xiph.org/listen/496/listen.m3u
+http://dir.xiph.org/listen/496/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'Online Radio'
-http://dir.xiph.org/listen/2977/listen.m3u
+http://dir.xiph.org/listen/2977/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'ICE RADIO WALDKRA...'
-http://dir.xiph.org/listen/659756/listen.m3u
+http://dir.xiph.org/listen/659756/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'MOROW'
-http://dir.xiph.org/listen/419269/listen.m3u
+http://dir.xiph.org/listen/419269/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'wunschradio.fm To...'
-http://dir.xiph.org/listen/744493/listen.m3u
+http://dir.xiph.org/listen/744493/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'FREQUENCE3 HD - w...'
-http://dir.xiph.org/listen/587823/listen.m3u
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'Rock Arsenal, ÐÐ...'
-http://dir.xiph.org/listen/721608/listen.m3u
+http://dir.xiph.org/listen/587823/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'Rock Arsenal, Ð?Ð...'
+http://dir.xiph.org/listen/721608/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", '.113FM The Eagle'
-http://dir.xiph.org/listen/353236/listen.m3u
+http://dir.xiph.org/listen/353236/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'Radio Arabella Lo...'
-http://dir.xiph.org/listen/677703/listen.m3u
+http://dir.xiph.org/listen/677703/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'wunschradio.fm 70er'
-http://dir.xiph.org/listen/744485/listen.m3u
+http://dir.xiph.org/listen/744485/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'ROCK ANTENNE Clas...'
-http://dir.xiph.org/listen/1641/listen.m3u
+http://dir.xiph.org/listen/1641/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'ROCK ANTENNE Alte...'
-http://dir.xiph.org/listen/1086/listen.m3u
+http://dir.xiph.org/listen/1086/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'Pirates Radio'
-http://dir.xiph.org/listen/260073/listen.m3u
+http://dir.xiph.org/listen/260073/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'SOFT ROCK CLASSIC...'
-http://dir.xiph.org/listen/502129/listen.m3u
+http://dir.xiph.org/listen/502129/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'wunschradio.fm 80er'
-http://dir.xiph.org/listen/744494/listen.m3u
+http://dir.xiph.org/listen/744494/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", '.113FM The Message'
-http://dir.xiph.org/listen/7583/listen.m3u
+http://dir.xiph.org/listen/7583/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'MOROW'
-http://dir.xiph.org/listen/271882/listen.m3u
+http://dir.xiph.org/listen/271882/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'HUNTER.FM -=[: Th...'
-http://dir.xiph.org/listen/706821/listen.m3u
+http://dir.xiph.org/listen/706821/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'Atlantic Sound Fa...'
-http://dir.xiph.org/listen/2530/listen.m3u
+http://dir.xiph.org/listen/2530/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'Radio Free Americana'
-http://dir.xiph.org/listen/338551/listen.m3u
+http://dir.xiph.org/listen/338551/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'RADIO fresh80s - ...'
-http://dir.xiph.org/listen/9452/listen.m3u
+http://dir.xiph.org/listen/9452/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", '4U Classic Rock'
-http://dir.xiph.org/listen/530048/listen.m3u
+http://dir.xiph.org/listen/530048/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'POWERHITZ.COM - P...'
-http://dir.xiph.org/listen/428552/listen.m3u
+http://dir.xiph.org/listen/428552/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'Rock RÃƒÂ¡diÃƒÂ³ ÃƒÂ©lÃ…...'
-http://dir.xiph.org/listen/755618/listen.m3u
+http://dir.xiph.org/listen/755618/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", '.011FM - The Vaul...'
-http://dir.xiph.org/listen/250747/listen.m3u
+http://dir.xiph.org/listen/250747/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", '89 - A Radio Rock...'
-http://dir.xiph.org/listen/710060/listen.m3u
+http://dir.xiph.org/listen/710060/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'ROCK ANTENNE HAMBURG'
-http://dir.xiph.org/listen/198378/listen.m3u
+http://dir.xiph.org/listen/198378/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'ROCK ANTENNE Deut...'
-http://dir.xiph.org/listen/1838/listen.m3u
+http://dir.xiph.org/listen/1838/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'Simone FM'
-http://dir.xiph.org/listen/728240/listen.m3u
+http://dir.xiph.org/listen/728240/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'ROCK ANTENNE Soft...'
-http://dir.xiph.org/listen/2514/listen.m3u
+http://dir.xiph.org/listen/2514/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'Landwirt Radio'
-http://dir.xiph.org/listen/736944/listen.m3u
+http://dir.xiph.org/listen/736944/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", '- 1 A - Rock von ...'
-http://dir.xiph.org/listen/522525/listen.m3u
+http://dir.xiph.org/listen/522525/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'Mundo Livre FM Cu...'
-http://dir.xiph.org/listen/547289/listen.m3u
+http://dir.xiph.org/listen/547289/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", '100%HARDROCK'
-http://dir.xiph.org/listen/645415/listen.m3u
+http://dir.xiph.org/listen/645415/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'ANTENNE BAYERN Cl...'
-http://dir.xiph.org/listen/2002/listen.m3u
+http://dir.xiph.org/listen/2002/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", '4U Classic Rock'
-http://dir.xiph.org/listen/530046/listen.m3u
+http://dir.xiph.org/listen/530046/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'ROCK ANTENNE Soft...'
-http://dir.xiph.org/listen/315/listen.m3u
+http://dir.xiph.org/listen/315/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'Acid Flashback'
-http://dir.xiph.org/listen/624551/listen.m3u
+http://dir.xiph.org/listen/624551/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'IP music SLOW - M...'
-http://dir.xiph.org/listen/9019/listen.m3u
+http://dir.xiph.org/listen/9019/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'wunschradio.fm 20...'
-http://dir.xiph.org/listen/744496/listen.m3u
+http://dir.xiph.org/listen/744496/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'La Grosse Radio R...'
-http://dir.xiph.org/listen/453383/listen.m3u
+http://dir.xiph.org/listen/453383/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'IP music - MP3@25...'
-http://dir.xiph.org/listen/9280/listen.m3u
+http://dir.xiph.org/listen/9280/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'Punk FM'
-http://dir.xiph.org/listen/258685/listen.m3u
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'Rock Arsenal, ÐÐ...'
-http://dir.xiph.org/listen/721615/listen.m3u
+http://dir.xiph.org/listen/258685/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'Rock Arsenal, Ð?Ð...'
+http://dir.xiph.org/listen/721615/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'All Oldies Channel'
-http://dir.xiph.org/listen/680678/listen.m3u
+http://dir.xiph.org/listen/680678/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'IP music SLOW - a...'
-http://dir.xiph.org/listen/9150/listen.m3u
+http://dir.xiph.org/listen/9150/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'ROCK ANTENNE Alte...'
-http://dir.xiph.org/listen/2873/listen.m3u
+http://dir.xiph.org/listen/2873/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'Classic Mixx'
-http://dir.xiph.org/listen/3473/listen.m3u
+http://dir.xiph.org/listen/3473/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'Mundo Livre FM Ma...'
-http://dir.xiph.org/listen/547293/listen.m3u
+http://dir.xiph.org/listen/547293/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'WEST COAST'
-http://dir.xiph.org/listen/716808/listen.m3u
+http://dir.xiph.org/listen/716808/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'CLASSIC ROCK VAULT'
-http://dir.xiph.org/listen/416198/listen.m3u
+http://dir.xiph.org/listen/416198/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'wunschradio.fm Rock'
-http://dir.xiph.org/listen/744490/listen.m3u
+http://dir.xiph.org/listen/744490/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'RÃƒÂ¡dio Pop &amp; Rock...'
-http://dir.xiph.org/listen/457329/listen.m3u
+http://dir.xiph.org/listen/457329/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'ROCK ANTENNE Melo...'
-http://dir.xiph.org/listen/536253/listen.m3u
+http://dir.xiph.org/listen/536253/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'RADIO 1 ROCK'
-http://dir.xiph.org/listen/705510/listen.m3u
+http://dir.xiph.org/listen/705510/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'Tangra Mega Rock'
-http://dir.xiph.org/listen/681506/listen.m3u
+http://dir.xiph.org/listen/681506/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'Mix Radio Gran Ca...'
-http://dir.xiph.org/listen/582893/listen.m3u
+http://dir.xiph.org/listen/582893/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'ROCK ANTENNE Melo...'
-http://dir.xiph.org/listen/1780/listen.m3u
+http://dir.xiph.org/listen/1780/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'Metal Heart Radio'
-http://dir.xiph.org/listen/271829/listen.m3u
+http://dir.xiph.org/listen/271829/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'Metal Heart Radio'
-http://dir.xiph.org/listen/375332/listen.m3u
+http://dir.xiph.org/listen/375332/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'ROCK ANTENNE Deut...'
-http://dir.xiph.org/listen/1126/listen.m3u
+http://dir.xiph.org/listen/1126/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", '42fm radio station'
-http://dir.xiph.org/listen/743615/listen.m3u
+http://dir.xiph.org/listen/743615/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'Rock 104 Classic ...'
-http://dir.xiph.org/listen/688930/listen.m3u
+http://dir.xiph.org/listen/688930/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'THE BLAST Christi...'
-http://dir.xiph.org/listen/680004/listen.m3u
+http://dir.xiph.org/listen/680004/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", '.113FM Alt Nation'
-http://dir.xiph.org/listen/353215/listen.m3u
+http://dir.xiph.org/listen/353215/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'Central FM Radio ...'
-http://dir.xiph.org/listen/517782/listen.m3u
+http://dir.xiph.org/listen/517782/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'FREQUENCE3 - www....'
-http://dir.xiph.org/listen/587825/listen.m3u
+http://dir.xiph.org/listen/587825/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'Rebel 99.4 Gold C...'
-http://dir.xiph.org/listen/421081/listen.m3u
+http://dir.xiph.org/listen/421081/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'IP music - aacPlu...'
-http://dir.xiph.org/listen/9263/listen.m3u
+http://dir.xiph.org/listen/9263/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'La Grosse Radio M...'
-http://dir.xiph.org/listen/2852/listen.m3u
+http://dir.xiph.org/listen/2852/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'Rock energy channel'
-http://dir.xiph.org/listen/641952/listen.m3u
+http://dir.xiph.org/listen/641952/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'IP music SLOW - a...'
-http://dir.xiph.org/listen/7292/listen.m3u
+http://dir.xiph.org/listen/7292/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'Rockin Rythm and ...'
-http://dir.xiph.org/listen/752368/listen.m3u
+http://dir.xiph.org/listen/752368/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'FREQUENCE3 FLAC -...'
-http://dir.xiph.org/listen/717556/listen.m3u
+http://dir.xiph.org/listen/717556/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'The Zoo on Vokal'
-http://dir.xiph.org/listen/462574/listen.m3u
+http://dir.xiph.org/listen/462574/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'Classic Mixx'
-http://dir.xiph.org/listen/2781/listen.m3u
+http://dir.xiph.org/listen/2781/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'Punkrockers Radio'
-http://dir.xiph.org/listen/727107/listen.m3u
+http://dir.xiph.org/listen/727107/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'superestacion'
-http://dir.xiph.org/listen/733585/listen.m3u
+http://dir.xiph.org/listen/733585/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png" group-title="Radios", 'Colombia Pop Rock'
-http://dir.xiph.org/listen/755758/listen.m3u
+http://dir.xiph.org/listen/755758/listen.m3u|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
