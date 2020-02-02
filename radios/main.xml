@@ -1,0 +1,49 @@
+ <channels>
+ <channel>
+ <name>Anos 80 </name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/radios/anos80.m3u</externallink>
+ <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
+ <info></info>
+ </channel>
+ </channels>
+
+ <channels>
+ <channel>
+ <name>Dance Music</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/radios/dance.m3u</externallink>
+ <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
+ <info></info>
+ </channel>
+ </channels>
+
+ <channels>
+ <channel>
+ <name>House Music</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/radios/house.m3u</externallink>
+ <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
+ <info></info>
+ </channel>
+ </channels>
+
+ <channels>
+ <channel>
+ <name>Nostalgia</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/radios/nostalgia.m3u</externallink>
+ <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
+ <info></info>
+ </channel>
+ </channels>
+
+ <channels>
+ <channel>
+ <name>Rock and Roll Music</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/radios/rock.txt</externallink>
+ <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
+ <info></info>
+ </channel>
+ </channels>
