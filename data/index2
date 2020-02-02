@@ -8,6 +8,17 @@
  </channel>
  </channels>
  
+<channels>
+<channel>
+<name>[COLOR whinte][B]Radios do Mundo Inteiro[/B][/COLOR] [COLOR red][B]||| Hidra [/B][/COLOR][COLOR red][B]Cangaço |||[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/radios/main.xml</externallink>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/radios.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+ 
+ 
  <channels>
  <channel>
  <name>[COLOR whinte]Conteudo 24 horas[COLOR red][B][/COLOR] ||| Hidra [/B][/COLOR][COLOR red][B]Cangaço |||[/B][/COLOR]</name>
