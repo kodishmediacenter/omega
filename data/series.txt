@@ -1,6 +1,143 @@
 <channels></channels>
 <channel>
-<name>The Capture - 1ª Temporada Completa </name>
+<name>Arcanjo Renegado</name>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/phgHV1brCV5K5TJaaOlUXculg0g.jpg</thumbnail>
+
+<item>
+<title>Arcanjo Renegado</title>
+<link>magnet:?xt=urn:btih:b710565177b549636e356f78ea836182d8546f33&dn=COMANDO.TO%20-%20Arcanjo%20Renegado%201%c2%aa%20Temporada%20Completa%20%5b720p%5d%20%5bNAC%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/phgHV1brCV5K5TJaaOlUXculg0g.jpg</thumbnail>
+<fanart></fanart>
+<info>Mikhael é o líder da principal equipe do BOPE. Quando um dos seus amigos é ferido em uma operação, ele busca vingança e acaba em conflito com a alta cúpula política do estado.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=iEzf3p6F0wY</trailer>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/phgHV1brCV5K5TJaaOlUXculg0g.jpg</thumbnail>
+<fanart></fanart>
+<info>Mikhael é o líder da principal equipe do BOPE. Quando um dos seus amigos é ferido em uma operação, ele busca vingança e acaba em conflito com a alta cúpula política do estado.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>A Lenda da Befana</name>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/fWr6Cs4Bzolo0scGOoRThKuD084.jpg</thumbnail>
+
+<item>
+<title>A Lenda da Befana</title>
+<link>magnet:?xt=urn:btih:8723b152d0cc508f53d921873e47968e2804c6ad&dn=COMANDO.TO%20-%20A%20Lenda%20da%20Befana%202018%20%5b1080p%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/fWr6Cs4Bzolo0scGOoRThKuD084.jpg</thumbnail>
+<fanart></fanart>
+<info>Paola é uma professora amada na escola onde trabalha, e que esconde um grande segredo: à noite ela é a Befana, a bruxa natalina que entrega os presentes às boas crianças. Quando ela é capturada por um misterioso vilão, seis de seus alunos suspeitam de sua verdadeira identidade e saem em busca de salvar sua professora e o natal.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kKdJWk5sk_o</trailer>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/fWr6Cs4Bzolo0scGOoRThKuD084.jpg</thumbnail>
+<fanart></fanart>
+<info>Paola é uma professora amada na escola onde trabalha, e que esconde um grande segredo: à noite ela é a Befana, a bruxa natalina que entrega os presentes às boas crianças. Quando ela é capturada por um misterioso vilão, seis de seus alunos suspeitam de sua verdadeira identidade e saem em busca de salvar sua professora e o natal.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Não Fale com Estranhos</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWGGUIAdlvkvEKhtsdioO8XdDyv.jpg</thumbnail>
+1ª TEMPORADA COMPLETA DOWNLOAD TORRENT DUBLADO DUAL ÁUDIO MKV 1080P
+
+<item>
+<title>Não Fale com Estranhos - 1ª Temporada Completa Torrent Dual Audio 1080</title>
+<link>magnet:?xt=urn:btih:c9bb238e724e103ec55e7d71057c9c7874fe616d&amp;dn=LAPUMiA.Org%20-%20N%c3%a3o%20Fale%20com%20Estranhos%202020%20-%20S01%20(1080p)&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&amp;tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWGGUIAdlvkvEKhtsdioO8XdDyv.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Sinopse: Quando uma mulher desconhecida faz uma declaração bombástica sobre sua esposa, Adam Price se vê envolto em um mistério e tenta desesperadamente encontrar respostas.					
+</info>
+</item>
+ 
+<item>
+<title>Não Fale com Estranhos - 1ª Temporada Completa Torrent 720p Legendado</title>
+<link>magnet:?xt=urn:btih:a42f41e9ee3af391404b177796119b64b4f35ea4&amp;dn=The.Stranger.2020.S01.720p.NF.WEBRip.DDP5.1.x264-NTG%5Brartv%5D&amp;tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.me%3A2730&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2790" 
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWGGUIAdlvkvEKhtsdioO8XdDyv.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Sinopse: Quando uma mulher desconhecida faz uma declaração bombástica sobre sua esposa, Adam Price se vê envolto em um mistério e tenta desesperadamente encontrar respostas.					
+</info>
+</item>
+
+<item>
+<title>Não Fale com Estranhos - 1ª Temporada Completa Torrent 1080p Legendado</title>
+<link>magnet:?xt=urn:btih:c93732d30dc114297cec76d039ced514543411b0&amp;dn=The.Stranger.2020.S01.1080p.NF.WEBRip.DDP5.1.x264-NTG%5Brartv%5D&amp;tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.me%3A2760&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2720" 
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWGGUIAdlvkvEKhtsdioO8XdDyv.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Sinopse: Quando uma mulher desconhecida faz uma declaração bombástica sobre sua esposa, Adam Price se vê envolto em um mistério e tenta desesperadamente encontrar respostas.					
+</info>
+</item>
+
+
+<item>
+<title>Trailer</title>
+<utube>tPXx3_NlAKo" title="Trailer Não Fale com Estranhos - 1ª Temporada Completa"></iframe>]</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWGGUIAdlvkvEKhtsdioO8XdDyv.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Reunião de Família</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rccPbjzJcdFp46aYZm4z6XrpqkN.jpg</thumbnail>
+1ª TEMPORADA COMPLETA DOWNLOAD TORRENT DUBLADA DUAL ÁUDIO MKV 1080P
+
+<item>
+<title>Reunião de Família - 1ª Temporada Completa Torrent 1080</title>
+<link>magnet:?xt=urn:btih:cb27ac452ebd0f05014f6589df5bcf9ab673b81c&amp;dn=LAPUMiA.Org%20-%20Reuni%c3%a3o%20de%20Fam%c3%adlia%202020%20-%20S01%20(1080p)&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&amp;tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rccPbjzJcdFp46aYZm4z6XrpqkN.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Sinopse: Cocoa McKellan é uma mãe divertida que vive em Seattle com o marido (um ex-astro de futebol americano) e suas quatro crianças. Tudo muda quando eles decidem viajar para a grande reunião da família McKellan, em uma cidadezinha na Georgia.					
+</info>
+</item>
+ 
+<item>
+<title>Reunião de Família - 1ª Temporada Legendado</title>
+<link>magnet:?xt=urn:btih:544c2a95ab1d655553e6c415edf0d1c09f251ada&amp;dn=Family.Reunion.S01.COMPLETE.WEBRip.x264-ION10&amp;tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.me%3A2730&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2770" 
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rccPbjzJcdFp46aYZm4z6XrpqkN.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Sinopse: Cocoa McKellan é uma mãe divertida que vive em Seattle com o marido (um ex-astro de futebol americano) e suas quatro crianças. Tudo muda quando eles decidem viajar para a grande reunião da família McKellan, em uma cidadezinha na Georgia.					
+</info>
+</item>
+
+<item>
+<title>Reunião de Família - 1ª Temporada Legendado Torrent 1080p </title>
+<link>magnet:?xt=urn:btih:64d322a6e7c4e77f77ee603d8eb6ef013120ab07&amp;dn=Family.Reunion.S01.COMPLETE.1080p.NF.WEBRip.DDP5.1.x264-MIXED%5Brartv%5D&amp;tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.me%3A2770&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2720" 
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rccPbjzJcdFp46aYZm4z6XrpqkN.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Sinopse: Cocoa McKellan é uma mãe divertida que vive em Seattle com o marido (um ex-astro de futebol americano) e suas quatro crianças. Tudo muda quando eles decidem viajar para a grande reunião da família McKellan, em uma cidadezinha na Georgia.					
+</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<utube>u96GpBEZ1xs" title="Trailer Reunião de Família - 1ª Temporada Completa"></iframe>]</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rccPbjzJcdFp46aYZm4z6XrpqkN.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+
+
+<channels></channels>
+<channel>
+<name>The Capture</name>
 <thumbnail>https://hidratorrent.com/capas/the-capture-1-temporada-completa-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 
 
