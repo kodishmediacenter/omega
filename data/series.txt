@@ -1,5 +1,95 @@
 <channels></channels>
 <channel>
+<name>The Shield - Acima da Lei</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnoxHqHOoP4VLBA8StwZ62xD4Sh.jpg</thumbnail>
+
+
+<item>
+<title>The Shield - Acima da Lei 1º Temporada</title>
+<link>magnet:?xt=urn:btih:103365BC4F416AF6D6B0BCF331F0B0FD601D6956&amp;dn=The%20Shild%201%c2%ba%20Temporada.AZ&amp;tr=udp%3a%2f%2ftracker.openbit.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f.gresille.org%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.tfile.me%2fannounce&amp;tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2780%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.me%3a2800%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.tfile.me%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2780%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.me%3a2800%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnoxHqHOoP4VLBA8StwZ62xD4Sh.jpg</thumbnail>
+<fanart></fanart>
+<info>>
+
+Sinopse: "The Shield" rompe com a tradicional fórmula de se contar histórias do gênero policial. A série foca na tensão entre um grupo de policiais corruptos, mas efetivos, e um capitão dividido entre levá-los à justiça ou fingir que nada está vendo e, assim, avançar em suas próprias ambições. Na delegacia de polícia do centro de Los Angeles, os policiais farão de tudo para manter as ruas seguras e seus interesses pessoais intactos.					
+</info>
+</item>
+ 
+<item>
+<title>The Shield - Acima da Lei 2º Temporada</title>
+<link>magnet:?xt=urn:btih:7BF3E53E3851A9064FA55AAC1EE3607C52CD0F48&amp;dn=The%20Shild%202%c2%ba%20Temporada.AZ&amp;tr=udp%3a%2f%2ftracker.openbit.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f.gresille.org%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.tfile.me%2fannounce&amp;tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2780%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.me%3a2800%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.tfile.me%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2780%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.me%3a2800%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnoxHqHOoP4VLBA8StwZ62xD4Sh.jpg</thumbnail>
+<fanart></fanart>
+<info>>
+
+Sinopse: "The Shield" rompe com a tradicional fórmula de se contar histórias do gênero policial. A série foca na tensão entre um grupo de policiais corruptos, mas efetivos, e um capitão dividido entre levá-los à justiça ou fingir que nada está vendo e, assim, avançar em suas próprias ambições. Na delegacia de polícia do centro de Los Angeles, os policiais farão de tudo para manter as ruas seguras e seus interesses pessoais intactos.					
+</info>
+</item>
+ 
+<item>
+<title>The Shield - Acima da Lei  3º Temporada</title>
+<link>magnet:?xt=urn:btih:73AFC27FFBDD4C5DA63F076F135C94F81395E425&amp;dn=The%20Shild%203%c2%ba%20Temporada.AZ&amp;tr=udp%3a%2f%2ftracker.openbit.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f.gresille.org%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.tfile.me%2fannounce&amp;tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2780%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.me%3a2800%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.tfile.me%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2780%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.me%3a2800%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnoxHqHOoP4VLBA8StwZ62xD4Sh.jpg</thumbnail>
+<fanart></fanart>
+<info>>
+
+Sinopse: "The Shield" rompe com a tradicional fórmula de se contar histórias do gênero policial. A série foca na tensão entre um grupo de policiais corruptos, mas efetivos, e um capitão dividido entre levá-los à justiça ou fingir que nada está vendo e, assim, avançar em suas próprias ambições. Na delegacia de polícia do centro de Los Angeles, os policiais farão de tudo para manter as ruas seguras e seus interesses pessoais intactos.					
+</info>
+</item>
+ 
+<item>
+<title>The Shield - Acima da Lei  4º Temporada</title>
+<link>magnet:?xt=urn:btih:702CD5F1108B5EF601D7E13F9D56B51E239BC757&amp;dn=The%20Shild%204%c2%ba%20Temporada.AZ&amp;tr=udp%3a%2f%2ftracker.openbit.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f.gresille.org%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.tfile.me%2fannounce&amp;tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2780%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.me%3a2800%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.tfile.me%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2780%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.me%3a2800%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnoxHqHOoP4VLBA8StwZ62xD4Sh.jpg</thumbnail>
+<fanart></fanart>
+<info>>
+Sinopse: "The Shield" rompe com a tradicional fórmula de se contar histórias do gênero policial. A série foca na tensão entre um grupo de policiais corruptos, mas efetivos, e um capitão dividido entre levá-los à justiça ou fingir que nada está vendo e, assim, avançar em suas próprias ambições. Na delegacia de polícia do centro de Los Angeles, os policiais farão de tudo para manter as ruas seguras e seus interesses pessoais intactos.					
+</info>
+</item>
+ 
+<item>
+<title>The Shield - Acima da Lei  5º Temporada</title>
+<link>magnet:?xt=urn:btih:CAE3E6C2CAC28756178F15DABFF6B5C7DD3EC8A2&amp;dn=The%20Shild%205%c2%ba%20Temporada.AZ&amp;tr=udp%3a%2f%2ftracker.openbit.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f.gresille.org%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.tfile.me%2fannounce&amp;tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2720%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.tfile.me%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2720%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnoxHqHOoP4VLBA8StwZ62xD4Sh.jpg</thumbnail>
+<fanart></fanart>
+<info>>
+Sinopse: "The Shield" rompe com a tradicional fórmula de se contar histórias do gênero policial. A série foca na tensão entre um grupo de policiais corruptos, mas efetivos, e um capitão dividido entre levá-los à justiça ou fingir que nada está vendo e, assim, avançar em suas próprias ambições. Na delegacia de polícia do centro de Los Angeles, os policiais farão de tudo para manter as ruas seguras e seus interesses pessoais intactos.					
+</info>
+</item>
+ 
+<item>
+<title>The Shield - Acima da Lei  6º Temporada</title>
+<link>magnet:?xt=urn:btih:AF74E4898E9E6768FDA58FE011948B0586565C71&amp;dn=The%20Shild%206%c2%ba%20Temporada.AZ&amp;tr=udp%3a%2f%2ftracker.openbit.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f.gresille.org%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.tfile.me%2fannounce&amp;tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2720%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.tfile.me%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2720%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnoxHqHOoP4VLBA8StwZ62xD4Sh.jpg</thumbnail>
+<fanart></fanart>
+<info>>
+
+Sinopse: "The Shield" rompe com a tradicional fórmula de se contar histórias do gênero policial. A série foca na tensão entre um grupo de policiais corruptos, mas efetivos, e um capitão dividido entre levá-los à justiça ou fingir que nada está vendo e, assim, avançar em suas próprias ambições. Na delegacia de polícia do centro de Los Angeles, os policiais farão de tudo para manter as ruas seguras e seus interesses pessoais intactos.					
+</info>
+</item>
+ 
+<item>
+<title>The Shield - Acima da Lei  7º Temporada</title>
+<link>magnet:?xt=urn:btih:1BA7DB30D42FB4A5B367A1189BC6FD4EB7F87161&amp;dn=The%20Shild%207%c2%ba%20Temporada.AZ&amp;tr=udp%3a%2f%2ftracker.openbit.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f.gresille.org%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.tfile.me%2fannounce&amp;tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2720%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.tfile.me%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2720%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnoxHqHOoP4VLBA8StwZ62xD4Sh.jpg</thumbnail>
+<fanart></fanart>
+<info>>
+
+Sinopse: "The Shield" rompe com a tradicional fórmula de se contar histórias do gênero policial. A série foca na tensão entre um grupo de policiais corruptos, mas efetivos, e um capitão dividido entre levá-los à justiça ou fingir que nada está vendo e, assim, avançar em suas próprias ambições. Na delegacia de polícia do centro de Los Angeles, os policiais farão de tudo para manter as ruas seguras e seus interesses pessoais intactos.					
+</info>
+</item>
+ 
+<item>
+<title>Trailer</title>
+<utube>//www.youtube.com/embed/R7C7sRIgTDU" title="The Shield - Acima da Lei  HD"></iframe>]</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnoxHqHOoP4VLBA8StwZ62xD4Sh.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
 <name>Arcanjo Renegado</name>
 <thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/phgHV1brCV5K5TJaaOlUXculg0g.jpg</thumbnail>
 
