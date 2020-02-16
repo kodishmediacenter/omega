@@ -1,5 +1,18 @@
 <channels></channels>
 <channel>
+<name>Miraculus Ladybug 24 horas</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nu6dcBfxr4VmOBj4k1S9r0r1MOW.jpg</thumbnail>
+<item>
+<title>Miraculus Ladybug 24 horas</title>
+<m3ul>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/miraculus1-3.m3u</m3ul>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nu6dcBfxr4VmOBj4k1S9r0r1MOW.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
 <name>X-man Evolution 24 horas </name>
 <thumbnail>http://pm1.narvii.com/6325/7a8e096f76559553a779bb415b65b2d6c34595c4_00.jpg</thumbnail>
 <item>
