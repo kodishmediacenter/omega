@@ -71,3 +71,25 @@
 <info>Esta animação é baseada no conto popular japonês “O Corte do Bambu”. Kaguya era um minúsculo bebê quando foi encontrada dentro de um tronco de bambu brilhante. Passado o tempo, ela se transforma em uma bela jovem que passa a ser cobiçada por cinco nobres, dentre eles, o próprio Imperador. Mas nenhum deles é o que ela realmente quer. A moça envia seus pretendentes em tarefas aparentemente impossíveis para tentar evitar o casamento com um estranho que não ama. Mas Kaguya terá que enfrentar seu destino e punição por suas escolhas.</info>
 </item>
 </channel>
+
+<channels></channels>
+<channel>
+<name>Vidas ao Vento</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ndKBvRo0lknOTVKwYyCeOi7h8AM.jpg</thumbnail>
+
+<item>
+<title>Vidas ao Vento</title>
+<link>magnet:?xt=urn:btih:BIK62B7ALT76SPVM7BZG5NIO4MUN4N4D&dn=The.Wind.Rises.2013.1080p.BluRay.x264-PSYCHD%5Brarbg%5D</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ndKBvRo0lknOTVKwYyCeOi7h8AM.jpg</thumbnail>
+<fanart></fanart>
+<info>Jiro Horikoshi vive em uma cidade do interior do Japão. Um dia, ele começa a desejar voar em um avião com formato de pássaro. A partir desse desejo, ele decide que construir um avião e colocá-lo no ar é a meta da sua vida. Durante a busca pelo seu sonho ele conhece Naoko, uma jovem encantadora por quem se apaixona. No entanto, algo horrível ocorre e o futuro do casal fica ameaçado.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=YfSPHbB3KaE</trailer>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ndKBvRo0lknOTVKwYyCeOi7h8AM.jpg</thumbnail>
+<fanart></fanart>
+<info>Jiro Horikoshi vive em uma cidade do interior do Japão. Um dia, ele começa a desejar voar em um avião com formato de pássaro. A partir desse desejo, ele decide que construir um avião e colocá-lo no ar é a meta da sua vida. Durante a busca pelo seu sonho ele conhece Naoko, uma jovem encantadora por quem se apaixona. No entanto, algo horrível ocorre e o futuro do casal fica ameaçado.</info>
+</item>
+</channel>
