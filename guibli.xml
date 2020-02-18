@@ -360,30 +360,6 @@ https://drive.google.com/file/d/1rJgK2eoOkfTn5rAs5ntq6wZ2TPIjYsb2/view?usp=shari
 </item>
 </channel>
 
-https://drive.google.com/file/d/1rJgK2eoOkfTn5rAs5ntq6wZ2TPIjYsb2/view?usp=sharing
-
-<channels></channels>
-<channel>
-<name>Eu Posso Ouvir o Oceano</name>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mfYGp7JjbYy1S2UZNhIDTGQLsm8.jpg</thumbnail>
-
-<item>
-<title>Eu Posso Ouvir o Oceano</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rY3ikKqSFO5WpkxXXghKjU-Xr1WIuDEd/view?usp=sharing</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mfYGp7JjbYy1S2UZNhIDTGQLsm8.jpg</thumbnail>
-<fanart></fanart>
-<info>Após o divórcio dos pais de Rikako Muto, uma estudante de Tóquio, ela é transferida para um colégio de Kochi, uma cidade litorânea remota da capital. Além de linda e inteligente, se dedica muito aos estudos e aos desportos. Mas sem saber por quê, não consegue se adaptar à vida social da escola. No mesmo colégio chegam Taku Morisaki e Yutaka Matsuno, que sempre foram melhores amigos na vida, e logo o trio começam a viver um triângulo amoroso.</info>
-</item>
-
-<item>
-<title>Trailer</title>
-<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lJhdWkCwLlE</trailer>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mfYGp7JjbYy1S2UZNhIDTGQLsm8.jpg</thumbnail>
-<fanart></fanart>
-<info>Após o divórcio dos pais de Rikako Muto, uma estudante de Tóquio, ela é transferida para um colégio de Kochi, uma cidade litorânea remota da capital. Além de linda e inteligente, se dedica muito aos estudos e aos desportos. Mas sem saber por quê, não consegue se adaptar à vida social da escola. No mesmo colégio chegam Taku Morisaki e Yutaka Matsuno, que sempre foram melhores amigos na vida, e logo o trio começam a viver um triângulo amoroso.</info>
-</item>
-</channel>
-
 <channels></channels>
 <channel>
 <name>Porco Rosso: O Último Herói Romântico</name>
