@@ -203,3 +203,25 @@
 <info>Sofia é uma jovem de 18 anos que trabalha na chapelaria de seu pai. Em uma de suas raras idas à cidade, ela conhece Hauru, um mágico bastante sedutor, mas de caráter duvidoso. Ao confundir a relação existente entre eles, uma feiticeira lança sobre Sofia uma maldição que faz com que ela tenha 90 anos. Desesperada, Sofia foge e termina por encontrar o Castelo Animado de Hauru. Escondendo sua identidade, ela consegue ser contratada para realizar serviços domésticos no local, se envolvendo com os demais moradores do castelo.</info>
 </item>
 </channel>
+
+<channels></channels>
+<channel>
+<name>O Reino dos Gatos</name>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/gOXGRm2VnbZ3Fh8O7bK3FAkIQxr.jpg</thumbnail>
+
+<item>
+<title>O Reino dos Gatos</title>
+<link>magnet:?xt=urn:btih:EVMF5RSSRWKDUAOSSRSH66F7CUNJFEHO&dn=The%20Cat%20Returns%20aka%20Neko%20no%20ongaeshi%20(2002)%20720p%205.1%20BRRiP%20x264%20AAC%20%5BTeam%20Nanban%5D</link>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/gOXGRm2VnbZ3Fh8O7bK3FAkIQxr.jpg</thumbnail>
+<fanart></fanart>
+<info>Essa é a história de Haru, uma garota muito preguiçosa e que todos os dias chega atrasada na escola. Um belo dia, voltando para casa, salva um misterioso gato de ser atropelado. Na mesma noite a menina recebe a visita do Rei dos Gatos, que a convida para conhecer seu reino, um lugar mágico, diferente de tudo, onde os bichos falam e se comportam como gente.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Gp-H_YOcYTM</trailer>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/gOXGRm2VnbZ3Fh8O7bK3FAkIQxr.jpg</thumbnail>
+<fanart></fanart>
+<info>Essa é a história de Haru, uma garota muito preguiçosa e que todos os dias chega atrasada na escola. Um belo dia, voltando para casa, salva um misterioso gato de ser atropelado. Na mesma noite a menina recebe a visita do Rei dos Gatos, que a convida para conhecer seu reino, um lugar mágico, diferente de tudo, onde os bichos falam e se comportam como gente.</info>
+</item>
+</channel>
