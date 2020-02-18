@@ -14,7 +14,7 @@ Assistir TNT Series - Online - 24 Horas - Ao Vivo
 Assistir Warner TV - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/warner.jpg</thumbnail>
 <link>$doregex[HIDRA]warner.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -24,7 +24,7 @@ Assistir Warner TV - Online - 24 Horas - Ao Vivo
 Assistir Band News - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/bandnews.jpg</thumbnail>
 <link>$doregex[HIDRA]bandnews.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</thumbnail>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -34,7 +34,7 @@ Assistir Band News - Online - 24 Horas - Ao Vivo
 Assistir Globo News - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/globonews.jpg</thumbnail>
 <link>$doregex[HIDRA]globonews.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</thumbnail>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -44,7 +44,7 @@ Assistir Globo News - Online - 24 Horas - Ao Vivo
 Assistir Rede Globo Nordeste - Online 24 Horas Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/bobonordeste.jpg</thumbnail>
 <link>$doregex[HIDRA]bobonordeste.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</thumbnail>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -54,7 +54,7 @@ Assistir Rede Globo Nordeste - Online 24 Horas Ao Vivo
 Assistir Rede Globo SP - Online 24 Horas Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/bobosp.jpg</thumbnail>
 <link>$doregex[HIDRA]bobosp.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</thumbnail>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -64,7 +64,7 @@ Assistir Rede Globo SP - Online 24 Horas Ao Vivo
 Assistir Curta! - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/curta.jpg</thumbnail>
 <link>$doregex[HIDRA]curta.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</thumbnail>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -74,7 +74,7 @@ Assistir Curta! - Online - 24 Horas - Ao Vivo
 Assistir BIS - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/bis.jpg</thumbnail>
 <link>$doregex[HIDRA]bis.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</thumbnail>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -84,7 +84,7 @@ Assistir BIS - Online - 24 Horas - Ao Vivo
 Assistir Comedy Central - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/comedycentral.jpg</thumbnail>
 <link>$doregex[HIDRA]comedycentral.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</thumbnail>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -94,7 +94,7 @@ Assistir Comedy Central - Online - 24 Horas - Ao Vivo
 Assistir Telecine Premium - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/telecinepremium.jpg</thumbnail>
 <link>$doregex[HIDRA]telecinepremium.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</thumbnail>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -104,7 +104,7 @@ Assistir Telecine Premium - Online - 24 Horas - Ao Vivo
 Assistir Sexy Hot - Online - 24 Horas - Ao Vivo - Adulto
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/sexhot.jpg</thumbnail>
 <link>$doregex[HIDRA]sexhot.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</thumbnail>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -114,7 +114,7 @@ Assistir Sexy Hot - Online - 24 Horas - Ao Vivo - Adulto
 Assistir Disney XD - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/disneyxd.jpg</thumbnail>
 <link>$doregex[HIDRA]disneyxd.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -125,7 +125,7 @@ Assistir Tooncast - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/tooncast.jpg</thumbnail>
 <link>$doregex[HIDRA]tooncast.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -135,7 +135,7 @@ Assistir Tooncast - Online - 24 Horas - Ao Vivo
 Assistir Cartoon Network - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/cartoon.jpg</thumbnail>
 <link>$doregex[HIDRA]cartoon.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -145,7 +145,7 @@ Assistir Cartoon Network - Online - 24 Horas - Ao Vivo
 Assistir History Channel - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/history.jpg</thumbnail>
 <link>$doregex[HIDRA]history.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -155,7 +155,7 @@ Assistir History Channel - Online - 24 Horas - Ao Vivo
 Assistir Discovery Channel - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/discovery.jpg</thumbnail>
 <link>$doregex[HIDRA]discovery.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -165,7 +165,7 @@ Assistir Discovery Channel - Online - 24 Horas - Ao Vivo
 Assistir MTV Live - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/mtvlive.jpg</thumbnail>
 <link>$doregex[HIDRA]mtvlive.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -175,7 +175,7 @@ Assistir MTV Live - Online - 24 Horas - Ao Vivo
 Assistir Arte 1 - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/arte1.jpg</thumbnail>
 <link>$doregex[HIDRA]arte1.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -185,7 +185,7 @@ Assistir Arte 1 - Online - 24 Horas - Ao Vivo
 Assistir MTV Live - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/mtvlive.jpg</thumbnail>
 <link>$doregex[HIDRA]mtvlive.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -195,7 +195,7 @@ Assistir MTV Live - Online - 24 Horas - Ao Vivo
 Assistir Food Network - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/foodnetwork.jpg</thumbnail>
 <link>$doregex[HIDRA]foodnetwork.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -205,7 +205,7 @@ Assistir Food Network - Online - 24 Horas - Ao Vivo
 Assistir Rede Bandeirantes - Band - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/band.jpg</thumbnail>
 <link>$doregex[HIDRA]band.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -215,7 +215,7 @@ Assistir Rede Bandeirantes - Band - Online - 24 Horas - Ao Vivo
 Assistir Record News - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/recordnews.jpg</thumbnail>
 <link>$doregex[HIDRA]recordnews.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -225,7 +225,7 @@ Assistir Record News - Online - 24 Horas - Ao Vivo
 Assistir Record TV SP - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/recordsp.jpg</thumbnail>
 <link>$doregex[HIDRA]recordsp.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -235,7 +235,7 @@ Assistir Record TV SP - Online - 24 Horas - Ao Vivo
 Assistir TLC - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/tlc.jpg</thumbnail>
 <link>$doregex[HIDRA]tlc.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -245,7 +245,7 @@ Assistir TLC - Online - 24 Horas - Ao Vivo
 Assistir Paramount Channel - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/paramount.jpg</thumbnail>
 <link>$doregex[HIDRA]paramount.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -255,7 +255,7 @@ Assistir Paramount Channel - Online - 24 Horas - Ao Vivo
 Assistir Syfy - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/syfy.jpg</thumbnail>
 <link>$doregex[HIDRA]syfy.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -265,7 +265,7 @@ Assistir Syfy - Online - 24 Horas - Ao Vivo
 Assistir Studio Universal - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/studiouniversal.jpg</thumbnail>
 <link>$doregex[HIDRA]studiouniversal.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -275,7 +275,7 @@ Assistir Studio Universal - Online - 24 Horas - Ao Vivo
 Assistir Space - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/space.jpg</thumbnail>
 <link>$doregex[HIDRA]space.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -285,7 +285,7 @@ Assistir Space - Online - 24 Horas - Ao Vivo
 Assistir FX - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/fx.jpg</thumbnail>
 <link>$doregex[HIDRA]fx.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -295,7 +295,7 @@ Assistir FX - Online - 24 Horas - Ao Vivo
 Assistir Canal Off - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/off.jpg</thumbnail>
 <link>$doregex[HIDRA]off.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -305,7 +305,7 @@ Assistir Canal Off - Online - 24 Horas - Ao Vivo
 Assistir Multishow - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/multishow.jpg</thumbnail>
 <link>$doregex[HIDRA]multishow.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -315,7 +315,7 @@ Assistir Multishow - Online - 24 Horas - Ao Vivo
 Assistir MTV - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/mtv.jpg</thumbnail>
 <link>$doregex[HIDRA]mtv.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -325,7 +325,7 @@ Assistir MTV - Online - 24 Horas - Ao Vivo
 Assistir Mais Globosat - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/maisbobosat.jpg</thumbnail>
 <link>$doregex[HIDRA]maisbobosat.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -335,7 +335,7 @@ Assistir Mais Globosat - Online - 24 Horas - Ao Vivo
 Assistir Lifetime - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/lifetime.jpg</thumbnail>
 <link>$doregex[HIDRA]lifetime.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -345,7 +345,7 @@ Assistir Lifetime - Online - 24 Horas - Ao Vivo
 Assistir Investigação Discovery - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/investigacaodiscovery.jpg</thumbnail>
 <link>$doregex[HIDRA]investigacaodiscovery.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -355,7 +355,7 @@ Assistir Investigação Discovery - Online - 24 Horas - Ao Vivo
 Assistir GNT - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/gnt.jpg</thumbnail>
 <link>$doregex[HIDRA]gnt.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -365,7 +365,7 @@ Assistir GNT - Online - 24 Horas - Ao Vivo
 Assistir Fox Life - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/foxlife.jpg</thumbnail>
 <link>$doregex[HIDRA]foxlife.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -375,7 +375,7 @@ Assistir Fox Life - Online - 24 Horas - Ao Vivo
 Assistir Fish TV - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/fishtv.jpg</thumbnail>
 <link>$doregex[HIDRA]fishtv.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -385,7 +385,7 @@ Assistir Fish TV - Online - 24 Horas - Ao Vivo
 Assistir Discovery World - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/discoveryworld.jpg</thumbnail>
 <link>$doregex[HIDRA]discoveryworld.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -395,7 +395,7 @@ Assistir Discovery World - Online - 24 Horas - Ao Vivo
 Assistir Discovery Home & Health - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/discoveryhomeihealth.jpg</thumbnail>
 <link>$doregex[HIDRA]discoveryhomeihealth.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -405,7 +405,7 @@ Assistir Discovery Home & Health - Online - 24 Horas - Ao Vivo
 Assistir Comedy Central - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/comedycentral.jpg</thumbnail>
 <link>$doregex[HIDRA]comedycentral.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -415,7 +415,7 @@ Assistir Comedy Central - Online - 24 Horas - Ao Vivo
 Assistir BIS - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/bis.jpg</thumbnail>
 <link>$doregex[HIDRA]bis.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -425,7 +425,7 @@ Assistir BIS - Online - 24 Horas - Ao Vivo
 Assistir Curta! - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/curta.jpg</thumbnail>
 <link>$doregex[HIDRA]curta.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -435,7 +435,7 @@ Assistir Curta! - Online - 24 Horas - Ao Vivo
 Assistir Arte 1 - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/arte1.jpg</thumbnail>
 <link>$doregex[HIDRA]arte1.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -445,7 +445,7 @@ Assistir Arte 1 - Online - 24 Horas - Ao Vivo
 Assistir SBT - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/sbt.jpg</thumbnail>
 <link>$doregex[HIDRA]sbt.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -455,7 +455,7 @@ Assistir SBT - Online - 24 Horas - Ao Vivo
 Assistir Rede Globo RJ - Online 24 Horas Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/boborj.jpg</thumbnail>
 <link>$doregex[HIDRA]boborj.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -465,7 +465,7 @@ Assistir Rede Globo RJ - Online 24 Horas Ao Vivo
 Assistir Rede Globo SP - Online 24 Horas Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/bobosp.jpg</thumbnail>
 <link>$doregex[HIDRA]bobosp.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -475,7 +475,7 @@ Assistir Rede Globo SP - Online 24 Horas Ao Vivo
 Assistir Rede Globo Nordeste - Online 24 Horas Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/bobonordeste.jpg</thumbnail>
 <link>$doregex[HIDRA]bobonordeste.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -485,7 +485,7 @@ Assistir Rede Globo Nordeste - Online 24 Horas Ao Vivo
 Assistir Globo News - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/globonews.jpg</thumbnail>
 <link>$doregex[HIDRA]globonews.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -495,7 +495,7 @@ Assistir Globo News - Online - 24 Horas - Ao Vivo
 Assistir Band News - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/bandnews.jpg</thumbnail>
 <link>$doregex[HIDRA]bandnews.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -505,7 +505,7 @@ Assistir Band News - Online - 24 Horas - Ao Vivo
 Assistir Warner TV - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/warner.jpg</thumbnail>
 <link>$doregex[HIDRA]warner.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -515,7 +515,7 @@ Assistir Warner TV - Online - 24 Horas - Ao Vivo
 Assistir Sexy Hot - Online - 24 Horas - Ao Vivo - Adulto
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/sexhot.jpg</thumbnail>
 <link>$doregex[HIDRA]sexhot.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -525,7 +525,7 @@ Assistir Sexy Hot - Online - 24 Horas - Ao Vivo - Adulto
 Assistir Erotic - Online - 24 Horas - Ao Vivo - Adulto
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/erotic.jpg</thumbnail>
 <link>$doregex[HIDRA]erotic.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -535,7 +535,7 @@ Assistir Erotic - Online - 24 Horas - Ao Vivo - Adulto
 Assistir Fox Sports - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/foxsports1.jpg</thumbnail>
 <link>$doregex[HIDRA]foxsports1.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -545,7 +545,7 @@ Assistir Fox Sports - Online - 24 Horas - Ao Vivo
 Assistir Pink O TV - Online - 24 Horas - Ao Vivo - Adulto
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/pinko.jpg</thumbnail>
 <link>$doregex[HIDRA]pinko.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -555,7 +555,7 @@ Assistir Pink O TV - Online - 24 Horas - Ao Vivo - Adulto
 Assistir Evilangel TV - Online - 24 Horas - Ao Vivo - Adulto
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/evilangel.jpg</thumbnail>
 <link>$doregex[HIDRA]evilangel.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -565,7 +565,7 @@ Assistir Evilangel TV - Online - 24 Horas - Ao Vivo - Adulto
 Assistir Discovery Channel - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/discovery.jpg</thumbnail>
 <link>$doregex[HIDRA]discovery.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -575,7 +575,7 @@ Assistir Discovery Channel - Online - 24 Horas - Ao Vivo
 Assistir ESPN Brasil - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/espnbrasil.jpg</thumbnail>
 <link>$doregex[HIDRA]espnbrasil.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -585,7 +585,7 @@ Assistir ESPN Brasil - Online - 24 Horas - Ao Vivo
 Assistir Cartoon Network - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/cartoon.jpg</thumbnail>
 <link>$doregex[HIDRA]cartoon.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -595,7 +595,7 @@ Assistir Cartoon Network - Online - 24 Horas - Ao Vivo
 Assistir TNT - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/tnt.jpg</thumbnail>
 <link>$doregex[HIDRA]tnt.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -605,7 +605,7 @@ Assistir TNT - Online - 24 Horas - Ao Vivo
 Assistir History Channel - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/history.jpg</thumbnail>
 <link>$doregex[HIDRA]history.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -615,7 +615,7 @@ Assistir History Channel - Online - 24 Horas - Ao Vivo
 Assistir Space - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/space.jpg</thumbnail>
 <link>$doregex[HIDRA]space.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -625,7 +625,7 @@ Assistir Space - Online - 24 Horas - Ao Vivo
 Assistir Nickelodeon: Nick - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/nick.jpg</thumbnail>
 <link>$doregex[HIDRA]nick.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -635,7 +635,7 @@ Assistir Nickelodeon: Nick - Online - 24 Horas - Ao Vivo
 Assistir TNT Series - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/tntseries.jpg</thumbnail>
 <link>$doregex[HIDRA]tntseries.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -645,7 +645,7 @@ Assistir TNT Series - Online - 24 Horas - Ao Vivo
 Assistir Warner TV - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/warner.jpg</thumbnail>
 <link>$doregex[HIDRA]warner.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -655,7 +655,7 @@ Assistir Warner TV - Online - 24 Horas - Ao Vivo
 Assistir FX - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/fx.jpg</thumbnail>
 <link>$doregex[HIDRA]fx.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -666,7 +666,7 @@ Assistir Rede Globo SP - Online 24 Horas Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/bobosp.jpg</thumbnail>
 <link>$doregex[HIDRA]bobosp.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -677,7 +677,7 @@ Assistir Megapix - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/megapix.jpg</thumbnail>
 <link>$doregex[HIDRA]megapix.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -688,7 +688,7 @@ Assistir Telecine Action - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/telecineaction.jpg</thumbnail>
 <link>$doregex[HIDRA]telecineaction.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -699,7 +699,7 @@ Assistir Telecine Pipoca - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/telecinepipoca.jpg</thumbnail>
 <link>$doregex[HIDRA]telecinepipoca.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -710,7 +710,7 @@ Assistir ESPN - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/espn.jpg</thumbnail>
 <link>$doregex[HIDRA]espn.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -721,7 +721,7 @@ Assistir Telecine Premium - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/telecinepremium.jpg</thumbnail>
 <link>$doregex[HIDRA]telecinepremium.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -732,7 +732,7 @@ Assistir Fox - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/fox.jpg</thumbnail>
 <link>$doregex[HIDRA]fox.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -743,7 +743,7 @@ Assistir Globo News - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/globonews.jpg</thumbnail>
 <link>$doregex[HIDRA]globonews.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -754,7 +754,7 @@ Assistir Tooncast - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/tooncast.jpg</thumbnail>
 <link>$doregex[HIDRA]tooncast.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -765,7 +765,7 @@ Assistir Rede Globo RJ - Online 24 Horas Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/boborj.jpg</thumbnail>
 <link>$doregex[HIDRA]boborj.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -776,7 +776,7 @@ Assistir HBO - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/hbo.jpg</thumbnail>
 <link>$doregex[HIDRA]hbo.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -787,7 +787,7 @@ Assistir History 2 - H2 - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/history2.jpg</thumbnail>
 <link>$doregex[HIDRA]history2.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -798,7 +798,7 @@ Assistir Rede Globo Nordeste - Online 24 Horas Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/bobonordeste.jpg</thumbnail>
 <link>$doregex[HIDRA]bobonordeste.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -809,7 +809,7 @@ Assistir Paramount Channel - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/paramount.jpg</thumbnail>
 <link>$doregex[HIDRA]paramount.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -820,7 +820,7 @@ Assistir Syfy - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/syfy.jpg</thumbnail>
 <link>$doregex[HIDRA]syfy.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -831,7 +831,7 @@ Assistir Studio Universal - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/studiouniversal.jpg</thumbnail>
 <link>$doregex[HIDRA]studiouniversal.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -842,7 +842,7 @@ Assistir Space - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/space.jpg</thumbnail>
 <link>$doregex[HIDRA]space.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -853,7 +853,7 @@ Assistir FX - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/fx.jpg</thumbnail>
 <link>$doregex[HIDRA]fx.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -864,7 +864,7 @@ Assistir Warner TV - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/warner.jpg</thumbnail>
 <link>$doregex[HIDRA]warner.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -875,7 +875,7 @@ Assistir Universal Channel - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/universal.jpg</thumbnail>
 <link>$doregex[HIDRA]universal.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -886,7 +886,7 @@ Assistir TNT Series - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/tntseries.jpg</thumbnail>
 <link>$doregex[HIDRA]tntseries.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -897,7 +897,7 @@ Assistir TNT - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/tnt.jpg</thumbnail>
 <link>$doregex[HIDRA]tnt.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -908,7 +908,7 @@ Assistir Telecine Cult - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/telecinecult.jpg</thumbnail>
 <link>$doregex[HIDRA]telecinecult.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -919,7 +919,7 @@ Assistir Premiere 7 - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/premiere7.jpg</thumbnail>
 <link>$doregex[HIDRA]premiere7.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -930,7 +930,7 @@ Assistir Premiere 6 - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/premiere6.jpg</thumbnail>
 <link>$doregex[HIDRA]premiere6.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -941,7 +941,7 @@ Assistir Premiere 5 - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/premiere5.jpg</thumbnail>
 <link>$doregex[HIDRA]premiere5.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -952,7 +952,7 @@ Assistir Premiere 4 - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/premiere4.jpg</thumbnail>
 <link>$doregex[HIDRA]premiere4.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -963,7 +963,7 @@ Assistir Premiere 3 - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/premiere3.jpg</thumbnail>
 <link>$doregex[HIDRA]premiere3.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -974,7 +974,7 @@ Assistir Premiere 2 - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/premiere2.jpg</thumbnail>
 <link>$doregex[HIDRA]premiere2.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -985,7 +985,7 @@ Assistir Premiere - Clubes - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/premiereclubes.jpg</thumbnail>
 <link>$doregex[HIDRA]premiereclubes.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -996,7 +996,7 @@ Assistir SporTV 3 - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/sportv3.jpg</thumbnail>
 <link>$doregex[HIDRA]sportv3.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1007,7 +1007,7 @@ Assistir SporTV 2 - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/sportv2.jpg</thumbnail>
 <link>$doregex[HIDRA]sportv2.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1018,7 +1018,7 @@ Assistir SporTV - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/sportv1.jpg</thumbnail>
 <link>$doregex[HIDRA]sportv1.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1029,7 +1029,7 @@ Assistir Zoomoo - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/zoomoo.jpg</thumbnail>
 <link>$doregex[HIDRA]zoomoo.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1040,7 +1040,7 @@ Assistir Tooncast - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/tooncast.jpg</thumbnail>
 <link>$doregex[HIDRA]tooncast.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1051,7 +1051,7 @@ Assistir Nick Jr. - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/nickjr.jpg</thumbnail>
 <link>$doregex[HIDRA]nickjr.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1062,7 +1062,7 @@ Assistir Nickelodeon: Nick - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/nick.jpg</thumbnail>
 <link>$doregex[HIDRA]nick.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1073,7 +1073,7 @@ Assistir Nat Geo Kids - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/natgeokids.jpg</thumbnail>
 <link>$doregex[HIDRA]natgeokids.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1084,7 +1084,7 @@ Assistir Gloob - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/gloob.jpg</thumbnail>
 <link>$doregex[HIDRA]gloob.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1095,7 +1095,7 @@ Assistir Disney XD - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/disneyxd.jpg</thumbnail>
 <link>$doregex[HIDRA]disneyxd.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1106,7 +1106,7 @@ Assistir Disney Junior - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/disneyjunior.jpg</thumbnail>
 <link>$doregex[HIDRA]disneyjunior.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1117,7 +1117,7 @@ Assistir Disney Channel - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/disney.jpg</thumbnail>
 <link>$doregex[HIDRA]disney.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1128,7 +1128,7 @@ Assistir Discovery Kids - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/discoverykids.jpg</thumbnail>
 <link>$doregex[HIDRA]discoverykids.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1139,7 +1139,7 @@ Assistir National Geographic Channel - Nat Geo - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/natgeo.jpg</thumbnail>
 <link>$doregex[HIDRA]natgeo.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1150,7 +1150,7 @@ Assistir Nat Geo Wild - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/natgeowild.jpg</thumbnail>
 <link>$doregex[HIDRA]natgeowild.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1161,7 +1161,7 @@ Assistir History 2 - H2 - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/history2.jpg</thumbnail>
 <link>$doregex[HIDRA]history2.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1172,7 +1172,7 @@ Assistir History Channel - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/history.jpg</thumbnail>
 <link>$doregex[HIDRA]history.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1183,7 +1183,7 @@ Assistir Discovery Theater - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/discoverytheater.jpg</thumbnail>
 <link>$doregex[HIDRA]discoverytheater.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1194,7 +1194,7 @@ Assistir Discovery Science - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/discoverysience.jpg</thumbnail>
 <link>$doregex[HIDRA]discoverysience.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1205,7 +1205,7 @@ Assistir Discovery Civilization - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/discoverycivilization.jpg</thumbnail>
 <link>$doregex[HIDRA]discoverycivilization.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1216,7 +1216,7 @@ Assistir Discovery Channel - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/discovery.jpg</thumbnail>
 <link>$doregex[HIDRA]discovery.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1227,7 +1227,7 @@ Assistir Animal Planet - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/animalplanet.jpg</thumbnail>
 <link>$doregex[HIDRA]animalplanet.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1238,7 +1238,7 @@ Assistir MTV Live - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/mtvlive.jpg</thumbnail>
 <link>$doregex[HIDRA]mtvlive.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1249,7 +1249,7 @@ Assistir Food Network - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/foodnetwork.jpg</thumbnail>
 <link>$doregex[HIDRA]foodnetwork.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1260,7 +1260,7 @@ Assistir TLC - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/tlc.jpg</thumbnail>
 <link>$doregex[HIDRA]tlc.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1271,7 +1271,7 @@ Assistir Canal Off - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/off.jpg</thumbnail>
 <link>$doregex[HIDRA]off.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1282,7 +1282,7 @@ Assistir Multishow - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/multishow.jpg</thumbnail>
 <link>$doregex[HIDRA]multishow.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1293,7 +1293,7 @@ Assistir MTV - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/mtv.jpg</thumbnail>
 <link>$doregex[HIDRA]mtv.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1304,7 +1304,7 @@ Assistir Mais Globosat - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/maisbobosat.jpg</thumbnail>
 <link>$doregex[HIDRA]maisbobosat.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1315,7 +1315,7 @@ Assistir Lifetime - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/lifetime.jpg</thumbnail>
 <link>$doregex[HIDRA]lifetime.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1326,7 +1326,7 @@ Assistir Investigação Discovery - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/investigacaodiscovery.jpg</thumbnail>
 <link>$doregex[HIDRA]investigacaodiscovery.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1337,7 +1337,7 @@ Assistir GNT - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/gnt.jpg</thumbnail>
 <link>$doregex[HIDRA]gnt.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1348,7 +1348,7 @@ Assistir Rede Bandeirantes - Band - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/band.jpg</thumbnail>
 <link>$doregex[HIDRA]band.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1359,7 +1359,7 @@ Assistir Record News - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/recordnews.jpg</thumbnail>
 <link>$doregex[HIDRA]recordnews.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1370,7 +1370,7 @@ Assistir Record TV SP - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/recordsp.jpg</thumbnail>
 <link>$doregex[HIDRA]recordsp.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1381,7 +1381,7 @@ Assistir SBT - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/sbt.jpg</thumbnail>
 <link>$doregex[HIDRA]sbt.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1392,7 +1392,7 @@ Assistir Rede Globo RJ - Online 24 Horas Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/boborj.jpg</thumbnail>
 <link>$doregex[HIDRA]boborj.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1403,7 +1403,7 @@ Assistir Rede Globo SP - Online 24 Horas Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/bobosp.jpg</thumbnail>
 <link>$doregex[HIDRA]bobosp.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1414,7 +1414,7 @@ Assistir Rede Globo Nordeste - Online 24 Horas Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/bobonordeste.jpg</thumbnail>
 <link>$doregex[HIDRA]bobonordeste.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1425,7 +1425,7 @@ Assistir Record News - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/recordnews.jpg</thumbnail>
 <link>$doregex[HIDRA]recordnews.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1436,7 +1436,7 @@ Assistir Globo News - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/globonews.jpg</thumbnail>
 <link>$doregex[HIDRA]globonews.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1447,7 +1447,7 @@ Assistir Band News - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/bandnews.jpg</thumbnail>
 <link>$doregex[HIDRA]bandnews.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1458,7 +1458,7 @@ Assistir Erotic - Online - 24 Horas - Ao Vivo - Adulto
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/erotic.jpg</thumbnail>
 <link>$doregex[HIDRA]erotic.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1469,7 +1469,7 @@ Assistir Evilangel TV - Online - 24 Horas - Ao Vivo - Adulto
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/evilangel.jpg</thumbnail>
 <link>$doregex[HIDRA]evilangel.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1480,7 +1480,7 @@ Assistir Pink O TV - Online - 24 Horas - Ao Vivo - Adulto
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/pinko.jpg</thumbnail>
 <link>$doregex[HIDRA]pinko.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
@@ -1491,7 +1491,7 @@ Assistir Sexy Hot - Online - 24 Horas - Ao Vivo - Adulto
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/sexhot.jpg</thumbnail>
 <link>$doregex[HIDRA]sexhot.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contadorcanais/</link>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>http://iptvredes.kodishteam.online</page></regex><fanart></fanart>
+<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
 
