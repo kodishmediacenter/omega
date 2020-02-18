@@ -269,3 +269,25 @@
 <info>O filme mostra o dia-a-dia da família Yamada, que é composta por Takashi (o pai, um trabalhador comum), Matsuko (a mãe, dona de casa), Shige (a sogra), Noboru (o filho adolescente), Nonoko (a filha criança) e Pochi (o cachorro da família). A história é dividida em quadros curtos, cada um focando algum ponto interessante do cotidiano da família, mais ou menos como se vê nas tirinhas de jornal. Trata de problemas que vemos em nossos próprios lares, como a exigência dos pais para que o filho adolescente estude mais, a mãe que não quer ser tratada como uma empregada, o pai que chega cansado demais do trabalho e tem que acordar cedo para uma reunião de negócios, o adolescente passando por crises existenciais, os pensamentos inocentes da criança... Essas coisas que conhecemos muito bem</info>
 </item>
 </channel>
+
+<channels></channels>
+<channel>
+<name>Princesa Mononoke</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRrcBFSz37DI25NhLydUFwGR2Cm.jpg</thumbnail>
+
+<item>
+<title>Princesa Mononoke</title>
+<link>magnet:?xt=urn:btih:f0c32f1b91c794295a1d29172f83f796759cd634</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRrcBFSz37DI25NhLydUFwGR2Cm.jpg</thumbnail>
+<fanart></fanart>
+<info>Enquanto protegia a sua aldeia de fúria de javali deus / demônio, um jovem guerreiro confiante, Ashitaka, é atingido por uma maldição mortal. Para salvar sua vida, ele deve viajar para as florestas do oeste. Uma vez lá, ele está envolvido em uma campanha feroz que os humanos estavam travando na floresta. A ambiciosa Lady Eboshi e seu leal clã usam suas armas contra os deuses da floresta e uma jovem corajosa, a princesa Mononoke, que foi criada por um deus-lobo. Ashitaka vê o bem de ambos os lados e tenta conter o fluxo de sangue. Isso é enfrentado pela animosidade de ambos os lados, pois cada um deles o vê apoiando o inimigo.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4OiMOHRDs14</trailer>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRrcBFSz37DI25NhLydUFwGR2Cm.jpg</thumbnail>
+<fanart></fanart>
+<info>Enquanto protegia a sua aldeia de fúria de javali deus / demônio, um jovem guerreiro confiante, Ashitaka, é atingido por uma maldição mortal. Para salvar sua vida, ele deve viajar para as florestas do oeste. Uma vez lá, ele está envolvido em uma campanha feroz que os humanos estavam travando na floresta. A ambiciosa Lady Eboshi e seu leal clã usam suas armas contra os deuses da floresta e uma jovem corajosa, a princesa Mononoke, que foi criada por um deus-lobo. Ashitaka vê o bem de ambos os lados e tenta conter o fluxo de sangue. Isso é enfrentado pela animosidade de ambos os lados, pois cada um deles o vê apoiando o inimigo.</info>
+</item>
+</channel>
