@@ -93,3 +93,25 @@
 <info>Jiro Horikoshi vive em uma cidade do interior do Japão. Um dia, ele começa a desejar voar em um avião com formato de pássaro. A partir desse desejo, ele decide que construir um avião e colocá-lo no ar é a meta da sua vida. Durante a busca pelo seu sonho ele conhece Naoko, uma jovem encantadora por quem se apaixona. No entanto, algo horrível ocorre e o futuro do casal fica ameaçado.</info>
 </item>
 </channel>
+
+<channels></channels>
+<channel>
+<name>Da Colina Kokuriko</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nU46m8N7AhfwfpYpeFI7sbYLj0.jpg</thumbnail>
+
+<item>
+<title>Da Colina Kokuriko</title>
+<link>magnet:?xt=urn:btih:72ab7a9d00a8917c7294b786867ccaf176d87968</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nU46m8N7AhfwfpYpeFI7sbYLj0.jpg</thumbnail>
+<fanart></fanart>
+<info>Uma garota chamada Komatsuzaki vive em uma cidade portuária na década de 1960 e é obrigada a assumir as rédeas de sua vida após o desaparecimento do pai. O roteiro é focado no amadurecimento da garota, lembrando muito o roteiro de “A Viagem de Chihiro”. Adaptado do mangá homônimo de Chizuru Takahashi e Tetsuro Sayama.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qFfb_lJKp_o</trailer>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nU46m8N7AhfwfpYpeFI7sbYLj0.jpg</thumbnail>
+<fanart></fanart>
+<info>Uma garota chamada Komatsuzaki vive em uma cidade portuária na década de 1960 e é obrigada a assumir as rédeas de sua vida após o desaparecimento do pai. O roteiro é focado no amadurecimento da garota, lembrando muito o roteiro de “A Viagem de Chihiro”. Adaptado do mangá homônimo de Chizuru Takahashi e Tetsuro Sayama.</info>
+</item>
+</channel>
