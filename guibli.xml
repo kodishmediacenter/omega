@@ -225,3 +225,25 @@
 <info>Essa é a história de Haru, uma garota muito preguiçosa e que todos os dias chega atrasada na escola. Um belo dia, voltando para casa, salva um misterioso gato de ser atropelado. Na mesma noite a menina recebe a visita do Rei dos Gatos, que a convida para conhecer seu reino, um lugar mágico, diferente de tudo, onde os bichos falam e se comportam como gente.</info>
 </item>
 </channel>
+
+<channels></channels>
+<channel>
+<name>A Viagem de Chihiro</name>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/cndCt5dvf2USnl4ZfzM86x55Oy1.jpg</thumbnail>
+
+<item>
+<title>A Viagem de Chihiro</title>
+<link>magnet:?xt=urn:btih:5e0187a0741724fbc495d2c681217e190ff500bc&dn=A+Viagem+de+Chihiro+%282001%29+720p+Dual+Audio+pt-BR+jp+%2F+Brazilian+&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/cndCt5dvf2USnl4ZfzM86x55Oy1.jpg</thumbnail>
+<fanart></fanart>
+<info>Chihiro é uma garota de dez anos que acredita que todo o universo deve atender aos seus caprichos. Ao descobrir que vai se mudar, ela fica furiosa. Na viagem, Chihiro percebe que seu pai se perdeu no caminho para a nova cidade, indo parar defronte a um túnel aparentemente sem fim, guardado por uma estranha estátua. Curiosos, os pais de Chihiro decidem entrar no túnel e Chihiro vai com eles. Chegam numa cidade sem nenhum habitante e os pais de Chihiro decidem comer a comida de uma das casas, enquanto a menina passeia. Ela encontra com Haku, garoto que lhe diz para ir embora o mais rápido possível e, ao reencontrar seus pais, Chihiro fica surpresa ao ver que eles se transformaram em gigantescos porcos. É o início da jornada de Chihiro por um mundo fantasma, povoado por seres fantásticos, no qual humanos não são bem-vindos.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SgZI655GgHk</trailer>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/cndCt5dvf2USnl4ZfzM86x55Oy1.jpg</thumbnail>
+<fanart></fanart>
+<info>Chihiro é uma garota de dez anos que acredita que todo o universo deve atender aos seus caprichos. Ao descobrir que vai se mudar, ela fica furiosa. Na viagem, Chihiro percebe que seu pai se perdeu no caminho para a nova cidade, indo parar defronte a um túnel aparentemente sem fim, guardado por uma estranha estátua. Curiosos, os pais de Chihiro decidem entrar no túnel e Chihiro vai com eles. Chegam numa cidade sem nenhum habitante e os pais de Chihiro decidem comer a comida de uma das casas, enquanto a menina passeia. Ela encontra com Haku, garoto que lhe diz para ir embora o mais rápido possível e, ao reencontrar seus pais, Chihiro fica surpresa ao ver que eles se transformaram em gigantescos porcos. É o início da jornada de Chihiro por um mundo fantasma, povoado por seres fantásticos, no qual humanos não são bem-vindos.</info>
+</item>
+</channel>
