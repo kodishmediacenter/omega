@@ -181,3 +181,25 @@
 <info>Em meio a uma tempestade marítima, os tripulantes de um barco não conseguem controlar o vento e o mar. Enquanto isso, dois dragões saem das nuvens escuras devorando um ao outro. Estes estranhos incidentes levam o mago Ged a investigar o que estaria afetando o equilíbrio das coisas. Em sua jornada, ele encontra o príncipe Arren, que diz estar sendo perseguido por uma sombra. Os dois seguem viagem juntos. Por onde passam, encontram sinais de que algo vai mal no mundo.</info>
 </item>
 </channel>
+
+<channels></channels>
+<channel>
+<name>O Castelo Animado</name>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/c7QqJoND1tCAcL6ordScPscRBIv.jpg</thumbnail>
+
+<item>
+<title>O Castelo Animado</title>
+<link>magnet:?xt=urn:btih:63b79d61b4ac67c801d53fc8f4fd6d9aaa48c74b</link>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/c7QqJoND1tCAcL6ordScPscRBIv.jpg</thumbnail>
+<fanart></fanart>
+<info>Sofia é uma jovem de 18 anos que trabalha na chapelaria de seu pai. Em uma de suas raras idas à cidade, ela conhece Hauru, um mágico bastante sedutor, mas de caráter duvidoso. Ao confundir a relação existente entre eles, uma feiticeira lança sobre Sofia uma maldição que faz com que ela tenha 90 anos. Desesperada, Sofia foge e termina por encontrar o Castelo Animado de Hauru. Escondendo sua identidade, ela consegue ser contratada para realizar serviços domésticos no local, se envolvendo com os demais moradores do castelo.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PWhl-xGTraE</trailer>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/c7QqJoND1tCAcL6ordScPscRBIv.jpg</thumbnail>
+<fanart></fanart>
+<info>Sofia é uma jovem de 18 anos que trabalha na chapelaria de seu pai. Em uma de suas raras idas à cidade, ela conhece Hauru, um mágico bastante sedutor, mas de caráter duvidoso. Ao confundir a relação existente entre eles, uma feiticeira lança sobre Sofia uma maldição que faz com que ela tenha 90 anos. Desesperada, Sofia foge e termina por encontrar o Castelo Animado de Hauru. Escondendo sua identidade, ela consegue ser contratada para realizar serviços domésticos no local, se envolvendo com os demais moradores do castelo.</info>
+</item>
+</channel>
