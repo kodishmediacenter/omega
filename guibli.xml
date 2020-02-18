@@ -160,3 +160,24 @@
 </item>
 </channel>
 
+<channels></channels>
+<channel>
+<name>Contos de Terramar</name>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/qxnjGbet081WU0R5uPQV9eDmNRE.jpg</thumbnail>
+
+<item>
+<title>Contos de Terramar</title>
+<link>magnet:?xt=urn:btih:D7FSM24GXX2RVI27H6I4EHYBUJQRJAP2&dn=Tales.from.Earthsea.2006.720p.BluRay.x264-TheWretched</link>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/qxnjGbet081WU0R5uPQV9eDmNRE.jpg</thumbnail>
+<fanart></fanart>
+<info>Em meio a uma tempestade marítima, os tripulantes de um barco não conseguem controlar o vento e o mar. Enquanto isso, dois dragões saem das nuvens escuras devorando um ao outro. Estes estranhos incidentes levam o mago Ged a investigar o que estaria afetando o equilíbrio das coisas. Em sua jornada, ele encontra o príncipe Arren, que diz estar sendo perseguido por uma sombra. Os dois seguem viagem juntos. Por onde passam, encontram sinais de que algo vai mal no mundo.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8hxYx3Jq3kI</trailer>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/qxnjGbet081WU0R5uPQV9eDmNRE.jpg</thumbnail>
+<fanart></fanart>
+<info>Em meio a uma tempestade marítima, os tripulantes de um barco não conseguem controlar o vento e o mar. Enquanto isso, dois dragões saem das nuvens escuras devorando um ao outro. Estes estranhos incidentes levam o mago Ged a investigar o que estaria afetando o equilíbrio das coisas. Em sua jornada, ele encontra o príncipe Arren, que diz estar sendo perseguido por uma sombra. Os dois seguem viagem juntos. Por onde passam, encontram sinais de que algo vai mal no mundo.</info>
+</item>
+</channel>
