@@ -1,1 +1,2 @@
+http://proxyx.ec.cx:8082/hls1/.rccanais
 http://proxy.ec.cx:8082/hls1/.rccanais
