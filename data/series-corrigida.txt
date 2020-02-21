@@ -1,0 +1,583 @@
+<channels></channels>
+<channel>
+<name>The Shield - Acima da Lei</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnoxHqHOoP4VLBA8StwZ62xD4Sh.jpg</thumbnail>
+
+
+<item>
+<title>The Shield - Acima da Lei 1º Temporada</title>
+<link>magnet:?xt=urn:btih:103365BC4F416AF6D6B0BCF331F0B0FD601D6956&amp;dn=The%20Shild%201%c2%ba%20Temporada.AZ&amp;tr=udp%3a%2f%2ftracker.openbit.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f.gresille.org%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.tfile.me%2fannounce&amp;tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2780%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.me%3a2800%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.tfile.me%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2780%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.me%3a2800%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnoxHqHOoP4VLBA8StwZ62xD4Sh.jpg</thumbnail>
+<fanart></fanart>
+<info>>
+
+Sinopse: "The Shield" rompe com a tradicional fórmula de se contar histórias do gênero policial. A série foca na tensão entre um grupo de policiais corruptos, mas efetivos, e um capitão dividido entre levá-los à justiça ou fingir que nada está vendo e, assim, avançar em suas próprias ambições. Na delegacia de polícia do centro de Los Angeles, os policiais farão de tudo para manter as ruas seguras e seus interesses pessoais intactos.					
+</info>
+</item>
+ 
+<item>
+<title>The Shield - Acima da Lei 2º Temporada</title>
+<link>magnet:?xt=urn:btih:7BF3E53E3851A9064FA55AAC1EE3607C52CD0F48&amp;dn=The%20Shild%202%c2%ba%20Temporada.AZ&amp;tr=udp%3a%2f%2ftracker.openbit.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f.gresille.org%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.tfile.me%2fannounce&amp;tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2780%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.me%3a2800%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.tfile.me%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2780%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.me%3a2800%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnoxHqHOoP4VLBA8StwZ62xD4Sh.jpg</thumbnail>
+<fanart></fanart>
+<info>>
+
+Sinopse: "The Shield" rompe com a tradicional fórmula de se contar histórias do gênero policial. A série foca na tensão entre um grupo de policiais corruptos, mas efetivos, e um capitão dividido entre levá-los à justiça ou fingir que nada está vendo e, assim, avançar em suas próprias ambições. Na delegacia de polícia do centro de Los Angeles, os policiais farão de tudo para manter as ruas seguras e seus interesses pessoais intactos.					
+</info>
+</item>
+ 
+<item>
+<title>The Shield - Acima da Lei  3º Temporada</title>
+<link>magnet:?xt=urn:btih:73AFC27FFBDD4C5DA63F076F135C94F81395E425&amp;dn=The%20Shild%203%c2%ba%20Temporada.AZ&amp;tr=udp%3a%2f%2ftracker.openbit.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f.gresille.org%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.tfile.me%2fannounce&amp;tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2780%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.me%3a2800%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.tfile.me%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2780%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.me%3a2800%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnoxHqHOoP4VLBA8StwZ62xD4Sh.jpg</thumbnail>
+<fanart></fanart>
+<info>>
+
+Sinopse: "The Shield" rompe com a tradicional fórmula de se contar histórias do gênero policial. A série foca na tensão entre um grupo de policiais corruptos, mas efetivos, e um capitão dividido entre levá-los à justiça ou fingir que nada está vendo e, assim, avançar em suas próprias ambições. Na delegacia de polícia do centro de Los Angeles, os policiais farão de tudo para manter as ruas seguras e seus interesses pessoais intactos.					
+</info>
+</item>
+ 
+<item>
+<title>The Shield - Acima da Lei  4º Temporada</title>
+<link>magnet:?xt=urn:btih:702CD5F1108B5EF601D7E13F9D56B51E239BC757&amp;dn=The%20Shild%204%c2%ba%20Temporada.AZ&amp;tr=udp%3a%2f%2ftracker.openbit.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f.gresille.org%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.tfile.me%2fannounce&amp;tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2780%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.me%3a2800%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.tfile.me%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2780%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.me%3a2800%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnoxHqHOoP4VLBA8StwZ62xD4Sh.jpg</thumbnail>
+<fanart></fanart>
+<info>>
+Sinopse: "The Shield" rompe com a tradicional fórmula de se contar histórias do gênero policial. A série foca na tensão entre um grupo de policiais corruptos, mas efetivos, e um capitão dividido entre levá-los à justiça ou fingir que nada está vendo e, assim, avançar em suas próprias ambições. Na delegacia de polícia do centro de Los Angeles, os policiais farão de tudo para manter as ruas seguras e seus interesses pessoais intactos.					
+</info>
+</item>
+ 
+<item>
+<title>The Shield - Acima da Lei  5º Temporada</title>
+<link>magnet:?xt=urn:btih:CAE3E6C2CAC28756178F15DABFF6B5C7DD3EC8A2&amp;dn=The%20Shild%205%c2%ba%20Temporada.AZ&amp;tr=udp%3a%2f%2ftracker.openbit.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f.gresille.org%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.tfile.me%2fannounce&amp;tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2720%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.tfile.me%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2720%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnoxHqHOoP4VLBA8StwZ62xD4Sh.jpg</thumbnail>
+<fanart></fanart>
+<info>>
+Sinopse: "The Shield" rompe com a tradicional fórmula de se contar histórias do gênero policial. A série foca na tensão entre um grupo de policiais corruptos, mas efetivos, e um capitão dividido entre levá-los à justiça ou fingir que nada está vendo e, assim, avançar em suas próprias ambições. Na delegacia de polícia do centro de Los Angeles, os policiais farão de tudo para manter as ruas seguras e seus interesses pessoais intactos.					
+</info>
+</item>
+ 
+<item>
+<title>The Shield - Acima da Lei  6º Temporada</title>
+<link>magnet:?xt=urn:btih:AF74E4898E9E6768FDA58FE011948B0586565C71&amp;dn=The%20Shild%206%c2%ba%20Temporada.AZ&amp;tr=udp%3a%2f%2ftracker.openbit.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f.gresille.org%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.tfile.me%2fannounce&amp;tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2720%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.tfile.me%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2720%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnoxHqHOoP4VLBA8StwZ62xD4Sh.jpg</thumbnail>
+<fanart></fanart>
+<info>>
+
+Sinopse: "The Shield" rompe com a tradicional fórmula de se contar histórias do gênero policial. A série foca na tensão entre um grupo de policiais corruptos, mas efetivos, e um capitão dividido entre levá-los à justiça ou fingir que nada está vendo e, assim, avançar em suas próprias ambições. Na delegacia de polícia do centro de Los Angeles, os policiais farão de tudo para manter as ruas seguras e seus interesses pessoais intactos.					
+</info>
+</item>
+ 
+<item>
+<title>The Shield - Acima da Lei  7º Temporada</title>
+<link>magnet:?xt=urn:btih:1BA7DB30D42FB4A5B367A1189BC6FD4EB7F87161&amp;dn=The%20Shild%207%c2%ba%20Temporada.AZ&amp;tr=udp%3a%2f%2ftracker.openbit.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f.gresille.org%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.tfile.me%2fannounce&amp;tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2720%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.tfile.me%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2720%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnoxHqHOoP4VLBA8StwZ62xD4Sh.jpg</thumbnail>
+<fanart></fanart>
+<info>>
+
+Sinopse: "The Shield" rompe com a tradicional fórmula de se contar histórias do gênero policial. A série foca na tensão entre um grupo de policiais corruptos, mas efetivos, e um capitão dividido entre levá-los à justiça ou fingir que nada está vendo e, assim, avançar em suas próprias ambições. Na delegacia de polícia do centro de Los Angeles, os policiais farão de tudo para manter as ruas seguras e seus interesses pessoais intactos.					
+</info>
+</item>
+ 
+<item>
+<title>Trailer</title>
+<utube>//www.youtube.com/embed/R7C7sRIgTDU" title="The Shield - Acima da Lei  HD"></iframe>]</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnoxHqHOoP4VLBA8StwZ62xD4Sh.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Arcanjo Renegado</name>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/phgHV1brCV5K5TJaaOlUXculg0g.jpg</thumbnail>
+
+<item>
+<title>Arcanjo Renegado</title>
+<link>magnet:?xt=urn:btih:b710565177b549636e356f78ea836182d8546f33&dn=COMANDO.TO%20-%20Arcanjo%20Renegado%201%c2%aa%20Temporada%20Completa%20%5b720p%5d%20%5bNAC%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/phgHV1brCV5K5TJaaOlUXculg0g.jpg</thumbnail>
+<fanart></fanart>
+<info>Mikhael é o líder da principal equipe do BOPE. Quando um dos seus amigos é ferido em uma operação, ele busca vingança e acaba em conflito com a alta cúpula política do estado.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=iEzf3p6F0wY</trailer>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/phgHV1brCV5K5TJaaOlUXculg0g.jpg</thumbnail>
+<fanart></fanart>
+<info>Mikhael é o líder da principal equipe do BOPE. Quando um dos seus amigos é ferido em uma operação, ele busca vingança e acaba em conflito com a alta cúpula política do estado.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>A Lenda da Befana</name>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/fWr6Cs4Bzolo0scGOoRThKuD084.jpg</thumbnail>
+
+<item>
+<title>A Lenda da Befana</title>
+<link>magnet:?xt=urn:btih:8723b152d0cc508f53d921873e47968e2804c6ad&dn=COMANDO.TO%20-%20A%20Lenda%20da%20Befana%202018%20%5b1080p%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/fWr6Cs4Bzolo0scGOoRThKuD084.jpg</thumbnail>
+<fanart></fanart>
+<info>Paola é uma professora amada na escola onde trabalha, e que esconde um grande segredo: à noite ela é a Befana, a bruxa natalina que entrega os presentes às boas crianças. Quando ela é capturada por um misterioso vilão, seis de seus alunos suspeitam de sua verdadeira identidade e saem em busca de salvar sua professora e o natal.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kKdJWk5sk_o</trailer>
+<thumbnail>https://image.tmdb.org/t/p/w185_and_h278_bestv2/fWr6Cs4Bzolo0scGOoRThKuD084.jpg</thumbnail>
+<fanart></fanart>
+<info>Paola é uma professora amada na escola onde trabalha, e que esconde um grande segredo: à noite ela é a Befana, a bruxa natalina que entrega os presentes às boas crianças. Quando ela é capturada por um misterioso vilão, seis de seus alunos suspeitam de sua verdadeira identidade e saem em busca de salvar sua professora e o natal.</info>
+</item>
+</channel>
+
+
+<channels></channels>
+<channel>
+<name>Não Fale com Estranhos</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWGGUIAdlvkvEKhtsdioO8XdDyv.jpg</thumbnail>
+1ª TEMPORADA COMPLETA DOWNLOAD TORRENT DUBLADO DUAL ÁUDIO MKV 1080P
+
+<item>
+<title>Não Fale com Estranhos - 1ª Temporada Completa Torrent Dual Audio 1080</title>
+<link>magnet:?xt=urn:btih:c9bb238e724e103ec55e7d71057c9c7874fe616d&amp;dn=LAPUMiA.Org%20-%20N%c3%a3o%20Fale%20com%20Estranhos%202020%20-%20S01%20(1080p)&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&amp;tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWGGUIAdlvkvEKhtsdioO8XdDyv.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Sinopse: Quando uma mulher desconhecida faz uma declaração bombástica sobre sua esposa, Adam Price se vê envolto em um mistério e tenta desesperadamente encontrar respostas.					
+</info>
+</item>
+ 
+<item>
+<title>Não Fale com Estranhos - 1ª Temporada Completa Torrent 720p Legendado</title>
+<link>magnet:?xt=urn:btih:a42f41e9ee3af391404b177796119b64b4f35ea4&amp;dn=The.Stranger.2020.S01.720p.NF.WEBRip.DDP5.1.x264-NTG%5Brartv%5D&amp;tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.me%3A2730&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2790" 
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWGGUIAdlvkvEKhtsdioO8XdDyv.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Sinopse: Quando uma mulher desconhecida faz uma declaração bombástica sobre sua esposa, Adam Price se vê envolto em um mistério e tenta desesperadamente encontrar respostas.					
+</info>
+</item>
+
+<item>
+<title>Não Fale com Estranhos - 1ª Temporada Completa Torrent 1080p Legendado</title>
+<link>magnet:?xt=urn:btih:c93732d30dc114297cec76d039ced514543411b0&amp;dn=The.Stranger.2020.S01.1080p.NF.WEBRip.DDP5.1.x264-NTG%5Brartv%5D&amp;tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.me%3A2760&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2720" 
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWGGUIAdlvkvEKhtsdioO8XdDyv.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Sinopse: Quando uma mulher desconhecida faz uma declaração bombástica sobre sua esposa, Adam Price se vê envolto em um mistério e tenta desesperadamente encontrar respostas.					
+</info>
+</item>
+
+
+<item>
+<title>Trailer</title>
+<utube>tPXx3_NlAKo" title="Trailer Não Fale com Estranhos - 1ª Temporada Completa"></iframe>]</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWGGUIAdlvkvEKhtsdioO8XdDyv.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Reunião de Família</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rccPbjzJcdFp46aYZm4z6XrpqkN.jpg</thumbnail>
+1ª TEMPORADA COMPLETA DOWNLOAD TORRENT DUBLADA DUAL ÁUDIO MKV 1080P
+
+<item>
+<title>Reunião de Família - 1ª Temporada Completa Torrent 1080</title>
+<link>magnet:?xt=urn:btih:cb27ac452ebd0f05014f6589df5bcf9ab673b81c&amp;dn=LAPUMiA.Org%20-%20Reuni%c3%a3o%20de%20Fam%c3%adlia%202020%20-%20S01%20(1080p)&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&amp;tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rccPbjzJcdFp46aYZm4z6XrpqkN.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Sinopse: Cocoa McKellan é uma mãe divertida que vive em Seattle com o marido (um ex-astro de futebol americano) e suas quatro crianças. Tudo muda quando eles decidem viajar para a grande reunião da família McKellan, em uma cidadezinha na Georgia.					
+</info>
+</item>
+ 
+<item>
+<title>Reunião de Família - 1ª Temporada Legendado</title>
+<link>magnet:?xt=urn:btih:544c2a95ab1d655553e6c415edf0d1c09f251ada&amp;dn=Family.Reunion.S01.COMPLETE.WEBRip.x264-ION10&amp;tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.me%3A2730&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2770" 
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rccPbjzJcdFp46aYZm4z6XrpqkN.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Sinopse: Cocoa McKellan é uma mãe divertida que vive em Seattle com o marido (um ex-astro de futebol americano) e suas quatro crianças. Tudo muda quando eles decidem viajar para a grande reunião da família McKellan, em uma cidadezinha na Georgia.					
+</info>
+</item>
+
+<item>
+<title>Reunião de Família - 1ª Temporada Legendado Torrent 1080p </title>
+<link>magnet:?xt=urn:btih:64d322a6e7c4e77f77ee603d8eb6ef013120ab07&amp;dn=Family.Reunion.S01.COMPLETE.1080p.NF.WEBRip.DDP5.1.x264-MIXED%5Brartv%5D&amp;tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.me%3A2770&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2720" 
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rccPbjzJcdFp46aYZm4z6XrpqkN.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Sinopse: Cocoa McKellan é uma mãe divertida que vive em Seattle com o marido (um ex-astro de futebol americano) e suas quatro crianças. Tudo muda quando eles decidem viajar para a grande reunião da família McKellan, em uma cidadezinha na Georgia.					
+</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<utube>u96GpBEZ1xs" title="Trailer Reunião de Família - 1ª Temporada Completa"></iframe>]</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rccPbjzJcdFp46aYZm4z6XrpqkN.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+
+
+<channels></channels>
+<channel>
+<name>The Capture</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3JDXPHPxX5ugSNLy6yNEpSSP4Qf.jpg</thumbnail>
+
+
+<item>
+<title>1ª Temporada completa  dublada dual áudio  1080p</title>
+<link>magnet:?xt=urn:btih:077569023dd65260e9e0608f63e447d72aaef11a&amp;dn=LAPUMiA.Org%20-%20The%20Capture%202020%20-%20S01%20(1080p)&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fbt.ca</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3JDXPHPxX5ugSNLy6yNEpSSP4Qf.jpg</thumbnail>
+<fanart></fanart>
+<info> Um homem inocente é falsamente acusado, mas uma prova em vídeo torna seu caso mais complicado do que parece. - The Capture é um suspense que envolve vigilância, desinformação e fake news. Ambientada em Londres, uma das cidades mais vigiadas do mundo, a série questiona se as imagens das câmeras de segurança são sempre confiáveis. /strong>.</p></info>
+</item>
+
+
+
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=YSSmitzvmUU</trailer>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3JDXPHPxX5ugSNLy6yNEpSSP4Qf.jpg</thumbnail>
+<fanart></fanart>
+<info> Um homem inocente é falsamente acusado, mas uma prova em vídeo torna seu caso mais complicado do que parece. - The Capture é um suspense que envolve vigilância, desinformação e fake news. Ambientada em Londres, uma das cidades mais vigiadas do mundo, a série questiona se as imagens das câmeras de segurança são sempre confiáveis. /strong>.</p></info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Filhos da Pátria</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRfgNJProIuPDY2wbVTiizmprnn.jpg</thumbnail>
+
+
+<item>
+<title>1ª Temporada completa  nacional  720p</title>
+<link>magnet:?xt=urn:btih:3F25E4EE5C0F02B30588894BFEAF295800016700&amp;dn=Filhos%20da%20P%c3%a1tria%20%282017%29%20%5b720p%5d%20-%20LAPUMiAFiLMES.COM&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.trackerfix.com%3a82%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.trackerfix.com%3a82%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&amp;tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRfgNJProIuPDY2wbVTiizmprnn.jpg</thumbnail>
+<fanart></fanart>
+<info> Série da Rede Globo que será ambientada nos dias seguintes à Independência do Brasil, na primeira metade do século XIX. A trama vai satirizar a sociedade e a política da época. /strong>.</p></info>
+</item>
+
+
+
+
+<item>
+<title>Trailer 1º Temporada</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=yyhoTTQD9s8</trailer>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRfgNJProIuPDY2wbVTiizmprnn.jpg</thumbnail>
+<fanart></fanart>
+<info> Série da Rede Globo que será ambientada nos dias seguintes à Independência do Brasil, na primeira metade do século XIX. A trama vai satirizar a sociedade e a política da época. /strong>.</p></info>
+</item>
+</channel>
+
+
+
+<item>
+<title>2ª Temporada completa  nacional  720p</title>
+<link>magnet:?xt=urn:btih:355fa44aa7f812ed62075909452834245dcaafab&amp;dn=LAPUMiA.Org%20-%20Filhos%20da%20P%c3%a1tria%202019%20-%20S02%20(720p)&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fbt.ca</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRfgNJProIuPDY2wbVTiizmprnn.jpg</thumbnail>
+<fanart></fanart>
+<info> Segunda temporada da série da Rede Globo que será ambientada nos dias seguintes à Independência do Brasil, na primeira metade do século XIX. A trama vai satirizar a sociedade e a política da época. /strong>.</p></info>
+</item>
+
+
+<item>
+<title>Trailer 2º Temporada</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=98lkx34a8oE</trailer>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRfgNJProIuPDY2wbVTiizmprnn.jpg</thumbnail>
+<fanart></fanart>
+<info> Segunda temporada da série da Rede Globo que será ambientada nos dias seguintes à Independência do Brasil, na primeira metade do século XIX. A trama vai satirizar a sociedade e a política da época. /strong>.</p></info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Vítimas Digitais </name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYv932T3fBCeOZnLZZWrJVRyoBT.jpg</thumbnail>
+
+
+<item>
+<title>vítimas digitais  nacional  1080p</title>
+<link>magnet:?xt=urn:btih:304A8016EC816D0088E63B830F5C866801832A60&amp;dn=LAPUMiA.Org%20-%20V%c3%adtimas%20Digitais%202019%20-%20S01%20%281080p%29&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYv932T3fBCeOZnLZZWrJVRyoBT.jpg</thumbnail>
+<fanart></fanart>
+<info> Vítimas Digitais é uma série que mergulha no universo da violência online. Ancorados em histórias reais e brasileiras, os episódios trazem a devastação causada pela quebra de confiança e privacidade. /strong>.</p></info>
+</item>
+
+
+
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BO6It_9N3To</trailer>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYv932T3fBCeOZnLZZWrJVRyoBT.jpg</thumbnail>
+<fanart></fanart>
+<info> Vítimas Digitais é uma série que mergulha no universo da violência online. Ancorados em histórias reais e brasileiras, os episódios trazem a devastação causada pela quebra de confiança e privacidade. /strong>.</p></info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Chamas do Destino</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zAJ8MDAdmxMntcLYpvvfR4UkgDp.jpg</thumbnail>
+
+
+<item>
+<title>1ª Temporada completa  dublada dual áudio  720p</title>
+<link>magnet:?xt=urn:btih:4A105CE1727ED5B018698AB9EE4B1904CA3C76FF&amp;dn=LAPUMiA.Org%20-%20Chamas%20do%20Destino%202019%20-%20S01%20%28720p%29&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zAJ8MDAdmxMntcLYpvvfR4UkgDp.jpg</thumbnail>
+<fanart></fanart>
+<info> Paris, 1897. Em meados de "La Belle Epoque", Paris é uma cidade fervilhante e toda a alta sociedade está se apoiando na venda do Charity Bazaar, o evento anual que acontece em um grande local construído inteiramente de madeira. De repente, um incêndio se espalha por todo o prédio e acaba matando mais de 130 pessoas, a maioria mulheres. Uma jovem aristocrata ingênua, Alice de Jeansin (Camille Lou), descobre as duras realidades de seu novo status social. /strong>.</p></info>
+</item>
+
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=NXhdanQE06w</trailer>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zAJ8MDAdmxMntcLYpvvfR4UkgDp.jpg</thumbnail>
+<fanart></fanart>
+<info> Paris, 1897. Em meados de "La Belle Epoque", Paris é uma cidade fervilhante e toda a alta sociedade está se apoiando na venda do Charity Bazaar, o evento anual que acontece em um grande local construído inteiramente de madeira. De repente, um incêndio se espalha por todo o prédio e acaba matando mais de 130 pessoas, a maioria mulheres. Uma jovem aristocrata ingênua, Alice de Jeansin (Camille Lou), descobre as duras realidades de seu novo status social. /strong>.</p></info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Você - You</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wViPPD3tRj5Aif6WsZo0T3JtJsR.jpg</thumbnail>
+
+
+<item>
+<title>1ª Temporada completa  Dublado dual áudio  720p</title>
+<link>magnet:?xt=urn:btih:GD7GYOH3TNAGKMU5CFAO6WWR2JBVBAL7&amp;dn=Voc%C3%AA%201%C2%AA%20Temporada%20Completa%202018%20%5BWEB-DL%5D%20%5B720p%5D%20%5BDUAL%5D" </link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wViPPD3tRj5Aif6WsZo0T3JtJsR.jpg</thumbnail>
+<fanart></fanart>
+<info> Obcecado por uma aspirante a escritora, um homem manipulador e calculista começa a remover estrategicamente todos os obstáculos em seu caminho para conquistá-la. /strong>.</p></info>
+</item>
+
+
+
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WoV4O0Jfm8U</trailer>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wViPPD3tRj5Aif6WsZo0T3JtJsR.jpg</thumbnail>
+<fanart></fanart>
+<info> Obcecado por uma aspirante a escritora, um homem manipulador e calculista começa a remover estrategicamente todos os obstáculos em seu caminho para conquistá-la. /strong>.</p></info>
+</item>
+</channel>
+
+
+<channels></channels>
+<channel>
+<name>The Witcher</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2oBYUKgjdy0UeIP88kkdyjw8z6.jpg</thumbnail>
+
+
+<item>
+<title>1ª Temporada completa  Dublado dual áudio  720p</title>
+<link>magnet:?xt=urn:btih:948C263FB99990D4C587D40B33E2B99831DDA0A7&amp;dn=The%20Witcher%20-%201%c2%aa%20Temporada%20Completa%20%28720p%20-%20WEB-DL%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2oBYUKgjdy0UeIP88kkdyjw8z6.jpg</thumbnail>
+<fanart></fanart>
+<info> Geralt of Rivia (Henry Cavill), um solitário caçador de monstros, luta para achar seu lugar num mundo onde pessoas se provam mais perversas do que criaturas. Mas quando o destino o leva à uma poderosa feiticeira (Anya Chalotra) e uma jovem princesa (Freya Allan) com um segredo perigoso, os três precisam aprender a navegar pelo Continente juntos. /strong>.</p></info>
+</item>
+
+
+<item>
+<title>1ª Temporada completa  Dublado dual áudio  1080p</title>
+<link>magnet:?xt=urn:btih:8F42B9EE5FA466AF782C49F7AD5A59756FAB38CE&amp;dn=The%20Witcher%20-%201%c2%aa%20Temporada%20Completa%20%281080p%20-%20WEB-DL%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.to%3a2740%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2oBYUKgjdy0UeIP88kkdyjw8z6.jpg</thumbnail>
+<fanart></fanart>
+<info> Geralt of Rivia (Henry Cavill), um solitário caçador de monstros, luta para achar seu lugar num mundo onde pessoas se provam mais perversas do que criaturas. Mas quando o destino o leva à uma poderosa feiticeira (Anya Chalotra) e uma jovem princesa (Freya Allan) com um segredo perigoso, os três precisam aprender a navegar pelo Continente juntos. /strong>.</p></info>
+</item>
+
+
+
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bI95OWYv9cc</trailer>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2oBYUKgjdy0UeIP88kkdyjw8z6.jpg</thumbnail>
+<fanart></fanart>
+<info> Geralt of Rivia (Henry Cavill), um solitário caçador de monstros, luta para achar seu lugar num mundo onde pessoas se provam mais perversas do que criaturas. Mas quando o destino o leva à uma poderosa feiticeira (Anya Chalotra) e uma jovem princesa (Freya Allan) com um segredo perigoso, os três precisam aprender a navegar pelo Continente juntos. /strong>.</p></info>
+</item>
+</channel>
+
+
+<channels></channels>
+<channel>
+<name>Messiah</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/psem2jK9GGC0g7dcjb4N5SCYb1u.jpg</thumbnail>
+
+
+<item>
+<title>1ª Temporada completa  dublada dual áudio  1080p</title>
+<link>magnet:?xt=urn:btih:6b376b5959a3a45d42a35052dfd9e22a97f652ac&amp;dn=LAPUMiA.Org%20-%20Messiah%202020%20-%20S01%20(1080p)&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fbt.ca</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/psem2jK9GGC0g7dcjb4N5SCYb1u.jpg</thumbnail>
+<fanart></fanart>
+<info> Um homem no Oriente Médio parece capaz de fazer milagres e divide as opiniões do mundo neste drama de suspense: será que ele é o Messias ou um farsante? /strong>.</p></info>
+</item>
+
+
+<item>
+<title>1ª Temporada  Legendada  720p</title>
+<link>magnet:?xt=urn:btih:20c5e170e3cc17e804a72f2a9a4340aed5b7e610&amp;dn=Messiah.2020.S01.720p.NF.WEBRip.DDP5.1.Atmos.x264-TEPES%5Brartv%5D&amp;tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.me%3A2770&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2710" </link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/psem2jK9GGC0g7dcjb4N5SCYb1u.jpg</thumbnail>
+<fanart></fanart>
+<info> Um homem no Oriente Médio parece capaz de fazer milagres e divide as opiniões do mundo neste drama de suspense: será que ele é o Messias ou um farsante? /strong>.</p></info>
+</item>
+
+
+<item>
+<title>1ª Temporada  Legendada  1080p</title>
+<link>magnet:?xt=urn:btih:a891ef02e275e25ad89344e9bc993f75502f6a48&amp;dn=Messiah.2020.S01.1080p.NF.WEBRip.DDP5.1.Atmos.x264-TEPES%5Brartv%5D&amp;tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.me%3A2720&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2750" </link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/psem2jK9GGC0g7dcjb4N5SCYb1u.jpg</thumbnail>
+<fanart></fanart>
+<info> Um homem no Oriente Médio parece capaz de fazer milagres e divide as opiniões do mundo neste drama de suspense: será que ele é o Messias ou um farsante? /strong>.</p></info>
+</item>
+
+
+
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JWrz0f04P9o</trailer>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/psem2jK9GGC0g7dcjb4N5SCYb1u.jpg</thumbnail>
+<fanart></fanart>
+<info> Um homem no Oriente Médio parece capaz de fazer milagres e divide as opiniões do mundo neste drama de suspense: será que ele é o Messias ou um farsante? /strong>.</p></info>
+</item>
+</channel>
+
+
+<channels></channels>
+<channel>
+<name>Drácula</name>
+<thumbnail>https://hidratorrent.com/capas/dracula-minisserie-completa-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+
+<item>
+<title>drácula  Dublado dual áudio  720p</title>
+<link>magnet:?xt=urn:btih:46c2b50d80495398b3c8a3c5aac66adb8e7b1ed2&amp;dn=Dracula.S01.720p.WEB-DL.DD5.1.x264-DUAL&amp;tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.me%3A2730&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2710" </link>
+<thumbnail>https://hidratorrent.com/capas/dracula-minisserie-completa-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> Na Transilvânia, em 1897, o conde que bebe sangue está traçando seus planos contra a Londres vitoriana. /strong>.</p></info>
+</item>
+
+
+<item>
+<title>drácula  Dublado dual áudio  1080p</title>
+<link>magnet:?xt=urn:btih:711db47fa3729712a64e73b0a8093288aec2a8e8&amp;dn=Dracula.S01.1080p.WEB-DL.DD5.1.x264-DUAL&amp;tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.me%3A2730&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2710" </link>
+<thumbnail>https://hidratorrent.com/capas/dracula-minisserie-completa-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> Na Transilvânia, em 1897, o conde que bebe sangue está traçando seus planos contra a Londres vitoriana. /strong>.</p></info>
+</item>
+
+
+<item>
+<title>drácula  Legendado  720p</title>
+<link>magnet:?xt=urn:btih:2f16f6a270bc7f5ca91c94cf9058ac513b95f4ec&amp;dn=Dracula.2020.S01.720p.NF.WEBRip.DDP5.1.Atmos.x264-NTG%5Brartv%5D&amp;tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.me%3A2730&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2710" </link>
+<thumbnail>https://hidratorrent.com/capas/dracula-minisserie-completa-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> Na Transilvânia, em 1897, o conde que bebe sangue está traçando seus planos contra a Londres vitoriana. /strong>.</p></info>
+</item>
+
+
+<item>
+<title>drácula  Legendado  1080p</title>
+<link>magnet:?xt=urn:btih:de092957a176aba1fa2c247afd71e751fe3d9cb1&amp;dn=Dracula.2020.S01.1080p.NF.WEBRip.DDP5.1.Atmos.x264-NTG%5Brartv%5D&amp;tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.me%3A2760&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2720" </link>
+<thumbnail>https://hidratorrent.com/capas/dracula-minisserie-completa-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> Na Transilvânia, em 1897, o conde que bebe sangue está traçando seus planos contra a Londres vitoriana. /strong>.</p></info>
+</item>
+
+
+
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=VNoRQYs7CB0</trailer>
+<thumbnail>https://hidratorrent.com/capas/dracula-minisserie-completa-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> Na Transilvânia, em 1897, o conde que bebe sangue está traçando seus planos contra a Londres vitoriana. /strong>.</p></info>
+</item>
+</channel>
+
+
+<channels></channels>
+<channel>
+<name>The Feed </name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hf90ASeFeKVwPiRF8jDRPDysHIu.jpg</thumbnail>
+
+
+<item>
+<title>1º Temporada Dual Audio 720p</title>
+<link>magnet:?xt=urn:btih:8ed1329720fe26e8a3b918d5b61260847b6e353f&amp;dn=LAPUMiA.Org%20-%20The%20Feed%20S01%202019%20(720p)&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fbt.ca</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hf90ASeFeKVwPiRF8jDRPDysHIu.jpg</thumbnail>
+<fanart></fanart>
+<info> Situada em Londres em um futuro próximo, a história se passa ao redor da família de Lawrence Hatfield, o criador da tecnologia de The Feed. Difundido na sociedade, o aparato é implantado próximo ao cérebro das pessoas, permitindo-lhes compartilhar informações, emoções e memórias instantâneas.A esposa de Hatfield, Meredith, é a CEO da poderosa companhia que comanda o The Feed, enquanto seu filho possui uma relação hesitante com o pai e é casado com uma americana que questiona os perigos de as pessoas estarem constantemente online. A partir do momento em que usuários começam a cometer assassinatos, os membros da família passam a se afastar enquanto tentam controlar as consequências desastrosas da tecnologia. /strong>.</p></info>
+</item>
+
+
+<item>
+<title>1ª Temporada  Legendada 720p</title>
+<link>magnet:?xt=urn:btih:e0e881f1b2fc06c4f70d02f8fdce6d5e836a6194&amp;dn=The.Feed.2019.S01.720p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D&amp;tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.me%3A2760&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2710" </link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hf90ASeFeKVwPiRF8jDRPDysHIu.jpg</thumbnail>
+<fanart></fanart>
+<info> Situada em Londres em um futuro próximo, a história se passa ao redor da família de Lawrence Hatfield, o criador da tecnologia de The Feed. Difundido na sociedade, o aparato é implantado próximo ao cérebro das pessoas, permitindo-lhes compartilhar informações, emoções e memórias instantâneas.A esposa de Hatfield, Meredith, é a CEO da poderosa companhia que comanda o The Feed, enquanto seu filho possui uma relação hesitante com o pai e é casado com uma americana que questiona os perigos de as pessoas estarem constantemente online. A partir do momento em que usuários começam a cometer assassinatos, os membros da família passam a se afastar enquanto tentam controlar as consequências desastrosas da tecnologia. /strong>.</p></info>
+</item>
+
+
+<item>
+<title>1ª Temporada  legendado 1080p</title>
+<link>magnet:?xt=urn:btih:39045b1e597675da3fe5095f74d243c88b039a4e&amp;dn=The.Feed.2019.S01.1080p.AMZN.WEBRip.DDP5.1.x264-NTb%5Brartv%5D&amp;tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.me%3A2780&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2740" </link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hf90ASeFeKVwPiRF8jDRPDysHIu.jpg</thumbnail>
+<fanart></fanart>
+<info> Situada em Londres em um futuro próximo, a história se passa ao redor da família de Lawrence Hatfield, o criador da tecnologia de The Feed. Difundido na sociedade, o aparato é implantado próximo ao cérebro das pessoas, permitindo-lhes compartilhar informações, emoções e memórias instantâneas.A esposa de Hatfield, Meredith, é a CEO da poderosa companhia que comanda o The Feed, enquanto seu filho possui uma relação hesitante com o pai e é casado com uma americana que questiona os perigos de as pessoas estarem constantemente online. A partir do momento em que usuários começam a cometer assassinatos, os membros da família passam a se afastar enquanto tentam controlar as consequências desastrosas da tecnologia. /strong>.</p></info>
+</item>
+
+
+
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JtCIg5dy9DE</trailer>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hf90ASeFeKVwPiRF8jDRPDysHIu.jpg</thumbnail>
+<fanart></fanart>
+<info> Situada em Londres em um futuro próximo, a história se passa ao redor da família de Lawrence Hatfield, o criador da tecnologia de The Feed. Difundido na sociedade, o aparato é implantado próximo ao cérebro das pessoas, permitindo-lhes compartilhar informações, emoções e memórias instantâneas.A esposa de Hatfield, Meredith, é a CEO da poderosa companhia que comanda o The Feed, enquanto seu filho possui uma relação hesitante com o pai e é casado com uma americana que questiona os perigos de as pessoas estarem constantemente online. A partir do momento em que usuários começam a cometer assassinatos, os membros da família passam a se afastar enquanto tentam controlar as consequências desastrosas da tecnologia. /strong>.</p></info>
+</item>
+</channel>
+
+
+
+<channels></channels>
+<channel>
+<name>O Assassino Confesso</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jc3lsCDtkURLo5ddQngLFc4yCZj.jpg</thumbnail>
+
+
+<item>
+<title>1ª Temporada completa  Dual Audio 720p</title>
+<link>magnet:?xt=urn:btih:5FC0A69E60C6EDB10C853BDEA8E38B4CC77699D1&amp;dn=O%20Assassino%20Confesso%20-%201%C2%AA%20Temporada%20Completa%20%28720p%20-%20WEB-DL%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jc3lsCDtkURLo5ddQngLFc4yCZj.jpg</thumbnail>
+<fanart></fanart>
+<info> Henry Lee Lucas ficou famoso depois de confessar centenas de assassinatos. Esta série documental mostra a verdade e suas terríveis consequências. /strong>.</p></info>
+</item>
+
+
+
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mWPbC9Fp-yk</trailer>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jc3lsCDtkURLo5ddQngLFc4yCZj.jpg</thumbnail>
+<fanart></fanart>
+<info> Henry Lee Lucas ficou famoso depois de confessar centenas de assassinatos. Esta série documental mostra a verdade e suas terríveis consequências. /strong>.</p></info>
+</item>
+</channel>
