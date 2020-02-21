@@ -834,3 +834,339 @@ Sinopse: Cocoa McKellan é uma mãe divertida que vive em Seattle com o marido (
 <info> Situado na década de 1930, uma época em que a Grã-Bretanha está perigosamente dividida e a suspeita e o ódio estão em ascensão, a história mostra Poirot (John Malkovich) enfrentando um serial killer conhecido apenas como A.B.C. À medida que a contagem de corpos aumenta, a única pista é uma cópia do The ABC Railway Guide em cada cena do crime. As investigações de Poirot são continuamente frustradas por um inimigo determinado a ser mais esperto do que ele. /strong>.</p></info>
 </item>
 </channel>
+
+<channels></channels>
+<channel>
+<name>Narcos na Vida Real </name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7a22oD3J1XNXDI6q1O1TPLiFmD.jpg</thumbnail>
+
+
+<item>
+<title>1º Temporada Completa</title>
+<link>magnet:?xt=urn:btih:3449F9214340044165E2E0B56488EC3BFCD9393A&amp;dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Narcos%20Na%20Vida%20Real%201%c2%aa%20Temporada%20Completa%202018%20%5bWEB-DL%5d%20%5b720p%5d%20%5bDUAL%5d&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fbt.ca</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7a22oD3J1XNXDI6q1O1TPLiFmD.jpg</thumbnail>
+<fanart></fanart>
+<info> Jason Fox, um ex-membro das Forças Especiais britânicas, entrevista traficantes e integrantes de cartéis, expondo a guerra contra as drogas de uma perspectiva incomum. - Série documental original Netflix.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=el_0PIBJJLo</trailer>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7a22oD3J1XNXDI6q1O1TPLiFmD.jpg</thumbnail>
+<fanart></fanart>
+<info> Jason Fox, um ex-membro das Forças Especiais britânicas, entrevista traficantes e integrantes de cartéis, expondo a guerra contra as drogas de uma perspectiva incomum. - Série documental original Netflix.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Go! Viva do seu Jeito</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmTgIJhMT5Hc7pzmRUQmRNa09GA.jpg</thumbnail>
+
+
+<item>
+<title>1ª temporada</title>
+<link>magnet:?xt=urn:btih:f507869551627616eb9e9ac356a327b1b1809bbc&amp;dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Go!%20Viva%20Do%20Seu%20Jeito%201%c2%aa%20Temporada%20Completa%202019%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d" </link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmTgIJhMT5Hc7pzmRUQmRNa09GA.jpg</thumbnail>
+<fanart></fanart>
+<info> Mía, uma adolescente que vice com a madrinha, recebe uma bolsa de estudos para a Saint Mary's Academy, um colégio de elite muito reconhecido por seu departamento de arte. Agora, a menina precisa se adaptar ao novo ambiente, enquanto segue o sonho de se tornar uma artista.</info>
+</item>
+
+
+<item>
+<title>2ª temporada</title>
+<link>magnet:?xt=urn:btih:b5a5b9fc9fbae1ea8319ceb4f03f7e9948b3eb2b&amp;&amp;dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Go!%20Viva%20do%20Seu%20Jeito%202%c2%aa%20Temporada%20Completa%20%5b1080p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&amp;&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;&amp;tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;&amp;tr=http%3a%2f%2fbt.ca</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmTgIJhMT5Hc7pzmRUQmRNa09GA.jpg</thumbnail>
+<fanart></fanart>
+<info> Mía, uma adolescente que vice com a madrinha, recebe uma bolsa de estudos para a Saint Mary's Academy, um colégio de elite muito reconhecido por seu departamento de arte. Agora, a menina precisa se adaptar ao novo ambiente, enquanto segue o sonho de se tornar uma artista.</info>
+</item>
+
+
+
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=91WQNnsk9yo</trailer>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmTgIJhMT5Hc7pzmRUQmRNa09GA.jpg</thumbnail>
+<fanart></fanart>
+<info> Mía, uma adolescente que vice com a madrinha, recebe uma bolsa de estudos para a Saint Mary's Academy, um colégio de elite muito reconhecido por seu departamento de arte. Agora, a menina precisa se adaptar ao novo ambiente, enquanto segue o sonho de se tornar uma artista.</info>
+</item>
+</channel>
+
+
+<channels></channels>
+<channel>
+<name>See</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3JsScc7mQCfc3e5e5rXwu7xVVP.jpg</thumbnail>
+
+
+<item>
+<title>01º e 02º episódio  dublado dual áudio 1º Temporada</title>
+<link>magnet:?xt=urn:btih:50ba5e7d0dfd1ab72052fab4b8941b120ded6066&amp;dn=See%202019%20-%20S01E01-02%20(720p)%20LAPUMiA&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.trackerfix.com%3a83%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&amp;tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3JsScc7mQCfc3e5e5rXwu7xVVP.jpg</thumbnail>
+<fanart></fanart>
+<info> Num futuro distante, a raça humana perdeu o sentido da visão e a sociedade precisou se adaptar para interagir, construir, caçar e sobreviver. Tudo muda quando dois gêmeos com visão nascem. /strong>.</p></info>
+</item>
+
+
+<item>
+<title>03º episódio  dublado dual áudio 1º Temporada</title>
+<link>magnet:?xt=urn:btih:823632515f7b7922c5a0e178521d847df7e409bb&amp;dn=See%202019%20-%20S01E3%20REPACK%20V2%20(720p)%20LAPUMiA&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.trackerfix.com%3a83%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&amp;tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3JsScc7mQCfc3e5e5rXwu7xVVP.jpg</thumbnail>
+<fanart></fanart>
+<info> Num futuro distante, a raça humana perdeu o sentido da visão e a sociedade precisou se adaptar para interagir, construir, caçar e sobreviver. Tudo muda quando dois gêmeos com visão nascem. /strong>.</p></info>
+</item>
+
+
+<item>
+<title>04º episódio  dublado dual áudio 1º Temporada</title>
+<link>magnet:?xt=urn:btih:7bef0e59e89f80672a9f803566887d015e5de391&amp;dn=See%202019%20-%20S01E04%20(720p)%20LAPUMiA&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.trackerfix.com%3a83%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&amp;tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3JsScc7mQCfc3e5e5rXwu7xVVP.jpg</thumbnail>
+<fanart></fanart>
+<info> Num futuro distante, a raça humana perdeu o sentido da visão e a sociedade precisou se adaptar para interagir, construir, caçar e sobreviver. Tudo muda quando dois gêmeos com visão nascem. /strong>.</p></info>
+</item>
+
+
+<item>
+<title>05º episódio  dublado dual áudio 1º Temporada</title>
+<link>magnet:?xt=urn:btih:ef808c8819a3bf2bdf8bb0eb4456e7d51c58f4aa&amp;dn=See%202019%20-%20S01E05%20(720p)%20LAPUMiA&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.trackerfix.com%3a83%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&amp;tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3JsScc7mQCfc3e5e5rXwu7xVVP.jpg</thumbnail>
+<fanart></fanart>
+<info> Num futuro distante, a raça humana perdeu o sentido da visão e a sociedade precisou se adaptar para interagir, construir, caçar e sobreviver. Tudo muda quando dois gêmeos com visão nascem. /strong>.</p></info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=IFTPl7E2Mk4</trailer>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3JsScc7mQCfc3e5e5rXwu7xVVP.jpg</thumbnail>
+<fanart></fanart>
+<info> Num futuro distante, a raça humana perdeu o sentido da visão e a sociedade precisou se adaptar para interagir, construir, caçar e sobreviver. Tudo muda quando dois gêmeos com visão nascem. /strong>.</p></info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Uma Noite de Crime</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cvhDZ5kk2fjDApl9aNaf0AiZlV.jpg</thumbnail>
+
+
+<item>
+<title>1º Temporada</title>
+<link>magnet:?xt=urn:btih:3F6B2634160D3EBF61B9759CDB8B4BFBDD96FCD5&dn=%7bWWW.BLUDV.TV%7d%20Uma%20Noite%20de%20Crime%202018%201%c2%aa%20Temporada%20Completa%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cvhDZ5kk2fjDApl9aNaf0AiZlV.jpg</thumbnail>
+<fanart></fanart>
+<info> A série Uma Noite de Crime (The Purge) dublada é baseada nos filmes de mesmo nome. Um grupo de personagens com vidas distantes e diferentes se cruzam durante a violenta noite do Expurgo. A produção tem 10 episódios e é inspirada na franquia do cinema, que já está com o quarto longa pronto para estrear. Os roteiros e produção executiva são de James DeMonaco e liderado por Jason Blum. Michael Bay, Brad Fuller e Andrew Form também são produtores. Thomas Kelly é o showrunner. /strong>.</p></info>
+</item>
+
+
+<item>
+<title>2º Temporada [Em Breve]</title>
+<link>ignore-me</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cvhDZ5kk2fjDApl9aNaf0AiZlV.jpg</thumbnail>
+<fanart></fanart>
+<info> A série Uma Noite de Crime (The Purge) dublada é baseada nos filmes de mesmo nome. Um grupo de personagens com vidas distantes e diferentes se cruzam durante a violenta noite do Expurgo. A produção tem 10 episódios e é inspirada na franquia do cinema, que já está com o quarto longa pronto para estrear. Os roteiros e produção executiva são de James DeMonaco e liderado por Jason Blum. Michael Bay, Brad Fuller e Andrew Form também são produtores. Thomas Kelly é o showrunner. /strong>.</p></info>
+</item>
+
+
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=tSrBTW-4_0o</trailer>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cvhDZ5kk2fjDApl9aNaf0AiZlV.jpg</thumbnail>
+<fanart></fanart>
+<info> A série Uma Noite de Crime (The Purge) dublada é baseada nos filmes de mesmo nome. Um grupo de personagens com vidas distantes e diferentes se cruzam durante a violenta noite do Expurgo. A produção tem 10 episódios e é inspirada na franquia do cinema, que já está com o quarto longa pronto para estrear. Os roteiros e produção executiva são de James DeMonaco e liderado por Jason Blum. Michael Bay, Brad Fuller e Andrew Form também são produtores. Thomas Kelly é o showrunner. /strong>.</p></info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Desplugados</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/driDYYjbugOhu1fdLtBr1MeiBZ8.jpg</thumbnail>
+
+<item>
+<title> 1ª temporada completa  dublada dual áudio mkv 720p</title>
+<link>magnet:?xt=urn:btih:edb2cb1be400fc960b249a2eaf5833981e59a724&amp;dn=Desplugados%201%c2%aa%20Temporada%20Completa%202019%20(720p)%20LAPUMiA.NeT&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.trackerfix.com%3a83%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&amp;tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/driDYYjbugOhu1fdLtBr1MeiBZ8.jpg</thumbnail>
+<fanart></fanart>
+<info> Dru e Kal, dois gêmeos idênticos de doze anos, descobrem que o governo está secretamente rastreando e manipulando a juventude da Austrália por meio de dispositivos eletrônicos.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=f-PizmjwP1Y</trailer>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/driDYYjbugOhu1fdLtBr1MeiBZ8.jpg</thumbnail>
+<fanart></fanart>
+<info> Dru e Kal, dois gêmeos idênticos de doze anos, descobrem que o governo está secretamente rastreando e manipulando a juventude da Austrália por meio de dispositivos eletrônicos.</info>
+</item>
+
+<channels></channels>
+<channel>
+<name>Prisão de Mulheres </name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qtbPRUkOJP91A4FGP3DBbij0FVW.jpg</thumbnail>
+
+
+<item>
+<title>1ª temporada completa  dublado dual áudio mkv 720p</title>
+<link>magnet:?xt=urn:btih:4dc8e5277f4993818d0f0a3b83d23b581517fea6&amp;dn=Pris%c3%a3o%20de%20Mulheres%201%c2%aa%20Temporada%20Completa%202019%20(720p)%20LAPUMiA.NeT&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.trackerfix.com%3a83%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&amp;tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qtbPRUkOJP91A4FGP3DBbij0FVW.jpg</thumbnail>
+<fanart></fanart>
+<info> Uma mãe é presa depois de atirar no marido para se defender. Agora, ela tem de encontrar meios de sobreviver na prisão e de se reencontrar com a filha.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2-lkCjPehLA</trailer>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qtbPRUkOJP91A4FGP3DBbij0FVW.jpg</thumbnail>
+<fanart></fanart>
+<info> Uma mãe é presa depois de atirar no marido para se defender. Agora, ela tem de encontrar meios de sobreviver na prisão e de se reencontrar com a filha.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Cara x Cara </name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hdlywBkTXMggOLKKBuOjOsNOtKM.jpg</thumbnail>
+
+
+<item>
+<title>1ª temporada completa  dublada dual áudio mkv 720p</title>
+<link>magnet:?xt=urn:btih:db4f47f0d42386746eb24863a2d29c6b10967cf9&amp;dn=%5bCOMANDOTORRENTS.COM%5d%20Cara%20x%20Cara%201%c2%aa%20Temporada%20Completa%202019%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fbt.ca</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hdlywBkTXMggOLKKBuOjOsNOtKM.jpg</thumbnail>
+<fanart></fanart>
+<info> Empenhado em se tornar uma pessoa melhor, um homem (Paul Rudd) decide começar um tratamento especial e descobre que foi substituído por uma nova e aperfeiçoada versão - revelando que seu pior inimigo é ele mesmo.</info>
+</item>
+
+
+
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=cnuB-aECCyE</trailer>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hdlywBkTXMggOLKKBuOjOsNOtKM.jpg</thumbnail>
+<fanart></fanart>
+<info> Empenhado em se tornar uma pessoa melhor, um homem (Paul Rudd) decide começar um tratamento especial e descobre que foi substituído por uma nova e aperfeiçoada versão - revelando que seu pior inimigo é ele mesmo.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>O Último Dragão</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1eKrOjS7OSOjgmEIdCNmKEEItKJ.jpg</thumbnail>
+
+<item>
+<title>1ª temporada completa  dublado dual áudio mkv 1080p</title>
+<link>magnet:?xt=urn:btih:6c24e39ce260d606c687c2abf5cc63c28fe7e795&amp;dn=O%20Ultimo%20Drag%c3%a3o%201%c2%aa%20Temporada%20Completa%202019%20(1080p)%20LAPUMiA.NeT&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.trackerfix.com%3a83%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&amp;tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1eKrOjS7OSOjgmEIdCNmKEEItKJ.jpg</thumbnail>
+<fanart></fanart>
+<info> Após o assassinato de seus pais, quando criança, o mexicano Miguel Garza foi mandado para o Japão, onde treinou artes marciais enquanto se tornava consultor financeiro de primeira linha. 20 anos depois, o jovem vive com simplicidade e sobriedade em Tóquio, sem saber estar sendo preparado pelo confidente de seu avô - um membro do maior sindicato do crime organizado do Japão, para representar sua família em casa, como herdeira do cartel da família. /strong>.</p></info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lyWI-ndLbrM</trailer>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1eKrOjS7OSOjgmEIdCNmKEEItKJ.jpg</thumbnail>
+<fanart></fanart>
+<info> Após o assassinato de seus pais, quando criança, o mexicano Miguel Garza foi mandado para o Japão, onde treinou artes marciais enquanto se tornava consultor financeiro de primeira linha. 20 anos depois, o jovem vive com simplicidade e sobriedade em Tóquio, sem saber estar sendo preparado pelo confidente de seu avô - um membro do maior sindicato do crime organizado do Japão, para representar sua família em casa, como herdeira do cartel da família. /strong>.</p></info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Marvel - O Justiceiro</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddiQriqWxnEDhy4ufjc18HDI98.jpg</thumbnail>
+
+
+<item>
+<title>1ª temporada completa  dublada dual áudio 5.1 mkv 720p</title>
+<link>magnet:?xt=urn:btih:211B6008DE799F8956E7A293B4B578D2700C9BB3&amp;dn=Marvel%20-%20O%20Justiceiro%202017%20-%201%c2%aa%20Temporada%20Completa%20%5bWEB-DL%5d%20WWW.BLUDV.COM&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&amp;tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddiQriqWxnEDhy4ufjc18HDI98.jpg</thumbnail>
+<fanart></fanart>
+<info> Depois de se vingar dos responsáveis pela morte de sua mulher e de seus filhos, Frank Castle (Jon Bernthal) revela uma conspiração que corre de forma muito mais profunda do que o submundo do crime em Nova York. Agora, conhecido na cidade como O Justiceiro, ele deve descobrir a verdade sobre injustiças que afetam não só a sua família.</info>
+</item>
+
+
+<item>
+<title>1ª temporada completa  dublada dual áudio 5.1 mkv 1080p</title>
+<link>magnet:?xt=urn:btih:FDD3AB68ACC06724B6E3D748734946453C4ED70A&amp;dn=Marvel%20-%20O%20Justiceiro%202017%20-%201%c2%aa%20Temporada%20Completa%20%5bWEB-DL%5d%20%5b1080p%5d%20WWW.BLUDV.COM&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&amp;tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddiQriqWxnEDhy4ufjc18HDI98.jpg</thumbnail>
+<fanart></fanart>
+<info> Depois de se vingar dos responsáveis pela morte de sua mulher e de seus filhos, Frank Castle (Jon Bernthal) revela uma conspiração que corre de forma muito mais profunda do que o submundo do crime em Nova York. Agora, conhecido na cidade como O Justiceiro, ele deve descobrir a verdade sobre injustiças que afetam não só a sua família.</info>
+</item>
+
+<item>
+<title>2ª temporada completa  dublada dual áudio 5.1 mkv 720p</title>
+<link>magnet:?xt=urn:btih:018EE73566AB31A93B5AC0ADD93FA8EE3805AD55&amp;dn=%7bWWW.BLUDV.TV%7d%20O%20Justiceiro%202019%20-%202%c2%aa%20Temporada%20Completa%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddiQriqWxnEDhy4ufjc18HDI98.jpg</thumbnail>
+<fanart></fanart>
+<info> O crime não dura quando Frank Castle está por perto. O veterano de guerra é impiedoso na sua guerra contra malfeitores, alimentada pelo ódio gerado quando sua família foi pega no fogo cruzado durante um tiroteio entre mafiosos</info>
+</item>
+
+
+<item>
+<title>2ª temporada completa  dublada dual áudio 5.1 mkv x265 hdr 1080p</title>
+<link>magnet:?xt=urn:btih:5EAA307396BCA3BF3CEA263DFE064B8BD29FF15E&amp;dn=%7bWWW.BLUDV.TV%7d%20O%20Justiceiro%202019%20-%202%c2%aa%20Temporada%20Completa%20%281080p%20-%20HDR%20X265%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.to%3a2750%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&amp;tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddiQriqWxnEDhy4ufjc18HDI98.jpg</thumbnail>
+<fanart></fanart>
+<info> O crime não dura quando Frank Castle está por perto. O veterano de guerra é impiedoso na sua guerra contra malfeitores, alimentada pelo ódio gerado quando sua família foi pega no fogo cruzado durante um tiroteio entre mafiosos</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=STuXgXcOVPE</trailer>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddiQriqWxnEDhy4ufjc18HDI98.jpg</thumbnail>
+<fanart></fanart>
+<info> O crime não dura quando Frank Castle está por perto. O veterano de guerra é impiedoso na sua guerra contra malfeitores, alimentada pelo ódio gerado quando sua família foi pega no fogo cruzado durante um tiroteio entre mafiosos</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Manifest - O Mistério do Voo 828</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xeiUxShzNn8TNdMqy3Hvo9o2R.jpg</thumbnail>
+
+<item>
+<title>Manifest - O Mistério do Voo 828 EP 01</title>
+<link>https://archive.org/download/m2eds/Manifest.S01E01.720p.WEB-DL.x264-DUAL.WWW.COMANDOTORRENTS.COM.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xeiUxShzNn8TNdMqy3Hvo9o2R.jpg</thumbnail>
+<fanart></fanart>
+<info>Um avião desaparece do radar e retorna depois 5 anos, quando o mesmo já era considerado perdido no fundo do mar. O tempo não passou para os passageiros do avião, enquanto que para seus familiares foram os piores anos de suas vidas. A série irá acompanhar a vida pessoal destes passageiros, assim como o mistério que os envolvem.</info>
+</item>
+
+<item>
+<title>Manifest - O Mistério do Voo 828 [Demais eps]</title>
+<link>magnet:?xt=urn:btih:f5c97bbe99a09e8cb19ba7cb1ed5fe7524be677e&dn=%5bCOMANDOTORRENTS.COM%5d%20Manifest%201%c2%aa%20Temporada%20Completa%202019%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xeiUxShzNn8TNdMqy3Hvo9o2R.jpg</thumbnail>
+<fanart></fanart>
+<info>Um avião desaparece do radar e retorna depois 5 anos, quando o mesmo já era considerado perdido no fundo do mar. O tempo não passou para os passageiros do avião, enquanto que para seus familiares foram os piores anos de suas vidas. A série irá acompanhar a vida pessoal destes passageiros, assim como o mistério que os envolvem.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=RgY7UHi0rB8</trailer>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xeiUxShzNn8TNdMqy3Hvo9o2R.jpg</thumbnail>
+<fanart></fanart>
+<info>Um avião desaparece do radar e retorna depois 5 anos, quando o mesmo já era considerado perdido no fundo do mar. O tempo não passou para os passageiros do avião, enquanto que para seus familiares foram os piores anos de suas vidas. A série irá acompanhar a vida pessoal destes passageiros, assim como o mistério que os envolvem.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Monarca</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rn83wKCiDgJlHNwcEop8fwJUFLc.jpg</thumbnail>
+
+<item>
+<title>Monarca 1 Temporada</title>
+<link>magnet:?xt=urn:btih:1289b5f17c9b1466ac5a3712bbc53cebcf97443b&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Monarca%201%c2%aa%20Temporada%20Completa%202019%20%5b1080p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rn83wKCiDgJlHNwcEop8fwJUFLc.jpg</thumbnail>
+<fanart></fanart>
+<info>Saga familiar de várias gerações sobre um império de negócios mexicano nascido na tequila, e a batalha que se segue quando um membro da família decide combater o sistema sujo que sua família ajudou a criar.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=cbOmRtbISi0</trailer>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rn83wKCiDgJlHNwcEop8fwJUFLc.jpg</thumbnail>
+<fanart></fanart>
+<info>Saga familiar de várias gerações sobre um império de negócios mexicano nascido na tequila, e a batalha que se segue quando um membro da família decide combater o sistema sujo que sua família ajudou a criar.</info>
+</item>
+</channel>
