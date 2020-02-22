@@ -18,6 +18,15 @@
  </channel>
  </channels>
 
+ <channels>
+ <channel>
+ <name>[COLOR whinte]Carnaval 2020 Sao Paulo Serie A[COLOR red][B][/COLOR] ||| Hidra [/B][/COLOR][COLOR red][B]Cangaço |||[/B][/COLOR] </name>
+ <thumbnail>https://blog.visitesaopaulo.com/wp-content/uploads/2019/10/carnaval-2019-prefeitura.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/Carnaval-2020.xml</externallink>
+ <fanart></fanart>
+ <info></info>
+ </channel>
+ </channels>
  
  
  <channels>
