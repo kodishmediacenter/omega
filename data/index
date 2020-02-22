@@ -1,96 +1,10 @@
 <channels>
 <channel>
-<name>[COLOR whinte][B]Mundial Interclubes 2019[/B][/COLOR] [COLOR red][B]||| Hidra [/B][/COLOR][COLOR red][B]Cangaço |||[/B][/COLOR]</name>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/1/16/2019_FIFA_Club_World_Cup.png/200px-2019_FIFA_Club_World_Cup.png</thumbnail>
+<name>[COLOR whinte][B]Fim do Suporte Atualize a Sua Versão Agora Kodish Store[/B][/COLOR] [COLOR red][B]||| Hidra [/B][/COLOR][COLOR red][B]Cangaço |||[/B][/COLOR]</name>
+<thumbnail>https://deusaindafala.com/wp-content/uploads/2015/02/update-300x225.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/mundial.txt</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/virtualaddon/kodish%20faroeste/fanart.jpg</fanart>
-<info></info>
+<info>Kodish Store http://kodishteam.xyz/pstore ou http://kodishteam.online/pstore </info>
 </channel>
 </channels>
-
-<channels>
-<channel>
-<name>[COLOR whinte][B]Kodish Faroeste[/B][/COLOR] [COLOR red][B]||| Hidra [/B][/COLOR][COLOR red][B]Cangaço |||[/B][/COLOR]</name>
-<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/store/master/virtualaddon/kodish%20faroeste/icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/store/master/Faroeste.xml</externallink>
-<fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/virtualaddon/kodish%20faroeste/fanart.jpg</fanart>
-<info></info>
-</channel>
-</channels>
-
-<channel>
-<name>[COLOR whinte][B]Apks[/B][/COLOR] [COLOR red][B]||| Hidra [/B][/COLOR][COLOR red][B]Cangaço |||[/B][/COLOR]</name>
-<thumbnail>https://lh5.ggpht.com/aCdAa44RDJNrNx2ZtN93_CsTV19w-NjBnbXI7B15PuqH0uAizyD-GEkvHqFaigGBqw</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/apks</externallink>
-<fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
-<info></info>
-</channel>
-</channels>
-
-
-<channels></channels>
-<channel>
-<name>[COLOR whinte][B]Filmes[/B][/COLOR] [COLOR red][B]||| Hidra [/B][/COLOR][COLOR red][B]Cangaço |||[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes-cat</externallink>
-<thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</channel>
-</channels>
-
-<channels></channels>
-<channel>
-<name>[COLOR whinte][B]Series[/B][/COLOR] [COLOR red][B]||| Hidra [/B][/COLOR][COLOR red][B]Cangaço |||[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/series.txt</externallink>
-<thumbnail>http://icons.iconarchive.com/icons/dailyoverview/tv/256/television-08-icon.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</channel>
-</channels>
-
-<channels></channels>
-<channel>
-<name>[COLOR whinte][B]Doramas [Youtube][/B][/COLOR] [COLOR red][B]||| Hidra [/B][/COLOR][COLOR red][B]Cangaço |||[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/dorama</externallink>
-<thumbnail>https://www.soulgeek.com.br/wp-content/uploads/2017/09/Boys-over-flowers.jpg</thumbnail>
-<fanart></fanart>
-<info></info>
-</channel>
-</channels>
-
-<channels></channels>
-<channel>
-<name>[COLOR whinte][B]Doramas [Torrent][/B][/COLOR] [COLOR red][B]||| Hidra [/B][/COLOR][COLOR red][B]Cangaço |||[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/doramatorrent</externallink>
-<thumbnail>https://www.soulgeek.com.br/wp-content/uploads/2017/09/Boys-over-flowers.jpg</thumbnail>
-<fanart></fanart>
-<info></info>
-</channel>
-</channels>
-
-<channels></channels>
-<channel>
-<name>[COLOR whinte][B]Vagalume FM[/B][/COLOR] [COLOR red][B]||| Hidra [/B][/COLOR][COLOR red][B]Cangaço |||[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/vagalumefm</externallink>
-<thumbnail>https://lh3.googleusercontent.com/oli9ixdieLia03jDIdS-R_fsTME9GgCYEuDst7mJD9-WI3BvG5VnrpTVw_clmrRQSA</thumbnail>
-<fanart></fanart>
-<info></info>
-</channel>
-</channels>
-
-<channels></channels>
-<channel>
-<name>[COLOR whinte][B]Rock In Rio 2019[/B][/COLOR] [COLOR red][B]||| Hidra [/B][/COLOR][COLOR red][B]Cangaço |||[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/rockinrio</externallink>
-<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/logo-rock-in-rio-320x320.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</channel>
-</channels>
-
-
-
-
-
-
 
