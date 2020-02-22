@@ -1,0 +1,91 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD KODISH STORE"tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais BBB",BBB Cam 1 - Acompanhe a Casa HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]KODISH STORE[COLOR lime] IPTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.club:80/179965/2909/33430
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD KODISH STORE"tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais BBB",BBB Cam 2 - Jardim HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]KODISH STORE[COLOR lime] IPTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.club:80/179965/2909/33431
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD KODISH STORE"tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais BBB",BBB Cam 3 - Cozinha HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]KODISH STORE[COLOR lime] IPTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.club:80/179965/2909/33432
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD KODISH STORE"tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais BBB",BBB Cam 4 - Quarto Villa HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]KODISH STORE[COLOR lime] IPTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.club:80/179965/2909/33433
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD KODISH STORE"tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais BBB",BBB Cam 5 - Quarto HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]KODISH STORE[COLOR lime] IPTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.club:80/179965/2909/33434
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD KODISH STORE"tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais BBB",BBB Cam 6 - Piscina HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]KODISH STORE[COLOR lime] IPTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.club:80/179965/2909/33435
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD KODISH STORE"tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais BBB",BBB Cam 7 - Cozinha VIP HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]KODISH STORE[COLOR lime] IPTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.club:80/179965/2909/33436
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD KODISH STORE"tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais BBB",BBB Cam 8 - Confessionario HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]KODISH STORE[COLOR lime] IPTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.club:80/179965/2909/33437
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD KODISH STORE"tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais BBB",BBB Cam 9 - Quarto Céu HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]KODISH STORE[COLOR lime] IPTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.club:80/179965/2909/33438
+
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD KODISH STORE" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs", BBB HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]KODISH STORE[COLOR lime] IPTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]KODISH STORE[COLOR lime] IPTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://178.32.251.80:8000/andrei/andrei/19231
+
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD KODISH STORE" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs", BBB HD 2
+plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]KODISH STORE[COLOR lime] IPTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://178.32.251.80:8000/andrei/andrei/19830
+
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD KODISH STORE" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs", BBB HD 3
+plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]KODISH STORE[COLOR lime] IPTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://178.32.251.80:8000/andrei/andrei/19837
+
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD KODISH STORE" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs", BBB HD 4
+plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]KODISH STORE[COLOR lime] IPTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://178.32.251.80:8000/andrei/andrei/19838
+
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD KODISH STORE" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs", BBB HD 5
+plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]KODISH STORE[COLOR lime] IPTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://178.32.251.80:8000/andrei/andrei/19839
+
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD KODISH STORE" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs", BBB HD 6
+plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]KODISH STORE[COLOR lime] IPTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://178.32.251.80:8000/andrei/andrei/19840
+
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD KODISH STORE" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs", BBB HD 7
+plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]KODISH STORE[COLOR lime] IPTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://178.32.251.80:8000/andrei/andrei/19841
+
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD KODISH STORE" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs", BBB HD 8
+plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]KODISH STORE[COLOR lime] IPTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://178.32.251.80:8000/andrei/andrei/19842
+
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD KODISH STORE" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs", BBB HD 9
+plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]KODISH STORE[COLOR lime] IPTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://178.32.251.80:8000/andrei/andrei/19843
+
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD KODISH STORE" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs", BBB HD 10
+plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]KODISH STORE[COLOR lime] IPTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://178.32.251.80:8000/andrei/andrei/19844
+
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD KODISH STORE" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs", BBB HD 11
+plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]KODISH STORE[COLOR lime] IPTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://178.32.251.80:8000/andrei/andrei/19831
+
+
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD KODISH STORE" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs",BBB MOSAICO²
+plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]KODISH STORE[COLOR lime] IPTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://u9in.club:8080/bene/2019/80193
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD KODISH STORE" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs",BBB SD CAM 10
+plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]KODISH STORE[COLOR lime] IPTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://u9in.club:8080/bene/2019/80194
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD KODISH STORE" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs",BBB HD CAM 10
+plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]KODISH STORE[COLOR lime] IPTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://u9in.club:8080/bene/2019/80195
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD KODISH STORE" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs",BBB SD CAM 9
+plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]KODISH STORE[COLOR lime] IPTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://u9in.club:8080/bene/2019/80196
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD KODISH STORE" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs",BBB² HD CAM 9
+plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]KODISH STORE[COLOR lime] IPTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://u9in.club:8080/bene/2019/80197
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD KODISH STORE" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs",BBB² SD CAM 8
+plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]KODISH STORE[COLOR lime] IPTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://u9in.club:8080/bene/2019/80198
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD KODISH STORE" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs",BBB² HD CAM 8
+plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]KODISH STORE[COLOR lime] IPTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://u9in.club:8080/bene/2019/80199
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD KODISH STORE" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs",BBB² SD CAM 7
+plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]KODISH STORE[COLOR lime] IPTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://u9in.club:8080/bene/2019/80200
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD KODISH STORE" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs",BBB² HD CAM 7
+plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]KODISH STORE[COLOR lime] IPTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://u9in.club:8080/bene/2019/80201
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD KODISH STORE" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs",BBB² SD CAM 6
+plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]KODISH STORE[COLOR lime] IPTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://u9in.club:8080/bene/2019/80202
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD KODISH STORE" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs",BBB² HD CAM 6
+plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]KODISH STORE[COLOR lime] IPTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://u9in.club:8080/bene/2019/80203
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD KODISH STORE" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs",BBB² SD CAM 5
+plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]KODISH STORE[COLOR lime] IPTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://u9in.club:8080/bene/2019/80204
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD KODISH STORE" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs",BBB ² HD CAM 5
+plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]KODISH STORE[COLOR lime] IPTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://u9in.club:8080/bene/2019/80205
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD KODISH STORE" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs",BBB² SD CAM 4
+plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]KODISH STORE[COLOR lime] IPTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://u9in.club:8080/bene/2019/80206
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD KODISH STORE" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs",BBB² HD CAM 4
+plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]KODISH STORE[COLOR lime] IPTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://u9in.club:8080/bene/2019/80207
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD KODISH STORE" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs",BBB² SD CAM 3
+plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]KODISH STORE[COLOR lime] IPTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://u9in.club:8080/bene/2019/80208
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD KODISH STORE" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs",BBB² HD CAM 3
+plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]KODISH STORE[COLOR lime] IPTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://u9in.club:8080/bene/2019/80209
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD KODISH STORE" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs",BBB² FHD CAM 2
+plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]KODISH STORE[COLOR lime] IPTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://u9in.club:8080/bene/2019/80210
