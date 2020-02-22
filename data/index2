@@ -8,6 +8,15 @@
  </channel>
  </channels>
  
+  <channels>
+ <channel>
+ <name>[COLOR whinte]Big Brother Brasil 20[COLOR red][B][/COLOR] ||| Hidra [/B][/COLOR][COLOR red][B]Cangaço |||[/B][/COLOR] </name>
+ <thumbnail>https://upload.wikimedia.org/wikipedia/pt/b/b2/Bloggif_5e236b0773b79.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/bbb.txt</externallink>
+ <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
+ <info></info>
+ </channel>
+ </channels>
 
  
  
