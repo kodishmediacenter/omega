@@ -1,6 +1,6 @@
 <channels>
  <channel>
- <name>[COLOR whinte][B]Lista TV [/B][/COLOR][COLOR red][B][/COLOR] ||| Hidra [/B][/COLOR][COLOR red][B]Cangaço |||[/B][/COLOR]</name>
+ <name>[COLOR whinte][B]Lista TV [/B][/COLOR][COLOR red][B][/COLOR] ||| Hidra [/B][COLOR red][B]Cangaço |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/iptv.png</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/lista-teste.xml</externallink>
  <fanart>https://spinoff.com.br/wp-content/uploads/watch-free-iptv-online-with-tablet-pc-smartphone-laptop-tv.jpg</fanart>
@@ -10,7 +10,7 @@
  
   <channels>
  <channel>
- <name>[COLOR whinte][B]Big Brother Brasil 20[/B][/COLOR][COLOR red][B][/COLOR] ||| Hidra [/B][/COLOR][COLOR red][B]Cangaço |||[/B][/COLOR] </name>
+ <name>[COLOR whinte][B]Big Brother Brasil 20[/B][/COLOR][COLOR red][B][/COLOR] ||| Hidra [/B][COLOR red][B]Cangaço |||[/B][/COLOR] </name>
  <thumbnail>https://upload.wikimedia.org/wikipedia/pt/b/b2/Bloggif_5e236b0773b79.png</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/bbb.txt</externallink>
  <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
@@ -20,7 +20,7 @@
 
  <channels>
  <channel>
- <name>[COLOR whinte][B]Carnaval 2020 Sao Paulo Serie A[/B][/COLOR][COLOR red][B][/COLOR] ||| Hidra [/B][/COLOR][COLOR red][B]Cangaço |||[/B][/COLOR] </name>
+ <name>[COLOR whinte][B]Carnaval 2020 Sao Paulo Serie A[/B][/COLOR][COLOR red][B] ||| Hidra [/B][/COLOR][COLOR red][B]Cangaço |||[/B][/COLOR] </name>
  <thumbnail>https://blog.visitesaopaulo.com/wp-content/uploads/2019/10/carnaval-2019-prefeitura.png</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/Carnaval-2020.xml</externallink>
  <fanart></fanart>
