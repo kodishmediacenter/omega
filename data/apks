@@ -1,5 +1,12 @@
 plugin://plugin.video.webplayer/?logos=&amp;move=0&amp;mode=3&amp;index=-1&amp;url=
 
+
+<channels></channels>
+<channel>
+<name>Todos Itens abaixo usa addon Webplayer pode ser obtido na Kodish Store</name>
+<thumbnail>http://www.eidh.eu/magazine/wp-content/uploads/2013/10/atention.png</thumbnail>
+<channels></channels>
+
 <channels></channels>
 <channel>
 <name>Futebol ao Vivo [Celular]</name>
@@ -13,12 +20,6 @@ plugin://plugin.video.webplayer/?logos=&amp;move=0&amp;mode=3&amp;index=-1&amp;u
 <info>Futebol ao vivo Play é um app onde você fica por dentro de tudo que acontece no mundo do Futebol e outros esportes. Acompanhe todos os jogos de futebol ao vivo na tela do seu celular, na palma da sua mão 24 horas por dia.</info>
 </item>
 </channel>
-
-<channels></channels>
-<channel>
-<name>Todos Itens abaixo usa addon Webplayer pode ser obtido na Kodish Store</name>
-<thumbnail>http://www.eidh.eu/magazine/wp-content/uploads/2013/10/atention.png</thumbnail>
-<channels></channels>
 
 <channels></channels>
 <channel>
