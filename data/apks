@@ -9,6 +9,21 @@ plugin://plugin.video.webplayer/?logos=&amp;move=0&amp;mode=3&amp;index=-1&amp;u
 
 <channels></channels>
 <channel>
+<name>Assistir.io[Celular]</name>
+<thumbnail>https://assistir.io//assets/img/ogimage.png</thumbnail>
+
+<item>
+<title>Assistir.io[Celular]</title>
+<link>plugin://plugin.video.webplayer/?logos=&amp;move=0&amp;mode=3&amp;index=-1&amp;url=https://assistir.io/assistir.io.apk</link>
+<thumbnail>https://assistir.io//assets/img/ogimage.png</thumbnail>
+<fanart></fanart>
+<info>melhor apk do melhor site filmes e series e animes </info>
+</item>
+
+</channel>
+
+<channels></channels>
+<channel>
 <name>Futebol ao Vivo [Celular]</name>
 <thumbnail>https://image.winudf.com/v2/image1/ZnV0ZW1heC5hcGxpenB6X2ljb25fMTU3ODU4NDAyMl8wMzQ/icon.png?w=256&fakeurl=1</thumbnail>
 
