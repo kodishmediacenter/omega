@@ -28,6 +28,15 @@
  </channel>
  </channels>
  
+  <channels>
+ <channel>
+ <name>[COLOR whinte][B]Carnaval 2020 Rio de Janeiro Serie A[/B][/COLOR][COLOR red][B] ||| Hidra [/B][/COLOR][COLOR red][B]Cangaço |||[/B][/COLOR]</name>
+ <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg/1200px-Bandeira_do_estado_do_Rio_de_Janeiro.svg.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/carnaval-rj-2020</externallink>
+ <fanart></fanart>
+ <info></info>
+ </channel>
+ </channels>
  
  <channels>
  <channel>
