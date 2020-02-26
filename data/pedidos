@@ -256,29 +256,28 @@ https://image.tmdb.org/t/p/w780/fX5n06X5zy5CzQcRYi2p0i37Fw7.jpg</thumbnail>
 </item>
 </channel>
 
-
 <channels></channels>
 <channel>
 <name>A Morte Pede Carona</name>
-<thumbnail>https://hidratorrent.com/capa/a-morte-pede-carona-bluray-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w500/d8ejmXV7XPvZ2RGG5aynZhhqDSF.jpg
+https://image.tmdb.org/t/p/w780/dQ6RwEC2OcyHcqA6BO5l40NSMv8.jpg</thumbnail>
 
 
 <item>
-<title>a morte pede carona  Dublado dual áudio  bluray 720p</title>
-<link>magnet:?xt=urn:btih:719595A116808433C393018FA406C20C736D57FE&amp;dn=A%20Morte%20Pede%20Carona%20%5B2007%5D%20-%20BluRay%20720p%20Dual%20%C3%81udio&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.ccc.de%3A80%2Fannounce</link>
-<thumbnail>https://hidratorrent.com/capa/a-morte-pede-carona-bluray-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart></fanart>
-<info> Grace Andrews (Sophia Bush) e Jim Halsey (Zachary Knighton) estãoo viajando a bordo de um carro antigo, dispostos a aproveitar o feriado de primavera. Até que encontram John Ryder (Sean Bean), que está pedindo carona Ã  beira da estrada. O 1Âº contato de Ryder com Grace e Jim nãoo é dos melhores, mas eles conseguem se defender de seu ataque. Entretanto a partir de entãoo Ryder passa a persegui-los, fazendo da estrada seu campo de batalha.</info>
+<title>A Morte Pede Carona</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:719595A116808433C393018FA406C20C736D57FE&amp;dn=A%20Morte%20Pede%20Carona%20%5B2007%5D%20-%20BluRay%20720p%20Dual%20%C3%81udio&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.ccc.de%3A80%2Fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/d8ejmXV7XPvZ2RGG5aynZhhqDSF.jpg
+https://image.tmdb.org/t/p/w780/dQ6RwEC2OcyHcqA6BO5l40NSMv8.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dQ6RwEC2OcyHcqA6BO5l40NSMv8.jpg</fanart>
+<info>Grace Andrews (Sophia Bush) e Jim Halsey (Zachary Knighton) estão viajando a bordo de um carro antigo, dispostos a aproveitar o feriado de primavera. Até que encontram John Ryder (Sean Bean), que está pedindo carona à beira da estrada. O 1º contato de Ryder com Grace e Jim não é dos melhores, mas eles conseguem se defender de seu ataque. Entretanto a partir de então Ryder passa a persegui-los, fazendo da estrada seu campo de batalha</info>
 </item>
-
-
 
 
 <item>
 <title>Trailer</title>
 <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fBNWKGQAXUg</trailer>
-<thumbnail>https://hidratorrent.com/capa/a-morte-pede-carona-bluray-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<thumbnail></thumbnail>
 <fanart></fanart>
-<info> Grace Andrews (Sophia Bush) e Jim Halsey (Zachary Knighton) estãoo viajando a bordo de um carro antigo, dispostos a aproveitar o feriado de primavera. Até que encontram John Ryder (Sean Bean), que está pedindo carona Ã  beira da estrada. O 1Âº contato de Ryder com Grace e Jim nãoo é dos melhores, mas eles conseguem se defender de seu ataque. Entretanto a partir de entãoo Ryder passa a persegui-los, fazendo da estrada seu campo de batalha.</info>
+<info></info>
 </item>
 </channel>
