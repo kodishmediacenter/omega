@@ -2,7 +2,7 @@
 <title>Assistir AXN - Online - 24 Horas - Ao Vivo</title>
 Assistir TNT Series - Online - 24 Horas - Ao Vivo
 <thumbnail>https://canaisgratis.info/imgs-videos/Canais/AXN.jpg</thumbnail>
-<link>$doregex[HIDRA]axn.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/canais-bk.php?canal=axn</link>
+<link>$doregex[HIDRA]axn.m3u8?expires=.&token=.|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/contador</link>
 <regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
