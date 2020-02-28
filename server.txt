@@ -1,4 +1,7 @@
-https://proxystream.canais.ink/hls1/.rccanais
-
+http://proxyts.ec.cx:8082/hls1/.servidor-99999.ts
+http://proxyts.ec.cx:8082/hls1/.rccanais-99999.ts
+https://cdn4.canais.ink/hls1/.servidor.m3u8?expires=servidor&token=servidor
+https://cdn4.canais.ink/hls1/.rccanais.m3u8?expires=rccanais&token=rccanais
+https://cdn4.canais.ink/hls1/fx.m3u8?expires=1582838241&token=e2e23cf214cef459faa522e906fbf2d7
 
 
