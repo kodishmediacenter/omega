@@ -25,3 +25,17 @@
 <info>Godzilla Ataca Novamente (ゴジラの逆襲, Gojira no gyakushū, lit. O Contra-ataque de Godzilla) é um filme de monstros de 1955 produzido pela Toho Company Ltd. e é o segundo filme da série Godzilla. O filme foi lançado em cinemas japoneses em 24 de abril de 1955.</info>
 </item>
 </channel>
+
+<channels></channels>
+<channel>
+<name>1956 - Godzilla, O Rei Dos Monstros - Filme - Tokuflix</name>
+<thumbnail>https://4.bp.blogspot.com/-MXdjhGb-Jyw/XkwTIUnvLNI/AAAAAAAAAME/OwQJTqdSm341ZYp9D6pPuDZcfMQo56sVwCLcBGAsYHQ/s1600/1956%2B-%2BGodzilla%252C%2BO%2BRei%2BDos%2BMonstros.jpg</thumbnail>
+
+<item>
+<title>1956 - Godzilla, O Rei Dos Monstros - Filme - Tokuflix</title>
+<link>https://content.jwplatform.com/videos/sNh5gIn1-6vjqKsI0.mp4</link>
+<thumbnail>https://4.bp.blogspot.com/-MXdjhGb-Jyw/XkwTIUnvLNI/AAAAAAAAAME/OwQJTqdSm341ZYp9D6pPuDZcfMQo56sVwCLcBGAsYHQ/s1600/1956%2B-%2BGodzilla%252C%2BO%2BRei%2BDos%2BMonstros.jpg</thumbnail>
+<fanart></fanart>
+<info>“Godzilla - King of the Monsters!” é a versão para o mercado norte-americano do filme original, de 1954. Quase 60% das suas cenas foram cortadas e substituídas por outras com um ator americano, Raymond Burr, que narra o filme. Menções à questão nuclear foram diminuidas e limitadas. Quem recebe o crédito de diretor é o desconhecido Terry O. Morse.</info>
+</item>
+</channel>
