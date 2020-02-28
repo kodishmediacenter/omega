@@ -1,0 +1,13 @@
+<channels></channels>
+<channel>
+<name>1954 - Godzilla - Filme - Tokuflix</name>
+<thumbnail>https://2.bp.blogspot.com/-bJWBN4st0Xo/XkiYHCEE7CI/AAAAAAAAALQ/y5_F0WrA3lE8QdFj1h-CuH1b4_XtKYPOgCLcBGAsYHQ/s1600/1954%2B-%2BGodzilla.jpg</thumbnail>
+
+<item>
+<title>1954 - Godzilla - Filme - Tokuflix Lengendado</title>
+<link>https://content.jwplatform.com/videos/2YPzTyyh-kjKu5xDO.mp4</link>
+<thumbnail>https://2.bp.blogspot.com/-bJWBN4st0Xo/XkiYHCEE7CI/AAAAAAAAALQ/y5_F0WrA3lE8QdFj1h-CuH1b4_XtKYPOgCLcBGAsYHQ/s1600/1954%2B-%2BGodzilla.jpg</thumbnail>
+<fanart></fanart>
+<info>Godzilla (ゴジラ Gojira) é um filme de 1954 produzido pela Toho Company Ltd., e o primeiro filme da série Godzilla. O filme foi lançado em cinemas japoneses em 3 de novembro de 1954 e é um marco não só no gênero Tokusatsu como também no cinema mundial.</info>
+</item>
+</channel>
