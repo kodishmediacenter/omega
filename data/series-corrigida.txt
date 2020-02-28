@@ -1,5 +1,113 @@
 <channels></channels>
 <channel>
+<name>Seguidores - Followers</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lOh3ejcmXjM43iXpc0MhVj3M9ih.jpg</thumbnail>
+
+
+<item>
+<title>Seguidores - Followers Torrent Dublada HD | 720p </title>
+<link>magnet:?xt=urn:btih:e0ec57512a4778e28bdf715a6a00c58df2d15484&amp;dn=COMANDO.TO%20-%20Seguidores%201%c2%aa%20Temporada%20Completa%202020%20%5b720p%5d%20%5bDUAL%5d&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.blazing.de%2fannounce&amp;tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.prq.to%2fannounce&amp;tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&amp;tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&amp;tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&amp;tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&amp;tr=udp%3a%2f%2f11.rarbg.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&amp;tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lOh3ejcmXjM43iXpc0MhVj3M9ih.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Sinopse: Depois que uma atriz desconhecida conquista a fama graças a seu perfil no Instagram, sua vida se cruza com a de muitas mulheres que buscam seus sonhos em Tóquio.					
+</info>
+</item>
+ 
+<item>
+<title>Seguidores - Followers Torrent Dublada HD | 1080p</title>
+<link>magnet:?xt=urn:btih:82482a4db38be634cb9201a07554025d6eb96cdf&amp;dn=Followers.2020.S01.JAPANESE.WEBRip.x264-ION10&amp;tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.me%3A2770&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2750" 
+<item>
+<title>Seguidores - Followers Torrent Dublada HD | 720p | 1080p</title>
+<link>magnet:?xt=urn:btih:84e6096169f5097606b8e5a14eafb1d6ae576f17&amp;dn=Followers.2020.S01.JAPANESE.1080p.NF.WEBRip.DDP5.1.x264-AMRAP%5Brartv%5D&amp;tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.me%3A2720&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2780" 
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lOh3ejcmXjM43iXpc0MhVj3M9ih.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Sinopse: Depois que uma atriz desconhecida conquista a fama graças a seu perfil no Instagram, sua vida se cruza com a de muitas mulheres que buscam seus sonhos em Tóquio.					
+</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<utube>otf-9H4sOsc</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lOh3ejcmXjM43iXpc0MhVj3M9ih.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>I Am Not Okay With This</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kf3yX0ILNlLJ42X3lX2iYJ3QRp6.jpg</thumbnail>
+
+
+<item>
+<title>I Am Not Okay With This - 1ª Temporada Completa Torrent Dublada / Dual Áudio 5.1 HD | 720p | 1080p</title>
+<link>magnet:?xt=urn:btih:dab398ed4c63011af94eb567b11a27cbac9d25ad&amp;dn=LAPUMiA.Org%20-%20I%20Am%20Not%20Okay%20With%20This%201%c2%aa%20Temporada%20Completa%202020%20%5b720p%5d%20DUAL&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.blazing.de%2fannounce&amp;tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.prq.to%2fannounce&amp;tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&amp;tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&amp;tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&amp;tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&amp;tr=udp%3a%2f%2f11.rarbg.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&amp;tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kf3yX0ILNlLJ42X3lX2iYJ3QRp6.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Sinopse: Sydney (Sophia Lillis) é uma adolescente que navega pelas provações e atribulações do ensino médio, enquanto lida com as complexidades de sua família, sua sexualidade em ascensão e novos "superpoderes".					
+</info>
+</item>
+ 
+<item>
+<title>I Am Not Okay With This - 1ª Temporada Completa Torrent Legendada | 720p </title>
+<link>magnet:?xt=urn:btih:c21431852c1451d88cfe6c8f6699b79565e5eb57&amp;dn=I.Am.Not.Okay.With.This.S01.720p.NF.WEBRip.DDP5.1.Atmos.x264-NTG%5Brartv%5D&amp;tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.me%3A2760&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2720" 
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kf3yX0ILNlLJ42X3lX2iYJ3QRp6.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Sinopse: Sydney (Sophia Lillis) é uma adolescente que navega pelas provações e atribulações do ensino médio, enquanto lida com as complexidades de sua família, sua sexualidade em ascensão e novos "superpoderes".					
+</info>
+</item>
+
+<item>
+<title>I Am Not Okay With This - 1ª Temporada Completa Torrent Legendada 1080p</title>
+<link>magnet:?xt=urn:btih:5a8101504b67a81ae5f093e39ae7f4c125288d69&amp;dn=I.Am.Not.Okay.With.This.S01.1080p.NF.WEBRip.DDP5.1.Atmos.x264-NTG%5Brartv%5D&amp;tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.me%3A2760&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2780" 
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kf3yX0ILNlLJ42X3lX2iYJ3QRp6.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Sinopse: Sydney (Sophia Lillis) é uma adolescente que navega pelas provações e atribulações do ensino médio, enquanto lida com as complexidades de sua família, sua sexualidade em ascensão e novos "superpoderes".					
+</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<utube>XPJy0rZCuhg</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kf3yX0ILNlLJ42X3lX2iYJ3QRp6.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Sem Filtro - Flamengo Torrent Nacional HD | 720p</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/10FVVr12KfaSPQuxqsRMihstHA9.jpg</thumbnail>
+SEM FILTRO - FLAMENGO DOWNLOAD TORRENT NACIONAL MKV 720P
+
+<item>
+<title>Sem Filtro - Flamengo Torrent Nacional HD | 720p</title>
+<link>magnet:?xt=urn:btih:d2fe419cb45567e850eb8e13f95e763647a2b0ce&amp;dn=LAPUMiA.Org%20-%20Sem%20Filtro%20-%20%20Flamengo%202019%20(720p)&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&amp;tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/10FVVr12KfaSPQuxqsRMihstHA9.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Sinopse: O DAZN, serviço de streaming esportivo, lançou a produção, feita em parceria com a Conspiração, mostra os bastidores do clube carioca no segundo semestre de 2019.A direção é de Flavio Barone, e o conteúdo reforça a estratégia adotada pelo DAZN de distribuição de produções originais dentro da plataforma.Ao todo, serão 7 episódios, com 18h de conteúdo. Na abertura, o destaque vai para a mundialmente conhecida camisa rubro-negra e as classificações épicas na Copa Libertadores da América de 2019, sobre Emelec e Internacional, respectivamente, nas oitavas e quartas de finais da competição.Os episódios trazem também a participação de personagens que estão testemunhando a campanha que o Flamengo vem traçando neste segundo semestre.De acordo com a plataforma de streaming, além da exclusividade, o diferencial da série é o fato de ter uma montagem dinâmica, recheada de depoimentos de jogadores, corpo técnico, torcedores e ídolos. A proposta é apresentar aos torcedores do clube e fãs de futebol em geral um formato inovador ao captar, editar e exibir conteúdos inéditos durante o andamento da temporada.					
+</info>
+</item>
+ 
+<item>
+<title>Trailer</title>
+<utube>n9Q5DGPaeJI</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/10FVVr12KfaSPQuxqsRMihstHA9.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
 <name>A Mente do Assassino - Aaron Hernandez</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7TqlKGR4WaMQ2Symfy52EZ9tVEC.jpg</thumbnail>
 
