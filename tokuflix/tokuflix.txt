@@ -19,7 +19,7 @@
 
 <item>
 <title>1955 - Godzilla Ataca Novamente - Filme - Tokuflix</title>
-<link>https://content.jwplatform.com/videos/lUru80G0-G1anSz3w.mp4</link>
+<sony>https://content.jwplatform.com/videos/lUru80G0-G1anSz3w.mp4</sony>
 <thumbnail>https://1.bp.blogspot.com/-g9bCk1UH2yQ/XkmAhf1P1pI/AAAAAAAAALk/oMB2goNEds4S3jLK_KI8p5KU_EilxrA5QCLcBGAsYHQ/s1600/1955%2B-%2BGodzilla%2BAtaca%2BNovamente.jpg</thumbnail>
 <fanart></fanart>
 <info>Godzilla Ataca Novamente (ゴジラの逆襲, Gojira no gyakushū, lit. O Contra-ataque de Godzilla) é um filme de monstros de 1955 produzido pela Toho Company Ltd. e é o segundo filme da série Godzilla. O filme foi lançado em cinemas japoneses em 24 de abril de 1955.</info>
