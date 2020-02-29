@@ -2,6 +2,6 @@ http://proxyts.ec.cx:8082/hls1/.servidor-99999.ts
 http://proxyts.ec.cx:8082/hls1/.rccanais-99999.ts
 https://cdn4.canais.ink/hls1/.servidor.m3u8?expires=servidor&token=servidor
 https://cdn4.canais.ink/hls1/.rccanais.m3u8?expires=rccanais&token=rccanais
-https://cdn4.canais.ink/hls1/fx.m3u8?expires=1582838241&token=e2e23cf214cef459faa522e906fbf2d7
+https://cdn4.canais.ink/hls1/foxsports2.m3u8?expires=1582974918&token=9171f7b845d4c268bc72da3acc7d8289
 
 
