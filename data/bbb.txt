@@ -1,94 +1,92 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Kodish Team" tvg-logo="https://i.imgur.com/SnJauAA.png" ,[B][COLOR yellow] [B][COLOR yellow]Kodish Team  [COLOR lime]  ENTRETERIMENTOS [COLOR firebrick]  FHD / HD / SD .[/B][/COLOR]
-******************************************************************
-#EXTINF:-1 tvg-logo="https://tinyurl.com/wgmygzl" group-title="Sem Categoria", [B][COLOR yellow]BBB [COLOR lime]HD Mosaico[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B] 11
+#EXTINF:-1 tvg-logo="http://bit.ly/2Vnu9xN" group-title="Sem Categoria", [B][COLOR yellow]BBB [COLOR lime]HD Mosaico[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B] 11
 plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]Kodish Team TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://178.32.251.80:8000/andrei/andrei/19831
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/wgmygzl" group-title="Sem Categoria", [B][COLOR yellow]BBB [COLOR lime]HD Casa (01)[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]  
+#EXTINF:-1 tvg-logo="http://bit.ly/2Vnu9xN" group-title="Sem Categoria", [B][COLOR yellow]BBB [COLOR lime]HD Casa (01)[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]  
 plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]Kodish Team TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://178.32.251.80:8000/andrei/andrei/19231
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/wgmygzl" group-title="Sem Categoria", [B][COLOR yellow]BBB [COLOR lime]HD Casa (02)[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B] 2
+#EXTINF:-1 tvg-logo="http://bit.ly/2Vnu9xN" group-title="Sem Categoria", [B][COLOR yellow]BBB [COLOR lime]HD Casa (02)[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B] 2
 plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]Kodish Team TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://178.32.251.80:8000/andrei/andrei/19830
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/wgmygzl" group-title="Sem Categoria", [B][COLOR yellow]BBB [COLOR lime]HD Casa (03)[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B] 6
+#EXTINF:-1 tvg-logo="http://bit.ly/2Vnu9xN" group-title="Sem Categoria", [B][COLOR yellow]BBB [COLOR lime]HD Casa (03)[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B] 6
 plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]Kodish Team TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://178.32.251.80:8000/andrei/andrei/19840
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/wgmygzl" group-title="Sem Categoria", [B][COLOR yellow]BBB [COLOR lime]HD Banheiro[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B] 3
+#EXTINF:-1 tvg-logo="http://bit.ly/2Vnu9xN" group-title="Sem Categoria", [B][COLOR yellow]BBB [COLOR lime]HD Banheiro[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B] 3
 plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]Kodish Team TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://178.32.251.80:8000/andrei/andrei/19837
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/wgmygzl" group-title="Sem Categoria", [B][COLOR yellow]BBB [COLOR lime]HD Sala[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B] 4
+#EXTINF:-1 tvg-logo="http://bit.ly/2Vnu9xN" group-title="Sem Categoria", [B][COLOR yellow]BBB [COLOR lime]HD Sala[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B] 4
 plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]Kodish Team TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://178.32.251.80:8000/andrei/andrei/19838
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/wgmygzl" group-title="Sem Categoria", [B][COLOR yellow]BBB [COLOR lime]HD Quarto (01)[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B] 5
+#EXTINF:-1 tvg-logo="http://bit.ly/2Vnu9xN" group-title="Sem Categoria", [B][COLOR yellow]BBB [COLOR lime]HD Quarto (01)[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B] 5
 plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]Kodish Team TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://178.32.251.80:8000/andrei/andrei/19839
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/wgmygzl" group-title="Sem Categoria", [B][COLOR yellow]BBB [COLOR lime]HD Confessionário[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B] 7
+#EXTINF:-1 tvg-logo="http://bit.ly/2Vnu9xN" group-title="Sem Categoria", [B][COLOR yellow]BBB [COLOR lime]HD Confessionário[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B] 7
 plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]Kodish Team TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://178.32.251.80:8000/andrei/andrei/19841
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/wgmygzl" group-title="Sem Categoria", [B][COLOR yellow]BBB [COLOR lime]HD Cozinha[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B] 8
+#EXTINF:-1 tvg-logo="http://bit.ly/2Vnu9xN" group-title="Sem Categoria", [B][COLOR yellow]BBB [COLOR lime]HD Cozinha[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B] 8
 plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]Kodish Team TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://178.32.251.80:8000/andrei/andrei/19842
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/wgmygzl" group-title="Sem Categoria", [B][COLOR yellow]BBB [COLOR lime]HD Varanda[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B] 9
+#EXTINF:-1 tvg-logo="http://bit.ly/2Vnu9xN" group-title="Sem Categoria", [B][COLOR yellow]BBB [COLOR lime]HD Varanda[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B] 9
 plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]Kodish Team TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://178.32.251.80:8000/andrei/andrei/19843
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/wgmygzl" group-title="Sem Categoria", [B][COLOR yellow]BBB [COLOR lime]HD Quarto Céu[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B] 10
+#EXTINF:-1 tvg-logo="http://bit.ly/2Vnu9xN" group-title="Sem Categoria", [B][COLOR yellow]BBB [COLOR lime]HD Quarto Céu[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B] 10
 plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]Kodish Team TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://178.32.251.80:8000/andrei/andrei/19844
 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
-#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD Kodish Team" tvg-logo="https://tinyurl.com/u73u5mt" group-title="Canais: 24hrs", [B][COLOR yellow]BBB [COLOR lime]HD MOSAICO²[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD Kodish Team" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs", [B][COLOR yellow]BBB [COLOR lime]HD MOSAICO²[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]
 plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]Kodish Team TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://u9in.club:8080/bene/2019/80193
 
-#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD Kodish Team" tvg-logo="https://tinyurl.com/u73u5mt" group-title="Canais: 24hrs", [B][COLOR yellow]BBB [COLOR lime]SD CAM 10[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD Kodish Team" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs", [B][COLOR yellow]BBB [COLOR lime]SD CAM 10[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]
 plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]Kodish Team TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://u9in.club:8080/bene/2019/80194
 
-#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD Kodish Team" tvg-logo="https://tinyurl.com/u73u5mt" group-title="Canais: 24hrs", [B][COLOR yellow]BBB [COLOR lime]HD CAM 10[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD Kodish Team" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs", [B][COLOR yellow]BBB [COLOR lime]HD CAM 10[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]
 plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]Kodish Team TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://u9in.club:8080/bene/2019/80195
 
-#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD Kodish Team" tvg-logo="https://tinyurl.com/u73u5mt" group-title="Canais: 24hrs", [B][COLOR yellow]BBB [COLOR lime]SD CAM 9[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD Kodish Team" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs", [B][COLOR yellow]BBB [COLOR lime]SD CAM 9[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]
 plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]Kodish Team TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://u9in.club:8080/bene/2019/80196
 
-#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD Kodish Team" tvg-logo="https://tinyurl.com/u73u5mt" group-title="Canais: 24hrs", [B][COLOR yellow]BBB² [COLOR lime]HD CAM 9[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD Kodish Team" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs", [B][COLOR yellow]BBB² [COLOR lime]HD CAM 9[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]
 plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]Kodish Team TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://u9in.club:8080/bene/2019/80197
 
-#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD Kodish Team" tvg-logo="https://tinyurl.com/u73u5mt" group-title="Canais: 24hrs", [B][COLOR yellow]BBB² [COLOR lime]SD CAM 8[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD Kodish Team" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs", [B][COLOR yellow]BBB² [COLOR lime]SD CAM 8[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]
 plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]Kodish Team TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://u9in.club:8080/bene/2019/80198
 
-#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD Kodish Team" tvg-logo="https://tinyurl.com/u73u5mt" group-title="Canais: 24hrs", [B][COLOR yellow]BBB² [COLOR lime]HD CAM 8[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD Kodish Team" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs", [B][COLOR yellow]BBB² [COLOR lime]HD CAM 8[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]
 plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]Kodish Team TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://u9in.club:8080/bene/2019/80199
 
-#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD Kodish Team" tvg-logo="https://tinyurl.com/u73u5mt" group-title="Canais: 24hrs", [B][COLOR yellow]BBB² [COLOR lime]SD CAM 7[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD Kodish Team" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs", [B][COLOR yellow]BBB² [COLOR lime]SD CAM 7[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]
 plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]Kodish Team TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://u9in.club:8080/bene/2019/80200
 
-#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD Kodish Team" tvg-logo="https://tinyurl.com/u73u5mt" group-title="Canais: 24hrs", [B][COLOR yellow]BBB² [COLOR lime]HD CAM 7[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD Kodish Team" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs", [B][COLOR yellow]BBB² [COLOR lime]HD CAM 7[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]
 plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]Kodish Team TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://u9in.club:8080/bene/2019/80201
 
-#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD Kodish Team" tvg-logo="https://tinyurl.com/u73u5mt" group-title="Canais: 24hrs", [B][COLOR yellow]BBB² [COLOR lime]SD CAM 6[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD Kodish Team" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs", [B][COLOR yellow]BBB² [COLOR lime]SD CAM 6[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]
 plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]Kodish Team TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://u9in.club:8080/bene/2019/80202
 
-#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD Kodish Team" tvg-logo="https://tinyurl.com/u73u5mt" group-title="Canais: 24hrs", [B][COLOR yellow]BBB² [COLOR lime]HD CAM 6[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD Kodish Team" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs", [B][COLOR yellow]BBB² [COLOR lime]HD CAM 6[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]
 plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]Kodish Team TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://u9in.club:8080/bene/2019/80203
 
-#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD Kodish Team" tvg-logo="https://tinyurl.com/u73u5mt" group-title="Canais: 24hrs", [B][COLOR yellow]BBB² [COLOR lime]SD CAM 5[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD Kodish Team" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs", [B][COLOR yellow]BBB² [COLOR lime]SD CAM 5[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]
 plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]Kodish Team TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://u9in.club:8080/bene/2019/80204
 
-#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD Kodish Team" tvg-logo="https://tinyurl.com/u73u5mt" group-title="Canais: 24hrs", [B][COLOR yellow]BBB ² [COLOR lime]HD CAM 5[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD Kodish Team" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs", [B][COLOR yellow]BBB ² [COLOR lime]HD CAM 5[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]
 plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]Kodish Team TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://u9in.club:8080/bene/2019/80205
 
-#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD Kodish Team" tvg-logo="https://tinyurl.com/u73u5mt" group-title="Canais: 24hrs", [B][COLOR yellow]BBB² [COLOR lime]SD CAM 4[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD Kodish Team" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs", [B][COLOR yellow]BBB² [COLOR lime]SD CAM 4[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]
 plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]Kodish Team TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://u9in.club:8080/bene/2019/80206
 
-#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD Kodish Team" tvg-logo="https://tinyurl.com/u73u5mt" group-title="Canais: 24hrs", [B][COLOR yellow]BBB² [COLOR lime]HD CAM 4[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD Kodish Team" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs", [B][COLOR yellow]BBB² [COLOR lime]HD CAM 4[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]
 plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]Kodish Team TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://u9in.club:8080/bene/2019/80207
 
-#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD Kodish Team" tvg-logo="https://tinyurl.com/u73u5mt" group-title="Canais: 24hrs", [B][COLOR yellow]BBB² [COLOR lime]SD CAM 3[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD Kodish Team" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs", [B][COLOR yellow]BBB² [COLOR lime]SD CAM 3[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]
 plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]Kodish Team TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://u9in.club:8080/bene/2019/80208
 
-#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD Kodish Team" tvg-logo="https://tinyurl.com/u73u5mt" group-title="Canais: 24hrs", [B][COLOR yellow]BBB² [COLOR lime]HD CAM 3[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD Kodish Team" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs", [B][COLOR yellow]BBB² [COLOR lime]HD CAM 3[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]
 plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]Kodish Team TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://u9in.club:8080/bene/2019/80209
 
-#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD Kodish Team" tvg-logo="https://tinyurl.com/u73u5mt" group-title="Canais: 24hrs", [B][COLOR yellow]BBB² [COLOR lime]FHD CAM 2[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]
+#EXTINF:-1 tvg-id=" tvg-name="A Fazenda HD Kodish Team" tvg-logo="http://bit.ly/2Vnu9xN" group-title="Canais: 24hrs", [B][COLOR yellow]BBB² [COLOR lime]FHD CAM 2[COLOR firebrick] TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]
 plugin://plugin.video.f4mTester/?name=[B][COLOR yellow]Kodish Team TVPREMIUM[/COLOR][/B] [B][COLOR lime]Kodish Team  Soluções para seu Kodi[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://u9in.club:8080/bene/2019/80210
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
