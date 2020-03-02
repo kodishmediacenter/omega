@@ -1,4 +1,4 @@
-server.rcs
+https://pastebin.com/raw/tJT8fA5V.rcs
 |Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 Edg/80.0.361.50.rcd
 |Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36.rctvd
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=.rctv2
