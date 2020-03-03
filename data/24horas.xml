@@ -1,5 +1,18 @@
 <channels></channels>
 <channel>
+<name>Pernalonga 24 horas</name>
+<thumbnail>https://vignette.wikia.nocookie.net/looney-tunes/images/7/76/Pernalonga.png/revision/latest?cb=20151212211529&path-prefix=pt-br</thumbnail>
+<item>
+<title>Pernalonga 24 horas </title>
+<m3ul>https://raw.githubusercontent.com/kodishmediacenter/omega/master/pernalonga.m3u</m3ul>
+<thumbnail>https://vignette.wikia.nocookie.net/looney-tunes/images/7/76/Pernalonga.png/revision/latest?cb=20151212211529&path-prefix=pt-br</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
 <name>Miraculus Ladybug 24 horas</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nu6dcBfxr4VmOBj4k1S9r0r1MOW.jpg</thumbnail>
 <item>
