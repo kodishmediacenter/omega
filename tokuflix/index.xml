@@ -121,7 +121,7 @@
  <channels>
  <channel>
  <name>1983 - Sharivan</name>
- <thumbnail>https://i.imgur.com/9gx6CkA</thumbnail>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/Sharivan.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/Sharivan.m3u</externallink>
  <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
  <info></info>
@@ -213,16 +213,6 @@
  <name>1988 - Kamen Rider Black RX</name>
  <thumbnail>https://1.bp.blogspot.com/-17Vy8ILTS0o/XlH9eU0V7EI/AAAAAAAAAOk/ceB7Z8gq2sIQF8gBrjznMHKCH1WAl0JIgCLcBGAsYHQ/s1600/1988%2B-%2BKamen%2BRider%2BBlack%2BRX.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/Kamen%20Rider%20Black%20RX.m3u</externallink>
- <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
- <info></info>
- </channel>
- </channels>
-
- <channels>
- <channel>
- <name>Lista</name>
- <thumbnail></thumbnail>
- <externallink></externallink>
  <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
  <info></info>
  </channel>
