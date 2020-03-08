@@ -58,6 +58,17 @@
  </channel>
  </channels>
 
+<channels>
+ <channel>
+ <name>1978 - Spider-Man</name>
+ <thumbnail>https://2.bp.blogspot.com/-sbUCAhPWXSk/XmJ0UeYTMYI/AAAAAAAAAT0/rsqFW8kfuIAAluFxzUIeysic6Wg105jzACLcBGAsYHQ/s1600/1978%2B-%2BSpider-Man.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/1978%20-%20Spider-Man</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+ <info></info>
+ </channel>
+ </channels>
+
+
  <channels>
  <channel>
  <name>1979 - Battle Fever J</name>
