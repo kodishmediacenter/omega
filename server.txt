@@ -1,6 +1,5 @@
-http://proxyts.hablitz.biz:8082/hls1/.rccanais
-http://proxyts.hablitz.biz:8082/hls1/.rccanais-99999.ts
-https://cdn4.canais.ink/hls1/.rccanais.m3u8?expires=rccanais&token=rccanais
-https://cdn4.canais.ink/hls1/history.m3u8?expires=15083460185&token=02351cd6a3b9aaf23e719b89da739f96
+https://nimbleserver.canais.ink/a/hls1.rccanais
+https://nimbleserver.canais.ink/a/hls1/.rccanais.m3u8?expires=rccanais&token=rccanais
+https://nimbleserver.canais.ink/a/hls1/comedycentral.m3u8?expires=1583744714&token=5ea9984c3100a547c90158d3f61281b8
 
 
