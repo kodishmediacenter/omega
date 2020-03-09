@@ -1,5 +1,5 @@
-https://nimbleserver.canais.ink/a/hls1/.rccanais
-https://nimbleserver.canais.ink/a/hls1/.rccanais.m3u8?expires=rccanais&token=rccanais
-https://nimbleserver.canais.ink/a/hls1/comedycentral.m3u8?expires=1583744714&token=5ea9984c3100a547c90158d3f61281b8
+https://nimbleserver.canais.ink.i.belugacdn.com/a/hls1/.rccanais
+https://nimbleserver.canais.ink.i.belugacdn.com/a/hls1/.rccanais.m3u8?expires=rccanais&token=rccanais
+https://nimbleserver.canais.ink.i.belugacdn.com/a/hls1/comedycentral.m3u8?expires=1583744714&token=5ea9984c3100a547c90158d3f61281b8
 
 
