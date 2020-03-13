@@ -1,5 +1,27 @@
 <channels></channels>
 <channel>
+<name>Mariele o Documetario</name>
+<thumbnail>https://media.fstatic.com/Cp7kDEvZQjMvalrPustbr8YMVbA=/fit-in/210x312/smart/media/movies/covers/2020/03/2020-838-original-globoplay-mariellle-o-documentario-poster.jpg</thumbnail>
+
+<item>
+<title>Mariele o Documetario</title>
+<link>magnet:?xt=urn:btih:3c5199ff5cd3016a65be63c20393a09a9bcf89ca&dn=LAPUMiA.Org%20-%20Marielle%20O%20Document%C3%A1rio%202020%20-%20S01%20%28720p%29&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce</link>
+<thumbnail>https://media.fstatic.com/Cp7kDEvZQjMvalrPustbr8YMVbA=/fit-in/210x312/smart/media/movies/covers/2020/03/2020-838-original-globoplay-mariellle-o-documentario-poster.jpg</thumbnail>
+<fanart></fanart>
+<info>Marielle – O Documentário dá voz àqueles que perderam a companheira, a filha e a amiga. Vídeos de celular, áudios e mensagens de texto de WhatsApp reconstituem o afeto entre a vereadora assassinada e os seus.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qt2l9yFRJfA</trailer>
+<thumbnail>https://media.fstatic.com/Cp7kDEvZQjMvalrPustbr8YMVbA=/fit-in/210x312/smart/media/movies/covers/2020/03/2020-838-original-globoplay-mariellle-o-documentario-poster.jpg</thumbnail>
+<fanart></fanart>
+<info>Marielle – O Documentário dá voz àqueles que perderam a companheira, a filha e a amiga. Vídeos de celular, áudios e mensagens de texto de WhatsApp reconstituem o afeto entre a vereadora assassinada e os seus.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
 <name>Seguidores - Followers</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lOh3ejcmXjM43iXpc0MhVj3M9ih.jpg</thumbnail>
 
