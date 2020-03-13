@@ -472,6 +472,17 @@
 
  <channels>
  <channel>
+ <name>2001 - Kamen Rider Agito</name>
+ <thumbnail>https://4.bp.blogspot.com/-3NBvNK4CRZY/XmqmP7cwACI/AAAAAAAAAUk/-MqBgRp3bYE_5b2YumgvAhTD9_OVMvyPACLcBGAsYHQ/s1600/2001%2B-%2BKamen%2BRider%2BAgito.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/2001%20-%20Kamen%20Rider%20Agito</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+ <info></info>
+ </channel>
+ </channels>
+
+
+ <channels>
+ <channel>
  <name>2004 - Super Sentai Spirits Show</name>
  <thumbnail>https://4.bp.blogspot.com/-cl_oirkXZSg/XlKgOBGkH0I/AAAAAAAAAO4/fxmiU9iPrTsnQAO--PYCYqvxKclWZ5f1ACLcBGAsYHQ/s1600/2004%2B-%2BSuper%2BSentai%2BSpirits.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/Super%20Sentai%20Spirits</externallink>
