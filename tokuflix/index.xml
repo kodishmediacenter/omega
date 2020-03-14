@@ -480,6 +480,16 @@
  </channel>
  </channels>
 
+ <channels>
+ <channel>
+ <name>2001 - Gaoranger</name>
+ <thumbnail>https://4.bp.blogspot.com/-xF44hsGk7HA/XmqvZuhkOqI/AAAAAAAAAUw/n-bj2jjZkyg4670OlDokYBYtBybvPeJ4ACLcBGAsYHQ/s1600/2001%2B-%2BGaoranger.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/2001%20-%20Gaoranger.m3u</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+ <info></info>
+ </channel>
+ </channels>
+
 
  <channels>
  <channel>
