@@ -1,0 +1,14 @@
+<channels></channels>
+<channel>
+<name>Virtual Dj Studio</name>
+<thumbnail>https://img.mewe.com/api/v2/photo/xmbu_Yewutbr-RLVDeVXDeH4AdCJOD74Aurxe09C2AdebQCW6LkSUUU-nnA/768x768/img?static=0</thumbnail>
+
+<item>
+<title>Virtual Dj Studio</title>
+<link>plugin://plugin.video.webplayer/?logos=&amp;move=0&amp;mode=3&amp;index=-1&amp;url=http://mgnet.me/dSSE4qW</link>
+<thumbnail>https://img.mewe.com/api/v2/photo/xmbu_Yewutbr-RLVDeVXDeH4AdCJOD74Aurxe09C2AdebQCW6LkSUUU-nnA/768x768/img?static=0</thumbnail>
+<fanart></fanart>
+<info>Sobre o aplicativo: O Virtual DJ Studio é um sistema de alta performance desenvolvido para aqueles que sempre sonharam em ser um DJ, ou ainda, uma bela ferramenta para aqueles que já tem conhecimento no ramo. É até mesmo possível a instalação do computador em uma televisão para que a imagem do karaokê venha a tela (será necessário uma placa de vídeo especial para essa função – Placa de TV).</info>
+</item>
+
+</channel>
