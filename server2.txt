@@ -2,4 +2,4 @@
 http://redes.kodishteam.online:8084/hls1/.rccanais
 http://redes.kodishteam.online:8084/hls1/.rccanais-99999.ts
 https://nimbleserver.canais.ink/a/hls1/.rccanais.m3u8?expires=rccanais&token=rccanais
-https://nimbleserver.canais.ink/a/hls1/discoveryworld.m3u8?expires=15084012408&token=f2ebda34764ee24455a199a7c91b160f
+https://nimbleserver.canais.ink/a/hls1/mtvlive.m3u8?expires=1584353288&token=7467f1316e9acfa680558f395f4eb8a5
