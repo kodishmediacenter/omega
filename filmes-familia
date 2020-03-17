@@ -106,17 +106,62 @@
 <channels></channels>
 <channel>
 <name>Astro Kid</name>
-<thumbnail>https://image.tmdb.org/t/p/w500/2WjImKh2iXGFRuteLzXU782MJ6l.jpg
-https://image.tmdb.org/t/p/w780/btBvfqIMccYAaI4w8FQ9RoY08d7.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w500/2WjImKh2iXGFRuteLzXU782MJ6l.jpg</thumbnail>
 
 
 <item>
 <title>Astro Kid</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=c2bbeNGNemc</link>
-<thumbnail>https://image.tmdb.org/t/p/w500/2WjImKh2iXGFRuteLzXU782MJ6l.jpg
-https://image.tmdb.org/t/p/w780/btBvfqIMccYAaI4w8FQ9RoY08d7.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w500/2WjImKh2iXGFRuteLzXU782MJ6l.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/btBvfqIMccYAaI4w8FQ9RoY08d7.jpg</fanart>
 <info>O jovem Willy se perde de seus pais depois que a nave espacial deles é destruída por uma chuva de meteoros. Sua cápsula aterriza em um planeta selvagem e inexplorado, e Willy deve aprender a sobreviver nele. Graças à ajuda de Buck, um robô de sobrevivência, ele espera até a chegada da missão de resgate enquanto descobre a fauna, a flora e também os perigos do planeta com seu novo amigo alienígena, Flash.</info>
 </item>
 
+</channel>
+
+<channels></channels>
+<channel>
+<name>Uma Viagem Extraordinária</name>
+<thumbnail>https://image.tmdb.org/t/p/w500/gtmOpncbPJ342QtL9FKbpeY5FVw.jpg</thumbnail>
+
+
+<item>
+<title>Uma Viagem Extraordinária</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-r6czJj8Nqs</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/gtmOpncbPJ342QtL9FKbpeY5FVw.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/3lCiHZpG5HjVWWWy98Mx7vM39Tx.jpg</fanart>
+<info>Aos doze anos de idade, T.S. Spivet é um garoto superdotado, apaixonado por cartografia. Quando ele ganha um prêmio científico prestigioso, o garoto decide abandonar sua família em Montana para atravessar sozinho aos Estados Unidos, até chegar a Washington. O único problema é que o júri não sabe que o vencedor ainda é uma criança.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>A Menina Índigo</name>
+<thumbnail>https://image.tmdb.org/t/p/w500/39tc7NmVSmwnzKIWKpftEG2zjCz.jpg</thumbnail>
+
+
+<item>
+<title>A Menina Índigo</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0XZv2FEYsWY</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/39tc7NmVSmwnzKIWKpftEG2zjCz.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/f7FcFbycvw7Mx2BelJuc6XaKP50.jpg</fanart>
+<info>Sofia é uma criança que desenvolveu o dom de curar enfermidades. Um jornalista sensacionalista descobre seus poderes e a notícia se espalha. Os pais da menina, divorciados, são obrigados a se unir para protegê-la.</info>
+</item>
+
+</channel>
+
+<channels></channels>
+<channel>
+<name>Coração de Tinta - O Livro Mágico</name>
+<thumbnail>https://image.tmdb.org/t/p/w500/3dDGM9MRu9XCVtB7Ufx13UgW4SE.jpg
+https://image.tmdb.org/t/p/w780/8oD8m3W9BRU1lPNMTMXCYEZRueP.jpg</thumbnail>
+
+
+<item>
+<title>Coração de Tinta - O Livro Mágico</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JXeuton5cd8</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/3dDGM9MRu9XCVtB7Ufx13UgW4SE.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/8oD8m3W9BRU1lPNMTMXCYEZRueP.jpg</fanart>
+<info>Mo Folchart (Brendan Fraser) e sua filha Meggie (Eliza Bennett), de 12 anos, são apaixonados por livros. Desde pequena Meggie teve o hábito de leitura estimulado pelo pai, que trabalha como encadernador de livros. Além disto eles têm o poder de trazer à vida personagens dos livros caso o leia em voz alta, só que sempre que isto acontece uma pessoa real é inserida nos livros. Até que um dia, ao passear por um sebo, Mo ouve vozes de "Coração de Tinta", um livro que não lhe traz boas recordações. Sua história possui castelos medievais e estranhas criaturas, com este universo tendo aprisionado a mãe de Meggie quando ela tinha apenas três anos. Mo sempre desejou encontrar o livro e salvar a esposa, mas agora precisa lidar também com o sequestro de Meggie por Capricórnio (Andy Serkis), que deseja dar vida a diversas criaturas malignas.</info>
+</item>
 </channel>
