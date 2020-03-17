@@ -15,8 +15,7 @@
 <channels></channels>
 <channel>
 <name>As Excluídas</name>
-<thumbnail>https://image.tmdb.org/t/p/w500/iTfCOIwedi5tdVCAZ2fiov46WtG.jpg
-https://image.tmdb.org/t/p/w780/5w3Jlnx5PAKkdcxVl7hJ6l5jdGT.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w500/iTfCOIwedi5tdVCAZ2fiov46WtG.jpg</thumbnail>
 
 
 <item>
@@ -57,4 +56,67 @@ https://image.tmdb.org/t/p/w780/5w3Jlnx5PAKkdcxVl7hJ6l5jdGT.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/rJMWFyvcK6lnRjvcseXKBcxbase.jpg</fanart>
 <info>Cyberbully conta a história de Taylor Hillridge (Emily Osment), uma adolescente que se torna vítima de bullying online. Quando sua mãe (Kelly Rowan) lhe dá um computador de aniversário, Taylor se anima pela perspectiva de liberdade e independência de se conectar sem a mãe sempre olhando. Mas Taylor logo se descobre vítima de bullying enquanto visita uma rede social, e, com medo de encarar seus colegas na escola, inclusive sua melhor amiga Samantha (Kay Panabaker), ela é forçada ao limite.</info>
 </item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>E Agora? A Mamãe Saiu de Férias!</name>
+<thumbnail>https://image.tmdb.org/t/p/w500/wLPGZEcVxPjLVZc2pBCDnbTkH5T.jpg</thumbnail>
+
+<item>
+<title>E Agora? A Mamãe Saiu de Férias!</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Cb1u5GAl8Yk</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/wLPGZEcVxPjLVZc2pBCDnbTkH5T.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/rS3sg8qz7BpiXeNWsJEBa8hwFqT.jpg</fanart>
+<info>Giulia (Valentina Lodovini) é uma mãe que abandonou a carreira para se dedicar aos seus três filhos. Carlo (Fabio De Luigi) é marido de Giulia mas, diferente dela, não tem tempo para a família e passa mais tempo no trabalho do que em casa. Tudo muda quando Giulia, cansada da monotonia de sua vida, decide sair de férias por dez dias, deixando Carlo sozinho com as crianças.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>A Pequena Travessa</name>
+<thumbnail>https://image.tmdb.org/t/p/w500/zH9UWgUiDGEilm5j0rm2SRLy6fN.jpg</thumbnail>
+
+
+<item>
+<title>A Pequena Travessa</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5POef63D6qE</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/zH9UWgUiDGEilm5j0rm2SRLy6fN.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/1WXtjBR5HhDSXpUy0axh6M9hB71.jpg</fanart>
+<info>Lilli Susewind (Malu Leicher) tem a habilidade de falar com animais, mas fora seus pais e sua avó, ninguém sabe deste segredo. Quando ela conhece Jess (Aaron Kissiov), um menino divertido e misterioso, decide contar para ele. Juntos, os dois precisam achar o filhote de elefante que foi roubado do zoológico.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Gnomeu e Julieta</name>
+<thumbnail>https://image.tmdb.org/t/p/w500/jmXuvFcGA1ls2ZaiRB0iK1ER3Ks.jpg</thumbnail>
+
+
+<item>
+<title>Gnomeu e Julieta</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9znpkVUDpbk</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/jmXuvFcGA1ls2ZaiRB0iK1ER3Ks.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/5VDfdJBofpvXAMtaHTT8YFE0lru.jpg</fanart>
+<info>Gnomeu (James McAvoy) e Julieta (Emily Blunt) são anões de jardim cujas famílias são vizinhas e rivais. Um dia eles se apaixonam, para desgosto dos familiares. Para ficarem juntos, eles precisarão enfrentar diversos obstáculos.</info>
+</item>
+
+</channel>
+
+<channels></channels>
+<channel>
+<name>Astro Kid</name>
+<thumbnail>https://image.tmdb.org/t/p/w500/2WjImKh2iXGFRuteLzXU782MJ6l.jpg
+https://image.tmdb.org/t/p/w780/btBvfqIMccYAaI4w8FQ9RoY08d7.jpg</thumbnail>
+
+
+<item>
+<title>Astro Kid</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=c2bbeNGNemc</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/2WjImKh2iXGFRuteLzXU782MJ6l.jpg
+https://image.tmdb.org/t/p/w780/btBvfqIMccYAaI4w8FQ9RoY08d7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/btBvfqIMccYAaI4w8FQ9RoY08d7.jpg</fanart>
+<info>O jovem Willy se perde de seus pais depois que a nave espacial deles é destruída por uma chuva de meteoros. Sua cápsula aterriza em um planeta selvagem e inexplorado, e Willy deve aprender a sobreviver nele. Graças à ajuda de Buck, um robô de sobrevivência, ele espera até a chegada da missão de resgate enquanto descobre a fauna, a flora e também os perigos do planeta com seu novo amigo alienígena, Flash.</info>
+</item>
+
 </channel>
