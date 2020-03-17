@@ -1,0 +1,60 @@
+<channels></channels>
+<channel>
+<name>Turma do Arco Iris</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iuEwYnzdBoAcgKKiJNVBoyMc0tZ.jpg</thumbnail>
+
+<item>
+<title>Turma do Arco Iris</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8ZkVWxIQt8M</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iuEwYnzdBoAcgKKiJNVBoyMc0tZ.jpg</thumbnail>
+<fanart></fanart>
+<info>Morgan Roberts, um homem diante de uma crise de meia idade volta ao acampamento de verão que adorava quando era criança. Seu melhor amigo de infância, Sunny, é o diretor do acampamento e junto com Morgan fica responsável por cuidar de crianças de 10 anos.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>As Excluídas</name>
+<thumbnail>https://image.tmdb.org/t/p/w500/iTfCOIwedi5tdVCAZ2fiov46WtG.jpg
+https://image.tmdb.org/t/p/w780/5w3Jlnx5PAKkdcxVl7hJ6l5jdGT.jpg</thumbnail>
+
+
+<item>
+<title>As Excluídas</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=sPTmYhALj0U</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/iTfCOIwedi5tdVCAZ2fiov46WtG.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/5w3Jlnx5PAKkdcxVl7hJ6l5jdGT.jpg</fanart>
+<info>Depois de serem vítimas de uma brincadeira humilhante pela Abelha Rainha da escola, as melhores amigas nerds, Mindy e Jodi, decidem começar uma vingança escolar reunindo todos os nerd que já foram pisados por ela. Porém no meio da guerra é que a amizade de Jodi e Mindy será provada.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>D.U.F.F. - Você Conhece, Tem ou É</name>
+<thumbnail>https://image.tmdb.org/t/p/w500/yPYiE3a0TsfN3JgAf1IF7P32One.jpg</thumbnail>
+
+
+<item>
+<title>D.U.F.F. - Você Conhece, Tem ou É</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ISoc4H0eKSI</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/yPYiE3a0TsfN3JgAf1IF7P32One.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/awGZf5T1hflis9Z2KvRMhp798xU.jpg</fanart>
+<info>A jovem Bianca (Mae Whitman) descobre um dia que foi escolhidas pelas amigas de colégio como uma DUFF (Designated Ugly Fat Friend), ou seja uma amiga feia para que elas se pareçam ainda mais bonitas em comparação. Revoltada, Bianca pede a um atleta popular da escola para ajudá-la a melhorar o seu visual.</info>
+</item>
+</channel>
+
+
+<channels></channels>
+<channel>
+<name>Bullying Virtual</name>
+<thumbnail>https://image.tmdb.org/t/p/w500/5uIau0yfrbwTogp2LJOQ9pqEO5V.jpg</thumbnail>
+
+
+<item>
+<title>Bullying Virtual</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=J0L62VoL_KY</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/5uIau0yfrbwTogp2LJOQ9pqEO5V.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/rJMWFyvcK6lnRjvcseXKBcxbase.jpg</fanart>
+<info>Cyberbully conta a história de Taylor Hillridge (Emily Osment), uma adolescente que se torna vítima de bullying online. Quando sua mãe (Kelly Rowan) lhe dá um computador de aniversário, Taylor se anima pela perspectiva de liberdade e independência de se conectar sem a mãe sempre olhando. Mas Taylor logo se descobre vítima de bullying enquanto visita uma rede social, e, com medo de encarar seus colegas na escola, inclusive sua melhor amiga Samantha (Kay Panabaker), ela é forçada ao limite.</info>
+</item>
+</channel>
