@@ -1,5 +1,88 @@
 <channels></channels>
 <channel>
+<name>Oddball e os Pinguins</name>
+<thumbnail>https://image.tmdb.org/t/p/w500/6YO97iJp72HHlNcgFDMmmj7pjIy.jpg</thumbnail>
+
+
+<item>
+<title>Oddball e os Pinguins</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jhzhCIFqPVE</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/6YO97iJp72HHlNcgFDMmmj7pjIy.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/hQjrVJvAiWvh7AQTiL1zggI7EgX.jpg</fanart>
+<info>Um excêntrico fazendeiro criador de galinhas, junto com sua neta, treinam seu travesso cachorro Oddball para proteger um santuário de pinguins ameaçado por ataques de raposas. O treinamento é uma tentativa de reunir a família, salvar a cidade à beira-mar e proteger o cachorro que passo por apuros.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Nos Caminhos de Deus</name>
+<thumbnail>https://image.tmdb.org/t/p/w500/sGNobjmZRuzaeX7MzeO4j7f9QXi.jpg</thumbnail>
+
+
+<item>
+<title>Nos Caminhos de Deus</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mk_rUfrxGvY</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/sGNobjmZRuzaeX7MzeO4j7f9QXi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/zsyvqW7jgObHdzBdHkxzLSohncF.jpg</fanart>
+<info>Quando a vida não poderia estar melhor, Ryan vê a crise bater à sua porta, abalando suas estruturas familiares e profissionais. Com a ajuda de seu pai, com o apoio incondicional de sua família, ele embarca em uma jornada particular que mudará sua perspectiva sobre tudo ao seu redor.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>ARCHIE - O Cão Robô</name>
+<thumbnail>https://image.tmdb.org/t/p/w500/nYEEmFFlT5jVbe8xfCP6WVwhKN2.jpg
+https://image.tmdb.org/t/p/w780/w1JRQogNHtpXLLWCM6mJJgQVsfl.jpg</thumbnail>
+
+
+<item>
+<title>ARCHIE - O Cão Robô</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fY8bqYH-UXI</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/nYEEmFFlT5jVbe8xfCP6WVwhKN2.jpg
+https://image.tmdb.org/t/p/w780/w1JRQogNHtpXLLWCM6mJJgQVsfl.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/w1JRQogNHtpXLLWCM6mJJgQVsfl.jpg</fanart>
+<info>Após perder os pais em um acidente de carro, Isabel (Sarah Desjardins) vai morar com o seu tio, o prefeito de uma pequena cidade. Sentindo-se sozinha e sem amigos, ela conhece um cachorro de rua chamado Archie. Em pouco tempo ela descobre que seu novo amigo é um robô experimental cheio de super poderes. Agora Isabel e seu cachorro, devem trabalhar juntos para derrotar uma franquia de Fastfood que está chantageando seu tio. E o que é pior,  um homem mau chamado Hugh Jablonski aparece na cidade dizendo ser legítimo proprietário de Archie.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>O Último Viking</name>
+<thumbnail>https://image.tmdb.org/t/p/w500/mimDKzVJFGtCP9ZWLt0hwoi9Ijh.jpg
+https://image.tmdb.org/t/p/w780/gFbN4bBrtNvj3gsLE2oo3tsO6AB.jpg</thumbnail>
+
+
+<item>
+<title>O Último Viking</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dUFUPDrTMb0</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/mimDKzVJFGtCP9ZWLt0hwoi9Ijh.jpg
+https://image.tmdb.org/t/p/w780/gFbN4bBrtNvj3gsLE2oo3tsO6AB.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/gFbN4bBrtNvj3gsLE2oo3tsO6AB.jpg</fanart>
+<info>Um jovem viking chamado Vitharr chega à Bretanha com sonhos de conquista e aventura, mas, quando sua família e seu clã são emboscados e mortos, ele deve sobreviver sozinho nesta nova e estranha terra perigosa, enquanto procura o local em que seu tio se instalou e agora está vivendo.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Branca de Neve</name>
+<thumbnail>https://image.tmdb.org/t/p/w500/r9gjrwJasvel2yPxz2CMst99THj.jpg
+https://image.tmdb.org/t/p/w780/7eoIQCeAMCw1pevX4Dhqs0MJzYN.jpg</thumbnail>
+
+
+<item>
+<title>Branca de Neve</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=k0Dt2DeG0Ic</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/r9gjrwJasvel2yPxz2CMst99THj.jpg
+https://image.tmdb.org/t/p/w780/7eoIQCeAMCw1pevX4Dhqs0MJzYN.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/7eoIQCeAMCw1pevX4Dhqs0MJzYN.jpg</fanart>
+<info>Com a morte de sua esposa, John fica com um pequeno bebê para cuidar… era a linda garotinha chamada Branca de Neve. O desespero do pai em busca de leite para o bebê o leva às lágrimas. E graças a elas, um ser ´enterrado´ na neve renasce e concede alguns pedidos a John… prontamente Branca de Neve ganha leite e na sequência um reino… com direito a uma madrasta obcecada pela sua beleza e que também vai morrer de inveja quando a garota se tornar uma linda jovem… mais bela do que ela!</info>
+</item>
+</channel>
+
+
+
+<channels></channels>
+<channel>
 <name>A Princesa e o Dragão</name>
 <thumbnail>https://image.tmdb.org/t/p/w500/wgxCWbhjld2NC3ojXSt1ZsnhOp7.jpg</thumbnail>
 
