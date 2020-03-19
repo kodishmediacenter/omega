@@ -31,15 +31,13 @@
 <channels></channels>
 <channel>
 <name>ARCHIE - O Cão Robô</name>
-<thumbnail>https://image.tmdb.org/t/p/w500/nYEEmFFlT5jVbe8xfCP6WVwhKN2.jpg
-https://image.tmdb.org/t/p/w780/w1JRQogNHtpXLLWCM6mJJgQVsfl.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w500/nYEEmFFlT5jVbe8xfCP6WVwhKN2.jpg</thumbnail>
 
 
 <item>
 <title>ARCHIE - O Cão Robô</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fY8bqYH-UXI</link>
-<thumbnail>https://image.tmdb.org/t/p/w500/nYEEmFFlT5jVbe8xfCP6WVwhKN2.jpg
-https://image.tmdb.org/t/p/w780/w1JRQogNHtpXLLWCM6mJJgQVsfl.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w500/nYEEmFFlT5jVbe8xfCP6WVwhKN2.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/w1JRQogNHtpXLLWCM6mJJgQVsfl.jpg</fanart>
 <info>Após perder os pais em um acidente de carro, Isabel (Sarah Desjardins) vai morar com o seu tio, o prefeito de uma pequena cidade. Sentindo-se sozinha e sem amigos, ela conhece um cachorro de rua chamado Archie. Em pouco tempo ela descobre que seu novo amigo é um robô experimental cheio de super poderes. Agora Isabel e seu cachorro, devem trabalhar juntos para derrotar uma franquia de Fastfood que está chantageando seu tio. E o que é pior,  um homem mau chamado Hugh Jablonski aparece na cidade dizendo ser legítimo proprietário de Archie.</info>
 </item>
@@ -48,8 +46,7 @@ https://image.tmdb.org/t/p/w780/w1JRQogNHtpXLLWCM6mJJgQVsfl.jpg</thumbnail>
 <channels></channels>
 <channel>
 <name>O Último Viking</name>
-<thumbnail>https://image.tmdb.org/t/p/w500/mimDKzVJFGtCP9ZWLt0hwoi9Ijh.jpg
-https://image.tmdb.org/t/p/w780/gFbN4bBrtNvj3gsLE2oo3tsO6AB.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w500/mimDKzVJFGtCP9ZWLt0hwoi9Ijh.jpg</thumbnail>
 
 
 <item>
@@ -65,8 +62,7 @@ https://image.tmdb.org/t/p/w780/gFbN4bBrtNvj3gsLE2oo3tsO6AB.jpg</thumbnail>
 <channels></channels>
 <channel>
 <name>Branca de Neve</name>
-<thumbnail>https://image.tmdb.org/t/p/w500/r9gjrwJasvel2yPxz2CMst99THj.jpg
-https://image.tmdb.org/t/p/w780/7eoIQCeAMCw1pevX4Dhqs0MJzYN.jpg</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w500/r9gjrwJasvel2yPxz2CMst99THj.jpg</thumbnail>
 
 
 <item>
