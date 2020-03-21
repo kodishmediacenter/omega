@@ -1,3 +1,17 @@
+
+<channels></channels>
+<channel>
+<name>Zorro 24 horas</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/e/ea/Zorro_%28Diego_de_la_Vega%29.jpg</thumbnail>
+<item>
+<title>Zorro 24 horas </title>
+<m3ul>https://raw.githubusercontent.com/kodishmediacenter/omega/master/zorro.m3u</m3ul>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/e/ea/Zorro_%28Diego_de_la_Vega%29.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
 <channels></channels>
 <channel>
 <name>Pernalonga 24 horas</name>
