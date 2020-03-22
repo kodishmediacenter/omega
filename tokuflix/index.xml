@@ -511,6 +511,16 @@
  </channel>
  </channels>
 
+ <channels>
+ <channel>
+ <name>2002 - Hurricanger</name>
+ <thumbnail>https://1.bp.blogspot.com/-Ebb-tJvEo6g/XnP9chv_F-I/AAAAAAAAAV0/tFuSXfzm5OQIbSsd-kBB-0IjXiPx01FMQCLcBGAsYHQ/s1600/2002%2B-%2BHurricanger.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/2002%20-%20Hurricanger</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+ <info></info>
+ </channel>
+ </channels>
+
 
 
  <channels>
@@ -543,6 +553,17 @@
  <info></info>
  </channel>
  </channels>
+
+ <channels>
+ <channel>
+ <name>2007 - Panchanne</name>
+ <thumbnail>https://3.bp.blogspot.com/-15oabs4uzpQ/XnZ-_OSMi_I/AAAAAAAAAWA/89xMXgwyk-wc8jx58ow5YHq-7w60PNh4wCLcBGAsYHQ/s1600/2007%2B-%2BPanchanne.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/2007%20-%20Panchanne</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+ <info></info>
+ </channel>
+ </channels>
+
 
  <channels>
  <channel>
