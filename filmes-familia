@@ -1,5 +1,69 @@
 <channels></channels>
 <channel>
+<name>A Bailarina</name>
+<thumbnail>https://image.tmdb.org/t/p/w500/tw0WxvysE85rwynzZUCw36VRWiA.jpg</thumbnail>
+
+
+<item>
+<title>A Bailarina</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=YHT2APjMnVU</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/tw0WxvysE85rwynzZUCw36VRWiA.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/wlLdcK3Sm7zp0w1ZuVvnFlmcchM.jpg</fanart>
+<info>Felicie é uma menina órfã apaixonada pela dança. Ao lado do seu melhor amigo Victor, que deseja se tornar um grande inventor, eles desenvolvem um grande plano de fuga para conseguirem o que querem. Eles fogem do orfanato em que vivem para Paris, a Cidade Luz, onde a torre Eiffel ainda está sendo construída. Felicie terá que se superar e aprender com seus erros para tornar o seu grande sonho em realidade: ser uma grande bailarina da Ópera Nacional de Paris.</info>
+</item>
+
+</channel>
+
+<channels></channels>
+<channel>
+<name>Team Hot Wheels: Mandando Bem </name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lqoYxPywpRlUHtk7IyB2bXPki7Y.jpg</thumbnail>
+
+<item>
+<title>Team Hot Wheels: Mandando Bem </title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=knKCfvZMk-Y</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lqoYxPywpRlUHtk7IyB2bXPki7Y.jpg</thumbnail>
+<fanart></fanart>
+<info>Na cidade mais lenta do mundo, quatro garotos sortudos estão a ponto de descobrir que a vida pode ser mais radical na pista de corrida! Conheçam Gage, Wyatt, Brandon e Rhett, que nasceram para pilotar. Separados, eles são ótimos e treinadíssimos pilotos, mas juntos eles são o Team Hot Wheels. Um misterioso carro surge na cidade, criando uma incrível pista laranja por onde passa, mas criando também monstros destruidores. Entre numa incrível aventura, quando o Team Hot Wheels descobre seu verdadeiro talento de pilotar, confronta os Mutant Machines, dirige em caóticas pistas, aprende a trabalhar em equipe e corre para salvar sua cidade!</info>
+</item>
+
+</channel>
+
+<channels></channels>
+<channel>
+<name>O Poderoso Chefinho</name>
+<thumbnail>https://image.tmdb.org/t/p/w500/6rctP6SAW7caWbx9NgxGnn3fU07.jpg</thumbnail>
+
+
+<item>
+<title>O Poderoso Chefinho</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=doDVjbN9Qmw</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/6rctP6SAW7caWbx9NgxGnn3fU07.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/8keMlLuzB9XIUBnbdEq5DCqZdHQ.jpg</fanart>
+<info>Um bebê falante que usa terno e carrega uma maleta misteriosa une forças com seu irmão mais velho invejoso para impedir que um inescrupuloso CEO acabe com o amor no mundo. A missão é salvar os pais, impedir a catástrofe e provar que o mais intenso dos sentimentos é uma poderosa força.</info>
+</item>
+
+</channel>
+
+<channels></channels>
+<channel>
+<name>A Família Addams</name>
+<thumbnail>https://image.tmdb.org/t/p/w500/mDCIHb6BJ27PhdAz36JWc4chKlb.jpg</thumbnail>
+
+
+<item>
+<title>A Família Addams</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6GBsLxpLZ0Q</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/mDCIHb6BJ27PhdAz36JWc4chKlb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/ur4NTeFGZmQ6Hz5uEkAMgPI3WRg.jpg</fanart>
+<info>Para ir de mal a pior, a Família Addams precisa se preparar para receber uma visita de parentes ainda mais arrepiantes. Mas a misteriosa mansão deles parece estar com os dias de maldade contados. Prepare-se para estalar os dedos! O clã assustador mais querido dos cinemas está de volta nessa animação baseada nos quadrinhos de Charles Addams.</info>
+</item>
+</channel>
+
+
+
+<channels></channels>
+<channel>
 <name>Oddball e os Pinguins</name>
 <thumbnail>https://image.tmdb.org/t/p/w500/6YO97iJp72HHlNcgFDMmmj7pjIy.jpg</thumbnail>
 
