@@ -172,6 +172,16 @@
 
  <channels>
  <channel>
+ <name>1984 - Machineman</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/1984%20-%20Machineman</thumbnail>
+ <externallink>https://3.bp.blogspot.com/-_hRjUPmGXCc/Xnq86ueqmfI/AAAAAAAAAWw/xnjGnBTHxlwStOnD09qvv6yRjGN81cbKgCLcBGAsYHQ/s1600/1984%2B-%2BMachineman.jpg</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+ <info></info>
+ </channel>
+ </channels>
+
+ <channels>
+ <channel>
  <name>1984 - Kamen Rider ZX</name>
  <thumbnail>https://4.bp.blogspot.com/-DPP1Z3Xtaps/Xk8TYe9Oj4I/AAAAAAAAANE/GjrBRTg4hIUDqcfIn9_beCzslOUlKnEvACLcBGAsYHQ/s1600/1984%2B-%2BKamen%2BRider%2BZX.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/Kamen%20Rider%20ZX.m3u</externallink>
