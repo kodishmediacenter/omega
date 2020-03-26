@@ -1,4 +1,16 @@
-<channels>
+
+
+ <channels>
+ <channel>
+ <name>[COLOR whinte][B]Virtual Addon [/B][/COLOR][COLOR red][B][/COLOR] ||| Hidra [/B][COLOR red][B]Cangaço |||[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/logo.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/virtual-addons-cloud</externallink>
+ <fanart>https://spinoff.com.br/wp-content/uploads/watch-free-iptv-online-with-tablet-pc-smartphone-laptop-tv.jpg</fanart>
+ <info></info>
+ </channel>
+ </channels>
+ 
+ <channels>
  <channel>
  <name>[COLOR whinte][B]Lista TV [/B][/COLOR][COLOR red][B][/COLOR] ||| Hidra [/B][COLOR red][B]Cangaço |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/iptv.png</thumbnail>
@@ -8,7 +20,7 @@
  </channel>
  </channels>
  
-  <channels>
+ <channels>
  <channel>
  <name>[COLOR whinte][B]Big Brother Brasil 20[/B][/COLOR][COLOR red][B][/COLOR] ||| Hidra [/B][COLOR red][B]Cangaço |||[/B][/COLOR] </name>
  <thumbnail>https://upload.wikimedia.org/wikipedia/pt/b/b2/Bloggif_5e236b0773b79.png</thumbnail>
