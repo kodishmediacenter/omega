@@ -57,3 +57,45 @@
  <info>Esse conteudo foi adaptado para rodar hidra cangaço mas seus creditos vão Jony Rocha e Tecnico Celinho pela Lista</info>
  </channel>
  </channels>
+ 
+ <channels>
+ <channel>
+ <name>Box Filmes Pixar</name>
+ <thumbnail>https://images-na.ssl-images-amazon.com/images/I/91VwNjhlqpL._AC_SL1500_.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/pixar</externallink>
+ <fanart>https://wallpaperaccess.com/full/331648.jpg</fanart>
+ <info></info>
+ </channel>
+ </channels> 
+  
+<channels>
+ <channel>
+ <name>Ultraman</name>
+ <thumbnail>https://http2.mlstatic.com/serie-ultraman-hayata-dvd-dublado-completo-D_NQ_NP_163221-MLB20750828787_062016-F.jpg</thumbnail>
+ <externallink>https://pastebin.com/raw/pQXK5YmT</externallink>
+ <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
+ <info></info>
+ </channel>
+ </channels>
+
+ <channels>
+ <channel>
+ <name>Star Track</name>
+ <thumbnail>http://webtvcde.com/Series/Star.Trek.3/Star.Trek.3.jpg</thumbnail>
+ <externallink>https://pastebin.com/raw/fyAUQhgA</externallink>
+ <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
+ <info></info>
+ </channel>
+ </channels>
+ 
+ <channels>
+ <channel>
+ <name>Box de Filmes Studio Ghibli</name>
+ <thumbnail>https://miro.medium.com/max/1080/1*UQx_ESZRnKkk0ZwAHP2Qlg.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/guibli.xml</externallink>
+ <fanart>https://uploads.jovemnerd.com.br/wp-content/uploads/2020/01/studio-ghibli-novos-filmes.jpg</fanart>
+ <info></info>
+ </channel>
+ </channels>
+ 
+ 
