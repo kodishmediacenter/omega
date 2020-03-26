@@ -7,8 +7,8 @@
  <info></info>
  </channel>
  </channels>
- 
- </channels> <channels>
+
+ <channels>
  <channel>
  <name>COLDPLAY </name>
  <thumbnail>https://image.ibb.co/mqmRi8/capa1.png</thumbnail>
@@ -17,3 +17,23 @@
  <info></info>
  </channel>
  </channels> 
+ 
+ <channels>
+ <channel>
+ <name>Meus Flash Back Favorito</name>
+ <thumbnail>http://images.suaradioonline.com.br/imagens/radios/1506644564.png</thumbnail>
+ <externallink>https://pastebin.com/raw/qHkntmSv</externallink>
+ <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
+ <info></info>
+ </channel>
+ </channels>
+
+<channels>
+<channel>
+<name>So Classicos</name>
+<thumbnail>https://ia601502.us.archive.org/23/items/Icon1_20180430/icon[1].jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/store/master/virtualaddon/So%20Classicos/base.txt</externallink>
+<fanart>http://www.guoguiyan.com/data/out/56/68663714-disco-wallpapers.jpg</fanart>
+<info></info>
+</channel>
+</channels>
