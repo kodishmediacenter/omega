@@ -37,3 +37,23 @@
 <info></info>
 </channel>
 </channels>
+
+<channels>
+ <channel>
+ <name>Lista Series Jony Rocha</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/nostalgia.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/jr-series</externallink>
+ <fanart>https://wallpapersite.com/images/pages/pic_w/4090.jpg</fanart>
+ <info>Esse conteudo foi adaptado para rodar hidra cangaço mas seus creditos vão Jony Rocha e Tecnico Celinho pela Lista</info>
+ </channel>
+ </channels>
+
+ <channels>
+ <channel>
+ <name>Lista Filmes Jony Rocha </name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/nostalgia.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/jr-filmes.m3u</externallink>
+ <fanart>https://i1.wp.com/www.portallos.com.br/wp-content/uploads/2016/03/Tartarugas-Ninja-Wallpaper-post.jpg</fanart>
+ <info>Esse conteudo foi adaptado para rodar hidra cangaço mas seus creditos vão Jony Rocha e Tecnico Celinho pela Lista</info>
+ </channel>
+ </channels>
