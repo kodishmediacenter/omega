@@ -98,6 +98,16 @@
  </channel>
  </channels>
 
+ <channels>
+ <channel>
+ <name>1977 - Kaiketsu Zubat</name>
+ <thumbnail>https://4.bp.blogspot.com/-U5rhgexY6yw/Xn0qLuPuKuI/AAAAAAAAAYA/XnuBB9PfTKEg2BAZCRtNaaV2tTE3c8tdgCLcBGAsYHQ/s1600/1977%2B-%2BKaiketsu%2BZubat.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/1977%20-%20Kaiketsu%20Zubat</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+ <info></info>
+ </channel>
+ </channels>
+
 <channels>
  <channel>
  <name>1978 - Spider-Man</name>
