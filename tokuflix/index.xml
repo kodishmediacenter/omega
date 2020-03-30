@@ -250,6 +250,17 @@
  </channels>
 
  <channels>
+<channel>
+<name>1985 - Sukeban Deka</name>
+<thumbnail>https://4.bp.blogspot.com/-PtOL1FqpH5c/Xn_KmtU1syI/AAAAAAAAAZI/mo4D5b1PcdEUpUPEOmglkyQmbf893zMXwCLcBGAsYHQ/s1600/1985%2B-%2BSukeban%2BDeka.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/1985%20-%20Sukeban%20Deka</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+<info></info>
+</channel>
+</channels>
+
+
+ <channels>
  <channel>
  <name>1987 - Maskman</name>
  <thumbnail>https://1.bp.blogspot.com/-ACujHzxc4tM/XlA0ZCLeJeI/AAAAAAAAANQ/26ZlcGsCP-oB3VgbK77JAbXHlriPr7DVwCLcBGAsYHQ/s1600/1987%2B-%2BMaskman.jpg</thumbnail>
@@ -318,6 +329,29 @@
  <info></info>
  </channel>
  </channels>
+
+ 
+<channels>
+<channel>
+<name>1989 - Guyver</name>
+<thumbnail>https://3.bp.blogspot.com/-v-vNHgmt_VM/XnqJol9uMgI/AAAAAAAAAWk/PEMBqr8c_yIdZQXY2MfwWB_zdD9BKG30wCLcBGAsYHQ/s1600/1989%2B-%2BGuyver.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/1989%20-%20Guyver</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+<info></info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>1989 - Samurai Warriors</name>
+<thumbnail>https://3.bp.blogspot.com/-OHA5zlWgf-Q/Xn5pjNr158I/AAAAAAAAAYk/x7svB4VDns8I5Ci9jspmRtupceaXMRSPgCLcBGAsYHQ/s1600/1989%2B-%2BSamurai%2BWarriors.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/1989%20-%20Samurai%20Warriors</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+<info></info>
+</channel>
+</channels>
+
 
  <channels>
  <channel>
@@ -454,6 +488,16 @@
  <name>1994 - Kamen Rider World - Filme</name>
  <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/khtlWrrQFi74bsyDJiaQuVZlam1.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/Kamen%20Rider%20World%20-%20Filme</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+ <info></info>
+ </channel>
+ </channels>
+
+ <channels>
+ <channel>
+ <name>1995 - Street Fighter II V</name>
+ <thumbnail>https://3.bp.blogspot.com/-iBFc7UimNf0/Xn_K8PFdsyI/AAAAAAAAAZU/1NyXgfZdcGgAPb6dMhj2Dird2ogCIigdACLcBGAsYHQ/s1600/1995%2B-%2BStreet%2BFighter.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/1995%20-%20Street%20Fighter%20II%20V</externallink>
  <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
  <info></info>
  </channel>
