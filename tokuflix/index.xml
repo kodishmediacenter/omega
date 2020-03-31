@@ -633,7 +633,15 @@
  </channel>
  </channels>
 
-
+ <channels>
+ <channel>
+ <name>2003 - Kamen Rider 555</name>
+ <thumbnail>https://2.bp.blogspot.com/-RMDI3pNbr1o/XoJbEdNwDpI/AAAAAAAAAZs/b-4hpxI8d3gdDSviY0s3Cm868wgbpAqHgCLcBGAsYHQ/s1600/2003%2B-%2BKamen%2BRider%2B555.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/2003%20-%20Kamen%20Rider%20555</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+ <info></info>
+ </channel>
+ </channels>
 
  <channels>
  <channel>
