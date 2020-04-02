@@ -1,0 +1,101 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP01 - Tokuflix
+https://content.jwplatform.com/videos/94XT61HK-1n20FnGX.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP02 - Tokuflix
+https://content.jwplatform.com/videos/Hlnvhfm0-1n20FnGX.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP03 - Tokuflix
+https://content.jwplatform.com/videos/JbAVrzhP-1n20FnGX.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP04 - Tokuflix
+https://content.jwplatform.com/videos/NyOvsTxq-1n20FnGX.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP05 - Tokuflix
+https://content.jwplatform.com/videos/6t9OmqmB-1n20FnGX.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP06 - Tokuflix
+https://content.jwplatform.com/videos/2LeiyMyF-1n20FnGX.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP07 - Tokuflix
+https://content.jwplatform.com/videos/mfjtqKyF-1n20FnGX.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP08 - Tokuflix
+https://content.jwplatform.com/videos/qKhBPUmJ-1n20FnGX.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP09 - Tokuflix
+https://content.jwplatform.com/videos/yuHEfJDP-1n20FnGX.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP10 - Tokuflix
+https://content.jwplatform.com/videos/TviD5RoX-1n20FnGX.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP11 - Tokuflix
+https://content.jwplatform.com/videos/BN1QtSxV-RtE2or80.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP12 - Tokuflix
+https://content.jwplatform.com/videos/VnwU5ocG-RtE2or80.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP13 - Tokuflix
+https://content.jwplatform.com/videos/bg2RRuZk-RtE2or80.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP14 - Tokuflix
+https://content.jwplatform.com/videos/viG74J3P-RtE2or80.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP15 - Tokuflix
+https://content.jwplatform.com/videos/MWsBpzuo-RtE2or80.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP16 - Tokuflix
+https://content.jwplatform.com/videos/lt4DXIL6-RtE2or80.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP17 - Tokuflix
+https://content.jwplatform.com/videos/sm0wGFoN-RtE2or80.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP18 - Tokuflix
+https://content.jwplatform.com/videos/ZWSaIXmV-RtE2or80.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP19 - Tokuflix
+https://content.jwplatform.com/videos/6Taw0ncp-RtE2or80.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP20 - Tokuflix
+https://content.jwplatform.com/videos/pFwKrkXR-RtE2or80.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP21 - Tokuflix
+https://content.jwplatform.com/videos/ilgPNzHR-Z5RVmQJN.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP22 - Tokuflix
+https://content.jwplatform.com/videos/vE0TwqLA-Z5RVmQJN.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP23 - Tokuflix
+https://content.jwplatform.com/videos/JaJxPXoY-Z5RVmQJN.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP24 - Tokuflix
+https://content.jwplatform.com/videos/ZNZyV7eP-Z5RVmQJN.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP25 - Tokuflix
+https://content.jwplatform.com/videos/0Aqtbgju-Z5RVmQJN.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP26 - Tokuflix
+https://content.jwplatform.com/videos/ZqwPL89V-Z5RVmQJN.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP27 - Tokuflix
+https://content.jwplatform.com/videos/26O8ND87-Z5RVmQJN.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP28 - Tokuflix
+https://content.jwplatform.com/videos/UXy6bsFt-Z5RVmQJN.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP29 - Tokuflix
+https://content.jwplatform.com/videos/CjSQjNtp-Z5RVmQJN.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP30 - Tokuflix
+https://content.jwplatform.com/videos/mnVCU0KZ-Z5RVmQJN.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP31 - Tokuflix
+https://content.jwplatform.com/videos/91A8mbfQ-FL2Er8MW.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP32 - Tokuflix
+https://content.jwplatform.com/videos/gvIco9po-FL2Er8MW.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP33 - Tokuflix
+https://content.jwplatform.com/videos/qPmWJZyW-FL2Er8MW.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP34 - Tokuflix
+https://content.jwplatform.com/videos/xqs72c6w-FL2Er8MW.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP35 - Tokuflix
+https://content.jwplatform.com/videos/xbnEoD2V-FL2Er8MW.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP36 - Tokuflix
+https://content.jwplatform.com/videos/ZvekzaqA-FL2Er8MW.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP37 - Tokuflix
+https://content.jwplatform.com/videos/5ufVxFCB-FL2Er8MW.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP38 - Tokuflix
+https://content.jwplatform.com/videos/415QWRLC-FL2Er8MW.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP39 - Tokuflix
+https://content.jwplatform.com/videos/n1urRDRh-FL2Er8MW.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP40 - Tokuflix
+https://content.jwplatform.com/videos/jxtLmzq8-FL2Er8MW.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP41 - Tokuflix
+https://content.jwplatform.com/videos/jljp7W5g-mdSJknit.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP42 - Tokuflix
+https://content.jwplatform.com/videos/gz3sY88v-mdSJknit.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP43 - Tokuflix
+https://content.jwplatform.com/videos/PFJ2BeLd-mdSJknit.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP44 - Tokuflix
+https://content.jwplatform.com/videos/QKHhOB2C-mdSJknit.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP45 - Tokuflix
+https://content.jwplatform.com/videos/YFAiQ9xl-mdSJknit.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP46 - Tokuflix
+https://content.jwplatform.com/videos/vtkYujjc-mdSJknit.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP47 - Tokuflix
+https://content.jwplatform.com/videos/MJfV0Qtg-mdSJknit.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP48 - Tokuflix
+https://content.jwplatform.com/videos/K4LuXu1O-mdSJknit.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP49 - Tokuflix
+https://content.jwplatform.com/videos/zvgtEWJ7-mdSJknit.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg" group-title="Sem Categoria",2003 - Abaranger - EP50 - Tokuflix
+https://content.jwplatform.com/videos/hC2eKkhN-mdSJknit.mp4

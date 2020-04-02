@@ -1,0 +1,99 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP01 - Tokuflix
+https://content.jwplatform.com/videos/fg7PUBKH-akkOYhwQ.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP02 - Tokuflix
+https://content.jwplatform.com/videos/UllWr1SW-akkOYhwQ.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP03 - Tokuflix
+https://content.jwplatform.com/videos/UfGXRtTU-akkOYhwQ.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP04 - Tokuflix
+https://content.jwplatform.com/videos/irmzGIbo-akkOYhwQ.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP05 - Tokuflix
+https://content.jwplatform.com/videos/E4SqeeeD-akkOYhwQ.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP06 - Tokuflix
+https://content.jwplatform.com/videos/0sV06M9F-akkOYhwQ.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP07 - Tokuflix
+https://content.jwplatform.com/videos/LKm1XKSY-akkOYhwQ.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP08 - Tokuflix
+https://content.jwplatform.com/videos/l4yHHvm5-akkOYhwQ.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP09 - Tokuflix
+https://content.jwplatform.com/videos/wTeyXB2S-akkOYhwQ.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP10 - Tokuflix
+https://content.jwplatform.com/videos/d71XycDQ-akkOYhwQ.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP11 - Tokuflix
+https://content.jwplatform.com/videos/P8kC70VZ-BYPBxOYB.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP12 - Tokuflix
+https://content.jwplatform.com/videos/kxhyegLp-BYPBxOYB.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP13 - Tokuflix
+https://content.jwplatform.com/videos/zEdOQRq9-BYPBxOYB.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP14 - Tokuflix
+https://content.jwplatform.com/videos/q5w4s92a-BYPBxOYB.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP15 - Tokuflix
+https://content.jwplatform.com/videos/yQVAlFMn-BYPBxOYB.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP16 - Tokuflix
+https://content.jwplatform.com/videos/eqhnys4K-BYPBxOYB.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP17 - Tokuflix
+https://content.jwplatform.com/videos/ffXGw48V-BYPBxOYB.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP18 - Tokuflix
+https://content.jwplatform.com/videos/PKOXFY4F-BYPBxOYB.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP19 - Tokuflix
+https://content.jwplatform.com/videos/DcT4puCr-BYPBxOYB.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP20 - Tokuflix
+https://content.jwplatform.com/videos/aMTp9Mka-BYPBxOYB.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP21 - Tokuflix
+https://content.jwplatform.com/videos/5cXaKni6-JDPCNzwv.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP22 - Tokuflix
+https://content.jwplatform.com/videos/b4JZQOji-JDPCNzwv.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP23 - Tokuflix
+https://content.jwplatform.com/videos/Kxt7koGD-JDPCNzwv.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP24 - Tokuflix
+https://content.jwplatform.com/videos/d05eRrF7-JDPCNzwv.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP25 - Tokuflix
+https://content.jwplatform.com/videos/jxCFX90v-JDPCNzwv.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP26 - Tokuflix
+https://content.jwplatform.com/videos/8IYR1BpJ-JDPCNzwv.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP27 - Tokuflix
+https://content.jwplatform.com/videos/4w5PmhyI-JDPCNzwv.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP28 - Tokuflix
+https://content.jwplatform.com/videos/fbYqaEXY-JDPCNzwv.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP29 - Tokuflix
+https://content.jwplatform.com/videos/NulNkist-JDPCNzwv.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP30 - Tokuflix
+https://content.jwplatform.com/videos/Fz36evbn-JDPCNzwv.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP31 - Tokuflix
+https://content.jwplatform.com/videos/BrTY5mSN-qIikQS4r.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP32 - Tokuflix
+https://content.jwplatform.com/videos/ZZxJROEc-qIikQS4r.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP33 - Tokuflix
+https://content.jwplatform.com/videos/Ap8mQzNI-qIikQS4r.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP34 - Tokuflix
+https://content.jwplatform.com/videos/5mnDJUwO-qIikQS4r.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP35 - Tokuflix
+https://content.jwplatform.com/videos/R3q20T7g-qIikQS4r.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP36 - Tokuflix
+https://content.jwplatform.com/videos/fEjEYyqG-qIikQS4r.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP37 - Tokuflix
+https://content.jwplatform.com/videos/rlxOqXg8-qIikQS4r.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP38 - Tokuflix
+https://content.jwplatform.com/videos/YqNDaYgZ-qIikQS4r.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP39 - Tokuflix
+https://content.jwplatform.com/videos/JRAQRN4M-qIikQS4r.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP40 - Tokuflix
+https://content.jwplatform.com/videos/wdKfWuXd-qIikQS4r.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP41 - Tokuflix
+https://content.jwplatform.com/videos/FEm0FT7y-SBvtnKci.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP42 - Tokuflix
+https://content.jwplatform.com/videos/jRKRUJDL-SBvtnKci.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP43 - Tokuflix
+https://content.jwplatform.com/videos/q9WjrwKg-SBvtnKci.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP44 - Tokuflix
+https://content.jwplatform.com/videos/Z2lJzIyk-SBvtnKci.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP45 - Tokuflix
+https://content.jwplatform.com/videos/xrEtGi1o-SBvtnKci.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP46 - Tokuflix
+https://content.jwplatform.com/videos/qmgYhDPz-SBvtnKci.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP47 - Tokuflix
+https://content.jwplatform.com/videos/kgltueTv-SBvtnKci.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP48 - Tokuflix
+https://content.jwplatform.com/videos/Knx26UAg-SBvtnKci.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VS3N0gvfJy0/XoUUQhZPnaI/AAAAAAAAAaI/QBI3s0tJrks9UJoQ31yyp9tQJapsujKYgCLcBGAsYHQ/s1600/2004%2B-%2BKamen%2BRider%2BBlade.jpg" group-title="Sem Categoria",2004 - Kamen Rider Blade - EP49 - Tokuflix
+https://content.jwplatform.com/videos/kgZpYvEn-SBvtnKci.mp4
