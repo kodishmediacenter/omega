@@ -1,3 +1,16 @@
+ 
+ 
+ 
+ <channels>
+ <channel>
+ <name>Show Live do Gustavo Lima</name>
+ <thumbnail>https://i.ytimg.com/vi/wIXXkd7aBN8/hqdefault.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/gustavolima</externallink>
+ <fanart></fanart>
+ <info>Show Live do Gustavo Lima</info>
+ </channel>
+ </channels>
+ 
  <channels>
  <channel>
  <name>Listao Brinde 7k</name>
