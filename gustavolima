@@ -1,14 +1,11 @@
-<channels></channels>
-<channel>
-<name>Gustavo Lima Buteco em Casa</name>
-<thumbnail>https://i.ytimg.com/vi/wIXXkd7aBN8/hqdefault.jpg</thumbnail>
+
 
 
 <item>
 <title>Gustavo Lima Buteco em Casa - Live</title>
-<link>wIXXkd7aBN8</link>
+<utube>wIXXkd7aBN8</utube>
 <thumbnail>https://i.ytimg.com/vi/wIXXkd7aBN8/hqdefault.jpg</thumbnail>
 <fanart></fanart>
 <info>Show do Gustavo Lima</info>
 </item>
-</channel>
+
