@@ -646,9 +646,18 @@
 <channels>
  <channel>
  <name>2003 - Abaranger</name>
-  
  <thumbnail>https://3.bp.blogspot.com/-zROqqgq8ejI/XoJr7ie-nyI/AAAAAAAAAZ4/bM03_VI24tAJbbSgPVsT88QmUqetoV5gACLcBGAsYHQ/s1600/2003%2B-%2BAbaranger.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/2003%20-%20Abaranger.txt</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+ <info></info>
+ </channel>
+ </channels>
+
+ <channels>
+ <channel>
+ <name>2004 - Dekaranger</name>
+ <thumbnail>https://4.bp.blogspot.com/-cl_oirkXZSg/XlKgOBGkH0I/AAAAAAAAAO4/fxmiU9iPrTsnQAO--PYCYqvxKclWZ5f1ACLcBGAsYHQ/s1600/2004%2B-%2BSuper%2BSentai%2BSpirits.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/2004%20-%20Dekaranger</externallink>
  <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
  <info></info>
  </channel>
