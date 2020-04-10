@@ -1,5 +1,68 @@
 <channels></channels>
 <channel>
+<name>Quadriologia de Tubarão</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xmPekteK5ryf9QOZvuSfqa7WKB.jpg</thumbnail>
+
+
+<item>
+<title>Quadriologia de Tubarão - 720</title>
+<link>magnet:?xt=urn:btih:TFTSSUMZPLO2E6MPSLM5YGRTGLXJDLMQ</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xmPekteK5ryf9QOZvuSfqa7WKB.jpg</thumbnail>
+<fanart></fanart>
+<info>Colecao de Tubarão</info>
+</item>
+
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=U1fu_sA7XhE</trailer>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xmPekteK5ryf9QOZvuSfqa7WKB.jpg</thumbnail>
+<fanart></fanart>
+<info>Colecao de Tubarão</info>
+</item>
+</channel>
+
+
+
+
+
+
+
+
+<channels></channels>
+<channel>
+<name>Coleção Indiana Jones</name>
+<thumbnail>https://image.tmdb.org/t/p/original/1CEUll0uCxvbJWgFDIljWvPD9db.jpg</thumbnail>
+
+
+<item>
+<title>Coleção Indiana Jones - Bluray | 720 </title>
+<link>magnet:?xt=urn:btih:fcfcf110c52119124ce6fb527811980c7443c067&dn=Indiana%20Jones%20Cole%c3%a7%c3%a3o%20Completa%201981%20a%202008%20(720p)&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2790%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/original/1CEUll0uCxvbJWgFDIljWvPD9db.jpg</thumbnail>
+<fanart></fanart>
+<info>Henry Jones, Jr., ou simplesmente Indiana Jones, é um personagem da série de filmes Indiana Jones, criado por George Lucas e Steven Spielberg, George lucas criou o personagem em homenagem aos heróis de séries e filmes de ação dos anos 1930.</info>
+</item>
+
+<item>
+<title>Coleção Indiana Jones - Bluray | 720</title>
+<link>magnet:?xt=urn:btih:c945a0aa7ead98af0fa78c6894506ca3a81ee449&dn=Indiana%20Jones%20Cole%c3%a7%c3%a3o%20Completa%201981%20a%202008%20(1080p)&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2790%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/original/1CEUll0uCxvbJWgFDIljWvPD9db.jpg</thumbnail>
+<fanart></fanart>
+<info>Henry Jones, Jr., ou simplesmente Indiana Jones, é um personagem da série de filmes Indiana Jones, criado por George Lucas e Steven Spielberg, George lucas criou o personagem em homenagem aos heróis de séries e filmes de ação dos anos 1930.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=HqOSLZl9GUo</trailer>
+<thumbnail>https://image.tmdb.org/t/p/original/1CEUll0uCxvbJWgFDIljWvPD9db.jpg</thumbnail>
+<fanart></fanart>
+<info>Henry Jones, Jr., ou simplesmente Indiana Jones, é um personagem da série de filmes Indiana Jones, criado por George Lucas e Steven Spielberg, George lucas criou o personagem em homenagem aos heróis de séries e filmes de ação dos anos 1930.</info>
+</item>
+</channel>
+
+
+<channels></channels>
+<channel>
 <name>Percy Jackson - Todos os Filmes </name>
 <thumbnail>https://1.bp.blogspot.com/-2IJoJ4llkHQ/WOSNd3Nyq4I/AAAAAAAABnc/KX3pmkEme_Es-8KTieh7Xb4575xVM4ZAQCLcB/s1600/percy-jackson-2-filmes.jpg</thumbnail>
 
