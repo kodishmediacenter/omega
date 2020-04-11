@@ -1,5 +1,51 @@
 <channels></channels>
 <channel>
+<name>Filhos da Pátria</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRfgNJProIuPDY2wbVTiizmprnn.jpg</thumbnail>
+
+
+<item>
+<title>1ª Temporada completa  nacional  720p</title>
+<link>magnet:?xt=urn:btih:3F25E4EE5C0F02B30588894BFEAF295800016700&amp;dn=Filhos%20da%20P%c3%a1tria%20%282017%29%20%5b720p%5d%20-%20LAPUMiAFiLMES.COM&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.trackerfix.com%3a82%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.trackerfix.com%3a82%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&amp;tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRfgNJProIuPDY2wbVTiizmprnn.jpg</thumbnail>
+<fanart></fanart>
+<info> Série da Rede Globo que será ambientada nos dias seguintes à Independência do Brasil, na primeira metade do século XIX. A trama vai satirizar a sociedade e a política da época. /strong>.</p></info>
+</item>
+
+
+
+
+<item>
+<title>Trailer 1º Temporada</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=yyhoTTQD9s8</trailer>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRfgNJProIuPDY2wbVTiizmprnn.jpg</thumbnail>
+<fanart></fanart>
+<info> Série da Rede Globo que será ambientada nos dias seguintes à Independência do Brasil, na primeira metade do século XIX. A trama vai satirizar a sociedade e a política da época. /strong>.</p></info>
+</item>
+</channel>
+
+
+
+<item>
+<title>2ª Temporada completa  nacional  720p</title>
+<link>magnet:?xt=urn:btih:355fa44aa7f812ed62075909452834245dcaafab&amp;dn=LAPUMiA.Org%20-%20Filhos%20da%20P%c3%a1tria%202019%20-%20S02%20(720p)&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fbt.ca</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRfgNJProIuPDY2wbVTiizmprnn.jpg</thumbnail>
+<fanart></fanart>
+<info> Segunda temporada da série da Rede Globo que será ambientada nos dias seguintes à Independência do Brasil, na primeira metade do século XIX. A trama vai satirizar a sociedade e a política da época. /strong>.</p></info>
+</item>
+
+
+<item>
+<title>Trailer 2º Temporada</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=98lkx34a8oE</trailer>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRfgNJProIuPDY2wbVTiizmprnn.jpg</thumbnail>
+<fanart></fanart>
+<info> Segunda temporada da série da Rede Globo que será ambientada nos dias seguintes à Independência do Brasil, na primeira metade do século XIX. A trama vai satirizar a sociedade e a política da época. /strong>.</p></info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
 <name>Siren</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lJvMuAQXEg2LJUVs2Gtu5kFsHU.jpg</thumbnail>
 
