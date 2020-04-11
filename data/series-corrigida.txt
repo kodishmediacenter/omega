@@ -1,5 +1,203 @@
 <channels></channels>
 <channel>
+<name>Siren</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lJvMuAQXEg2LJUVs2Gtu5kFsHU.jpg</thumbnail>
+
+<item>
+<title>Siren 1º Temporada</title>
+<link>magnet:?xt=urn:btih:3C065653D5FB7681EB61F80CDC195376E475B52E&dn=Siren%202018%20%E2%80%93%201%C2%AA%20Temporada%20Completa%20%28720p%29%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2800%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lJvMuAQXEg2LJUVs2Gtu5kFsHU.jpg</thumbnail>
+<fanart></fanart>
+<info> A captura de uma criatura marinha feroz por pescadores de um vilarejo no noroeste do oceano pacífico abala as estruturas do local. A descoberta parece desafiar tudo que os habitantes achavam que sabiam sobre o mar, pois tudo indica que se trata de uma sereia.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=82NusegO1mQ</trailer>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lJvMuAQXEg2LJUVs2Gtu5kFsHU.jpg</thumbnail>
+<fanart></fanart>
+<info> A captura de uma criatura marinha feroz por pescadores de um vilarejo no noroeste do oceano pacífico abala as estruturas do local. A descoberta parece desafiar tudo que os habitantes achavam que sabiam sobre o mar, pois tudo indica que se trata de uma sereia.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Siren - 2ª Temporada</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lJvMuAQXEg2LJUVs2Gtu5kFsHU.jpg</thumbnail>
+
+
+<item>
+<title>Siren - 2ª Temporada EP01</title>
+<link>magnet:?xt=urn:btih:1cc7e5911abc53a774d3dbea44bc2f529ae64706&amp;dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Siren%20S02E01%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lJvMuAQXEg2LJUVs2Gtu5kFsHU.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Os pesquisadores marinhos Ben (Alex Roe) e Maddie (Fola Evans-Akingbola) continuam a manter um laço com a sereia Ryn (Eline Powell), à medida que novas criaturas chegam na cidade costeira de Bristol Cove. Mas será que elas estão em busca de vingança ou algo mais aterrorizante as levaram até lá?					
+</info>
+</item>
+
+<item>
+<title>Siren - 2ª Temporada EP02</title>
+<link>magnet:?xt=urn:btih:03c51d617d7d36c4e6b6c401d5e7ba036be611aa&amp;dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Siren%20S02E02%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lJvMuAQXEg2LJUVs2Gtu5kFsHU.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Os pesquisadores marinhos Ben (Alex Roe) e Maddie (Fola Evans-Akingbola) continuam a manter um laço com a sereia Ryn (Eline Powell), à medida que novas criaturas chegam na cidade costeira de Bristol Cove. Mas será que elas estão em busca de vingança ou algo mais aterrorizante as levaram até lá?					
+</info>
+</item>
+
+<item>
+<title>Siren - 2ª Temporada EP03</title>
+<link>magnet:?xt=urn:btih:d91486513df82358459c95431eaa95f30bbbb8d4&amp;dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Siren%20S02E03%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.blazing.de%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.prq.to%2fannounce&amp;tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&amp;tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&amp;tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&amp;tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f11.rarbg.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&amp;tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lJvMuAQXEg2LJUVs2Gtu5kFsHU.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Os pesquisadores marinhos Ben (Alex Roe) e Maddie (Fola Evans-Akingbola) continuam a manter um laço com a sereia Ryn (Eline Powell), à medida que novas criaturas chegam na cidade costeira de Bristol Cove. Mas será que elas estão em busca de vingança ou algo mais aterrorizante as levaram até lá?					
+</info>
+</item>
+ 
+<item>
+<title>Siren - 2ª Temporada EP04</title>
+<link>magnet:?xt=urn:btih:0b3af7c1c43236ac7f97ca9beb07649c2eb85d36&amp;dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Siren%20S02E04%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.blazing.de%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.prq.to%2fannounce&amp;tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&amp;tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&amp;tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&amp;tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f11.rarbg.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&amp;tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lJvMuAQXEg2LJUVs2Gtu5kFsHU.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Os pesquisadores marinhos Ben (Alex Roe) e Maddie (Fola Evans-Akingbola) continuam a manter um laço com a sereia Ryn (Eline Powell), à medida que novas criaturas chegam na cidade costeira de Bristol Cove. Mas será que elas estão em busca de vingança ou algo mais aterrorizante as levaram até lá?					
+</info>
+</item>
+ 
+<item>
+<title>Siren - 2ª Temporada EP05</title>
+<link>magnet:?xt=urn:btih:3c7185845ded27c378ae18ad56be0c2631036556&amp;dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Siren%20S02E05%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.blazing.de%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.prq.to%2fannounce&amp;tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&amp;tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&amp;tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&amp;tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f11.rarbg.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&amp;tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lJvMuAQXEg2LJUVs2Gtu5kFsHU.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Os pesquisadores marinhos Ben (Alex Roe) e Maddie (Fola Evans-Akingbola) continuam a manter um laço com a sereia Ryn (Eline Powell), à medida que novas criaturas chegam na cidade costeira de Bristol Cove. Mas será que elas estão em busca de vingança ou algo mais aterrorizante as levaram até lá?					
+</info>
+</item>
+ 
+<item>
+<title>Siren - 2ª Temporada EP06</title>
+<link>magnet:?xt=urn:btih:0aa3f2d5a003406f1a1e60d11a44a1f2614c447f&amp;dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Siren%20S02E06%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.blazing.de%2fannounce&amp;tr=udp%3a%2f%2ftracker.prq.to%2fannounce&amp;tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2780%2fannounce&amp;tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&amp;tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&amp;tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce&amp;tr=udp%3a%2f%2f11.rarbg.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lJvMuAQXEg2LJUVs2Gtu5kFsHU.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Os pesquisadores marinhos Ben (Alex Roe) e Maddie (Fola Evans-Akingbola) continuam a manter um laço com a sereia Ryn (Eline Powell), à medida que novas criaturas chegam na cidade costeira de Bristol Cove. Mas será que elas estão em busca de vingança ou algo mais aterrorizante as levaram até lá?					
+</info>
+</item>
+ 
+<item>
+<title>Siren - 2ª Temporada EP07</title>
+<link>magnet:?xt=urn:btih:90ea939354aee76d1b3a58c8214bdd3ba3c3f9d6&amp;dn=%5d%20Siren%20S02E07%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.blazing.de%2fannounce&amp;tr=udp%3a%2f%2ftracker.prq.to%2fannounce&amp;tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2780%2fannounce&amp;tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&amp;tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&amp;tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce&amp;tr=udp%3a%2f%2f11.rarbg.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lJvMuAQXEg2LJUVs2Gtu5kFsHU.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Os pesquisadores marinhos Ben (Alex Roe) e Maddie (Fola Evans-Akingbola) continuam a manter um laço com a sereia Ryn (Eline Powell), à medida que novas criaturas chegam na cidade costeira de Bristol Cove. Mas será que elas estão em busca de vingança ou algo mais aterrorizante as levaram até lá?					
+</info>
+</item>
+ 
+<item>
+<title>Siren - 2ª Temporada EP07</title>
+<link>magnet:?xt=urn:btih:4951924a2c473e62a74e21f0ca911d77c4a87550&amp;dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Siren%20S02E08%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.blazing.de%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.prq.to%2fannounce&amp;tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&amp;tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&amp;tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&amp;tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f11.rarbg.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&amp;tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lJvMuAQXEg2LJUVs2Gtu5kFsHU.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Os pesquisadores marinhos Ben (Alex Roe) e Maddie (Fola Evans-Akingbola) continuam a manter um laço com a sereia Ryn (Eline Powell), à medida que novas criaturas chegam na cidade costeira de Bristol Cove. Mas será que elas estão em busca de vingança ou algo mais aterrorizante as levaram até lá?					
+</info>
+</item>
+ 
+<item>
+<title>Siren - 2ª Temporada EP08</title>
+<link>magnet:?xt=urn:btih:645c48314a6644baaeea40a1035d6b89dff062e1&amp;dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Siren%20S02E09%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.blazing.de%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.prq.to%2fannounce&amp;tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&amp;tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&amp;tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&amp;tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f11.rarbg.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&amp;tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lJvMuAQXEg2LJUVs2Gtu5kFsHU.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Os pesquisadores marinhos Ben (Alex Roe) e Maddie (Fola Evans-Akingbola) continuam a manter um laço com a sereia Ryn (Eline Powell), à medida que novas criaturas chegam na cidade costeira de Bristol Cove. Mas será que elas estão em busca de vingança ou algo mais aterrorizante as levaram até lá?					
+</info>
+</item>
+ 
+<item>
+<title>Siren - 2ª Temporada EP09</title>
+<link>magnet:?xt=urn:btih:5db12a881606a611b21ef663831645837814a159&amp;dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Siren%20S02E10%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.blazing.de%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.prq.to%2fannounce&amp;tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&amp;tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&amp;tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&amp;tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f11.rarbg.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&amp;tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lJvMuAQXEg2LJUVs2Gtu5kFsHU.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Os pesquisadores marinhos Ben (Alex Roe) e Maddie (Fola Evans-Akingbola) continuam a manter um laço com a sereia Ryn (Eline Powell), à medida que novas criaturas chegam na cidade costeira de Bristol Cove. Mas será que elas estão em busca de vingança ou algo mais aterrorizante as levaram até lá?					
+</info>
+</item>
+ 
+<item>
+<title>Siren - 2ª Temporada EP10</title>
+<link>magnet:?xt=urn:btih:aa6e053eff42838f245a259c1e3a5e4bfc55ef73&amp;dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Siren%20S02E11%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.blazing.de%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.prq.to%2fannounce&amp;tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&amp;tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&amp;tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&amp;tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f11.rarbg.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&amp;tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lJvMuAQXEg2LJUVs2Gtu5kFsHU.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Os pesquisadores marinhos Ben (Alex Roe) e Maddie (Fola Evans-Akingbola) continuam a manter um laço com a sereia Ryn (Eline Powell), à medida que novas criaturas chegam na cidade costeira de Bristol Cove. Mas será que elas estão em busca de vingança ou algo mais aterrorizante as levaram até lá?					
+</info>
+</item>
+ 
+<item>
+<title>Siren - 2ª Temporada EP11</title>
+<link>magnet:?xt=urn:btih:4D70D7104A05B373CE0772E8A61E0A03E4CE4C2A&amp;dn=hidratorrent.com%20-%20Siren%20S02E12%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lJvMuAQXEg2LJUVs2Gtu5kFsHU.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Os pesquisadores marinhos Ben (Alex Roe) e Maddie (Fola Evans-Akingbola) continuam a manter um laço com a sereia Ryn (Eline Powell), à medida que novas criaturas chegam na cidade costeira de Bristol Cove. Mas será que elas estão em busca de vingança ou algo mais aterrorizante as levaram até lá?					
+</info>
+</item>
+ 
+<item>
+<title>Siren - 2ª Temporada EP12</title>
+<link>magnet:?xt=urn:btih:faf9ee16f0419b72bb626bba8bc34a4553a0c3f7&amp;dn=%5bCOMANDOTORRENTS.COM%5d%20Siren%20S02E13%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.blazing.de%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.prq.to%2fannounce&amp;tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&amp;tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&amp;tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&amp;tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f11.rarbg.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&amp;tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lJvMuAQXEg2LJUVs2Gtu5kFsHU.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Os pesquisadores marinhos Ben (Alex Roe) e Maddie (Fola Evans-Akingbola) continuam a manter um laço com a sereia Ryn (Eline Powell), à medida que novas criaturas chegam na cidade costeira de Bristol Cove. Mas será que elas estão em busca de vingança ou algo mais aterrorizante as levaram até lá?					
+</info>
+</item>
+ 
+<item>
+<title>Siren - 2ª Temporada EP13</title>
+<link>magnet:?xt=urn:btih:56ED81883584BF9D67D51C8D31FA387DADFB4906&amp;dn=hidratorrent.com%20-%20Sirens02e14&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lJvMuAQXEg2LJUVs2Gtu5kFsHU.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Os pesquisadores marinhos Ben (Alex Roe) e Maddie (Fola Evans-Akingbola) continuam a manter um laço com a sereia Ryn (Eline Powell), à medida que novas criaturas chegam na cidade costeira de Bristol Cove. Mas será que elas estão em busca de vingança ou algo mais aterrorizante as levaram até lá?					
+</info>
+</item>
+ 
+<item>
+<title>Siren - 2ª Temporada EP14</title>
+<link>magnet:?xt=urn:btih:fefb2fb1051c51b2445ada8d227a9e6be6589948&amp;dn=%5bCOMANDOTORRENTS.COM%5d%20Siren%20S02E14%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.blazing.de%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.prq.to%2fannounce&amp;tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&amp;tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&amp;tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&amp;tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f11.rarbg.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&amp;tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lJvMuAQXEg2LJUVs2Gtu5kFsHU.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Os pesquisadores marinhos Ben (Alex Roe) e Maddie (Fola Evans-Akingbola) continuam a manter um laço com a sereia Ryn (Eline Powell), à medida que novas criaturas chegam na cidade costeira de Bristol Cove. Mas será que elas estão em busca de vingança ou algo mais aterrorizante as levaram até lá?					
+</info>
+</item>
+ 
+<item>
+<title>Siren - 2ª Temporada EP15</title>
+<link>magnet:?xt=urn:btih:5238c6c48211770575d85cd7447ab2a96d16c38c&amp;dn=%5bCOMANDOTORRENTS.COM%5d%20Siren%20S02E15%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.blazing.de%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.prq.to%2fannounce&amp;tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&amp;tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&amp;tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&amp;tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f11.rarbg.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&amp;tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lJvMuAQXEg2LJUVs2Gtu5kFsHU.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Os pesquisadores marinhos Ben (Alex Roe) e Maddie (Fola Evans-Akingbola) continuam a manter um laço com a sereia Ryn (Eline Powell), à medida que novas criaturas chegam na cidade costeira de Bristol Cove. Mas será que elas estão em busca de vingança ou algo mais aterrorizante as levaram até lá?					
+</info>
+</item>
+ 
+
+<item>
+<title>Trailer</title>
+<utube>aaCnUeNCpp8</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lJvMuAQXEg2LJUVs2Gtu5kFsHU.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
 <name>Fast Layne</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNPgNu3xMMLbzXdg8N9SgKwwykF.jpg</thumbnail>
 
