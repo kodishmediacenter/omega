@@ -1,5 +1,30 @@
 <channels></channels>
 <channel>
+<name>Fast Layne</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNPgNu3xMMLbzXdg8N9SgKwwykF.jpg</thumbnail>
+
+
+<item>
+<title>Fast Layne - Completa Torrent Dublada / Dual Áudio HD | 1080p</title>
+<link>magnet:?xt=urn:btih:76c0f4014625b6d259f0259d1f7d595ae3e9ffc3&amp;dn=COMANDO.TO%20-%20Fast%20Layne%201%c2%aa%20Temporada%20Completa%202020%20%5b1080p%5d%20%5bDUAL%5d&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.blazing.de%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.prq.to%2fannounce&amp;tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&amp;tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&amp;tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&amp;tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f11.rarbg.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&amp;tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNPgNu3xMMLbzXdg8N9SgKwwykF.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Sinopse: A série abordará a vida de Layne que após descobrir a existência do carro falante chamado VIN escondido em um armazém abandonado, ela embarcará juntamente com os seus amigos em uma aventura de alta velocidade contra bandidos, espiões e o que vier pela frente.					
+</info>
+</item>
+ 
+<item>
+<title>Trailer</title>
+<utube>9yJuMcKZPng</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNPgNu3xMMLbzXdg8N9SgKwwykF.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
 <name>Mariele o Documetario</name>
 <thumbnail>https://media.fstatic.com/Cp7kDEvZQjMvalrPustbr8YMVbA=/fit-in/210x312/smart/media/movies/covers/2020/03/2020-838-original-globoplay-mariellle-o-documentario-poster.jpg</thumbnail>
 
