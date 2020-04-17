@@ -753,7 +753,25 @@
  </channel>
  </channels>
 
-
+ <channels>
+ <channel>
+ <name>2007 - Kamen Rider Den-O</name>
+ <thumbnail>https://2.bp.blogspot.com/-MkKUYDkd4bA/XooVOyzGHtI/AAAAAAAAAbE/J9F1V6zjOYAH1pnVCeYg8nPdQ4SaPPnJACLcBGAsYHQ/s1600/2007%2B-%2BKamen%2BRider%2BDen-O.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/2007%20-%20Kamen%20Rider%20Den-O</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+ <info></info>
+ </channel>
+ </channels>
+ 
+ <channels>
+ <channel>
+ <name>2007 - Gekiranger</name>
+ <thumbnail>https://2.bp.blogspot.com/-xCd1kmnDIQU/XooVm1Iz3EI/AAAAAAAAAbM/rzOUm7WAg18E3emsvuaUwvIcss8RjQk8QCLcBGAsYHQ/s1600/2007%2B-%2BGekiranger.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/2007%20-%20Gekiranger</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+ <info></info>
+ </channel>
+ </channels>
 
  <channels>
  <channel>
