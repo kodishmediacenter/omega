@@ -1,5 +1,314 @@
 <channels></channels>
 <channel>
+<name>Baki - O Campeão</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6jzS7IISZQnCDWzKSP4Q6lnKG4.jpg</thumbnail>
+
+<item>
+<title>Primeira Opcao 720p e Segunda 1080p</title>
+<link>google.com</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6jzS7IISZQnCDWzKSP4Q6lnKG4.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Sinopse: Enquanto o campeão de artes marciais Baki Hanma treina duro para superar seu lendário pai. O grande problema é que seu pai, Yujiro Hanma, é o ser vivo mais forte do planeta. Para tal enfrenta os treinos mais duros que existem, para além de enfrentar todo o tipo de adversários em que cada um deles tem um estilo de luta muito peculiar, além de tudo, cinco presos violentos do corredor da morte aparecem em Tóquio para enfrentá-lo. O anime é baseado no mangá de mesmo nome.					
+</info>
+</item>
+
+
+<item>
+<title>Baki - O Campeão Legendado Torrent EP01</title>
+<link>magnet:?xt=urn:btih:A38B51A7FD06C3C8423CB6A92633B984F914098F&amp;dn=%5bErai-raws%5d%20Baki%20%282018%29%20-%2001%20%5b720p%5d%5bMultiple%20Subtitle%5d.mkv&amp;tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&amp;tr=http%3a%2f%2fanidex.moe%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.anirena.com%3a80%2fannounce&amp;tr=http%3a%2f%2ft.acg.rip%3a6699%2fannounce&amp;tr=udp%3a%2f%2ftracker.uw0.xyz%3a6969%2f&amp;tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=http://anidex.moe:6969/announce&amp;tr=http://nyaa.tracker.wf:7777/announce&amp;tr=http://tracker.anirena.com:80/announce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6jzS7IISZQnCDWzKSP4Q6lnKG4.jpg</thumbnail>
+<fanart></fanart>
+<info>
+
+Sinopse: Enquanto o campeão de artes marciais Baki Hanma treina duro para superar seu lendário pai. O grande problema é que seu pai, Yujiro Hanma, é o ser vivo mais forte do planeta. Para tal enfrenta os treinos mais duros que existem, para além de enfrentar todo o tipo de adversários em que cada um deles tem um estilo de luta muito peculiar, além de tudo, cinco presos violentos do corredor da morte aparecem em Tóquio para enfrentá-lo. O anime é baseado no mangá de mesmo nome.					
+</info>
+</item>
+ 
+<item>
+<title>Baki - O Campeão Legendado Torrent EP01</title>
+<link>magnet:?xt=urn:btih:FDA599646D6A73EE83220B1480E277741AD3DFBB&amp;dn=%5bErai-raws%5d%20Baki%20%282018%29%20-%2001%20%5b1080p%5d%5bMultiple%20Subtitle%5d.mkv&amp;tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&amp;tr=http%3a%2f%2fanidex.moe%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.anirena.com%3a80%2fannounce&amp;tr=http%3a%2f%2ft.acg.rip%3a6699%2fannounce&amp;tr=udp%3a%2f%2ftracker.uw0.xyz%3a6969%2f&amp;tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=http://anidex.moe:6969/announce&amp;tr=http://nyaa.tracker.wf:7777/announce&amp;tr=http://tracker.anirena.com:80/announce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6jzS7IISZQnCDWzKSP4Q6lnKG4.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Sinopse: Enquanto o campeão de artes marciais Baki Hanma treina duro para superar seu lendário pai. O grande problema é que seu pai, Yujiro Hanma, é o ser vivo mais forte do planeta. Para tal enfrenta os treinos mais duros que existem, para além de enfrentar todo o tipo de adversários em que cada um deles tem um estilo de luta muito peculiar, além de tudo, cinco presos violentos do corredor da morte aparecem em Tóquio para enfrentá-lo. O anime é baseado no mangá de mesmo nome.					
+</info>
+</item>
+ 
+<item>
+<title>Baki - O Campeão Legendado Torrent EP02</title>
+<link>magnet:?xt=urn:btih:A87FE646D97CED32FDD5FF9162B1EE28DFB2F0A8&amp;dn=%5bErai-raws%5d%20Baki%20%282018%29%20-%2002%20%5b720p%5d%5bMultiple%20Subtitle%5d.mkv&amp;tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&amp;tr=http%3a%2f%2fanidex.moe%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.anirena.com%3a80%2fannounce&amp;tr=http%3a%2f%2ft.acg.rip%3a6699%2fannounce&amp;tr=udp%3a%2f%2ftracker.uw0.xyz%3a6969%2f&amp;tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=http://anidex.moe:6969/announce&amp;tr=http://nyaa.tracker.wf:7777/announce&amp;tr=http://tracker.anirena.com:80/announce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6jzS7IISZQnCDWzKSP4Q6lnKG4.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Sinopse: Enquanto o campeão de artes marciais Baki Hanma treina duro para superar seu lendário pai. O grande problema é que seu pai, Yujiro Hanma, é o ser vivo mais forte do planeta. Para tal enfrenta os treinos mais duros que existem, para além de enfrentar todo o tipo de adversários em que cada um deles tem um estilo de luta muito peculiar, além de tudo, cinco presos violentos do corredor da morte aparecem em Tóquio para enfrentá-lo. O anime é baseado no mangá de mesmo nome.					
+</info>
+</item>
+ 
+<item>
+<title>Baki - O Campeão Legendado Torrent EP02</title>
+<link>magnet:?xt=urn:btih:7FC61FF188DB1E51D283641615F96325C43AEBDF&amp;dn=%5bErai-raws%5d%20Baki%20%282018%29%20-%2002%20%5b1080p%5d%5bMultiple%20Subtitle%5d.mkv&amp;tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&amp;tr=http%3a%2f%2fanidex.moe%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.anirena.com%3a80%2fannounce&amp;tr=http%3a%2f%2ft.acg.rip%3a6699%2fannounce&amp;tr=udp%3a%2f%2ftracker.uw0.xyz%3a6969%2f&amp;tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=http://anidex.moe:6969/announce&amp;tr=http://nyaa.tracker.wf:7777/announce&amp;tr=http://tracker.anirena.com:80/announce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6jzS7IISZQnCDWzKSP4Q6lnKG4.jpg</thumbnail>
+<fanart></fanart>
+<info>
+
+Sinopse: Enquanto o campeão de artes marciais Baki Hanma treina duro para superar seu lendário pai. O grande problema é que seu pai, Yujiro Hanma, é o ser vivo mais forte do planeta. Para tal enfrenta os treinos mais duros que existem, para além de enfrentar todo o tipo de adversários em que cada um deles tem um estilo de luta muito peculiar, além de tudo, cinco presos violentos do corredor da morte aparecem em Tóquio para enfrentá-lo. O anime é baseado no mangá de mesmo nome.					
+</info>
+</item>
+ 
+<item>
+<title>Baki - O Campeão Legendado Torrent EP03</title>
+<link>magnet:?xt=urn:btih:BEEF6CCBCE2123444C5BE5309BF1F4B3E5A825DE&amp;dn=%5bErai-raws%5d%20Baki%20%282018%29%20-%2003%20%5b720p%5d%5bMultiple%20Subtitle%5d.mkv&amp;tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&amp;tr=http%3a%2f%2fanidex.moe%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.anirena.com%3a80%2fannounce&amp;tr=http%3a%2f%2ft.acg.rip%3a6699%2fannounce&amp;tr=udp%3a%2f%2ftracker.uw0.xyz%3a6969%2f&amp;tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=http://anidex.moe:6969/announce&amp;tr=http://nyaa.tracker.wf:7777/announce&amp;tr=http://tracker.anirena.com:80/announce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6jzS7IISZQnCDWzKSP4Q6lnKG4.jpg</thumbnail>
+<fanart></fanart>
+<info>
+
+Sinopse: Enquanto o campeão de artes marciais Baki Hanma treina duro para superar seu lendário pai. O grande problema é que seu pai, Yujiro Hanma, é o ser vivo mais forte do planeta. Para tal enfrenta os treinos mais duros que existem, para além de enfrentar todo o tipo de adversários em que cada um deles tem um estilo de luta muito peculiar, além de tudo, cinco presos violentos do corredor da morte aparecem em Tóquio para enfrentá-lo. O anime é baseado no mangá de mesmo nome.					
+</info>
+</item>
+ 
+<item>
+<title>Baki - O Campeão Legendado Torrent EP03</title>
+<link>magnet:?xt=urn:btih:8985D8438E861909D4591A48107418BDD707E63C&amp;dn=%5bErai-raws%5d%20Baki%20%282018%29%20-%2003%20%5b1080p%5d%5bMultiple%20Subtitle%5d.mkv&amp;tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&amp;tr=http%3a%2f%2fanidex.moe%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.anirena.com%3a80%2fannounce&amp;tr=http%3a%2f%2ft.acg.rip%3a6699%2fannounce&amp;tr=udp%3a%2f%2ftracker.uw0.xyz%3a6969%2f&amp;tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=http://anidex.moe:6969/announce&amp;tr=http://nyaa.tracker.wf:7777/announce&amp;tr=http://tracker.anirena.com:80/announce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6jzS7IISZQnCDWzKSP4Q6lnKG4.jpg</thumbnail>
+<fanart></fanart>
+<info>
+
+Sinopse: Enquanto o campeão de artes marciais Baki Hanma treina duro para superar seu lendário pai. O grande problema é que seu pai, Yujiro Hanma, é o ser vivo mais forte do planeta. Para tal enfrenta os treinos mais duros que existem, para além de enfrentar todo o tipo de adversários em que cada um deles tem um estilo de luta muito peculiar, além de tudo, cinco presos violentos do corredor da morte aparecem em Tóquio para enfrentá-lo. O anime é baseado no mangá de mesmo nome.					
+</info>
+</item>
+ 
+<item>
+<title>Baki - O Campeão Legendado Torrent EP04</title>
+<link>magnet:?xt=urn:btih:9A9E5A4191934D866B6172FE17ED69C67B3244C4&amp;dn=%5bErai-raws%5d%20Baki%20%282018%29%20-%2004%20%5b720p%5d%5bMultiple%20Subtitle%5d.mkv&amp;tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&amp;tr=http%3a%2f%2fanidex.moe%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.anirena.com%3a80%2fannounce&amp;tr=http%3a%2f%2ft.acg.rip%3a6699%2fannounce&amp;tr=udp%3a%2f%2ftracker.uw0.xyz%3a6969%2f&amp;tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=http://anidex.moe:6969/announce&amp;tr=http://nyaa.tracker.wf:7777/announce&amp;tr=http://tracker.anirena.com:80/announce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6jzS7IISZQnCDWzKSP4Q6lnKG4.jpg</thumbnail>
+<fanart></fanart>
+<info>
+
+Sinopse: Enquanto o campeão de artes marciais Baki Hanma treina duro para superar seu lendário pai. O grande problema é que seu pai, Yujiro Hanma, é o ser vivo mais forte do planeta. Para tal enfrenta os treinos mais duros que existem, para além de enfrentar todo o tipo de adversários em que cada um deles tem um estilo de luta muito peculiar, além de tudo, cinco presos violentos do corredor da morte aparecem em Tóquio para enfrentá-lo. O anime é baseado no mangá de mesmo nome.					
+</info>
+</item>
+ 
+<item>
+<title>Baki - O Campeão Legendado Torrent EP04</title>
+<link>magnet:?xt=urn:btih:DE8F3A10D8CC45548087DD96F4580D761922666F&amp;dn=%5bErai-raws%5d%20Baki%20%282018%29%20-%2004%20%5b1080p%5d%5bMultiple%20Subtitle%5d.mkv&amp;tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&amp;tr=http%3a%2f%2fanidex.moe%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.anirena.com%3a80%2fannounce&amp;tr=http%3a%2f%2ft.acg.rip%3a6699%2fannounce&amp;tr=udp%3a%2f%2ftracker.uw0.xyz%3a6969%2f&amp;tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=http://anidex.moe:6969/announce&amp;tr=http://nyaa.tracker.wf:7777/announce&amp;tr=http://tracker.anirena.com:80/announce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6jzS7IISZQnCDWzKSP4Q6lnKG4.jpg</thumbnail>
+<fanart></fanart>
+<info>
+
+Sinopse: Enquanto o campeão de artes marciais Baki Hanma treina duro para superar seu lendário pai. O grande problema é que seu pai, Yujiro Hanma, é o ser vivo mais forte do planeta. Para tal enfrenta os treinos mais duros que existem, para além de enfrentar todo o tipo de adversários em que cada um deles tem um estilo de luta muito peculiar, além de tudo, cinco presos violentos do corredor da morte aparecem em Tóquio para enfrentá-lo. O anime é baseado no mangá de mesmo nome.					
+</info>
+</item>
+ 
+<item>
+<title>Baki - O Campeão Legendado Torrent EP05</title>
+<link>magnet:?xt=urn:btih:3C3E1712198D6BC1BDE4A839571114082BD7309A&amp;dn=%5bErai-raws%5d%20Baki%20%282018%29%20-%2005%20%5b720p%5d%5bMultiple%20Subtitle%5d.mkv&amp;tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&amp;tr=http%3a%2f%2fanidex.moe%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.anirena.com%3a80%2fannounce&amp;tr=http%3a%2f%2ft.acg.rip%3a6699%2fannounce&amp;tr=udp%3a%2f%2ftracker.uw0.xyz%3a6969%2f&amp;tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=http://anidex.moe:6969/announce&amp;tr=http://nyaa.tracker.wf:7777/announce&amp;tr=http://tracker.anirena.com:80/announce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6jzS7IISZQnCDWzKSP4Q6lnKG4.jpg</thumbnail>
+<fanart></fanart>
+<info>
+
+Sinopse: Enquanto o campeão de artes marciais Baki Hanma treina duro para superar seu lendário pai. O grande problema é que seu pai, Yujiro Hanma, é o ser vivo mais forte do planeta. Para tal enfrenta os treinos mais duros que existem, para além de enfrentar todo o tipo de adversários em que cada um deles tem um estilo de luta muito peculiar, além de tudo, cinco presos violentos do corredor da morte aparecem em Tóquio para enfrentá-lo. O anime é baseado no mangá de mesmo nome.					
+</info>
+</item>
+ 
+<item>
+<title>Baki - O Campeão Legendado Torrent EP05</title>
+<link>magnet:?xt=urn:btih:5B167925C730416DDC931B5E3DC8319CC96EA5FC&amp;dn=%5bErai-raws%5d%20Baki%20%282018%29%20-%2005%20%5b1080p%5d%5bMultiple%20Subtitle%5d.mkv&amp;tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&amp;tr=http%3a%2f%2fanidex.moe%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.anirena.com%3a80%2fannounce&amp;tr=http%3a%2f%2ft.acg.rip%3a6699%2fannounce&amp;tr=udp%3a%2f%2ftracker.uw0.xyz%3a6969%2f&amp;tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=http://anidex.moe:6969/announce&amp;tr=http://nyaa.tracker.wf:7777/announce&amp;tr=http://tracker.anirena.com:80/announce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6jzS7IISZQnCDWzKSP4Q6lnKG4.jpg</thumbnail>
+<fanart></fanart>
+<info>
+
+Sinopse: Enquanto o campeão de artes marciais Baki Hanma treina duro para superar seu lendário pai. O grande problema é que seu pai, Yujiro Hanma, é o ser vivo mais forte do planeta. Para tal enfrenta os treinos mais duros que existem, para além de enfrentar todo o tipo de adversários em que cada um deles tem um estilo de luta muito peculiar, além de tudo, cinco presos violentos do corredor da morte aparecem em Tóquio para enfrentá-lo. O anime é baseado no mangá de mesmo nome.					
+</info>
+</item>
+ 
+<item>
+<title>Baki - O Campeão Legendado Torrent EP06</title>
+<link>magnet:?xt=urn:btih:595D8C5F0226B836D64EE18C8779474E95FDA199&amp;dn=%5bErai-raws%5d%20Baki%20%282018%29%20-%2006%20%5b720p%5d%5bMultiple%20Subtitle%5d.mkv&amp;tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&amp;tr=http%3a%2f%2fanidex.moe%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.anirena.com%3a80%2fannounce&amp;tr=http%3a%2f%2ft.acg.rip%3a6699%2fannounce&amp;tr=udp%3a%2f%2ftracker.uw0.xyz%3a6969%2f&amp;tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=http://anidex.moe:6969/announce&amp;tr=http://nyaa.tracker.wf:7777/announce&amp;tr=http://tracker.anirena.com:80/announce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6jzS7IISZQnCDWzKSP4Q6lnKG4.jpg</thumbnail>
+<fanart></fanart>
+<info>
+
+Sinopse: Enquanto o campeão de artes marciais Baki Hanma treina duro para superar seu lendário pai. O grande problema é que seu pai, Yujiro Hanma, é o ser vivo mais forte do planeta. Para tal enfrenta os treinos mais duros que existem, para além de enfrentar todo o tipo de adversários em que cada um deles tem um estilo de luta muito peculiar, além de tudo, cinco presos violentos do corredor da morte aparecem em Tóquio para enfrentá-lo. O anime é baseado no mangá de mesmo nome.					
+</info>
+</item>
+ 
+<item>
+<title>Baki - O Campeão Legendado Torrent EP06</title>
+<link>magnet:?xt=urn:btih:0F6FCD607C277BC64C845E3906A0C707FE464F88&amp;dn=%5bErai-raws%5d%20Baki%20%282018%29%20-%2006%20%5b1080p%5d%5bMultiple%20Subtitle%5d.mkv&amp;tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&amp;tr=http%3a%2f%2fanidex.moe%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.anirena.com%3a80%2fannounce&amp;tr=http%3a%2f%2ft.acg.rip%3a6699%2fannounce&amp;tr=udp%3a%2f%2ftracker.uw0.xyz%3a6969%2f&amp;tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=http://anidex.moe:6969/announce&amp;tr=http://nyaa.tracker.wf:7777/announce&amp;tr=http://tracker.anirena.com:80/announce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6jzS7IISZQnCDWzKSP4Q6lnKG4.jpg</thumbnail>
+<fanart></fanart>
+<info>
+
+Sinopse: Enquanto o campeão de artes marciais Baki Hanma treina duro para superar seu lendário pai. O grande problema é que seu pai, Yujiro Hanma, é o ser vivo mais forte do planeta. Para tal enfrenta os treinos mais duros que existem, para além de enfrentar todo o tipo de adversários em que cada um deles tem um estilo de luta muito peculiar, além de tudo, cinco presos violentos do corredor da morte aparecem em Tóquio para enfrentá-lo. O anime é baseado no mangá de mesmo nome.					
+</info>
+</item>
+ 
+<item>
+<title>Baki - O Campeão Legendado Torrent EP07</title>
+<link>magnet:?xt=urn:btih:D263B50C64B0E2D50D239EA43BB471575AB3EC6D&amp;dn=%5bErai-raws%5d%20Baki%20%282018%29%20-%2007%20%5b720p%5d%5bMultiple%20Subtitle%5d.mkv&amp;tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&amp;tr=http%3a%2f%2fanidex.moe%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.anirena.com%3a80%2fannounce&amp;tr=http%3a%2f%2ft.acg.rip%3a6699%2fannounce&amp;tr=udp%3a%2f%2ftracker.uw0.xyz%3a6969%2f&amp;tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=http://anidex.moe:6969/announce&amp;tr=http://nyaa.tracker.wf:7777/announce&amp;tr=http://tracker.anirena.com:80/announce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6jzS7IISZQnCDWzKSP4Q6lnKG4.jpg</thumbnail>
+<fanart></fanart>
+<info>
+
+Sinopse: Enquanto o campeão de artes marciais Baki Hanma treina duro para superar seu lendário pai. O grande problema é que seu pai, Yujiro Hanma, é o ser vivo mais forte do planeta. Para tal enfrenta os treinos mais duros que existem, para além de enfrentar todo o tipo de adversários em que cada um deles tem um estilo de luta muito peculiar, além de tudo, cinco presos violentos do corredor da morte aparecem em Tóquio para enfrentá-lo. O anime é baseado no mangá de mesmo nome.					
+</info>
+</item>
+ 
+<item>
+<title>Baki - O Campeão Legendado Torrent EP07</title>
+<link>magnet:?xt=urn:btih:5032871BE507E3AF4C94686A3A542E78AF1D3EBD&amp;dn=%5bErai-raws%5d%20Baki%20%282018%29%20-%2007%20%5b1080p%5d%5bMultiple%20Subtitle%5d.mkv&amp;tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&amp;tr=http%3a%2f%2fanidex.moe%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.anirena.com%3a80%2fannounce&amp;tr=http%3a%2f%2ft.acg.rip%3a6699%2fannounce&amp;tr=udp%3a%2f%2ftracker.uw0.xyz%3a6969%2f&amp;tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=http://anidex.moe:6969/announce&amp;tr=http://nyaa.tracker.wf:7777/announce&amp;tr=http://tracker.anirena.com:80/announce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6jzS7IISZQnCDWzKSP4Q6lnKG4.jpg</thumbnail>
+<fanart></fanart>
+<info>
+
+Sinopse: Enquanto o campeão de artes marciais Baki Hanma treina duro para superar seu lendário pai. O grande problema é que seu pai, Yujiro Hanma, é o ser vivo mais forte do planeta. Para tal enfrenta os treinos mais duros que existem, para além de enfrentar todo o tipo de adversários em que cada um deles tem um estilo de luta muito peculiar, além de tudo, cinco presos violentos do corredor da morte aparecem em Tóquio para enfrentá-lo. O anime é baseado no mangá de mesmo nome.					
+</info>
+</item>
+ 
+<item>
+<title>Baki - O Campeão Legendado Torrent EP08</title>
+<link>magnet:?xt=urn:btih:EFBB9F533F7733DC92381F4FF6E2FF3345E776F9&amp;dn=%5bErai-raws%5d%20Baki%20%282018%29%20-%2008%20%5b720p%5d%5bMultiple%20Subtitle%5d.mkv&amp;tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&amp;tr=http%3a%2f%2fanidex.moe%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.anirena.com%3a80%2fannounce&amp;tr=http%3a%2f%2ft.acg.rip%3a6699%2fannounce&amp;tr=udp%3a%2f%2ftracker.uw0.xyz%3a6969%2f&amp;tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=http://anidex.moe:6969/announce&amp;tr=http://nyaa.tracker.wf:7777/announce&amp;tr=http://tracker.anirena.com:80/announce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6jzS7IISZQnCDWzKSP4Q6lnKG4.jpg</thumbnail>
+<fanart></fanart>
+<info>
+
+Sinopse: Enquanto o campeão de artes marciais Baki Hanma treina duro para superar seu lendário pai. O grande problema é que seu pai, Yujiro Hanma, é o ser vivo mais forte do planeta. Para tal enfrenta os treinos mais duros que existem, para além de enfrentar todo o tipo de adversários em que cada um deles tem um estilo de luta muito peculiar, além de tudo, cinco presos violentos do corredor da morte aparecem em Tóquio para enfrentá-lo. O anime é baseado no mangá de mesmo nome.					
+</info>
+</item>
+ 
+<item>
+<title>Baki - O Campeão Legendado Torrent EP08</title>
+<link>magnet:?xt=urn:btih:21DEF48A1FC3E82CA9FE8B81CB4641579855A12F&amp;dn=%5bErai-raws%5d%20Baki%20%282018%29%20-%2008%20%5b1080p%5d%5bMultiple%20Subtitle%5d.mkv&amp;tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&amp;tr=http%3a%2f%2fanidex.moe%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.anirena.com%3a80%2fannounce&amp;tr=http%3a%2f%2ft.acg.rip%3a6699%2fannounce&amp;tr=udp%3a%2f%2ftracker.uw0.xyz%3a6969%2f&amp;tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=http://anidex.moe:6969/announce&amp;tr=http://nyaa.tracker.wf:7777/announce&amp;tr=http://tracker.anirena.com:80/announce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6jzS7IISZQnCDWzKSP4Q6lnKG4.jpg</thumbnail>
+<fanart></fanart>
+<info>
+
+Sinopse: Enquanto o campeão de artes marciais Baki Hanma treina duro para superar seu lendário pai. O grande problema é que seu pai, Yujiro Hanma, é o ser vivo mais forte do planeta. Para tal enfrenta os treinos mais duros que existem, para além de enfrentar todo o tipo de adversários em que cada um deles tem um estilo de luta muito peculiar, além de tudo, cinco presos violentos do corredor da morte aparecem em Tóquio para enfrentá-lo. O anime é baseado no mangá de mesmo nome.					
+</info>
+</item>
+ 
+<item>
+<title>Baki - O Campeão Legendado Torrent EP09</title>
+<link>magnet:?xt=urn:btih:28213FB6332E309CA090F7F03009F0DC1A2D6718&amp;dn=%5bErai-raws%5d%20Baki%20%282018%29%20-%2009%20%5b720p%5d%5bMultiple%20Subtitle%5d.mkv&amp;tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&amp;tr=http%3a%2f%2fanidex.moe%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.anirena.com%3a80%2fannounce&amp;tr=http%3a%2f%2ft.acg.rip%3a6699%2fannounce&amp;tr=udp%3a%2f%2ftracker.uw0.xyz%3a6969%2f&amp;tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=http://anidex.moe:6969/announce&amp;tr=http://nyaa.tracker.wf:7777/announce&amp;tr=http://tracker.anirena.com:80/announce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6jzS7IISZQnCDWzKSP4Q6lnKG4.jpg</thumbnail>
+<fanart></fanart>
+<info>
+
+Sinopse: Enquanto o campeão de artes marciais Baki Hanma treina duro para superar seu lendário pai. O grande problema é que seu pai, Yujiro Hanma, é o ser vivo mais forte do planeta. Para tal enfrenta os treinos mais duros que existem, para além de enfrentar todo o tipo de adversários em que cada um deles tem um estilo de luta muito peculiar, além de tudo, cinco presos violentos do corredor da morte aparecem em Tóquio para enfrentá-lo. O anime é baseado no mangá de mesmo nome.					
+</info>
+</item>
+ 
+<item>
+<title>Baki - O Campeão Legendado Torrent EP09</title>
+<link>magnet:?xt=urn:btih:A8CEA7F007820D809FB46C965BFB705131312A2C&amp;dn=%5bErai-raws%5d%20Baki%20%282018%29%20-%2009%20%5b1080p%5d%5bMultiple%20Subtitle%5d.mkv&amp;tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&amp;tr=http%3a%2f%2fanidex.moe%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.anirena.com%3a80%2fannounce&amp;tr=http%3a%2f%2ft.acg.rip%3a6699%2fannounce&amp;tr=udp%3a%2f%2ftracker.uw0.xyz%3a6969%2f&amp;tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=http://anidex.moe:6969/announce&amp;tr=http://nyaa.tracker.wf:7777/announce&amp;tr=http://tracker.anirena.com:80/announce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6jzS7IISZQnCDWzKSP4Q6lnKG4.jpg</thumbnail>
+<fanart></fanart>
+<info>
+
+Sinopse: Enquanto o campeão de artes marciais Baki Hanma treina duro para superar seu lendário pai. O grande problema é que seu pai, Yujiro Hanma, é o ser vivo mais forte do planeta. Para tal enfrenta os treinos mais duros que existem, para além de enfrentar todo o tipo de adversários em que cada um deles tem um estilo de luta muito peculiar, além de tudo, cinco presos violentos do corredor da morte aparecem em Tóquio para enfrentá-lo. O anime é baseado no mangá de mesmo nome.					
+</info>
+</item>
+ 
+<item>
+<title>Baki - O Campeão Legendado Torrent EP10</title>
+<link>magnet:?xt=urn:btih:357079EFFE66B467668478910D41367C3C84D74E&amp;dn=%5bErai-raws%5d%20Baki%20%282018%29%20-%2010%20%5b720p%5d%5bMultiple%20Subtitle%5d.mkv&amp;tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&amp;tr=http%3a%2f%2fanidex.moe%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.anirena.com%3a80%2fannounce&amp;tr=http%3a%2f%2ft.acg.rip%3a6699%2fannounce&amp;tr=udp%3a%2f%2ftracker.uw0.xyz%3a6969%2f&amp;tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=http://anidex.moe:6969/announce&amp;tr=http://nyaa.tracker.wf:7777/announce&amp;tr=http://tracker.anirena.com:80/announce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6jzS7IISZQnCDWzKSP4Q6lnKG4.jpg</thumbnail>
+<fanart></fanart>
+<info>
+
+Sinopse: Enquanto o campeão de artes marciais Baki Hanma treina duro para superar seu lendário pai. O grande problema é que seu pai, Yujiro Hanma, é o ser vivo mais forte do planeta. Para tal enfrenta os treinos mais duros que existem, para além de enfrentar todo o tipo de adversários em que cada um deles tem um estilo de luta muito peculiar, além de tudo, cinco presos violentos do corredor da morte aparecem em Tóquio para enfrentá-lo. O anime é baseado no mangá de mesmo nome.					
+</info>
+</item>
+ 
+<item>
+<title>Baki - O Campeão Legendado Torrent EP10</title>
+<link>magnet:?xt=urn:btih:CC3D7FAA72FD3142B3223D079EFCF3014DA54440&amp;dn=%5bErai-raws%5d%20Baki%20%282018%29%20-%2010%20%5b1080p%5d%5bMultiple%20Subtitle%5d.mkv&amp;tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&amp;tr=http%3a%2f%2fanidex.moe%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.anirena.com%3a80%2fannounce&amp;tr=http%3a%2f%2ft.acg.rip%3a6699%2fannounce&amp;tr=udp%3a%2f%2ftracker.uw0.xyz%3a6969%2f&amp;tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=http://anidex.moe:6969/announce&amp;tr=http://nyaa.tracker.wf:7777/announce&amp;tr=http://tracker.anirena.com:80/announce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6jzS7IISZQnCDWzKSP4Q6lnKG4.jpg</thumbnail>
+<fanart></fanart>
+<info>
+
+Sinopse: Enquanto o campeão de artes marciais Baki Hanma treina duro para superar seu lendário pai. O grande problema é que seu pai, Yujiro Hanma, é o ser vivo mais forte do planeta. Para tal enfrenta os treinos mais duros que existem, para além de enfrentar todo o tipo de adversários em que cada um deles tem um estilo de luta muito peculiar, além de tudo, cinco presos violentos do corredor da morte aparecem em Tóquio para enfrentá-lo. O anime é baseado no mangá de mesmo nome.					
+</info>
+</item>
+ 
+<item>
+<title>Baki - O Campeão Legendado Torrent EP11</title>
+<link>magnet:?xt=urn:btih:C50CBA8DC600D3D59CC8CF53A818C9377FFE246D&amp;dn=%5bErai-raws%5d%20Baki%20%282018%29%20-%2011%20%5b720p%5d%5bMultiple%20Subtitle%5d.mkv&amp;tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&amp;tr=http%3a%2f%2fanidex.moe%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.anirena.com%3a80%2fannounce&amp;tr=http%3a%2f%2ft.acg.rip%3a6699%2fannounce&amp;tr=udp%3a%2f%2ftracker.uw0.xyz%3a6969%2f&amp;tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=http://anidex.moe:6969/announce&amp;tr=http://nyaa.tracker.wf:7777/announce&amp;tr=http://tracker.anirena.com:80/announce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6jzS7IISZQnCDWzKSP4Q6lnKG4.jpg</thumbnail>
+<fanart></fanart>
+<info>
+
+Sinopse: Enquanto o campeão de artes marciais Baki Hanma treina duro para superar seu lendário pai. O grande problema é que seu pai, Yujiro Hanma, é o ser vivo mais forte do planeta. Para tal enfrenta os treinos mais duros que existem, para além de enfrentar todo o tipo de adversários em que cada um deles tem um estilo de luta muito peculiar, além de tudo, cinco presos violentos do corredor da morte aparecem em Tóquio para enfrentá-lo. O anime é baseado no mangá de mesmo nome.					
+</info>
+</item>
+ 
+<item>
+<title>Baki - O Campeão Legendado Torrent EP11</title>
+<link>magnet:?xt=urn:btih:BD3E4355A34773DB12B81672C007C6E00CBA676F&amp;dn=%5bErai-raws%5d%20Baki%20%282018%29%20-%2011%20%5b1080p%5d%5bMultiple%20Subtitle%5d.mkv&amp;tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&amp;tr=http%3a%2f%2fanidex.moe%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.anirena.com%3a80%2fannounce&amp;tr=http%3a%2f%2ft.acg.rip%3a6699%2fannounce&amp;tr=udp%3a%2f%2ftracker.uw0.xyz%3a6969%2f&amp;tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=http://anidex.moe:6969/announce&amp;tr=http://nyaa.tracker.wf:7777/announce&amp;tr=http://tracker.anirena.com:80/announce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6jzS7IISZQnCDWzKSP4Q6lnKG4.jpg</thumbnail>
+<fanart></fanart>
+<info>
+
+Sinopse: Enquanto o campeão de artes marciais Baki Hanma treina duro para superar seu lendário pai. O grande problema é que seu pai, Yujiro Hanma, é o ser vivo mais forte do planeta. Para tal enfrenta os treinos mais duros que existem, para além de enfrentar todo o tipo de adversários em que cada um deles tem um estilo de luta muito peculiar, além de tudo, cinco presos violentos do corredor da morte aparecem em Tóquio para enfrentá-lo. O anime é baseado no mangá de mesmo nome.					
+</info>
+</item>
+ 
+<item>
+<title>Baki - O Campeão Legendado Torrent EP12</title>
+<link>magnet:?xt=urn:btih:3D9B56AC656447EAEADE8C09468B2CE9ED869EA5&amp;dn=%5bErai-raws%5d%20Baki%20%282018%29%20-%2012%20%5b720p%5d%5bMultiple%20Subtitle%5d.mkv&amp;tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&amp;tr=http%3a%2f%2fanidex.moe%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.anirena.com%3a80%2fannounce&amp;tr=http%3a%2f%2ft.acg.rip%3a6699%2fannounce&amp;tr=udp%3a%2f%2ftracker.uw0.xyz%3a6969%2f&amp;tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=http://anidex.moe:6969/announce&amp;tr=http://nyaa.tracker.wf:7777/announce&amp;tr=http://tracker.anirena.com:80/announce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6jzS7IISZQnCDWzKSP4Q6lnKG4.jpg</thumbnail>
+<fanart></fanart>
+<info>
+
+Sinopse: Enquanto o campeão de artes marciais Baki Hanma treina duro para superar seu lendário pai. O grande problema é que seu pai, Yujiro Hanma, é o ser vivo mais forte do planeta. Para tal enfrenta os treinos mais duros que existem, para além de enfrentar todo o tipo de adversários em que cada um deles tem um estilo de luta muito peculiar, além de tudo, cinco presos violentos do corredor da morte aparecem em Tóquio para enfrentá-lo. O anime é baseado no mangá de mesmo nome.					
+</info>
+</item>
+ 
+<item>
+<title>Baki - O Campeão Legendado Torrent EP12</title>
+<link>magnet:?xt=urn:btih:A1A5771CFFCEC5EF853442F9E81230063E939BF8&amp;dn=%5bErai-raws%5d%20Baki%20%282018%29%20-%2012%20%5b1080p%5d%5bMultiple%20Subtitle%5d.mkv&amp;tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&amp;tr=http%3a%2f%2fanidex.moe%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.anirena.com%3a80%2fannounce&amp;tr=http%3a%2f%2ft.acg.rip%3a6699%2fannounce&amp;tr=udp%3a%2f%2ftracker.uw0.xyz%3a6969%2f&amp;tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=http://anidex.moe:6969/announce&amp;tr=http://nyaa.tracker.wf:7777/announce&amp;tr=http://tracker.anirena.com:80/announce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6jzS7IISZQnCDWzKSP4Q6lnKG4.jpg</thumbnail>
+<fanart></fanart>
+<info>
+
+Sinopse: Enquanto o campeão de artes marciais Baki Hanma treina duro para superar seu lendário pai. O grande problema é que seu pai, Yujiro Hanma, é o ser vivo mais forte do planeta. Para tal enfrenta os treinos mais duros que existem, para além de enfrentar todo o tipo de adversários em que cada um deles tem um estilo de luta muito peculiar, além de tudo, cinco presos violentos do corredor da morte aparecem em Tóquio para enfrentá-lo. O anime é baseado no mangá de mesmo nome.					
+</info>
+</item>
+ 
+<item>
+<title>Baki - O Campeão Legendado Torrent EP13</title>
+<link>magnet:?xt=urn:btih:EB6B20C74F0082755196FBDA2EE63047A3AEBC85&amp;dn=%5bErai-raws%5d%20Baki%20%282018%29%20-%2013%20%5b720p%5d%5bMultiple%20Subtitle%5d.mkv&amp;tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&amp;tr=http%3a%2f%2fanidex.moe%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.anirena.com%3a80%2fannounce&amp;tr=http%3a%2f%2ft.acg.rip%3a6699%2fannounce&amp;tr=udp%3a%2f%2ftracker.uw0.xyz%3a6969%2f&amp;tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=http://anidex.moe:6969/announce&amp;tr=http://nyaa.tracker.wf:7777/announce&amp;tr=http://tracker.anirena.com:80/announce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6jzS7IISZQnCDWzKSP4Q6lnKG4.jpg</thumbnail>
+<fanart></fanart>
+<info>
+
+Sinopse: Enquanto o campeão de artes marciais Baki Hanma treina duro para superar seu lendário pai. O grande problema é que seu pai, Yujiro Hanma, é o ser vivo mais forte do planeta. Para tal enfrenta os treinos mais duros que existem, para além de enfrentar todo o tipo de adversários em que cada um deles tem um estilo de luta muito peculiar, além de tudo, cinco presos violentos do corredor da morte aparecem em Tóquio para enfrentá-lo. O anime é baseado no mangá de mesmo nome.					
+</info>
+</item>
+ 
+<item>
+<title>Baki - O Campeão Legendado Torrent EP13</title>
+<link>magnet:?xt=urn:btih:DD466A82324EDD0940E80AB2F66757F90E27C29B&amp;dn=%5bErai-raws%5d%20Baki%20%282018%29%20-%2013%20%5b1080p%5d%5bMultiple%20Subtitle%5d.mkv&amp;tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&amp;tr=http%3a%2f%2fanidex.moe%3a6969%2fannounce&amp;tr=http%3a%2f%2ftracker.anirena.com%3a80%2fannounce&amp;tr=http%3a%2f%2ft.acg.rip%3a6699%2fannounce&amp;tr=udp%3a%2f%2ftracker.uw0.xyz%3a6969%2f&amp;tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=http://anidex.moe:6969/announce&amp;tr=http://nyaa.tracker.wf:7777/announce&amp;tr=http://tracker.anirena.com:80/announce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6jzS7IISZQnCDWzKSP4Q6lnKG4.jpg</thumbnail>
+<fanart></fanart>
+<info>
+
+Sinopse: Enquanto o campeão de artes marciais Baki Hanma treina duro para superar seu lendário pai. O grande problema é que seu pai, Yujiro Hanma, é o ser vivo mais forte do planeta. Para tal enfrenta os treinos mais duros que existem, para além de enfrentar todo o tipo de adversários em que cada um deles tem um estilo de luta muito peculiar, além de tudo, cinco presos violentos do corredor da morte aparecem em Tóquio para enfrentá-lo. O anime é baseado no mangá de mesmo nome.					
+</info>
+</item>
+ 
+<item>
+<title>Trailer</title>
+<utube>uIXadMk7eEE</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6jzS7IISZQnCDWzKSP4Q6lnKG4.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
 <name>Filhos da Pátria</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zRfgNJProIuPDY2wbVTiizmprnn.jpg</thumbnail>
 
