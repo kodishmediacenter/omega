@@ -282,6 +282,16 @@
 
  <channels>
  <channel>
+ <name>1987 - Zillion</name>
+ <thumbnail>https://1.bp.blogspot.com/-SRlFrP9Tfak/Xps1R9Kd8oI/AAAAAAAAAcc/4fqvSNLOjdQz6VUgmCGYQv1za8C4x7u0gCLcBGAsYHQ/s1600/1987%2B-%2BZillion.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/godzila-classico</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/1987%20-%20Zillion</fanart>
+ <info></info>
+ </channel>
+ </channels>
+
+ <channels>
+ <channel>
  <name>1988 - Cybercop</name>
  <thumbnail>https://2.bp.blogspot.com/-j_0yszN49tc/XlCUbi1TWbI/AAAAAAAAANc/3BaGG3veAakk8mjBCsaoLil1SpZ8DwQvgCLcBGAsYHQ/s1600/1988%2B-%2BCybercop.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/Cybercop.m3u</externallink>
@@ -508,6 +518,16 @@
  <name>1995 - Ohranger</name>
  <thumbnail>https://2.bp.blogspot.com/-jxnMIsa2UOU/Xl06zbR5ThI/AAAAAAAAASs/oVs1BSMDQP8qq5N4JD5-3JdBgdBU0sFQACLcBGAsYHQ/s1600/1995%2B-%2BOhranger.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/Ohranger</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+ <info></info>
+ </channel>
+ </channels>
+
+ <channels>
+ <channel>
+ <name>1995 - El Hazard - The Wanderers</name>
+ <thumbnail>https://1.bp.blogspot.com/-eX0j5QqdHvI/Xpu32bo4qYI/AAAAAAAAAco/ntvLSN9NDu8nwAR-NDyI90XEdKQaS7PNQCLcBGAsYHQ/s1600/1995%2B-%2BEl%2BHazard%2B-%2BThe%2BWanderers.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/1995%20-%20El%20Hazard%20-%20The%20Wanderers</externallink>
  <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
  <info></info>
  </channel>
