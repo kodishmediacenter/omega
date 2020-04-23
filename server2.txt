@@ -1,5 +1,5 @@
   
 http://redes.kodishteam.online:8084/hls1/.rccanais
 http://redes.kodishteam.online:8084/hls1/.rccanais-99999.ts
-https://nimbleserver.canais.ink/a/hls1/.rccanais.m3u8?expires=rccanais&token=rccanais
-https://nimbleserver.canais.ink/a/hls1/mtvlive.m3u8?expires=1585038071&token=b8c0d90104f89a27edd7c8011d6294dd
+https://stream2.canais.info/a/hls/.rccanais.m3u8?expires=rccanais&token=rccanais
+https://stream2.canais.info/a/hls/tcm.m3u8?expires=1587634592&token=7b74f076fa175068b849ad170e362157
