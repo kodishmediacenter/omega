@@ -362,6 +362,16 @@
 </channel>
 </channels>
 
+<channels>
+<channel>
+<name>1990 - Record of Lodoss War (Ova)</name>
+<thumbnail> https://3.bp.blogspot.com/--5QSAoyquxM/XqRWsjLejOI/AAAAAAAAAc8/1-LP_DhcoHYHM3tsz0Mn8nIVuM5605TywCLcBGAsYHQ/s1600/1990%2B-%2BRecord%2Bof%2BLodoss%2BWar%2BOva.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/1990%20-%20Lodoss%20War</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+<info></info>
+</channel>
+</channels>
+
 
  <channels>
  <channel>
@@ -532,6 +542,26 @@
  <info></info>
  </channel>
  </channels>
+
+<channels>
+<channel>
+<name>1995 - Legend of Crystania Movie Hajimari no Boukenshatachi</name>
+<thumbnail>https://2.bp.blogspot.com/-HP_6F4jkTJo/XqRXMf6R-kI/AAAAAAAAAdE/0oXd9UfANF8f-hucDdsZArCuHBNntNAWwCLcBGAsYHQ/s1600/1995%2B-%2BLegend%2Bof%2BCrystania%2BMovie%2BHajimari%2Bno%2BBoukenshatachi.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/1995%20-%20Legend%20of%20Crystania%20Movie%20Hajimari%20no%20Boukenshatachi</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>1996 - Legend of Crystania</name>
+<thumbnail>https://3.bp.blogspot.com/-x6xNp_e-_Dg/XqRXmd_M1fI/AAAAAAAAAdQ/Zvnwych96Z0phqS8q5mJ1UYb1_Fj3o8IwCLcBGAsYHQ/s1600/1996%2B-%2BLegend%2Bof%2BCrystania.jpg</thumbnail>
+<externallink>https://github.com/kodishmediacenter/omega/blob/master/tokuflix/1996%20-%20Legend%20of%20Crystania</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+<info></info>
+</channel>
+</channels>
 
  <channels>
  <channel>
