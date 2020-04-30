@@ -485,6 +485,16 @@
 
  <channels>
  <channel>
+ <name>1993 - Janperson</name>
+ <thumbnail>https://4.bp.blogspot.com/-LhOk0428M0E/Xlq4gpocJKI/AAAAAAAAAR4/vT-VDD4nUDgy9cMo2J_XxdGhlSmk5hJUgCLcBGAsYHQ/s1600/1993%2B-%2BJanperson.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/1993%20-%20Janperson</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+ <info></info>
+ </channel>
+ </channels>
+
+ <channels>
+ <channel>
  <name>1994 - Kamen Rider J - Filme</name>
  <thumbnail>https://3.bp.blogspot.com/-zuWYuUXmY84/XlrD2_5TMgI/AAAAAAAAASI/8WPsVKc81FwEvKrE-PJHZ9jlpt6ATV5gwCLcBGAsYHQ/s1600/1994.1%2B-%2BKamen%2BRider%2BJ.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/Kamen%20Rider%20J</externallink>
@@ -872,6 +882,26 @@
  <info></info>
  </channel>
  </channels>
+
+<channels>
+<channel>
+<name>2010 - Goseiger</name>
+<thumbnail>https://4.bp.blogspot.com/-GPWQe63cvK0/XqdI-sjIBGI/AAAAAAAAAd4/RJgebsisdCMSsspQysebWysgICKZS3xNgCLcBGAsYHQ/s1600/2010%2B-%2BGoseiger.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/2010%20-%20Goseiger</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>2010 - Kamen Rider OOO</name>
+<thumbnail>https://1.bp.blogspot.com/-PDkw4r5OsuU/XqdIpVdarMI/AAAAAAAAAds/RCgYZQcCLdwlowDJWIn50pJDVaOBm6V4ACLcBGAsYHQ/s1600/2010%2B-%2BKamen%2BRider%2BOOO.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/2010%20-%20Kamen%20Rider%20OOO</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+<info></info>
+</channel>
+</channels>
  
  <channels>
  <channel>
