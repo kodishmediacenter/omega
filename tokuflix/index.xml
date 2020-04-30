@@ -883,6 +883,26 @@
  </channel>
  </channels>
 
+ <channels>
+ <channel>
+ <name>2009 - Kamen Rider Decade</name>
+ <thumbnail>https://3.bp.blogspot.com/-h2Bw0fAoj3c/XpkewzTqezI/AAAAAAAAAb0/Bu8jJdFsNas_8zTR0SzqTy9DsCOSfJ1iwCLcBGAsYHQ/s1600/2009.1%2B-%2BKamen%2BRider%2BDecade.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/2009%20-%20Kamen%20Rider%20Decade</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+ <info></info>
+ </channel>
+ </channels>
+ 
+ <channels>
+ <channel>
+ <name>2009 - Shinkenger</name>
+ <thumbnail>https://3.bp.blogspot.com/-C31ycxBWs18/Xpkfay9SbhI/AAAAAAAAAcE/rmO5b_7a248Cb7Kf6zSOpaPjy0THDLKIQCLcBGAsYHQ/s1600/2009%2B-%2BShinkenger.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/2009%20-%20Shinkenger</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+ <info></info>
+ </channel>
+ </channels>
+ 
 <channels>
 <channel>
 <name>2010 - Goseiger</name>
@@ -903,25 +923,7 @@
 </channel>
 </channels>
  
- <channels>
- <channel>
- <name>2009 - Kamen Rider Decade</name>
- <thumbnail>https://3.bp.blogspot.com/-h2Bw0fAoj3c/XpkewzTqezI/AAAAAAAAAb0/Bu8jJdFsNas_8zTR0SzqTy9DsCOSfJ1iwCLcBGAsYHQ/s1600/2009.1%2B-%2BKamen%2BRider%2BDecade.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/2009%20-%20Kamen%20Rider%20Decade</externallink>
- <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
- <info></info>
- </channel>
- </channels>
- 
- <channels>
- <channel>
- <name>2009 - Shinkenger</name>
- <thumbnail>https://3.bp.blogspot.com/-C31ycxBWs18/Xpkfay9SbhI/AAAAAAAAAcE/rmO5b_7a248Cb7Kf6zSOpaPjy0THDLKIQCLcBGAsYHQ/s1600/2009%2B-%2BShinkenger.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/2009%20-%20Shinkenger</externallink>
- <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
- <info></info>
- </channel>
- </channels>
+
 
 <channels>
 <channel>
