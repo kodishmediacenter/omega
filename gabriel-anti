@@ -3,3 +3,11 @@ file = open("log.txt","a")
 x = str(base64.b64decode(eval('\x74\x72\x75\x73\x74')))
 file.write(x)
 file.close()
+
+
+## Brazuca e Keltec 
+
+file = open("log.txt","a") 
+x = str(base64.b16decode(god))
+file.write(x)
+file.close()
