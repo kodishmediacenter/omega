@@ -11,3 +11,11 @@ file = open("log.txt","w")
 x = str(base64.b16decode(god))
 file.write(x)
 file.close()
+
+## Fenix e Oneplay 
+
+file = open("log.txt","w") 
+x = str(base64.b64decode(horus))
+file.write(x)
+file.close()
+
