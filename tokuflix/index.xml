@@ -712,6 +712,7 @@
  </channel>
  </channels>
 
+
  <channels>
  <channel>
  <name>2002 - Hurricanger</name>
@@ -959,6 +960,16 @@
 <name>2011 - Kamen Rider Fourze</name>
 <thumbnail>https://4.bp.blogspot.com/-zdFHHNbPQ_A/XqtJ_EU48UI/AAAAAAAAAeI/awGeTwqtQ3QVRJ2-M-BK_d42kNHz9oAAACLcBGAsYHQ/s1600/2011%2B-%2BKamen%2BRider%2BFourze.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/2011%20-%20Kamen%20Rider%20Fourze</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>2012 - Go-Busters</name>
+<thumbnail>https://4.bp.blogspot.com/-g3eBNDUVJTI/XrXWWYgDHZI/AAAAAAAAAgE/fvW0tGu43TwfpsC4B9D2V6UX1zgZHBUXACLcBGAsYHQ/s1600/2012.1%2B-%2BGo-Busters.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/2012%20-%20Go-Busters</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
 <info></info>
 </channel>
