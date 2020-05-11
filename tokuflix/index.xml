@@ -189,6 +189,16 @@
  </channel>
  </channels>
 
+<channels>
+<channel>
+<name>1982 - Don Drácula</name>
+<thumbnail>https://2.bp.blogspot.com/-WY3cMjLrNOA/XrcVdNbAJwI/AAAAAAAAAgY/Oi-e4enb3K0Lb-wlQFvz2Vt7FpKPqSwmgCLcBGAsYHQ/s1600/1982%2B-%2BDon%2BDracula.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/1982%20-%20Don%20Dr%C3%A1cula</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+<info></info>
+</channel>
+</channels>
+
  <channels>
  <channel>
  <name>1983 - Sharivan</name>
@@ -259,7 +269,7 @@
  </channel>
  </channels>
 
- <channels>
+<channels>
 <channel>
 <name>1985 - Sukeban Deka</name>
 <thumbnail>https://4.bp.blogspot.com/-PtOL1FqpH5c/Xn_KmtU1syI/AAAAAAAAAZI/mo4D5b1PcdEUpUPEOmglkyQmbf893zMXwCLcBGAsYHQ/s1600/1985%2B-%2BSukeban%2BDeka.jpg</thumbnail>
@@ -268,6 +278,17 @@
 <info></info>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>1985 - Sukeban Deka II</name>
+<thumbnail>https://1.bp.blogspot.com/-nzD7qF6D1y0/XrcU8JWbymI/AAAAAAAAAgQ/80dv3waYAOcaV_k3cKiqLEGSpuRlFnsMQCLcBGAsYHQ/s1600/1985%2B-%2BSukeban%2BDeka%2BII.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/1985%20-%20Sukeban%20Deka%20II</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+<info></info>
+</channel>
+</channels>
+
 
 <channels>
 <channel>
