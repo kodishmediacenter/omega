@@ -169,6 +169,7 @@
  </channel>
  </channels>
 
+
  <channels>
  <channel>
  <name>1982 - Gavan</name>
@@ -359,6 +360,16 @@
  <info></info>
  </channel>
  </channels>
+
+<channels>
+<channel>
+<name>1989 - Patlabor TV</name>
+<thumbnail>https://2.bp.blogspot.com/-mZzZBy6kVyo/XsCSvG8s1XI/AAAAAAAAAlE/mdVwHnFBbmAvc5P6sTHPPOCTV6sUpKRKwCLcBGAsYHQ/s1600/1989%2B-%2BPatlabor%2BTV.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/1989%20-%20Patlabor%20TV</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+<info></info>
+</channel>
+</channels>
 
  <channels>
  <channel>
