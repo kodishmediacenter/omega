@@ -1,0 +1,117 @@
+Python 3.8.2 (tags/v3.8.2:7b3ab59, Feb 25 2020, 22:45:29) [MSC v.1916 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+============================ RESTART: D:\tokuflix.py ===========================
+Digite o Link Tokuflix: nnn
+Digite o Link Thumbmail: https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg
+1 Filme e 2 Serie: 2
+Quantidade de Eps: 46
+Prefixo do Link: https://www.tokuflix.com/p/1991-fly-
+Quando vc deseja iniciar: 1
+Nome da Serie: 1991 - Fly, O Pequeno Guerreiro
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP01 - Tokuflix
+https://content.jwplatform.com/videos/G4mLWnmR-9xqgeEHH.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP02 - Tokuflix
+https://content.jwplatform.com/videos/qfLifACh-9xqgeEHH.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP03 - Tokuflix
+https://content.jwplatform.com/videos/HyAJ3AVa-9xqgeEHH.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP04 - Tokuflix
+https://content.jwplatform.com/videos/cPvmbNaj-9xqgeEHH.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP05 - Tokuflix
+https://content.jwplatform.com/videos/iFmjxqVx-myD2XjEV.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP06 - Tokuflix
+https://content.jwplatform.com/videos/VSyiHH0e-myD2XjEV.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP07 - Tokuflix
+https://content.jwplatform.com/videos/IEjihbti-myD2XjEV.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP08 - Tokuflix
+https://content.jwplatform.com/videos/qEp0YQQy-myD2XjEV.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP09 - Tokuflix
+https://content.jwplatform.com/videos/8ilNtBFN-wtQw7FxZ.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP10 - Tokuflix
+https://content.jwplatform.com/videos/Vq7cQQgb-wtQw7FxZ.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP11 - Tokuflix
+https://content.jwplatform.com/videos/UtNf4hQF-wtQw7FxZ.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP12 - Tokuflix
+https://content.jwplatform.com/videos/HIWwKW8J-wtQw7FxZ.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP13 - Tokuflix
+https://content.jwplatform.com/videos/om2CnhU0-nUtHG9Yv.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP14 - Tokuflix
+https://content.jwplatform.com/videos/VcNKVHdP-nUtHG9Yv.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP15 - Tokuflix
+https://content.jwplatform.com/videos/m3lLY4kx-nUtHG9Yv.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP16 - Tokuflix
+https://content.jwplatform.com/videos/fGxlcN9X-nUtHG9Yv.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP17 - Tokuflix
+https://content.jwplatform.com/videos/if77z2xH-pOIGOyEV.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP18 - Tokuflix
+https://content.jwplatform.com/videos/S2SIxTCv-pOIGOyEV.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP19 - Tokuflix
+https://content.jwplatform.com/videos/oDu3BjBT-pOIGOyEV.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP20 - Tokuflix
+https://content.jwplatform.com/videos/xHlz8WvA-pOIGOyEV.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP21 - Tokuflix
+https://content.jwplatform.com/videos/oV7pavfn-LyJuvPfb.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP22 - Tokuflix
+https://content.jwplatform.com/videos/uR7WLptr-LyJuvPfb.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP23 - Tokuflix
+https://content.jwplatform.com/videos/yx71Fe74-LyJuvPfb.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP24 - Tokuflix
+https://content.jwplatform.com/videos/nZthjjYI-LyJuvPfb.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP25 - Tokuflix
+https://content.jwplatform.com/videos/S9t4nKJr-z8mUZ44u.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP26 - Tokuflix
+https://content.jwplatform.com/videos/Vfvmr1Yh-z8mUZ44u.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP27 - Tokuflix
+https://content.jwplatform.com/videos/U5kfjEOm-z8mUZ44u.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP28 - Tokuflix
+https://content.jwplatform.com/videos/Xz3kgfwY-MGAhSPGj.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP29 - Tokuflix
+https://content.jwplatform.com/videos/ZNzlenus-MGAhSPGj.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP30 - Tokuflix
+https://content.jwplatform.com/videos/Mra9WT6j-MGAhSPGj.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP31 - Tokuflix
+https://content.jwplatform.com/videos/LVPhL1Ts-5ppSJ1Mu.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP32 - Tokuflix
+https://content.jwplatform.com/videos/6AMaDcyp-5ppSJ1Mu.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP33 - Tokuflix
+https://content.jwplatform.com/videos/CNP1OnXv-5ppSJ1Mu.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP34 - Tokuflix
+https://content.jwplatform.com/videos/cV3B70X4-ieCGwD4J.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP35 - Tokuflix
+https://content.jwplatform.com/videos/64boHjVq-ieCGwD4J.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP36 - Tokuflix
+https://content.jwplatform.com/videos/GhH1upwU-ieCGwD4J.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP37 - Tokuflix
+https://content.jwplatform.com/videos/2O7sLPTb-3w1YxDC6.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP38 - Tokuflix
+https://content.jwplatform.com/videos/ln615JeP-3w1YxDC6.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP39 - Tokuflix
+https://content.jwplatform.com/videos/BibK0uHt-3w1YxDC6.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP40 - Tokuflix
+https://content.jwplatform.com/videos/JQJ5wmep-R9O2kEu6.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP41 - Tokuflix
+https://content.jwplatform.com/videos/rWiL7LAF-R9O2kEu6.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP42 - Tokuflix
+https://content.jwplatform.com/videos/dQZBhRuE-R9O2kEu6.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP43 - Tokuflix
+https://content.jwplatform.com/videos/JSCQHC1F-CmKgJlFc.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP44 - Tokuflix
+https://content.jwplatform.com/videos/ItvtEviQ-CmKgJlFc.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP45 - Tokuflix
+https://content.jwplatform.com/videos/rezHuTB7-kfbUNEXi.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - EP46 - Tokuflix
+https://content.jwplatform.com/videos/85sLInnO-kfbUNEXi.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - Abertura Japonesa - Tokuflix
+https://content.jwplatform.com/videos/rraaYdoH-dIbzw2FI.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - Encerramento Japonesa - Tokuflix
+https://content.jwplatform.com/videos/yoo46s9d-tXeZjP3s.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - Abertura Brasileira - Tokuflix
+https://content.jwplatform.com/videos/C7rx3Ik6-tXeZjP3s.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QbZZC76dVeE/XsHwbdAfXBI/AAAAAAAAAlQ/UCCg5qKCjGoUp6vLuaKgnEbUdJiLYxs4gCLcBGAsYHQ/s1600/1991%2B-%2BFly%2B-%2BO%2BPequeno%2BGuerreiro.jpg" group-title="Sem Categoria",1991 - Fly - Encerramento Brasileira - Tokuflix
+https://content.jwplatform.com/videos/CAVrjtO8-tXeZjP3s.mp4
+
+
+
+
