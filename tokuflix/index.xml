@@ -1,6 +1,16 @@
  <channels>
  <channel>
  <name>Canais Parceiros</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/radios.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/Radio</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+ <info></info>
+ </channel>
+ </channels>
+
+ <channels>
+ <channel>
+ <name>Rádio</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/parceiros.png</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/parceiros</externallink>
  <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
