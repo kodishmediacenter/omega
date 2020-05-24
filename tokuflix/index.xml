@@ -746,6 +746,16 @@
 
  <channels>
  <channel>
+ <name>2000 - Masked Rider Live 2000</name>
+ <thumbnail>https://i.imgur.com/E7p4Q9h.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/2000%20-%20Masked%20Rider%20Live%202000</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+ <info></info>
+ </channel>
+ </channels>
+
+ <channels>
+ <channel>
  <name>2001 - Kamen Rider Agito</name>
  <thumbnail>https://4.bp.blogspot.com/-3NBvNK4CRZY/XmqmP7cwACI/AAAAAAAAAUk/-MqBgRp3bYE_5b2YumgvAhTD9_OVMvyPACLcBGAsYHQ/s1600/2001%2B-%2BKamen%2BRider%2BAgito.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/2001%20-%20Kamen%20Rider%20Agito</externallink>
