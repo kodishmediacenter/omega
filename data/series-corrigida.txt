@@ -29,6 +29,103 @@ Sinopse: A série será sobre a invenção do futebol moderno e como aqueles env
 
 <channels></channels>
 <channel>
+<name>Ares</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/926beXgWgeiraGQFsXa1Onxs3z6.jpg</thumbnail>
+
+<item>
+<title>Ares - 1ª Temporada Completa Torrent Dublada 5.1 HD | 1080p</title>
+<link>magnet:?xt=urn:btih:de5aac4fb0598eab453c052f158bd42df79bf06a&amp;dn=Ares%202020%20-%20S01%20(1080p)%20LAPUMiA&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&amp;tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/926beXgWgeiraGQFsXa1Onxs3z6.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Sinopse: Uma sociedade estudantil secreta no coração de Amsterdã, onde as melhores amigos Rosa e Jacob se rendem a um mundo de riqueza e poder. Contudo, lentamente eles começam a perceber que entraram em um lugar demoníaco, construído sobre segredos do passado da Holanda. Um lugar onde o verdadeiro poder chega a um preço terrível.					
+</info>
+</item>
+ 
+<item>
+<title>Trailer</title>
+<utube>fxzMCOsr4IM</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/926beXgWgeiraGQFsXa1Onxs3z6.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Outer Banks</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg</thumbnail>
+
+<item>
+<title>Outer Banks - 1ª Temporada Torrent Dublada / Dual Áudio 5.1 HD | 720p</title>
+<link>magnet:?xt=urn:btih:dbd7ac708a38cb601d975b3bb0ca162cdd070efa&amp;dn=COMANDOTORRENTSHD.NET%20-%20Outer%20Banks%201%c2%aa%20Temporada%20Completa%202020%20%5b720p%5d%20%5bDUAL%5d&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.blazing.de%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.prq.to%2fannounce&amp;tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&amp;tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&amp;tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&amp;tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f11.rarbg.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&amp;tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Sinopse: Na Carolina do Norte, o grupo de adolescentes chamado announce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Sinopse: Na Carolina do Norte, o grupo de adolescentes chamado "Pogues" embarca em uma missão para encontrar o pai desaparecido de seu líder. No processo, eles tropeçam em um mapa do tesouro que descobre um longo segredo enterrado.					
+</info>
+</item>
+ 
+<item>
+<title>Trailer</title>
+<utube>GC68w9tvv6I</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Kipo e os Animonstros</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfGw3BT96b5V9dapgWJ1em5C6xG.jpg</thumbnail>
+
+<item>
+<title>Kipo e os Animonstros - Completa Torrent Dublado / Dual Áudio 5.1 HD | 1080p</title>
+<link>magnet:?xt=urn:btih:208061425475de58e3febb09706aa8efcbeda78e&amp;dn=COMANDOTORRENTSHD.NET%20-%20Kipo%20and%20the%20Age%20of%20Wonderbeasts%202020%20-%20S01%20(1080p)&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&amp;tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&amp;tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&amp;tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfGw3BT96b5V9dapgWJ1em5C6xG.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Sinopse: A série explora o mundo de uma garota humana presa em uma terra pós-apocalíptica. Depois de passar toda a sua vida vivendo em uma toca subterrânea, Kipo (Karen Fukuhara) é lançada em uma aventura na superfície. Ela se junta a um grupo desorganizado de sobreviventes enquanto eles embarcam em uma jornada através de um país das maravilhas vibrantes.					
+</info>
+</item>
+ 
+<item>
+<title>Kipo e os Animonstros - Legendado | 720p </title>
+<link>magnet:?xt=urn:btih:01d2a2806b1c87cb38220326a9961c686b287cf4&amp;dn=Kipo.and.the.Age.of.Wonderbeasts.S01.720p.NF.WEBRip.DDP5.1.x264-Mys%5Brartv%5D&amp;tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.me%3A2740&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2780announce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfGw3BT96b5V9dapgWJ1em5C6xG.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Sinopse: A série explora o mundo de uma garota humana presa em uma terra pós-apocalíptica. Depois de passar toda a sua vida vivendo em uma toca subterrânea, Kipo (Karen Fukuhara) é lançada em uma aventura na superfície. Ela se junta a um grupo desorganizado de sobreviventes enquanto eles embarcam em uma jornada através de um país das maravilhas vibrantes.					
+</info>
+</item>
+ 
+<item>
+<title>Kipo e os Animonstros - Legendado | 1080p</title>
+<link>magnet:?xt=urn:btih:9bbd0f21e8efeb941cf55efb2e7130650614ecc4&amp;dn=Kipo.and.the.Age.of.Wonderbeasts.S01.1080p.NF.WEBRip.DDP5.1.x264-Mys%5Brartv%5D&amp;tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.me%3A2750&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2760announce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfGw3BT96b5V9dapgWJ1em5C6xG.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Sinopse: A série explora o mundo de uma garota humana presa em uma terra pós-apocalíptica. Depois de passar toda a sua vida vivendo em uma toca subterrânea, Kipo (Karen Fukuhara) é lançada em uma aventura na superfície. Ela se junta a um grupo desorganizado de sobreviventes enquanto eles embarcam em uma jornada através de um país das maravilhas vibrantes.					
+</info>
+</item>
+ 
+<item>
+<title>Trailer</title>
+<utube>25UHUbpFTtY</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfGw3BT96b5V9dapgWJ1em5C6xG.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+
+<channels></channels>
+<channel>
 <name>Baki - O Campeão</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6jzS7IISZQnCDWzKSP4Q6lnKG4.jpg</thumbnail>
 
