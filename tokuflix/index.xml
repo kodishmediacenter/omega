@@ -516,6 +516,16 @@
 
  <channels>
  <channel>
+ <name>1992 -Super Campeões J</name>
+ <thumbnail>https://i.imgur.com/95NVQ2N.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/1992%20-Super%20Campe%C3%B5es%20J</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+ <info></info>
+ </channel>
+ </channels>
+
+ <channels>
+ <channel>
  <name>1992 - Exceedraft</name>
  <thumbnail>https://1.bp.blogspot.com/-LjVBeyXVgac/XllOUP_wqUI/AAAAAAAAARE/BqxdSCOOwN8d1qM2gePbWYRHHz4yeg2OwCLcBGAsYHQ/s1600/1992%2B-%2BExceedraft.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/Exceedraft</externallink>
