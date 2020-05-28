@@ -1,19 +1,7 @@
 <item>
-<title>Assistir AXN - Online - 24 Horas - Ao Vivo</title>
-Assistir TNT Series - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/AXN.jpg</thumbnail>
-<link>$doregex[HIDRA]axn.m3u8|Referer=https://dietafitness.fun/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<title>CNN Brasil</title>
+<thumbnail>https://www.cnnbrasil.com.br/_next/static/images/logo-0457804d41d68a5c1c3de124ff229c35.png</thumbnail>
+<link>https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8</link>
+<info>Esta é uma degustação por tempo limitado do sinal da TV por assinatura da CNN Brasil. Assista acima ao vivo à programação da CNN Brasil das 6:00 às 23:00, de segunda a sexta. Ou tenha acesso à programação completa, por 24 horas, por meio da TV por assinatura. Procure sua operadora local.</info>
 </item>
 
-<item>
-<title>[B][COLOR white]GLOBO NORDESTE[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
-<link>$doregex[TW_TUTORIAIS1]</link> 
-<regex><name>TW_TUTORIAISL</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[TW_TUTORIAISL1]")</expres><page></page></regex> 
-<regex><name>TW_TUTORIAISL1</name><expres>(.*?).rcl</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server3.txt</page></regex> 
-<regex><name>TW_TUTORIAISR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[TW_TUTORIAISR1]")</expres><page></page></regex> 
-<regex><name>TW_TUTORIAISR1</name><expres>(.*?).rcr</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server3.txt</page></regex> 
-<regex><name>TW_TUTORIAIS1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[TW_TUTORIAISL]bobonordeste</page><referer>$doregex[TW_TUTORIAISR]</referer></regex> 
-<thumbnail>https://ia801501.us.archive.org/33/items/band_20191003/GLOBONE.png</thumbnail>
-</item>
