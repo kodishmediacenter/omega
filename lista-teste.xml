@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+
 
 <item>
 <title>[B][COLOR white]GLOBO NORDESTE[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link/>$doregex[KODISH1] 
-
 <regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
 <regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
 <regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
@@ -11,10 +10,10 @@
 <regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]bobonordeste</page><referer>$doregex[KODISHR]</referer></regex>
 <thumbnail>https://ia801501.us.archive.org/33/items/band_20191003/GLOBONE.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR white]GLOBO RJ[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link/>$doregex[KODISH1] 
-
 <regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
 <regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
 <regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
@@ -70,7 +69,7 @@
 </body></html>
 
 
-<?xml version="1.0" encoding="UTF-8"?>
+
 
 <item>
 <title>[B][COLOR white]A&amp;E[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
@@ -437,7 +436,7 @@
 </item>
 </body></html>
 
-<?xml version="1.0" encoding="UTF-8"?>
+
 
 <item>
 <title>[B][COLOR white]BAND SPORTS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
@@ -662,7 +661,7 @@
 </body></html>
 
 
-<?xml version="1.0" encoding="UTF-8"?>
+
 
 <item>
 <title>[B][COLOR white]BOOMERANG[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
@@ -787,7 +786,7 @@
 </item>
 </body></html>
 
-<?xml version="1.0" encoding="UTF-8"?>
+
 
 <item>
 <title>[B][COLOR white]ANIMAL PLANET[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
@@ -946,7 +945,7 @@
 </body></html>
 
 
-<?xml version="1.0" encoding="UTF-8"?>
+
 
 <item>
 <title>[B][COLOR white]FOOD NETWORK[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
@@ -1116,12 +1115,11 @@
 </body></html>
 
 
-<?xml version="1.0" encoding="UTF-8"?>
+
 
 <item>
 <title>[B][COLOR white]BAND NEWS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link/>$doregex[KODISH1] 
-
 <regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
 <regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
 <regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
@@ -1129,10 +1127,10 @@
 <regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]bandnews</page><referer>$doregex[KODISHR]</referer></regex>
 <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/band.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR white]CNN BRASIL[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link/>$doregex[KODISH1] 
-
 <regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
 <regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
 <regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
@@ -1140,6 +1138,7 @@
 <regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]cnnbrasil</page><referer>$doregex[KODISHR]</referer></regex>
 <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/cnnbrasil.png</thumbnail>
 </item>
+
 <item>
 <title>[B][COLOR white]GLOBO NEWS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
 <link/>$doregex[KODISH1] 
