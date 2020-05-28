@@ -1,1541 +1,1164 @@
+<?xml version="1.0" encoding="UTF-8"?>
 
 <item>
-<title>Assistir CNN Brasil</title>
-<thumbnail>https://www.cnnbrasil.com.br/_next/static/images/logo-0457804d41d68a5c1c3de124ff229c35.png</thumbnail>
-<link>https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8</link>
-<info>Esta é uma degustação por tempo limitado do sinal da TV por assinatura da CNN Brasil. Assista acima ao vivo à programação da CNN Brasil das 6:00 às 23:00, de segunda a sexta. Ou tenha acesso à programação completa, por 24 horas, por meio da TV por assinatura. Procure sua operadora local.</info>
-</item>
-
-<item>
-<title>Assistir AXN - Online - 24 Horas - Ao Vivo</title>
-Assistir TNT Series - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/AXN.jpg</thumbnail>
-<link>$doregex[HIDRA]axn.m3u8|Referer=https://lojadebicicleta.com.br/player3/contadorcanais</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>Assistir Fox Premiun 1 - Online - 24 Horas - Ao Vivo</title>
-Assistir TNT Series - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/foxpremium1.jpg</thumbnail>
-<link>$doregex[HIDRA]foxpremium1.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>Assistir Fox Premiun 2 - Online - 24 Horas - Ao Vivo</title>
-Assistir TNT Series - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info//imgs-videos/Canais/foxpremium2.jpg</thumbnail>
-<link>$doregex[HIDRA]foxpremium2.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>Assistir TNT Series - Online - 24 Horas - Ao Vivo</title>
-Assistir TNT Series - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/tntseries.jpg</thumbnail>
-<link>$doregex[HIDRA]tntseries.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>Assistir TNT Series - Online - 24 Horas - Ao Vivo</title>
-Assistir TNT Series - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/tntseries.jpg</thumbnail>
-<link>$doregex[HIDRA]tntseries.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
-
-
-<item>
-<title>Assistir Warner TV - Online - 24 Horas - Ao Vivo</title>
-Assistir Warner TV - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/warner.jpg</thumbnail>
-<link>$doregex[HIDRA]warner.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
-
-
-<item>
-<title>Assistir Band News - Online - 24 Horas - Ao Vivo</title>
-Assistir Band News - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/bandnews.jpg</thumbnail>
-<link>$doregex[HIDRA]bandnews.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</thumbnail>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
-
-
-<item>
-<title>Assistir Globo News - Online - 24 Horas - Ao Vivo</title>
-Assistir Globo News - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/globonews.jpg</thumbnail>
-<link>$doregex[HIDRA]globonews.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</thumbnail>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
-
-
-<item>
-<title>Assistir Rede Globo Nordeste - Online 24 Horas Ao Vivo</title>
-Assistir Rede Globo Nordeste - Online 24 Horas Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/bobonordeste.jpg</thumbnail>
-<link>$doregex[HIDRA]bobonordeste.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</thumbnail>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
-
-
-<item>
-<title>Assistir Rede Globo SP - Online 24 Horas Ao Vivo</title>
-Assistir Rede Globo SP - Online 24 Horas Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/bobosp.jpg</thumbnail>
-<link>$doregex[HIDRA]bobosp.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</thumbnail>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
-
-
-<item>
-<title>Assistir Curta! - Online - 24 Horas - Ao Vivo</title>
-Assistir Curta! - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/curta.jpg</thumbnail>
-<link>$doregex[HIDRA]curta.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</thumbnail>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
-
+<title>[B][COLOR white]GLOBO NORDESTE[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<item>
-<title>Assistir BIS - Online - 24 Horas - Ao Vivo</title>
-Assistir BIS - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/bis.jpg</thumbnail>
-<link>$doregex[HIDRA]bis.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</thumbnail>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]bobonordeste</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia801501.us.archive.org/33/items/band_20191003/GLOBONE.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Comedy Central - Online - 24 Horas - Ao Vivo</title>
-Assistir Comedy Central - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/comedycentral.jpg</thumbnail>
-<link>$doregex[HIDRA]comedycentral.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</thumbnail>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
-
+<title>[B][COLOR white]GLOBO RJ[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<item>
-<title>Assistir Telecine Premium - Online - 24 Horas - Ao Vivo</title>
-Assistir Telecine Premium - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/telecinepremium.jpg</thumbnail>
-<link>$doregex[HIDRA]telecinepremium.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</thumbnail>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]boborj</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia801501.us.archive.org/33/items/band_20191003/GLOBO%20RJ.png</thumbnail>
 </item>
-
 
 <item>
-<title>Assistir Sexy Hot - Online - 24 Horas - Ao Vivo - Adulto</title>
-Assistir Sexy Hot - Online - 24 Horas - Ao Vivo - Adulto
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/sexhot.jpg</thumbnail>
-<link>$doregex[HIDRA]sexhot.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</thumbnail>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
+<title>[B][COLOR white]GLOBO SP[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-
-<item>
-<title>Assistir Disney XD - Online - 24 Horas - Ao Vivo</title>
-Assistir Disney XD - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/disneyxd.jpg</thumbnail>
-<link>$doregex[HIDRA]disneyxd.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]bobosp</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia801501.us.archive.org/33/items/band_20191003/GLOBO%20SP.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Tooncast - Online - 24 Horas - Ao Vivo</title>
-Assistir Tooncast - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/tooncast.jpg</thumbnail>
-<link>$doregex[HIDRA]tooncast.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]SBT[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]sbt</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia801501.us.archive.org/33/items/band_20191003/SBT.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Cartoon Network - Online - 24 Horas - Ao Vivo</title>
-Assistir Cartoon Network - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/cartoon.jpg</thumbnail>
-<link>$doregex[HIDRA]cartoon.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
+<title>[B][COLOR white]BAND[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-
-<item>
-<title>Assistir History Channel - Online - 24 Horas - Ao Vivo</title>
-Assistir History Channel - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/history.jpg</thumbnail>
-<link>$doregex[HIDRA]history.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]band</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia801501.us.archive.org/33/items/band_20191003/BAND.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Discovery Channel - Online - 24 Horas - Ao Vivo</title>
-Assistir Discovery Channel - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/discovery.jpg</thumbnail>
-<link>$doregex[HIDRA]discovery.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
-
+<title>[B][COLOR white]RECORD[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<item>
-<title>Assistir MTV Live - Online - 24 Horas - Ao Vivo</title>
-Assistir MTV Live - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/mtvlive.jpg</thumbnail>
-<link>$doregex[HIDRA]mtvlive.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]recorsp</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia601501.us.archive.org/33/items/band_20191003/RECORD.png</thumbnail>
 </item>
-
+</body></html>
 
-<item>
-<title>Assistir Arte 1 - Online - 24 Horas - Ao Vivo</title>
-Assistir Arte 1 - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/arte1.jpg</thumbnail>
-<link>$doregex[HIDRA]arte1.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
 
+<?xml version="1.0" encoding="UTF-8"?>
 
 <item>
-<title>Assistir MTV Live - Online - 24 Horas - Ao Vivo</title>
-Assistir MTV Live - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/mtvlive.jpg</thumbnail>
-<link>$doregex[HIDRA]mtvlive.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
+<title>[B][COLOR white]A&amp;E[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-
-<item>
-<title>Assistir Food Network - Online - 24 Horas - Ao Vivo</title>
-Assistir Food Network - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/foodnetwork.jpg</thumbnail>
-<link>$doregex[HIDRA]foodnetwork.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]aie</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/ae2.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Rede Bandeirantes - Band - Online - 24 Horas - Ao Vivo</title>
-Assistir Rede Bandeirantes - Band - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/band.jpg</thumbnail>
-<link>$doregex[HIDRA]band.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
+<title>[B][COLOR white]AMC[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-
-<item>
-<title>Assistir Record News - Online - 24 Horas - Ao Vivo</title>
-Assistir Record News - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/recordnews.jpg</thumbnail>
-<link>$doregex[HIDRA]recordnews.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]amc</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/amc.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Record TV SP - Online - 24 Horas - Ao Vivo</title>
-Assistir Record TV SP - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/recordsp.jpg</thumbnail>
-<link>$doregex[HIDRA]recordsp.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
+<title>[B][COLOR white]AXN[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-
-<item>
-<title>Assistir TLC - Online - 24 Horas - Ao Vivo</title>
-Assistir TLC - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/tlc.jpg</thumbnail>
-<link>$doregex[HIDRA]tlc.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]axn</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/axn.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Paramount Channel - Online - 24 Horas - Ao Vivo</title>
-Assistir Paramount Channel - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/paramount.jpg</thumbnail>
-<link>$doregex[HIDRA]paramount.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
-
+<title>[B][COLOR white]CINEMAX[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<item>
-<title>Assistir Syfy - Online - 24 Horas - Ao Vivo</title>
-Assistir Syfy - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/syfy.jpg</thumbnail>
-<link>$doregex[HIDRA]syfy.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]cinemax</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/cinemax.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Studio Universal - Online - 24 Horas - Ao Vivo</title>
-Assistir Studio Universal - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/studiouniversal.jpg</thumbnail>
-<link>$doregex[HIDRA]studiouniversal.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
-
+<title>[B][COLOR white]FOX[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<item>
-<title>Assistir Space - Online - 24 Horas - Ao Vivo</title>
-Assistir Space - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/space.jpg</thumbnail>
-<link>$doregex[HIDRA]space.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]fox</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/fox.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir FX - Online - 24 Horas - Ao Vivo</title>
-Assistir FX - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/fx.jpg</thumbnail>
-<link>$doregex[HIDRA]fx.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
-
+<title>[B][COLOR white]FOX PREMIUM 1[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<item>
-<title>Assistir Canal Off - Online - 24 Horas - Ao Vivo</title>
-Assistir Canal Off - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/off.jpg</thumbnail>
-<link>$doregex[HIDRA]off.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]foxpremium1</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/foxp.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Multishow - Online - 24 Horas - Ao Vivo</title>
-Assistir Multishow - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/multishow.jpg</thumbnail>
-<link>$doregex[HIDRA]multishow.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
-
+<title>[B][COLOR white]FOX PREMIUM 2[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<item>
-<title>Assistir MTV - Online - 24 Horas - Ao Vivo</title>
-Assistir MTV - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/mtv.jpg</thumbnail>
-<link>$doregex[HIDRA]mtv.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]foxpremium2</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/foxp.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Mais Globosat - Online - 24 Horas - Ao Vivo</title>
-Assistir Mais Globosat - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/maisbobosat.jpg</thumbnail>
-<link>$doregex[HIDRA]maisbobosat.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
+<title>[B][COLOR white]FX[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-
-<item>
-<title>Assistir Lifetime - Online - 24 Horas - Ao Vivo</title>
-Assistir Lifetime - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/lifetime.jpg</thumbnail>
-<link>$doregex[HIDRA]lifetime.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]fx</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/fx.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Investigação Discovery - Online - 24 Horas - Ao Vivo</title>
-Assistir Investigação Discovery - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/investigacaodiscovery.jpg</thumbnail>
-<link>$doregex[HIDRA]investigacaodiscovery.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
+<title>[B][COLOR white]HBO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-
-<item>
-<title>Assistir GNT - Online - 24 Horas - Ao Vivo</title>
-Assistir GNT - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/gnt.jpg</thumbnail>
-<link>$doregex[HIDRA]gnt.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]hbo</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/hbo.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Fox Life - Online - 24 Horas - Ao Vivo</title>
-Assistir Fox Life - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/foxlife.jpg</thumbnail>
-<link>$doregex[HIDRA]foxlife.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
+<title>[B][COLOR white]HBO 2[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-
-<item>
-<title>Assistir Fish TV - Online - 24 Horas - Ao Vivo</title>
-Assistir Fish TV - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/fishtv.jpg</thumbnail>
-<link>$doregex[HIDRA]fishtv.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]hbo2</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/hbo2.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Discovery World - Online - 24 Horas - Ao Vivo</title>
-Assistir Discovery World - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/discoveryworld.jpg</thumbnail>
-<link>$doregex[HIDRA]discoveryworld.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
+<title>[B][COLOR white]HBO FAMILY[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-
-<item>
-<title>Assistir Discovery Home & Health - Online - 24 Horas - Ao Vivo</title>
-Assistir Discovery Home & Health - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/discoveryhomeihealth.jpg</thumbnail>
-<link>$doregex[HIDRA]discoveryhomeihealth.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]hbofamily</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/hbofamily.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Comedy Central - Online - 24 Horas - Ao Vivo</title>
-Assistir Comedy Central - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/comedycentral.jpg</thumbnail>
-<link>$doregex[HIDRA]comedycentral.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
+<title>[B][COLOR white]HBO PLUS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-
-<item>
-<title>Assistir BIS - Online - 24 Horas - Ao Vivo</title>
-Assistir BIS - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/bis.jpg</thumbnail>
-<link>$doregex[HIDRA]bis.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]hboplus</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/hobplus.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Curta! - Online - 24 Horas - Ao Vivo</title>
-Assistir Curta! - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/curta.jpg</thumbnail>
-<link>$doregex[HIDRA]curta.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
+<title>[B][COLOR white]HBO SIGNATURE[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-
-<item>
-<title>Assistir Arte 1 - Online - 24 Horas - Ao Vivo</title>
-Assistir Arte 1 - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/arte1.jpg</thumbnail>
-<link>$doregex[HIDRA]arte1.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]hbosignature</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/hobsig.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir SBT - Online - 24 Horas - Ao Vivo</title>
-Assistir SBT - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/sbt.jpg</thumbnail>
-<link>$doregex[HIDRA]sbt.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
+<title>[B][COLOR white]MAX[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-
-<item>
-<title>Assistir Rede Globo RJ - Online 24 Horas Ao Vivo</title>
-Assistir Rede Globo RJ - Online 24 Horas Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/boborj.jpg</thumbnail>
-<link>$doregex[HIDRA]boborj.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]max</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/max.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Rede Globo SP - Online 24 Horas Ao Vivo</title>
-Assistir Rede Globo SP - Online 24 Horas Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/bobosp.jpg</thumbnail>
-<link>$doregex[HIDRA]bobosp.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
+<title>[B][COLOR white]MAX PRIME[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-
-<item>
-<title>Assistir Rede Globo Nordeste - Online 24 Horas Ao Vivo</title>
-Assistir Rede Globo Nordeste - Online 24 Horas Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/bobonordeste.jpg</thumbnail>
-<link>$doregex[HIDRA]bobonordeste.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]maxprime</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/maxprime.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Globo News - Online - 24 Horas - Ao Vivo</title>
-Assistir Globo News - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/globonews.jpg</thumbnail>
-<link>$doregex[HIDRA]globonews.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
-
+<title>[B][COLOR white]MAX UP[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<item>
-<title>Assistir Band News - Online - 24 Horas - Ao Vivo</title>
-Assistir Band News - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/bandnews.jpg</thumbnail>
-<link>$doregex[HIDRA]bandnews.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]maxup</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/maxup.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Warner TV - Online - 24 Horas - Ao Vivo</title>
-Assistir Warner TV - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/warner.jpg</thumbnail>
-<link>$doregex[HIDRA]warner.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
-
+<title>[B][COLOR white]MEGAPIX[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<item>
-<title>Assistir Sexy Hot - Online - 24 Horas - Ao Vivo - Adulto</title>
-Assistir Sexy Hot - Online - 24 Horas - Ao Vivo - Adulto
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/sexhot.jpg</thumbnail>
-<link>$doregex[HIDRA]sexhot.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]megapix</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/megapix.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Erotic - Online - 24 Horas - Ao Vivo - Adulto</title>
-Assistir Erotic - Online - 24 Horas - Ao Vivo - Adulto
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/erotic.jpg</thumbnail>
-<link>$doregex[HIDRA]erotic.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
-
+<title>[B][COLOR white]PARAMOUNT[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<item>
-<title>Assistir Fox Sports - Online - 24 Horas - Ao Vivo</title>
-Assistir Fox Sports - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/foxsports1.jpg</thumbnail>
-<link>$doregex[HIDRA]foxsports1.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]paramount</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/paramoum.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Pink O TV - Online - 24 Horas - Ao Vivo - Adulto</title>
-Assistir Pink O TV - Online - 24 Horas - Ao Vivo - Adulto
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/pinko.jpg</thumbnail>
-<link>$doregex[HIDRA]pinko.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
-
+<title>[B][COLOR white]SONY[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<item>
-<title>Assistir Evilangel TV - Online - 24 Horas - Ao Vivo - Adulto</title>
-Assistir Evilangel TV - Online - 24 Horas - Ao Vivo - Adulto
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/evilangel.jpg</thumbnail>
-<link>$doregex[HIDRA]evilangel.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]sony</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/sony.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Discovery Channel - Online - 24 Horas - Ao Vivo</title>
-Assistir Discovery Channel - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/discovery.jpg</thumbnail>
-<link>$doregex[HIDRA]discovery.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
+<title>[B][COLOR white]SPACE[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-
-<item>
-<title>Assistir ESPN Brasil - Online - 24 Horas - Ao Vivo</title>
-Assistir ESPN Brasil - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/espnbrasil.jpg</thumbnail>
-<link>$doregex[HIDRA]espnbrasil.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]space</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/space.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Cartoon Network - Online - 24 Horas - Ao Vivo</title>
-Assistir Cartoon Network - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/cartoon.jpg</thumbnail>
-<link>$doregex[HIDRA]cartoon.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
+<title>[B][COLOR white]STUDIO UNIVERSAL[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-
-<item>
-<title>Assistir TNT - Online - 24 Horas - Ao Vivo</title>
-Assistir TNT - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/tnt.jpg</thumbnail>
-<link>$doregex[HIDRA]tnt.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]studiouniversal</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/studiouni.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir History Channel - Online - 24 Horas - Ao Vivo</title>
-Assistir History Channel - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/history.jpg</thumbnail>
-<link>$doregex[HIDRA]history.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
+<title>[B][COLOR white]SYFY[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-
-<item>
-<title>Assistir Space - Online - 24 Horas - Ao Vivo</title>
-Assistir Space - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/space.jpg</thumbnail>
-<link>$doregex[HIDRA]space.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]syfy</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/syfy.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Nickelodeon: Nick - Online - 24 Horas - Ao Vivo</title>
-Assistir Nickelodeon: Nick - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/nick.jpg</thumbnail>
-<link>$doregex[HIDRA]nick.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
+<title>[B][COLOR white]TCM[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-
-<item>
-<title>Assistir TNT Series - Online - 24 Horas - Ao Vivo</title>
-Assistir TNT Series - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/tntseries.jpg</thumbnail>
-<link>$doregex[HIDRA]tntseries.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]tcm</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/tcm.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Warner TV - Online - 24 Horas - Ao Vivo</title>
-Assistir Warner TV - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/warner.jpg</thumbnail>
-<link>$doregex[HIDRA]warner.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
+<title>[B][COLOR white]TELECINE ACTION[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-
-<item>
-<title>Assistir FX - Online - 24 Horas - Ao Vivo</title>
-Assistir FX - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/fx.jpg</thumbnail>
-<link>$doregex[HIDRA]fx.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]telecineaction</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/tcact.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Rede Globo SP - Online 24 Horas Ao Vivo</title>
-Assistir Rede Globo SP - Online 24 Horas Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/bobosp.jpg</thumbnail>
-<link>$doregex[HIDRA]bobosp.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]TELECINE CULT[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]telecinecult</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/tccult.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Megapix - Online - 24 Horas - Ao Vivo</title>
-Assistir Megapix - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/megapix.jpg</thumbnail>
-<link>$doregex[HIDRA]megapix.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]TELECINE FUN[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]telecinefun</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/tcfun.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Telecine Action - Online - 24 Horas - Ao Vivo</title>
-Assistir Telecine Action - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/telecineaction.jpg</thumbnail>
-<link>$doregex[HIDRA]telecineaction.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]TELECINE PIPOCA[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]telecinepipoca</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/tcpipo.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Telecine Pipoca - Online - 24 Horas - Ao Vivo</title>
-Assistir Telecine Pipoca - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/telecinepipoca.jpg</thumbnail>
-<link>$doregex[HIDRA]telecinepipoca.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]TELECINE PREMIUM[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]telecinepremium</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/tcpremium.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir ESPN - Online - 24 Horas - Ao Vivo</title>
-Assistir ESPN - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/espn.jpg</thumbnail>
-<link>$doregex[HIDRA]espn.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]TELECINE TOUCH[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]telecinetouch</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/tctouch.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Telecine Premium - Online - 24 Horas - Ao Vivo</title>
-Assistir Telecine Premium - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/telecinepremium.jpg</thumbnail>
-<link>$doregex[HIDRA]telecinepremium.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]TNT[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]tnt</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/tnt.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Fox - Online - 24 Horas - Ao Vivo</title>
-Assistir Fox - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/fox.jpg</thumbnail>
-<link>$doregex[HIDRA]fox.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]TNT SERIES[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]tntseries</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/tntseries.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Globo News - Online - 24 Horas - Ao Vivo</title>
-Assistir Globo News - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/globonews.jpg</thumbnail>
-<link>$doregex[HIDRA]globonews.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]UNIVERSAL CHANNEL[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]universal</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/uni.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Tooncast - Online - 24 Horas - Ao Vivo</title>
-Assistir Tooncast - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/tooncast.jpg</thumbnail>
-<link>$doregex[HIDRA]tooncast.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]WARNER[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]warner</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/wb.png</thumbnail>
 </item>
+</body></html>
 
+<?xml version="1.0" encoding="UTF-8"?>
 
 <item>
-<title>Assistir Rede Globo RJ - Online 24 Horas Ao Vivo</title>
-Assistir Rede Globo RJ - Online 24 Horas Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/boborj.jpg</thumbnail>
-<link>$doregex[HIDRA]boborj.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]BAND SPORTS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]bandsports</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia601503.us.archive.org/13/items/fox2_20191003/bandsort.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir HBO - Online - 24 Horas - Ao Vivo</title>
-Assistir HBO - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/hbo.jpg</thumbnail>
-<link>$doregex[HIDRA]hbo.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]COMBATE[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]combate</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia601503.us.archive.org/13/items/fox2_20191003/cambate.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir History 2 - H2 - Online - 24 Horas - Ao Vivo</title>
-Assistir History 2 - H2 - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/history2.jpg</thumbnail>
-<link>$doregex[HIDRA]history2.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]ESPN[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]espn</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia801505.us.archive.org/33/items/fox2_20191003_201910/espn.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Rede Globo Nordeste - Online 24 Horas Ao Vivo</title>
-Assistir Rede Globo Nordeste - Online 24 Horas Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/bobonordeste.jpg</thumbnail>
-<link>$doregex[HIDRA]bobonordeste.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]ESPN 2[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]espn2</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia801505.us.archive.org/33/items/fox2_20191003_201910/espn2.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Paramount Channel - Online - 24 Horas - Ao Vivo</title>
-Assistir Paramount Channel - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/paramount.jpg</thumbnail>
-<link>$doregex[HIDRA]paramount.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]ESPN BRASIL[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]espnbrasil</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia801505.us.archive.org/33/items/fox2_20191003_201910/espnbr.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Syfy - Online - 24 Horas - Ao Vivo</title>
-Assistir Syfy - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/syfy.jpg</thumbnail>
-<link>$doregex[HIDRA]syfy.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]Espn Extra[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]espnextra</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia601505.us.archive.org/33/items/fox2_20191003_201910/espn%2B.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Studio Universal - Online - 24 Horas - Ao Vivo</title>
-Assistir Studio Universal - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/studiouniversal.jpg</thumbnail>
-<link>$doregex[HIDRA]studiouniversal.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]FOX SPORTS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]foxsports1</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia801505.us.archive.org/33/items/fox2_20191003_201910/fox.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Space - Online - 24 Horas - Ao Vivo</title>
-Assistir Space - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/space.jpg</thumbnail>
-<link>$doregex[HIDRA]space.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]FOX SPORTS 2[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]foxsports2</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia801505.us.archive.org/33/items/fox2_20191003_201910/fox2.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir FX - Online - 24 Horas - Ao Vivo</title>
-Assistir FX - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/fx.jpg</thumbnail>
-<link>$doregex[HIDRA]fx.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]SPORTV[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]sportv1</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia601505.us.archive.org/33/items/fox2_20191003_201910/sportv.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Warner TV - Online - 24 Horas - Ao Vivo</title>
-Assistir Warner TV - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/warner.jpg</thumbnail>
-<link>$doregex[HIDRA]warner.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]SPORTV 2[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]sportv2</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia801505.us.archive.org/33/items/fox2_20191003_201910/sportv2.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Universal Channel - Online - 24 Horas - Ao Vivo</title>
-Assistir Universal Channel - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/universal.jpg</thumbnail>
-<link>$doregex[HIDRA]universal.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]SPORTV 3[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]sportv3</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia801505.us.archive.org/33/items/fox2_20191003_201910/sportv3.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir TNT Series - Online - 24 Horas - Ao Vivo</title>
-Assistir TNT Series - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/tntseries.jpg</thumbnail>
-<link>$doregex[HIDRA]tntseries.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]PREMIERE CLUBE[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]premiereclubes</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia801505.us.archive.org/33/items/fox2_20191003_201910/premiere.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir TNT - Online - 24 Horas - Ao Vivo</title>
-Assistir TNT - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/tnt.jpg</thumbnail>
-<link>$doregex[HIDRA]tnt.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]PREMIERE 2[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]premiere2</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia801505.us.archive.org/33/items/fox2_20191003_201910/pfc.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Telecine Cult - Online - 24 Horas - Ao Vivo</title>
-Assistir Telecine Cult - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/telecinecult.jpg</thumbnail>
-<link>$doregex[HIDRA]telecinecult.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]PREMIERE 3[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]premiere3</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia801505.us.archive.org/33/items/fox2_20191003_201910/pfc.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Premiere 7 - Online - 24 Horas - Ao Vivo</title>
-Assistir Premiere 7 - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/premiere7.jpg</thumbnail>
-<link>$doregex[HIDRA]premiere7.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]PREMIERE 4[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]premiere4</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia801505.us.archive.org/33/items/fox2_20191003_201910/pfc.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Premiere 6 - Online - 24 Horas - Ao Vivo</title>
-Assistir Premiere 6 - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/premiere6.jpg</thumbnail>
-<link>$doregex[HIDRA]premiere6.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]PREMIERE 5[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]premiere5</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia801505.us.archive.org/33/items/fox2_20191003_201910/pfc.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Premiere 5 - Online - 24 Horas - Ao Vivo</title>
-Assistir Premiere 5 - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/premiere5.jpg</thumbnail>
-<link>$doregex[HIDRA]premiere5.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]PREMIERE 6[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]premiere6</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia801505.us.archive.org/33/items/fox2_20191003_201910/pfc.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Premiere 4 - Online - 24 Horas - Ao Vivo</title>
-Assistir Premiere 4 - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/premiere4.jpg</thumbnail>
-<link>$doregex[HIDRA]premiere4.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]PREMIERE 7[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]premiere7</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia801505.us.archive.org/33/items/fox2_20191003_201910/pfc.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Premiere 3 - Online - 24 Horas - Ao Vivo</title>
-Assistir Premiere 3 - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/premiere3.jpg</thumbnail>
-<link>$doregex[HIDRA]premiere3.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]PREMIERE 8[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]premiere8</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia801505.us.archive.org/33/items/fox2_20191003_201910/pfc.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Premiere 2 - Online - 24 Horas - Ao Vivo</title>
-Assistir Premiere 2 - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/premiere2.jpg</thumbnail>
-<link>$doregex[HIDRA]premiere2.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]PREMIERE 9[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]premiere9</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia801505.us.archive.org/33/items/fox2_20191003_201910/pfc.png</thumbnail>
 </item>
+</body></html>
 
 
-<item>
-<title>Assistir Premiere - Clubes - Online - 24 Horas - Ao Vivo</title>
-Assistir Premiere - Clubes - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/premiereclubes.jpg</thumbnail>
-<link>$doregex[HIDRA]premiereclubes.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
+<?xml version="1.0" encoding="UTF-8"?>
 
-
 <item>
-<title>Assistir SporTV 3 - Online - 24 Horas - Ao Vivo</title>
-Assistir SporTV 3 - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/sportv3.jpg</thumbnail>
-<link>$doregex[HIDRA]sportv3.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]BOOMERANG[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]boomerang</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/bomerange.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir SporTV 2 - Online - 24 Horas - Ao Vivo</title>
-Assistir SporTV 2 - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/sportv2.jpg</thumbnail>
-<link>$doregex[HIDRA]sportv2.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]CARTOON NETWORK[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]cartoon</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/cartoon.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir SporTV - Online - 24 Horas - Ao Vivo</title>
-Assistir SporTV - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/sportv1.jpg</thumbnail>
-<link>$doregex[HIDRA]sportv1.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]DISCOVERY KIDS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]discoverykids</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/discoverykids.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Zoomoo - Online - 24 Horas - Ao Vivo</title>
-Assistir Zoomoo - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/zoomoo.jpg</thumbnail>
-<link>$doregex[HIDRA]zoomoo.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]DISNEY CHANNEL[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]disney</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/disney.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Tooncast - Online - 24 Horas - Ao Vivo</title>
-Assistir Tooncast - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/tooncast.jpg</thumbnail>
-<link>$doregex[HIDRA]tooncast.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]DISNEY JUNIOR[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]disneyjunior</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/disneyjunior.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Nick Jr. - Online - 24 Horas - Ao Vivo</title>
-Assistir Nick Jr. - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/nickjr.jpg</thumbnail>
-<link>$doregex[HIDRA]nickjr.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]DISNEY XD[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]disneyxd</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/disneyxd.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Nickelodeon: Nick - Online - 24 Horas - Ao Vivo</title>
-Assistir Nickelodeon: Nick - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/nick.jpg</thumbnail>
-<link>$doregex[HIDRA]nick.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]GLOOB[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]gloob</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/gloob.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Nat Geo Kids - Online - 24 Horas - Ao Vivo</title>
-Assistir Nat Geo Kids - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/natgeokids.jpg</thumbnail>
-<link>$doregex[HIDRA]natgeokids.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]NICKELODEON[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]nick</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/nicklodeaon.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Gloob - Online - 24 Horas - Ao Vivo</title>
-Assistir Gloob - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/gloob.jpg</thumbnail>
-<link>$doregex[HIDRA]gloob.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]NICK JR[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]nickjr</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/nickjr.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Disney XD - Online - 24 Horas - Ao Vivo</title>
-Assistir Disney XD - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/disneyxd.jpg</thumbnail>
-<link>$doregex[HIDRA]disneyxd.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]TOONCAST[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]tooncast</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/tooncast.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Disney Junior - Online - 24 Horas - Ao Vivo</title>
-Assistir Disney Junior - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/disneyjunior.jpg</thumbnail>
-<link>$doregex[HIDRA]disneyjunior.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]PLAY KIDS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]playkids</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/playkids.png</thumbnail>
 </item>
+</body></html>
 
+<?xml version="1.0" encoding="UTF-8"?>
 
 <item>
-<title>Assistir Disney Channel - Online - 24 Horas - Ao Vivo</title>
-Assistir Disney Channel - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/disney.jpg</thumbnail>
-<link>$doregex[HIDRA]disney.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]ANIMAL PLANET[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]animalplanet</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/animal.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Discovery Kids - Online - 24 Horas - Ao Vivo</title>
-Assistir Discovery Kids - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/discoverykids.jpg</thumbnail>
-<link>$doregex[HIDRA]discoverykids.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]DISCOVERY CHANNEL[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]discovery</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/discochanel.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir National Geographic Channel - Nat Geo - Online - 24 Horas - Ao Vivo</title>
-Assistir National Geographic Channel - Nat Geo - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/natgeo.jpg</thumbnail>
-<link>$doregex[HIDRA]natgeo.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]DISCOVERY CIVILIZATION[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]discoverycivilization</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/discocivi.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Nat Geo Wild - Online - 24 Horas - Ao Vivo</title>
-Assistir Nat Geo Wild - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/natgeowild.jpg</thumbnail>
-<link>$doregex[HIDRA]natgeowild.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]DISCOVERY SCIENCE[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]discoverysience</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/discocieni.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir History 2 - H2 - Online - 24 Horas - Ao Vivo</title>
-Assistir History 2 - H2 - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/history2.jpg</thumbnail>
-<link>$doregex[HIDRA]history2.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]DISCOVERY THEATER[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]discoverytheater</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/discotheater.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir History Channel - Online - 24 Horas - Ao Vivo</title>
-Assistir History Channel - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/history.jpg</thumbnail>
-<link>$doregex[HIDRA]history.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]DISCOVERY TURBO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]discoveryturbo</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/discoturbo.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Discovery Theater - Online - 24 Horas - Ao Vivo</title>
-Assistir Discovery Theater - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/discoverytheater.jpg</thumbnail>
-<link>$doregex[HIDRA]discoverytheater.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]DISCOVERY HOME &amp; HEALTH[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]discoveryhomeihealth</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/discoheh.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Discovery Science - Online - 24 Horas - Ao Vivo</title>
-Assistir Discovery Science - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/discoverysience.jpg</thumbnail>
-<link>$doregex[HIDRA]discoverysience.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]DISCOVERY WORLD[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]discoveryworld</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/discoworld.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Discovery Civilization - Online - 24 Horas - Ao Vivo</title>
-Assistir Discovery Civilization - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/discoverycivilization.jpg</thumbnail>
-<link>$doregex[HIDRA]discoverycivilization.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]ID[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]investigacaodiscovery</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/id.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Discovery Channel - Online - 24 Horas - Ao Vivo</title>
-Assistir Discovery Channel - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/discovery.jpg</thumbnail>
-<link>$doregex[HIDRA]discovery.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]FISH TV[/COLOR] [COLOR lime]SD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]fishtv</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/fishtv.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Animal Planet - Online - 24 Horas - Ao Vivo</title>
-Assistir Animal Planet - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/animalplanet.jpg</thumbnail>
-<link>$doregex[HIDRA]animalplanet.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]HISTORY[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]history</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/history.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir MTV Live - Online - 24 Horas - Ao Vivo</title>
-Assistir MTV Live - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/mtvlive.jpg</thumbnail>
-<link>$doregex[HIDRA]mtvlive.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]H2[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]history2</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/h2.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Food Network - Online - 24 Horas - Ao Vivo</title>
-Assistir Food Network - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/foodnetwork.jpg</thumbnail>
-<link>$doregex[HIDRA]foodnetwork.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]NAT GEO[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]natgeo</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/nategeo.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir TLC - Online - 24 Horas - Ao Vivo</title>
-Assistir TLC - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/tlc.jpg</thumbnail>
-<link>$doregex[HIDRA]tlc.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]NAT GEO WILD[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]natgeowild</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/natewild.png</thumbnail>
 </item>
-
-
-<item>
-<title>Assistir Canal Off - Online - 24 Horas - Ao Vivo</title>
-Assistir Canal Off - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/off.jpg</thumbnail>
-<link>$doregex[HIDRA]off.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+</body></html>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
 
+<?xml version="1.0" encoding="UTF-8"?>
 
 <item>
-<title>Assistir Multishow - Online - 24 Horas - Ao Vivo</title>
-Assistir Multishow - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/multishow.jpg</thumbnail>
-<link>$doregex[HIDRA]multishow.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]FOOD NETWORK[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]foodnetwork</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia601405.us.archive.org/1/items/food_20190925/food.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir MTV - Online - 24 Horas - Ao Vivo</title>
-Assistir MTV - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/mtv.jpg</thumbnail>
-<link>$doregex[HIDRA]mtv.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]ARTE 1[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]arte1</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia601404.us.archive.org/4/items/comedy_201909/ARTE.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Mais Globosat - Online - 24 Horas - Ao Vivo</title>
-Assistir Mais Globosat - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/maisbobosat.jpg</thumbnail>
-<link>$doregex[HIDRA]maisbobosat.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]BIS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]bis</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia601501.us.archive.org/33/items/bis_20190927/BIS.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Lifetime - Online - 24 Horas - Ao Vivo</title>
-Assistir Lifetime - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/lifetime.jpg</thumbnail>
-<link>$doregex[HIDRA]lifetime.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]CANAL OFF[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]off</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia601502.us.archive.org/33/items/canaloff_201909/CANALOFF.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Investigação Discovery - Online - 24 Horas - Ao Vivo</title>
-Assistir Investigação Discovery - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/investigacaodiscovery.jpg</thumbnail>
-<link>$doregex[HIDRA]investigacaodiscovery.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]COMEDY CENTRAL[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]comedycentral</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia801508.us.archive.org/10/items/lifetime_201909/COMEDY.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir GNT - Online - 24 Horas - Ao Vivo</title>
-Assistir GNT - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/gnt.jpg</thumbnail>
-<link>$doregex[HIDRA]gnt.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]CURTA![/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]curta</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia801508.us.archive.org/10/items/lifetime_201909/CURTA.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Rede Bandeirantes - Band - Online - 24 Horas - Ao Vivo</title>
-Assistir Rede Bandeirantes - Band - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/band.jpg</thumbnail>
-<link>$doregex[HIDRA]band.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]FOX LIFE[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]foxlife</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia801508.us.archive.org/10/items/lifetime_201909/FOXLIFE.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Record News - Online - 24 Horas - Ao Vivo</title>
-Assistir Record News - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/recordnews.jpg</thumbnail>
-<link>$doregex[HIDRA]recordnews.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]GNT[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]gnt</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia801508.us.archive.org/10/items/lifetime_201909/GNT.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Record TV SP - Online - 24 Horas - Ao Vivo</title>
-Assistir Record TV SP - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/recordsp.jpg</thumbnail>
-<link>$doregex[HIDRA]recordsp.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]LIFETIME[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]lifetime</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia801508.us.archive.org/10/items/lifetime_201909/LIFETIME.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir SBT - Online - 24 Horas - Ao Vivo</title>
-Assistir SBT - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/sbt.jpg</thumbnail>
-<link>$doregex[HIDRA]sbt.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]MAIS GLOBOSAT[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]maisbobosat</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia801508.us.archive.org/10/items/lifetime_201909/GLOBOMAIS.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Rede Globo RJ - Online 24 Horas Ao Vivo</title>
-Assistir Rede Globo RJ - Online 24 Horas Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/boborj.jpg</thumbnail>
-<link>$doregex[HIDRA]boborj.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]MTV[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]mtv</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia801508.us.archive.org/10/items/lifetime_201909/MTV.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Rede Globo SP - Online 24 Horas Ao Vivo</title>
-Assistir Rede Globo SP - Online 24 Horas Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/bobosp.jpg</thumbnail>
-<link>$doregex[HIDRA]bobosp.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]MTV LIVE[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]mtvlive</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia601409.us.archive.org/13/items/mtvlive_202001/mtvlive.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Rede Globo Nordeste - Online 24 Horas Ao Vivo</title>
-Assistir Rede Globo Nordeste - Online 24 Horas Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/bobonordeste.jpg</thumbnail>
-<link>$doregex[HIDRA]bobonordeste.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]MULTISHOW[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]multishow</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia601508.us.archive.org/10/items/lifetime_201909/MULTI.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Record News - Online - 24 Horas - Ao Vivo</title>
-Assistir Record News - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/recordnews.jpg</thumbnail>
-<link>$doregex[HIDRA]recordnews.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]TLC[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]tlc</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia601406.us.archive.org/6/items/tlc_20190927/TLC.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Globo News - Online - 24 Horas - Ao Vivo</title>
-Assistir Globo News - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/globonews.jpg</thumbnail>
-<link>$doregex[HIDRA]globonews.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]VIVA[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]viva</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://ia601403.us.archive.org/30/items/viva_20190925/viva.png</thumbnail>
 </item>
-
-
-<item>
-<title>Assistir Band News - Online - 24 Horas - Ao Vivo</title>
-Assistir Band News - Online - 24 Horas - Ao Vivo
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/bandnews.jpg</thumbnail>
-<link>$doregex[HIDRA]bandnews.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+</body></html>
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
 
+<?xml version="1.0" encoding="UTF-8"?>
 
 <item>
-<title>Assistir Erotic - Online - 24 Horas - Ao Vivo - Adulto</title>
-Assistir Erotic - Online - 24 Horas - Ao Vivo - Adulto
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/erotic.jpg</thumbnail>
-<link>$doregex[HIDRA]erotic.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]BAND NEWS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]bandnews</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/band.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Evilangel TV - Online - 24 Horas - Ao Vivo - Adulto</title>
-Assistir Evilangel TV - Online - 24 Horas - Ao Vivo - Adulto
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/evilangel.jpg</thumbnail>
-<link>$doregex[HIDRA]evilangel.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]CNN BRASIL[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]cnnbrasil</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/cnnbrasil.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Pink O TV - Online - 24 Horas - Ao Vivo - Adulto</title>
-Assistir Pink O TV - Online - 24 Horas - Ao Vivo - Adulto
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/pinko.jpg</thumbnail>
-<link>$doregex[HIDRA]pinko.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
+<title>[B][COLOR white]GLOBO NEWS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]globonews</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/globo.png</thumbnail>
 </item>
-
-
 <item>
-<title>Assistir Sexy Hot - Online - 24 Horas - Ao Vivo - Adulto</title>
-Assistir Sexy Hot - Online - 24 Horas - Ao Vivo - Adulto
-<thumbnail>https://canaisgratis.info/imgs-videos/Canais/sexhot.jpg</thumbnail>
-<link>$doregex[HIDRA]sexhot.m3u8|Referer=https://topauto.fun/contadorcanaiscanais/</link>
-
-<regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
-<info></info>
-</item>
-
+<title>[B][COLOR white]RECORD NEWS[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link/>$doregex[KODISH1] 
 
+<regex><name>KODISH</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISH1]")</expres><page></page></regex>
+<regex><name>KODISH1</name><expres>(.*?).rcl</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISHR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[KODISHR1]")</expres><page></page></regex>
+<regex><name>KODISHR1</name><expres>(.*?).rcr</expres><page>https://pastebin.com/raw/c4ZYE0j6</page></regex>
+<regex><name>KODISH1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[KODISH]recordnews</page><referer>$doregex[KODISHR]</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/record.png</thumbnail>
+</item></body></html>
