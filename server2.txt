@@ -1,1 +1,2 @@
-https://player.ec.cx/player3/canaishlb.php?canal=.rccanais
+https://stream.ec.cx/hls1/.rccanais
+https://stream.ec.cx/hls1/cnnbrasil.m3u8?expires=1590701109&token=f4098467bc3f4887e3561f1d3540617b.rccanais
