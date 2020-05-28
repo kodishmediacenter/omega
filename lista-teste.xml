@@ -6,3 +6,14 @@ Assistir TNT Series - Online - 24 Horas - Ao Vivo
 <regex><name>HIDRA</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server2.txt</page></regex><fanart></fanart>
 <info></info>
 </item>
+
+<item>
+<title>[B][COLOR white]GLOBO NORDESTE[/COLOR] [COLOR lime]HD[/COLOR][/B]</title>
+<link>$doregex[TW_TUTORIAIS1]</link> 
+<regex><name>TW_TUTORIAISL</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[TW_TUTORIAISL1]")</expres><page></page></regex> 
+<regex><name>TW_TUTORIAISL1</name><expres>(.*?).rcl</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server3.txt</page></regex> 
+<regex><name>TW_TUTORIAISR</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[TW_TUTORIAISR1]")</expres><page></page></regex> 
+<regex><name>TW_TUTORIAISR1</name><expres>(.*?).rcr</expres><page>https://raw.githubusercontent.com/kodishmediacenter/omega/master/server3.txt</page></regex> 
+<regex><name>TW_TUTORIAIS1</name><expres>"(.*hls.*?)\n</expres><page>$doregex[TW_TUTORIAISL]bobonordeste</page><referer>$doregex[TW_TUTORIAISR]</referer></regex> 
+<thumbnail>https://ia801501.us.archive.org/33/items/band_20191003/GLOBONE.png</thumbnail>
+</item>
