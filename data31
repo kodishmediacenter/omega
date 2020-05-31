@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<videodb>
+    <version>1</version>
+    <movie>
+        <title>Moana: Um Mar de Aventuras</title>
+        <originaltitle>Moana</originaltitle>
+        <ratings>
+            <rating name="imdb" max="10">
+                <value>7.600000</value>
+                <votes>253428</votes>
+            </rating>
+            <rating name="themoviedb" max="10" default="true">
+                <value>7.600000</value>
+                <votes>8182</votes>
+            </rating>
+        </ratings>
+        <userrating>0</userrating>
+        <top250>0</top250>
+        <outline></outline>
+        <plot>Moana Waialiki é uma corajosa jovem, filha do chefe de uma tribo na Oceania, vinda de uma longa linhagem de navegadores. Querendo descobrir mais sobre seu passado e ajudar a família, ela resolve partir em busca de seus ancestrais, habitantes de uma ilha mítica que ninguém sabe onde é. Acompanhada pelo lendário semideus Maui, Moana começa sua jornada em mar aberto, onde enfrenta terríveis criaturas marinhas e descobre histórias do submundo.</plot>
+        <tagline>O oceano está chamando.</tagline>
+        <runtime>107</runtime>
+        <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/n7AJMME1l8xg3S7OKoFasW13N5l.jpg">http://image.tmdb.org/t/p/original/n7AJMME1l8xg3S7OKoFasW13N5l.jpg</thumb>
+        <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/vNJFiwtsl7Twww7C0uM4qPnygNw.jpg">http://image.tmdb.org/t/p/original/vNJFiwtsl7Twww7C0uM4qPnygNw.jpg</thumb>
+        <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/pYz0Zt22cJWQs8ibeVWOqDK9cLT.jpg">http://image.tmdb.org/t/p/original/pYz0Zt22cJWQs8ibeVWOqDK9cLT.jpg</thumb>
+        <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/asXEZrwsndnWcxvbJfJPGT3ZRgl.jpg">http://image.tmdb.org/t/p/original/asXEZrwsndnWcxvbJfJPGT3ZRgl.jpg</thumb>
+        <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/okgLEF1yObvTOzfKc6pkoovFHFg.jpg">http://image.tmdb.org/t/p/original/okgLEF1yObvTOzfKc6pkoovFHFg.jpg</thumb>
+        <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/2vlKcyms5UfbDsvl9UQnklfslJ3.jpg">http://image.tmdb.org/t/p/original/2vlKcyms5UfbDsvl9UQnklfslJ3.jpg</thumb>
+        <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/yYEJUrDG5Nuy31FfvEuONkbuxEo.jpg">http://image.tmdb.org/t/p/original/yYEJUrDG5Nuy31FfvEuONkbuxEo.jpg</thumb>
+        <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/alyBI4d7oAG3JVYDl4MV2m0tm6q.jpg">http://image.tmdb.org/t/p/original/alyBI4d7oAG3JVYDl4MV2m0tm6q.jpg</thumb>
+        <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/jgJw6ytJDHmKCe6ZbFf6gK1PyX7.jpg">http://image.tmdb.org/t/p/original/jgJw6ytJDHmKCe6ZbFf6gK1PyX7.jpg</thumb>
+        <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/bwBQDSWvxFwI5xZwp9ATE4ueRvK.jpg">http://image.tmdb.org/t/p/original/bwBQDSWvxFwI5xZwp9ATE4ueRvK.jpg</thumb>
+        <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/qjBtOVsIgNtGqdpQ0yYkcBf4qtv.jpg">http://image.tmdb.org/t/p/original/qjBtOVsIgNtGqdpQ0yYkcBf4qtv.jpg</thumb>
+        <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/z6mmye1efC6Q42HvrYQsZNOeH9H.jpg">http://image.tmdb.org/t/p/original/z6mmye1efC6Q42HvrYQsZNOeH9H.jpg</thumb>
+        <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/ac6IRkALYr4C8PNTJ5IAlPN8pMJ.jpg">http://image.tmdb.org/t/p/original/ac6IRkALYr4C8PNTJ5IAlPN8pMJ.jpg</thumb>
+        <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/4JeejGugONWpJkbnvL12hVoYEDa.jpg">http://image.tmdb.org/t/p/original/4JeejGugONWpJkbnvL12hVoYEDa.jpg</thumb>
+        <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/1QMMDI1FI81O0HyMafPPOSChohE.jpg">http://image.tmdb.org/t/p/original/1QMMDI1FI81O0HyMafPPOSChohE.jpg</thumb>
+        <fanart>
+            <thumb preview="http://image.tmdb.org/t/p/w780/oWU6dgu3RgdSZElkhbZuoPtkWAJ.jpg">http://image.tmdb.org/t/p/original/oWU6dgu3RgdSZElkhbZuoPtkWAJ.jpg</thumb>
+            <thumb preview="http://image.tmdb.org/t/p/w780/gyDpttDrIS5fJkzQ5u4sSLGqSgX.jpg">http://image.tmdb.org/t/p/original/gyDpttDrIS5fJkzQ5u4sSLGqSgX.jpg</thumb>
+            <thumb preview="http://image.tmdb.org/t/p/w780/qFw5LquszzWydKHbPb2lC4aSobk.jpg">http://image.tmdb.org/t/p/original/qFw5LquszzWydKHbPb2lC4aSobk.jpg</thumb>
+            <thumb preview="http://image.tmdb.org/t/p/w780/rPCvRf72tkMCao9mRT99DYJUZLE.jpg">http://image.tmdb.org/t/p/original/rPCvRf72tkMCao9mRT99DYJUZLE.jpg</thumb>
+            <thumb preview="http://image.tmdb.org/t/p/w780/xpcyGWrMYavuYkOOhLuOHeuvmPe.jpg">http://image.tmdb.org/t/p/original/xpcyGWrMYavuYkOOhLuOHeuvmPe.jpg</thumb>
+            <thumb preview="http://image.tmdb.org/t/p/w780/qLVNZFHYUR6Li64He67SWl6BHQe.jpg">http://image.tmdb.org/t/p/original/qLVNZFHYUR6Li64He67SWl6BHQe.jpg</thumb>
+            <thumb preview="http://image.tmdb.org/t/p/w780/yyu3VMZMtu7KC3mdddMlx03dckW.jpg">http://image.tmdb.org/t/p/original/yyu3VMZMtu7KC3mdddMlx03dckW.jpg</thumb>
+            <thumb preview="http://image.tmdb.org/t/p/w780/17B8NeuwlBrX25EnGIqtG5ql8aD.jpg">http://image.tmdb.org/t/p/original/17B8NeuwlBrX25EnGIqtG5ql8aD.jpg</thumb>
+            <thumb preview="http://image.tmdb.org/t/p/w780/lMWBjn4r6JeDxBfdBi980D25Op6.jpg">http://image.tmdb.org/t/p/original/lMWBjn4r6JeDxBfdBi980D25Op6.jpg</thumb>
+            <thumb preview="http://image.tmdb.org/t/p/w780/eWzwYqBm5iztV1IEVWIfGUEng1u.jpg">http://image.tmdb.org/t/p/original/eWzwYqBm5iztV1IEVWIfGUEng1u.jpg</thumb>
+            <thumb preview="http://image.tmdb.org/t/p/w780/fHkzkQxqyyEdLN55ACURg4DnJxI.jpg">http://image.tmdb.org/t/p/original/fHkzkQxqyyEdLN55ACURg4DnJxI.jpg</thumb>
+        </fanart>
+        <mpaa>Rated L</mpaa>
+        <playcount>0</playcount>
+        <lastplayed></lastplayed>
+        <file></file>
+        <path>D:\video\</path>
+        <filenameandpath>D:\video\Moana.mp4</filenameandpath>
+        <basepath>D:\video\Moana.mp4</basepath>
+        <id>tt3521164</id>
+        <uniqueid type="imdb" default="true">tt3521164</uniqueid>
+        <uniqueid type="tmdb">277834</uniqueid>
+        <genre>Aventura</genre>
+        <genre>Comédia</genre>
+        <genre>Família</genre>
+        <genre>Animação</genre>
+        <country>United States of America</country>
+        <credits>Jared Bush</credits>
+        <director>Ron Clements</director>
+        <director>John Musker</director>
+        <premiered>2016-11-23</premiered>
+        <year>2016</year>
+        <status></status>
+        <code></code>
+        <aired></aired>
+        <studio>Walt Disney Pictures</studio>
+        <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=C6PbWhWGUrY</trailer>
+        <actor>
+            <name>Auli&apos;i Cravalho</name>
+            <role>Moana (voice)</role>
+            <order>0</order>
+            <thumb>http://image.tmdb.org/t/p/original/eEda2XBauR9YCAV1yJUsDyEdsiz.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Dwayne Johnson</name>
+            <role>Maui (voice)</role>
+            <order>1</order>
+            <thumb>http://image.tmdb.org/t/p/original/gNDWZkr6tST1Z5xcOCUwthY78CN.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Rachel House</name>
+            <role>Gramma Tala (voice)</role>
+            <order>2</order>
+            <thumb>http://image.tmdb.org/t/p/original/mAQMUI507TmET25aF8tQIxQNCT8.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Temuera Morrison</name>
+            <role>Chief Tui (voice)</role>
+            <order>3</order>
+            <thumb>http://image.tmdb.org/t/p/original/1ckHDFgKXJ8pazmvLCW7DeOKqA0.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Jemaine Clement</name>
+            <role>Tamatoa (voice)</role>
+            <order>4</order>
+            <thumb>http://image.tmdb.org/t/p/original/6eiNbeurpHb2fxIeT0RrJ0wRI25.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Nicole Scherzinger</name>
+            <role>Sina (voice)</role>
+            <order>5</order>
+            <thumb>http://image.tmdb.org/t/p/original/wO4HTtGVKghqiuIr1pkaAP5iqtr.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Alan Tudyk</name>
+            <role>Heihei / Villager #3 (voice)</role>
+            <order>6</order>
+            <thumb>http://image.tmdb.org/t/p/original/w56mp2ky1t7ORDsoGQP00OHlyic.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Louise Bush</name>
+            <role>Toddler Moana (voice)</role>
+            <order>7</order>
+            <thumb></thumb>
+        </actor>
+        <actor>
+            <name>Christopher Jackson</name>
+            <role>Chief Tui (singing voice)</role>
+            <order>8</order>
+            <thumb>http://image.tmdb.org/t/p/original/qkZuE2mmDdoFf4bkoOHKKMoSklH.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Oscar Kightley</name>
+            <role>Fisherman (voice)</role>
+            <order>9</order>
+            <thumb>http://image.tmdb.org/t/p/original/rTklFzrvcwMJJANfFmP2LZuDjD6.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Troy Polamalu</name>
+            <role>Villager #1 (voice)</role>
+            <order>10</order>
+            <thumb>http://image.tmdb.org/t/p/original/wwOV9ETBQh3kCeqW4K0lpXDiqrm.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Puanani Cravalho</name>
+            <role>Villager #2 (voice)</role>
+            <order>11</order>
+            <thumb></thumb>
+        </actor>
+        <resume>
+            <position>0.000000</position>
+            <total>0.000000</total>
+        </resume>
+        <dateadded>2020-05-31 14:25:50</dateadded>
+        <art>
+            <fanart>http://image.tmdb.org/t/p/original/oWU6dgu3RgdSZElkhbZuoPtkWAJ.jpg</fanart>
+            <poster>http://image.tmdb.org/t/p/original/n7AJMME1l8xg3S7OKoFasW13N5l.jpg</poster>
+        </art>
+    </movie>
+    <movie>
+        <title>Ponte para Terabítia</title>
+        <originaltitle>Bridge to Terabithia</originaltitle>
+        <ratings>
+            <rating name="imdb" max="10">
+                <value>7.100000</value>
+                <votes>138765</votes>
+            </rating>
+            <rating name="themoviedb" max="10" default="true">
+                <value>7.200000</value>
+                <votes>2998</votes>
+            </rating>
+        </ratings>
+        <userrating>0</userrating>
+        <top250>0</top250>
+        <outline></outline>
+        <plot>Jesse Aaron (Josh Hutcherson) está na quinta série e seu maior desejo é se tornar o mais rápido corredor de sua sala. No entanto, a chegada da menina Leslie Burke (AnnaSophia Robb) faz com que seu sonho desabe, uma vez que ela se torna a mais rápida da turma. A concorrência inicial logo é tranformada em amizade, quando eles descobrem na floresta um mundo mágico, onde a dupla é rei e rainha.</plot>
+        <tagline>Close your eyes, but keep your mind wide open.</tagline>
+        <runtime>96</runtime>
+        <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/3xFxGodKPMFLheS8rujFSmLfcq4.jpg">http://image.tmdb.org/t/p/original/3xFxGodKPMFLheS8rujFSmLfcq4.jpg</thumb>
+        <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/ieIoNyJvtwQ6joyG6npTKxnCtGH.jpg">http://image.tmdb.org/t/p/original/ieIoNyJvtwQ6joyG6npTKxnCtGH.jpg</thumb>
+        <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/aXAjSOKspZSAc0rZ5z7NazZpLT.jpg">http://image.tmdb.org/t/p/original/aXAjSOKspZSAc0rZ5z7NazZpLT.jpg</thumb>
+        <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/wIBO58j4DErO0rWEt1njVWU15a3.jpg">http://image.tmdb.org/t/p/original/wIBO58j4DErO0rWEt1njVWU15a3.jpg</thumb>
+        <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/arHf3g6zoUjLNh5BwyJzI1Gflli.jpg">http://image.tmdb.org/t/p/original/arHf3g6zoUjLNh5BwyJzI1Gflli.jpg</thumb>
+        <fanart>
+            <thumb preview="http://image.tmdb.org/t/p/w780/i7dNjg7FcUEGP45l5irtPw01eTJ.jpg">http://image.tmdb.org/t/p/original/i7dNjg7FcUEGP45l5irtPw01eTJ.jpg</thumb>
+        </fanart>
+        <mpaa></mpaa>
+        <playcount>0</playcount>
+        <lastplayed></lastplayed>
+        <file></file>
+        <path>D:\video\</path>
+        <filenameandpath>D:\video\Ponte para Terabita.mp4</filenameandpath>
+        <basepath>D:\video\</basepath>
+        <id>tt0398808</id>
+        <uniqueid type="imdb" default="true">tt0398808</uniqueid>
+        <uniqueid type="tmdb">1265</uniqueid>
+        <genre>Aventura</genre>
+        <genre>Drama</genre>
+        <genre>Família</genre>
+        <country>United States of America</country>
+        <credits>Jeff Stockwell</credits>
+        <director>Gábor Csupó</director>
+        <premiered>2007-02-16</premiered>
+        <year>2007</year>
+        <status></status>
+        <code></code>
+        <aired></aired>
+        <studio>Lauren Levine Productions Inc.</studio>
+        <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1OZTV7Zu2bo</trailer>
+        <actor>
+            <name>Josh Hutcherson</name>
+            <role>Jess Aarons</role>
+            <order>0</order>
+            <thumb>http://image.tmdb.org/t/p/original/eg0P4mpVQjq2zEtwhQLrJz10Ld5.jpg</thumb>
+        </actor>
+        <actor>
+            <name>AnnaSophia Robb</name>
+            <role>Leslie Burke</role>
+            <order>1</order>
+            <thumb>http://image.tmdb.org/t/p/original/lvYSvHoLdzmm8IA1dxhGkpjPVq.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Robert Patrick</name>
+            <role>Jack Aarons</role>
+            <order>2</order>
+            <thumb>http://image.tmdb.org/t/p/original/qRv2Es9rZoloullTbzss3I5j1Mp.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Zooey Deschanel</name>
+            <role>Ms. Edmunds</role>
+            <order>3</order>
+            <thumb>http://image.tmdb.org/t/p/original/30KQyjsXfrdm4Dcori7bDFTg9Le.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Bailee Madison</name>
+            <role>May Belle Aarons</role>
+            <order>4</order>
+            <thumb>http://image.tmdb.org/t/p/original/wOW9wzgbO6J1u7QrsswFRuiKyT7.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Kate Butler</name>
+            <role>Mary Aarons</role>
+            <order>5</order>
+            <thumb></thumb>
+        </actor>
+        <actor>
+            <name>Emma Fenton</name>
+            <role>Ellie Aarons</role>
+            <order>6</order>
+            <thumb>http://image.tmdb.org/t/p/original/7ZNHo3AvlWk1TngHxd4Zv3ViaIK.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Latham Gaines</name>
+            <role>Bill Burke</role>
+            <order>7</order>
+            <thumb>http://image.tmdb.org/t/p/original/bMRFJ3ALLxCzhRQuFvm0WHWNssI.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Judy McIntosh</name>
+            <role>Judy Burke</role>
+            <order>8</order>
+            <thumb>http://image.tmdb.org/t/p/original/3DTpQgpBW59OVPRdqr2B42TTzEy.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Grace Brannigan</name>
+            <role>Joyce Aarons</role>
+            <order>9</order>
+            <thumb></thumb>
+        </actor>
+        <actor>
+            <name>Lauren Clinton</name>
+            <role>Janice Avery</role>
+            <order>10</order>
+            <thumb></thumb>
+        </actor>
+        <actor>
+            <name>Isabelle Rose Kircher</name>
+            <role>Carla</role>
+            <order>11</order>
+            <thumb></thumb>
+        </actor>
+        <actor>
+            <name>Patricia Aldersley</name>
+            <role>Grandma Burke</role>
+            <order>12</order>
+            <thumb>http://image.tmdb.org/t/p/original/5F8OLn1l0e1CSMZu2UjwXHdwf1Q.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Carly Owen</name>
+            <role>Madison</role>
+            <order>13</order>
+            <thumb></thumb>
+        </actor>
+        <actor>
+            <name>James Gaylyn</name>
+            <role>Principal Turner</role>
+            <order>14</order>
+            <thumb>http://image.tmdb.org/t/p/original/yZAOLYunFLzjoBk6UEIsp8k9nhG.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Jen Wolfe</name>
+            <role>Mrs. Myers</role>
+            <order>15</order>
+            <thumb>http://image.tmdb.org/t/p/original/6zvBt2WMvQLjN4w57n7mQn5t74a.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Ian Harcourt</name>
+            <role>Bus Driver</role>
+            <order>16</order>
+            <thumb></thumb>
+        </actor>
+        <actor>
+            <name>Maisy McLeod-Riera</name>
+            <role>First Grade Girl</role>
+            <order>17</order>
+            <thumb>http://image.tmdb.org/t/p/original/oQ7AjHCKyyg5UG44HQvTuWF2zJS.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Phil Grieve</name>
+            <role>Mr. Bailey</role>
+            <order>18</order>
+            <thumb>http://image.tmdb.org/t/p/original/p52qwca3Pfx04agTtpQBFtxFzBM.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Elliot Lawless</name>
+            <role>Gary Fulcher</role>
+            <order>19</order>
+            <thumb>http://image.tmdb.org/t/p/original/iesqWQkk8XvbDc1HxUqr9Zbvc3s.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Cameron Wakefield</name>
+            <role>Scott Hoager</role>
+            <order>20</order>
+            <thumb>http://image.tmdb.org/t/p/original/dUsuVmo2YUS71F1Jy879ps91S1v.jpg</thumb>
+        </actor>
+        <actor>
+            <name>Zoe Cramond</name>
+            <role>Parishioner (uncredited)</role>
+            <order>21</order>
+            <thumb>http://image.tmdb.org/t/p/original/w3DkIKzYhtbCMgLUQM8z8wTfxbt.jpg</thumb>
+        </actor>
+        <resume>
+            <position>0.000000</position>
+            <total>0.000000</total>
+        </resume>
+        <dateadded>2020-05-31 14:23:18</dateadded>
+        <art>
+            <fanart>http://image.tmdb.org/t/p/original/i7dNjg7FcUEGP45l5irtPw01eTJ.jpg</fanart>
+            <poster>http://image.tmdb.org/t/p/original/3xFxGodKPMFLheS8rujFSmLfcq4.jpg</poster>
+        </art>
+    </movie>
+    <paths>
+        <path>
+            <url>D:\video\</url>
+            <scanrecursive>2147483647</scanrecursive>
+            <usefoldernames>true</usefoldernames>
+            <content>movies</content>
+            <scraperpath>metadata.themoviedb.org</scraperpath>
+        </path>
+    </paths>
+</videodb>
