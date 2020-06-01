@@ -3,7 +3,7 @@
 
 <channels>
  <channel>
- <name>[COLOR whinte][B]Em Casa Mas Feliz[/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]Em Casa Mas Feliz[/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
  <thumbnail>https://us.123rf.com/450wm/sergiusch/sergiusch2002/sergiusch200200003/141277941-no-coronavirus-icon-illustration-contains-vector-flat-no-coronavirus-pictogram-isolated-on-a-white-b.jpg?ver=6</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/Em%20Casa%20Mas%20Feliz</externallink>
  <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
@@ -13,7 +13,7 @@
  
  <channels>
  <channel>
- <name>[COLOR whinte][B]Virtual Addon [/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]Virtual Addon [/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/logo.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/virtual-addons-cloud</externallink>
  <fanart>https://spinoff.com.br/wp-content/uploads/watch-free-iptv-online-with-tablet-pc-smartphone-laptop-tv.jpg</fanart>
@@ -24,7 +24,7 @@
  
  <channels>
  <channel>
- <name>[COLOR whinte][B]Conteudo 24 horas[/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]Conteudo 24 horas[/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
  <thumbnail>https://img.freepik.com/vetores-gratis/neon-24-horas-aberta-tabuleta_1017-19487.jpg?size=338&ext=jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/24horas.xml</externallink>
  <fanart>https://spinoff.com.br/wp-content/uploads/watch-free-iptv-online-with-tablet-pc-smartphone-laptop-tv.jpg</fanart>
@@ -34,7 +34,7 @@
 
 <channels>
 <channel>
-<name>[COLOR whinte][B]Kodish Faroeste[/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
+<name>[COLOR white][B]Kodish Faroeste[/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/store/master/virtualaddon/kodish%20faroeste/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/store/master/Faroeste.xml</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/virtualaddon/kodish%20faroeste/fanart.jpg</fanart>
@@ -43,7 +43,7 @@
 </channels>
 
 <channel>
-<name>[COLOR whinte][B]Apks[/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
+<name>[COLOR white][B]Apks[/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
 <thumbnail>https://lh5.ggpht.com/aCdAa44RDJNrNx2ZtN93_CsTV19w-NjBnbXI7B15PuqH0uAizyD-GEkvHqFaigGBqw</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/apks</externallink>
 <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
@@ -54,7 +54,7 @@
 
 <channels></channels>
 <channel>
-<name>[COLOR whinte][B]Filmes[/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
+<name>[COLOR white][B]Filmes[/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes-cat</externallink>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</thumbnail>
 <fanart></fanart>
@@ -64,7 +64,7 @@
 
 <channels></channels>
 <channel>
-<name>[COLOR whinte][B]Series[/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
+<name>[COLOR white][B]Series[/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/series-cat.txt</externallink>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/series.png</thumbnail>
 <fanart></fanart>
@@ -74,7 +74,7 @@
 
 <channels></channels>
 <channel>
-<name>[COLOR whinte][B]Doramas [Youtube][/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
+<name>[COLOR white][B]Doramas [Youtube][/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/dorama</externallink>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/dorama.png</thumbnail>
 <fanart></fanart>
@@ -84,7 +84,7 @@
 
 <channels></channels>
 <channel>
-<name>[COLOR whinte][B]Doramas [Torrent][/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
+<name>[COLOR white][B]Doramas [Torrent][/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/doramatorrent</externallink>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/dorama.png</thumbnail>
 <fanart></fanart>
@@ -94,7 +94,7 @@
 
 <channels></channels>
 <channel>
-<name>[COLOR whinte][B]Vagalume FM[/B][/COLOR] [COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
+<name>[COLOR white][B]Vagalume FM[/B][/COLOR] [COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/vagalumefm</externallink>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/vagalume.png</thumbnail>
 <fanart></fanart>
@@ -104,16 +104,10 @@
 
 <channels></channels>
 <channel>
-<name>[COLOR whinte][B]Rock In Rio 2019[/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
+<name>[COLOR white][B]Rock In Rio 2019[/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/rockinrio</externallink>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/rock-in-rio-icon.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
 </channel>
 </channels>
-
-
-
-
-
-
