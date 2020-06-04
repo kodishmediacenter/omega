@@ -1,7 +1,29 @@
-<item>
-<title>CNN Brasil</title>
-<thumbnail>https://www.cnnbrasil.com.br/_next/static/images/logo-0457804d41d68a5c1c3de124ff229c35.png</thumbnail>
-<link>https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8</link>
-<info>Esta é uma degustação por tempo limitado do sinal da TV por assinatura da CNN Brasil. Assista acima ao vivo à programação da CNN Brasil das 6:00 às 23:00, de segunda a sexta. Ou tenha acesso à programação completa, por 24 horas, por meio da TV por assinatura. Procure sua operadora local.</info>
-</item>
+ <channels>
+ <channel>
+ <name>[COLOR whinte][B]Lista IPTV [/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/iptv.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/massafalida/master/iptv-mf</externallink>
+ <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
+ <info></info>
+ </channel>
+ </channels>
 
+ <channels>
+ <channel>
+ <name>[COLOR whinte][B]Lista IPTV 2[/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/iptv.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/massafalida/master/iptv2-msf</externallink>
+ <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
+ <info></info>
+ </channel>
+ </channels>
+
+<channels>
+ <channel>
+ <name>[COLOR whinte][B]Lista IPTV 3[/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/iptv.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/massafalida/master/iptv3-msf</externallink>
+ <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
+ <info></info>
+ </channel>
+ </channels> 
