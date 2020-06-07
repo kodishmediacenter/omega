@@ -37,6 +37,16 @@
  <info></info>
  </channel>
  </channels>
+
+ <channels>
+ <channel>
+ <name>1966 - Ultraman</name>
+ <thumbnail>https://2.bp.blogspot.com/-A_VF_R-M7UA/XtrtBD4P8kI/AAAAAAAAAok/G8QFDYFAF6cRxknM1mYGxzgj7Q2X5h3KQCLcBGAsYHQ/s1600/1966%2B-%2BUltraman.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/1966%20-%20Ultraman</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+ <info></info>
+ </channel>
+ </channels>
  
  <channels>
  <channel>
