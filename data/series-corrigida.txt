@@ -34,7 +34,7 @@ Sinopse: A nova temporada continua acompanhando as mulheres fortes Malu (Maria C
 
 <channels></channels>
 <channel>
-<name>The Sinner - 1ª Temporada Torrent Dublada / Dual Áudio 5.1 HD | 720p | 1080p | TV</name>
+<name>The Sinner</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFcxMLCAA7XHYeGOLaouyqChRhY.jpg</thumbnail>
 
 
