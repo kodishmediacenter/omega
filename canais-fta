@@ -39,4 +39,5 @@ http://streaming.procergs.com.br:1935/tve/stve/chunklist_w2093282102.m3u8
 https://stmv1.srvstm.com/tvcadm/tvcadm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJylbpZfMW-DIGdScT5-xCu74czytSuptfa2Sodhxw=s256-c-k-c0xffffffff-no-rj-mo" group-title="Sem Categoria",Chefe TV
 plugin://plugin.video.youtube/play/?video_id=8PgP2tcF0KQ
-
+#EXTINF:-1 tvg-logo="https://miro.medium.com/max/3150/1*VLtZzZuuZu1kmVOFz3c7qQ.jpeg" group-title="Sem Categoria",Sesc TV
+https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/chunklist_b2723840.m3u8?sts=st=1593549540~exp=1593556140~acl=/*~hmac=1231c568f1cd3db82910740fa18a501ed97424221485f1c284a11f125f7dc553
