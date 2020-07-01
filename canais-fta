@@ -1,0 +1,42 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1224432107369324547/CzLjP9Q7_400x400.jpg" group-title="Sem Categoria",Cultura
+https://cdn.jmvstream.com/w/LVW-8403/LVW8403_bIBvekk9QA/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1224432107369324547/CzLjP9Q7_400x400.jpg" group-title="Sem Categoria",Cultura
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w2045595725.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1224432107369324547/CzLjP9Q7_400x400.jpg" group-title="Sem Categoria",Cultura
+https://5b33b873179a2.streamlock.net:1443/live/livestream/media_w125430112_429.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1224432107369324547/CzLjP9Q7_400x400.jpg" group-title="Sem Categoria",Cultura
+http://wowza4.catve.com.br:1935/live/livestream/media_w1271818644_433.ts
+#EXTINF:-1 tvg-logo="https://www.revistadagente.com.br/uploads/posts/486/7d04bbbe5494ae9d2f5a76aa1c00fa2f.jpg" group-title="Sem Categoria",SBT
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1361860827_b131000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Sem Categoria",Globo SP
+https://stream.ec.cx/hls1/bobosp.m3u8?expires=1593552317&token=a800a420148e816ee516111964763910
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Sem Categoria",Globo RJ
+https://stream.ec.cx/hls1/boborj.m3u8?expires=1593552634&token=94d0952722a2c7867948c96f17550245
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Sem Categoria",Record 
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Sem Categoria",Record 
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_240_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Band_logo_2018.png" group-title="Sem Categoria",Band
+https://evpp.mm.uol.com.br/geob_band/app/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Band_logo_2018.png" group-title="Sem Categoria",Band
+http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w2071914578.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1225547492445519874/a8ce3z7B_400x400.jpg" group-title="Sem Categoria",Tv Gazeta
+https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/TVGAZETA-720p-20200630185607-1593551050.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1225547492445519874/a8ce3z7B_400x400.jpg" group-title="Sem Categoria",Tv Gazeta
+https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1225547492445519874/a8ce3z7B_400x400.jpg" group-title="Sem Categoria",Tv Gazeta
+https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1225547492445519874/a8ce3z7B_400x400.jpg" group-title="Sem Categoria",Tv Gazeta
+https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-360p.m3u8
+#EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/bandnews-logo_bc6f60bb73800d02c05386c5810d73e6023376d5.jpeg" group-title="Sem Categoria",Band News 
+https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="Sem Categoria",CNN Brasil 
+https://streaming.cnnbrasil.com.br/cnndigital_main_Output2.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvecultura.ms.gov.br/wp-content/uploads/2020/03/logo-tve-cultura.png" group-title="Sem Categoria",TVE 
+http://streaming.procergs.com.br:1935/tve/stve/chunklist_w2093282102.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvclima.com/images/logo_tv.png" group-title="Sem Categoria",TV Clima
+https://stmv1.srvstm.com/tvcadm/tvcadm/media_w560762193_113805.ts
+#EXTINF:-1 tvg-logo="https://www.tvclima.com/images/logo_tv.png" group-title="Sem Categoria",TV Clima
+https://playerv.srvstm.com/video/tvcadm/1/false/false/U3RtVjEuc3J2c3RtLmNvbSsw/16:9/aHR0cDovL3R2Y2xpbWEuY29tL2ltYWdlcy9sb2dvX3R2LnBuZysw
+
