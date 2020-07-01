@@ -36,7 +36,6 @@ https://streaming.cnnbrasil.com.br/cnndigital_main_Output2.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvecultura.ms.gov.br/wp-content/uploads/2020/03/logo-tve-cultura.png" group-title="Sem Categoria",TVE 
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w2093282102.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvclima.com/images/logo_tv.png" group-title="Sem Categoria",TV Clima
-https://stmv1.srvstm.com/tvcadm/tvcadm/media_w560762193_113805.ts
-#EXTINF:-1 tvg-logo="https://www.tvclima.com/images/logo_tv.png" group-title="Sem Categoria",TV Clima
-https://playerv.srvstm.com/video/tvcadm/1/false/false/U3RtVjEuc3J2c3RtLmNvbSsw/16:9/aHR0cDovL3R2Y2xpbWEuY29tL2ltYWdlcy9sb2dvX3R2LnBuZysw
+https://stmv1.srvstm.com/tvcadm/tvcadm/playlist.m3u8
+
 
