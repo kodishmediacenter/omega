@@ -39,8 +39,10 @@ http://streaming.procergs.com.br:1935/tve/stve/chunklist_w2093282102.m3u8
 https://stmv1.srvstm.com/tvcadm/tvcadm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tv8brasil.com/wp-content/uploads/2020/05/logo-site-tv8brasil.png" group-title="Sem Categoria",TV 8
 https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/chunklist_b2596000.m3u8
-#EXTINF:-1 tvg-logo="https://tv8brasil.com/wp-content/uploads/2020/05/logo-site-tv8brasil.png"Sem Categoria",TV 8
+#EXTINF:-1 tvg-logo="https://tv8brasil.com/wp-content/uploads/2020/05/logo-site-tv8brasil.png" group-title="Sem Categoria",TV 8
 https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/chunklist_b546000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TV_Escola.png group-title="Sem Categoria",TV Escola
+https://video-rvd-pe-cdc-gw-3-1.rnp.br/live/ocp(t(Fh4GAxvEXVg)r(TOqkzw)a(qMUZAw)p(d(lCo)k(oxI)m(7wQnCkhXrv1gAWcDgnO9rw)n(a(HVs0QA)s(BFA)'a(h7VAOw)s(HHE)))s(s(IKs)b(WeKTm7GvAMy6pPlsUpbSBi-9Z4X43e8D1m1fARk4AbvvvvJFHOiAERhFmUGG2jd3dc2yYqs8dIBAJvsofw)'s(Y8A)b(m0gJ19YISUfORG-dmRZEHps66VS7MnY8re1m2dxhuGDHEWzJcgryWt2dCdm5EkoE2crfHBSowt_qHMEgQPUM0C_aBwCuN24zfyjnmg5R)'s(1ak)b(K9i0XrDY))m(0))/tvescola_index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJylbpZfMW-DIGdScT5-xCu74czytSuptfa2Sodhxw=s256-c-k-c0xffffffff-no-rj-mo" group-title="Sem Categoria",Chefe TV
 plugin://plugin.video.youtube/play/?video_id=8PgP2tcF0KQ
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJx_PRJcAAEjMGmAgy3jF5QTVqiR1n5PAu4zXgk3cA=s256-c-k-c0xffffffff-no-rj-mo" group-title="Sem Categoria",DC Girls
