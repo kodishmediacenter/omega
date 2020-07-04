@@ -1,5 +1,51 @@
 <channels></channels>
 <channel>
+<name>Dark</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LoHuHWA4H8jElFlZDvsmU2n63b.jpg</thumbnail>
+
+<item>
+<title>Dark - 1ª Temporada Completa</title>
+<link>magnet:?xt=urn:btih:8b9c90c97d4781b07767c331a687196a1cd1a17b</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LoHuHWA4H8jElFlZDvsmU2n63b.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Quatro famílias iniciam uma desesperada busca por respostas quando uma criança desaparece e um complexo mistério envolvendo três gerações começa a se revelar.					
+</info>
+</item>
+ 
+<item>
+<title>Dark - 2ª Temporada Completa</title>
+<link>magnet:?xt=urn:btih:bff4ace985a1c0435d6269ff3e22a92a9776cc10&dn=Suits.S07E01.720p.HDTV.x264-AVS%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LoHuHWA4H8jElFlZDvsmU2n63b.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Quatro famílias iniciam uma desesperada busca por respostas quando uma criança desaparece e um complexo mistério envolvendo três gerações começa a se revelar.
+</info>
+</item>
+
+<item>
+<title>Dark - 3ª Temporada Completa</title>
+<link>magnet:?xt=urn:btih:fd7339b23baea772200b1a1ea5f5d2c23608b2b6&dn=COMANDO.TO%20-%20Dark%203%c2%aa%20Temporada%20Completa%202020%20%5b720p%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LoHuHWA4H8jElFlZDvsmU2n63b.jpg</thumbnail>
+<fanart></fanart>
+<info>
+Quatro famílias iniciam uma desesperada busca por respostas quando uma criança desaparece e um complexo mistério envolvendo três gerações começa a se revelar.
+</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<utube>bJ-8ylndfPI</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LoHuHWA4H8jElFlZDvsmU2n63b.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+
+
+<channels></channels>
+<channel>
 <name>Coisa Mais Linda</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mICebWJOcbhMTeKECR4fqBdrs9j.jpg</thumbnail>
 
