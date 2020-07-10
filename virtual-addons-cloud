@@ -138,3 +138,13 @@
  <info></info>
  </channel>
  </channels>
+ 
+ <channels>
+ <channel>
+ <name>[B]Flash Back 80 - Faroeste[/B]</name>
+ <thumbnail>https://yt3.ggpht.com/a/AATXAJyxI5uJkhD5t7S-ku6xXUPQ184FRbj4OOF6WR5t=s256-c-k-c0xffffffff-no-rj-mo</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/flashback-faroeste/vaddon.txt</externallink>
+ <fanart></fanart>
+ <info></info>
+ </channel>
+ </channels>
