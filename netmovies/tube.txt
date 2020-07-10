@@ -1,0 +1,6 @@
+ <item>
+ <title>NetMovies</title>
+ <mytube>channel/UCK5RRQ3TdwAbbCWrtnXsN3Q/playlists</mytube>
+ <thumbnail>https://yt3.ggpht.com/a/AATXAJx8RiRNYziwGhd9HXnFPDvydRTB49f76c3BZGWvsw=s256-c-k-c0xffffffff-no-rj-mo</thumbnail>
+ </fanart></fanart>
+ </item>
