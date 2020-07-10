@@ -1,0 +1,6 @@
+ <item>
+ <title>Flash Back 80</title>
+ <utube>UClq3VbskcNvv-RE9FPOc0jg</utube>
+ <thumbnail>https://yt3.ggpht.com/a/AATXAJyxI5uJkhD5t7S-ku6xXUPQ184FRbj4OOF6WR5t=s256-c-k-c0xffffffff-no-rj-mo</thumbnail>
+ </fanart></fanart>
+ </item>
