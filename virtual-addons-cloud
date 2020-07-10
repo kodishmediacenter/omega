@@ -1,7 +1,7 @@
  
  <channels>
  <channel>
- <name>Listao Brinde 7k</name>
+ <name>[B]Listao Brinde 7k[/B]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/logo.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/extra-brinde</externallink>
  <fanart></fanart>
@@ -11,7 +11,7 @@
 
  <channels>
  <channel>
- <name>COLDPLAY </name>
+ <name>[B]COLDPLAY[/B]</name>
  <thumbnail>https://image.ibb.co/mqmRi8/capa1.png</thumbnail>
  <externallink>https://pastebin.com/raw/GWBRPRLD</externallink>
  <fanart>https://i.pinimg.com/originals/11/66/42/116642e0d3584ebcd26a89cac1c3551c.jpg</fanart>
@@ -21,7 +21,7 @@
  
  <channels>
  <channel>
- <name>Meus Flash Back Favorito</name>
+ <name>[B]Meus Flash Back Favorito[/B]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/nostalgia.jpg</thumbnail>
  <externallink>https://pastebin.com/raw/qHkntmSv</externallink>
  <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
@@ -31,7 +31,7 @@
 
 <channels>
 <channel>
-<name>So Classicos</name>
+<name>[B]So Classicos[/B]</name>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/nostalgia.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/store/master/virtualaddon/So%20Classicos/base.txt</externallink>
 <fanart>http://www.guoguiyan.com/data/out/56/68663714-disco-wallpapers.jpg</fanart>
@@ -41,7 +41,7 @@
 
 <channels>
  <channel>
- <name>Lista Series Jony Rocha</name>
+ <name>[B]Lista Series Jony Rocha[/B]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/nostalgia.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/jr-series</externallink>
  <fanart>https://wallpapersite.com/images/pages/pic_w/4090.jpg</fanart>
@@ -51,7 +51,7 @@
 
  <channels>
  <channel>
- <name>Lista Filmes Jony Rocha </name>
+ <name>[B]Lista Filmes Jony Rocha[/B]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/nostalgia.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/jr-filmes.m3u</externallink>
  <fanart>https://i1.wp.com/www.portallos.com.br/wp-content/uploads/2016/03/Tartarugas-Ninja-Wallpaper-post.jpg</fanart>
@@ -61,7 +61,7 @@
  
  <channels>
  <channel>
- <name>Box Filmes Pixar</name>
+ <name>[B]Box Filmes Pixar[/B]</name>
  <thumbnail>https://images-na.ssl-images-amazon.com/images/I/91VwNjhlqpL._AC_SL1500_.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/pixar</externallink>
  <fanart>https://wallpaperaccess.com/full/331648.jpg</fanart>
@@ -71,7 +71,7 @@
   
 <channels>
  <channel>
- <name>Ultraman</name>
+ <name>[B]Ultraman[/B]</name>
  <thumbnail>https://http2.mlstatic.com/serie-ultraman-hayata-dvd-dublado-completo-D_NQ_NP_163221-MLB20750828787_062016-F.jpg</thumbnail>
  <externallink>https://pastebin.com/raw/pQXK5YmT</externallink>
  <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
@@ -81,7 +81,7 @@
 
  <channels>
  <channel>
- <name>Star Track</name>
+ <name>[B]Star Track[/B]</name>
  <thumbnail>http://webtvcde.com/Series/Star.Trek.3/Star.Trek.3.jpg</thumbnail>
  <externallink>https://pastebin.com/raw/fyAUQhgA</externallink>
  <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
@@ -91,7 +91,7 @@
  
  <channels>
  <channel>
- <name>Box de Filmes Studio Ghibli</name>
+ <name>[B]Box de Filmes Studio Ghibli[/B]</name>
  <thumbnail>https://miro.medium.com/max/1080/1*UQx_ESZRnKkk0ZwAHP2Qlg.png</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/guibli.xml</externallink>
  <fanart>https://uploads.jovemnerd.com.br/wp-content/uploads/2020/01/studio-ghibli-novos-filmes.jpg</fanart>
@@ -101,7 +101,7 @@
  
  <channels>
  <channel>
- <name>Tokuflix</name>
+ <name>[B]Tokuflix[/B]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku.png</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/index.xml</externallink>
  <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
@@ -109,12 +109,32 @@
  </channel>
  </channels>
  
-  <channels>
+ <channels>
  <channel>
- <name>Santo Rock Bar</name>
+ <name>[B]Santo Rock Bar[/B]</name>
  <thumbnail>https://yt3.ggpht.com/a/AATXAJxdpL81SOoXBFIpV8b3kHu7VNAX61redyCYMQ=s256-c-k-c0xffffffff-no-rj-mo</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/santo-rock-bar</externallink>
  <fanart></fanart>
+ <info></info>
+ </channel>
+ </channels>
+
+ <channels>
+ <channel>
+ <name>[B]Netmovies [Youtube - Edition][/B]</name>
+ <thumbnail>https://yt3.ggpht.com/a/AATXAJx8RiRNYziwGhd9HXnFPDvydRTB49f76c3BZGWvsw=s256-c-k-c0xffffffff-no-rj-mo</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/netmovies/tube.txt</externallink>
+ <fanart></fanart>
+ <info></info>
+ </channel>
+ </channels>
+ 
+ <channels>
+ <channel>
+ <name>[B]Dash Radio[/B]</name>
+ <thumbnail>https://images-na.ssl-images-amazon.com/images/I/513ujMFstqL._SY400_.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/dash-radio.m3u</externallink>
+ <fanart>https://images5.alphacoders.com/348/348697.jpg</fanart>
  <info></info>
  </channel>
  </channels>
