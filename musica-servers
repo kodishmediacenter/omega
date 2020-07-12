@@ -1,0 +1,82 @@
+<channels></channels>
+<channel>
+<name>Metalica</name>
+<thumbnail>https://i.pinimg.com/originals/27/fa/e3/27fae3c8d97404467325cd18036b0ef7.jpg</thumbnail>
+
+
+<item>
+<title>Metalica</title>
+<file>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/</file>
+<thumbnail>https://i.pinimg.com/originals/27/fa/e3/27fae3c8d97404467325cd18036b0ef7.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+ 
+</channel>
+
+<channels></channels>
+<channel>
+<name>Os Beatles</name>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/919WO8q-nnL._AC_SL1500_.jpg</thumbnail>
+
+
+<item>
+<title>Os Beatles Server 01</title>
+<file>http://maslovd.ru/public/mp3/Beatles/</file>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/919WO8q-nnL._AC_SL1500_.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>Os Beatles Server 02</title>
+<file>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Beatles/</file>
+
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/919WO8q-nnL._AC_SL1500_.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+ 
+</channel>
+
+<channels></channels>
+<channel>
+<name>Servidor 01 </name>
+<thumbnail>https://icon-library.com/images/icon-for-server/icon-for-server-5.jpg</thumbnail>
+
+<item>
+<title>Servidor 01</title>
+<file>http://teresadapraiamidis.com/Mp3/Musicas/</file>
+<thumbnail>https://icon-library.com/images/icon-for-server/icon-for-server-5.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Servidor 02 </name>
+<thumbnail>https://icon-library.com/images/icon-for-server/icon-for-server-5.jpg</thumbnail>
+
+<item>
+<title>Servidor 02</title>
+<file>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/</file>
+<thumbnail>https://icon-library.com/images/icon-for-server/icon-for-server-5.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Servidor 03 </name>
+<thumbnail>https://icon-library.com/images/icon-for-server/icon-for-server-5.jpg</thumbnail>
+
+<item>
+<title>Servidor 03</title>
+<file>http://aniz-music.com/Musicas/</file>
+<thumbnail>https://icon-library.com/images/icon-for-server/icon-for-server-5.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
