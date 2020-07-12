@@ -121,6 +121,17 @@
 </channel>
 </channels>
 
+<channels></channels>
+<channel>
+<name>[COLOR white][B]Servidores de Musica[/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/musica-servers</externallink>
+<thumbnail>https://icon-library.com/images/icon-for-server/icon-for-server-5.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+
 
 
 
