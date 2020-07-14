@@ -51,4 +51,5 @@ plugin://plugin.video.youtube/play/?video_id=AVVRV1O6WKk
 plugin://plugin.video.youtube/play/?video_id=jpaREzXdLDM
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJwe9AjAbqgOBfbVVBrBU-MUbW2FS6RIqhNUii1beQ=s256-c-k-c0xffffffff-no-rj-mo" group-title="Sem Categoria",TV Canção Nova
 plugin://plugin.video.youtube/play/?video_id=fTKWfTlDI-A
-
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzoIOcWVN-GNOdAkvfKCRnSGtpJP-FIecSoMsdZ=s256-c-k-c0xffffffff-no-rj-mo" group-title="Sem Categoria",TV Mundo Maior
+plugin://plugin.video.youtube/play/?video_id=nzUGVDPz1W8
