@@ -143,3 +143,18 @@
 </item>
 </channel>
 
+<channels></channels>
+<channel>
+<name>Pedreiros Zueiros 24 horas</name>
+<thumbnail>https://conteudo.imguol.com.br/c/noticias/8e/2019/12/30/pedreiros-zoeiros-tem-novo-servente-1577744183630_v2_300x200.png</thumbnail>
+
+<item>
+<title>Pedreiros Zueiros 24 horas</title>
+<m3ul>https://raw.githubusercontent.com/kodishmediacenter/omega/master/pedreiros-zueiros.m3u</m3ul>
+<thumbnail>https://conteudo.imguol.com.br/c/noticias/8e/2019/12/30/pedreiros-zoeiros-tem-novo-servente-1577744183630_v2_300x200.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+
