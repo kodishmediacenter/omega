@@ -3,10 +3,7 @@
 https://cdn.jmvstream.com/w/LVW-8403/LVW8403_bIBvekk9QA/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1224432107369324547/CzLjP9Q7_400x400.jpg" group-title="Sem Categoria",Cultura
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w2045595725.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1224432107369324547/CzLjP9Q7_400x400.jpg" group-title="Sem Categoria",Cultura
-https://5b33b873179a2.streamlock.net:1443/live/livestream/media_w125430112_429.ts
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1224432107369324547/CzLjP9Q7_400x400.jpg" group-title="Sem Categoria",Cultura
-http://wowza4.catve.com.br:1935/live/livestream/media_w1271818644_433.ts
+
 #EXTINF:-1 tvg-logo="https://www.revistadagente.com.br/uploads/posts/486/7d04bbbe5494ae9d2f5a76aa1c00fa2f.jpg" group-title="Sem Categoria",SBT
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1361860827_b131000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Sem Categoria",Globo SP
