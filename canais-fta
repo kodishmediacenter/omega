@@ -14,6 +14,9 @@ https://stream.ec.cx/hls1/boborj.m3u8?expires=1593552634&token=94d0952722a2c7867
 https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Sem Categoria",Record 
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_240_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://www.meioemensagem.com.br/wp-content/uploads/2016/02/Record-News-logo.jpg" group-title="Sem Categoria",Record News
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-b.m3u8?sd=10&rebase=on
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Band_logo_2018.png" group-title="Sem Categoria",Band
 https://evpp.mm.uol.com.br/geob_band/app/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Band_logo_2018.png" group-title="Sem Categoria",Band
