@@ -21,6 +21,9 @@ https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-b.m3u8?sd=10&r
 https://evpp.mm.uol.com.br/geob_band/app/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Band_logo_2018.png" group-title="Sem Categoria",Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w2071914578.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/91/RM2019.png/revision/latest/top-crop/width/220/height/220?cb=20191224175551" group-title="Sem Categoria",Real Madri
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1225547492445519874/a8ce3z7B_400x400.jpg" group-title="Sem Categoria",Tv Gazeta
 https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-720p.m3u8
