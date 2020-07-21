@@ -1,0 +1,32 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/San_Diego_Comic-Con_International_logo.png" group-title="Sem Categoria",Star Trek - 23/07 14 hrs
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=???
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/San_Diego_Comic-Con_International_logo.png" group-title="Sem Categoria",His Dark Materials - 23/07 17 hrs
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=???
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/San_Diego_Comic-Con_International_logo.png" group-title="Sem Categoria",Os Novos Mutantes - 23/07 18 hrs
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=???
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/San_Diego_Comic-Con_International_logo.png" group-title="Sem Categoria",The Boys - 23/07 19 hrs
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=xOIqjCj-ADs
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/San_Diego_Comic-Con_International_logo.png" group-title="Sem Categoria",Vikings  - 24/07 15 hrs
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=H0-3kuEmdMk
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/San_Diego_Comic-Con_International_logo.png" group-title="Sem Categoria",The Walking Dead - 24/07 17 hrs
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=FDwoZKvV6q0
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/San_Diego_Comic-Con_International_logo.png" group-title="Sem Categoria",15 anos de Constantine - 25/07 16 hrs
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=O5ElexLAPQA
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/San_Diego_Comic-Con_International_logo.png" group-title="Sem Categoria",Bill e Ted: Encare a Música - 25/07 19 hrs
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=cgGNBPIk3q8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/San_Diego_Comic-Con_International_logo.png" group-title="Sem Categoria",A Ordem - 25/07 19 hrs
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=FRt8jbRQDbE
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/San_Diego_Comic-Con_International_logo.png" group-title="Sem Categoria",Lovecraft Country - 25/07 20 hrs
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=p6fYlSh9X8I
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/San_Diego_Comic-Con_International_logo.png" group-title="Sem Categoria",The 100 - 26/07 16 hrs
+plugin://plugin.video.youtube/?action=play_video&amp;videoid=tHgcAGZhjdI
+
