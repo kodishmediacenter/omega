@@ -1239,6 +1239,16 @@
 </channel>
 </channels>
 
+<channels>
+<channel>
+<name>2017 - Kamen Rider Build</name>
+<thumbnail>https://i.imgur.com/KpIW5Sh.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/2017%20-%20Kamen%20Rider%20Build</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+<info></info>
+</channel>
+</channels>
+
  <channels>
  <channel>
  <name>2019 - Tokusatsu GaGaGa</name>
