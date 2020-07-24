@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KpIW5Sh.jpg" group-title="Sem Categoria",2017 - Kamen Rider Build - EP01 - Tokuflix
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zOztcyJUJYVAviIguXtnRdNnatGT7We5
+https://drive.google.com/file/d/1zOztcyJUJYVAviIguXtnRdNnatGT7We5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KpIW5Sh.jpg" group-title="Sem Categoria",2017 - Kamen Rider Build - EP02 - Tokuflix
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1QFHSYiSn75bXlQWszKEtwIvJrQDFGCmx
+https://drive.google.com/file/d/1QFHSYiSn75bXlQWszKEtwIvJrQDFGCmx
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KpIW5Sh.jpg" group-title="Sem Categoria",2017 - Kamen Rider Build - EP03 - Tokuflix
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MD5njHibswJERSk0f9SfgqHcNSzcf25d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KpIW5Sh.jpg" group-title="Sem Categoria",2017 - Kamen Rider Build - EP04 - Tokuflix
