@@ -62,3 +62,5 @@ plugin://plugin.video.youtube/play/?video_id=DWcJFNfaw9c
 plugin://plugin.video.youtube/play/?video_id=PoplbRN7gJm4lo
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJwBj0ZZBT1_T5Ez5oaVlpeneWUU1vXYwC9btglRQw=s256-c-k-c0xffffffff-no-rj-mo" group-title="Sem Categoria",The KPop
 plugin://plugin.video.youtube/play/?video_id=2sRwUcX9VF9Q
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxP97jioYkYhXD6-cbkIDnZSGnmBTBeg5LPOHgqGg=s256-c-k-c0xffffffff-no-rj-mo" group-title="Sem Categoria",Corona Virus Grafico
+plugin://plugin.video.youtube/play/?video_id=NMre6IAAAiU
