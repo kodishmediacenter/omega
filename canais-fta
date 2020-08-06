@@ -45,21 +45,20 @@ https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/chunklist_b2596
 https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/chunklist_b546000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TV_Escola.png group-title="Sem Categoria",TV Escola
 https://video-rvd-pe-cdc-gw-3-1.rnp.br/live/ocp(t(Fh4GAxvEXVg)r(TOqkzw)a(qMUZAw)p(d(lCo)k(oxI)m(7wQnCkhXrv1gAWcDgnO9rw)n(a(HVs0QA)s(BFA)'a(h7VAOw)s(HHE)))s(s(IKs)b(WeKTm7GvAMy6pPlsUpbSBi-9Z4X43e8D1m1fARk4AbvvvvJFHOiAERhFmUGG2jd3dc2yYqs8dIBAJvsofw)'s(Y8A)b(m0gJ19YISUfORG-dmRZEHps66VS7MnY8re1m2dxhuGDHEWzJcgryWt2dCdm5EkoE2crfHBSowt_qHMEgQPUM0C_aBwCuN24zfyjnmg5R)'s(1ak)b(K9i0XrDY))m(0))/tvescola_index.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzQ7ZBrQkXLc1IITpoHG6hF1qfOgLdfwfAaOX13lg=s256-c-k-c0xffffffff-no-rj-mo" group-title="Sem Categoria",FishTv
-plugin://plugin.video.youtube/play/?video_id=jpaREzXdLDM
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJylbpZfMW-DIGdScT5-xCu74czytSuptfa2Sodhxw=s256-c-k-c0xffffffff-no-rj-mo" group-title="Sem Categoria",Chefe TV
-plugin://plugin.video.youtube/play/?video_id=ohiEVG-xVOg
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJx_PRJcAAEjMGmAgy3jF5QTVqiR1n5PAu4zXgk3cA=s256-c-k-c0xffffffff-no-rj-mo" group-title="Sem Categoria",DC Girls
-plugin://plugin.video.youtube/play/?video_id=AVVRV1O6WKk
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzQ7ZBrQkXLc1IITpoHG6hF1qfOgLdfwfAaOX13lg=s256-c-k-c0xffffffff-no-rj-mo" group-title="Sem Categoria",Fish 
+plugin://plugin.video.youtube/play/?video_id=Tv7V9mg6BE7iY
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJylbpZfMW-DIGdScT5-xCu74czytSuptfa2Sodhxw=s256-c-k-c0xffffffff-no-rj-mo" group-title="Sem Categoria",Chefe 
+plugin://plugin.video.youtube/play/?video_id=TVSWwuY0pYbx8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJwe9AjAbqgOBfbVVBrBU-MUbW2FS6RIqhNUii1beQ=s256-c-k-c0xffffffff-no-rj-mo" group-title="Sem Categoria",TV Canção Nova
-plugin://plugin.video.youtube/play/?video_id=YJxq_Lgk4Qg
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJx0EonB1CxiuHvIt1Vg_NNyxKjk7wlLbtwFib7OEQ=s256-c-k-c0xffffffff-no-rj-mo" group-title="Sem Categoria",The K-Pop
-plugin://plugin.video.youtube/play/?video_id=JUx2oVsBrfI
+plugin://plugin.video.youtube/play/?video_id=vJGIajFUTVE
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJx0EonB1CxiuHvIt1Vg_NNyxKjk7wlLbtwFib7OEQ=s256-c-k-c0xffffffff-no-rj-mo" group-title="Sem Categoria",The KPop
+plugin://plugin.video.youtube/play/?video_id=LnB0dSHKEAo
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJz9yrYxdoAd8lSFMZSw2UB1Y7klrK6bEUWqxldR=s256-c-k-c0xffffffff-no-rj-mo" group-title="Sem Categoria",We KPop
 plugin://plugin.video.youtube/play/?video_id=ewjUpuws90g
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJz7WUcQCh9LCQ5jIGwUIJigzHse86de2I7wlH_pVA=s256-c-k-c0xffffffff-no-rj-mo" group-title="Sem Categoria",Chilled Cow
 plugin://plugin.video.youtube/play/?video_id=DWcJFNfaw9c
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJyH0j0Z-OhbZ-_5lNEoIqJXTzRPa4q1AYSS_7XRXA=s256-c-k-c0xffffffff-no-rj-mo" group-title="Sem Categoria",All The K-Pop
-plugin://plugin.video.youtube/play/?video_id=lbRN7gJm4lo
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJwBj0ZZBT1_T5Ez5oaVlpeneWUU1vXYwC9btglRQw=s256-c-k-c0xffffffff-no-rj-mo" group-title="Sem Categoria",The K-Pop2
-plugin://plugin.video.youtube/play/?video_id=P5NCQjlkvU0
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJyH0j0Z-OhbZ-_5lNEoIqJXTzRPa4q1AYSS_7XRXA=s256-c-k-c0xffffffff-no-rj-mo" group-title="Sem Categoria",All The K-pop
+plugin://plugin.video.youtube/play/?video_id=PoplbRN7gJm4lo
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJwBj0ZZBT1_T5Ez5oaVlpeneWUU1vXYwC9btglRQw=s256-c-k-c0xffffffff-no-rj-mo" group-title="Sem Categoria",The KPop
+plugin://plugin.video.youtube/play/?video_id=2sRwUcX9VF9Q
