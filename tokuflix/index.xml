@@ -515,6 +515,7 @@
 </channel>
 </channels>
 
+
 <channels>
 <channel>
 <name>1990 - Record of Lodoss War (Ova)</name>
@@ -555,6 +556,16 @@
  <info></info>
  </channel>
  </channels>
+
+<channels>
+<channel>
+<name>1990 - Ultraman Great</name>
+<thumbnail>https://3.bp.blogspot.com/-z8f_JFRHfS4/XzMq5DAGVxI/AAAAAAAAAvg/leLyYBZ9J8g6bwoqEKJPC8YxCPcfr6NnwCLcBGAsYHQ/s1600/1990%2B-%2BUltraman%2BGreat.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/1990%20-%20Ultraman%20Great</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+<info></info>
+</channel>
+</channels>
 
 <channels>
 <channel>
