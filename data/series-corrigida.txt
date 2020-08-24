@@ -79,7 +79,7 @@ Sinopse: Chamei o Felipe Castanhari pra desvendar os principais enigmas da histÃ
 <fanart></fanart>
 <info></info>
 </item>
-
+</channel>
 
 <channels></channels>
 <channel>
