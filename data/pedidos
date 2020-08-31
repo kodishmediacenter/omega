@@ -22,12 +22,6 @@
 
 <channels></channels>
 <channel>
-<name>Hitman - Disfarce Perigoso</name>
-<thumbnail>https://image.tmdb.org/t/p/w300_and_h450_bestv2/zasb6Cdge1KDE1JVXVxqrn2qKz3.jpg</thumbnail>
-
-
-<channels></channels>
-<channel>
 <name>Ópio: Diário de uma Louca</name>
 <thumbnail>https:https://image.tmdb.org/t/p/w300_and_h450_bestv2/1Du4qfpePNWvD5GZKiRdOEWhJDV.jpg</thumbnail>
 
@@ -120,6 +114,11 @@
 </channel>
 
 
+
+<channels></channels>
+<channel>
+<name>Hitman - Disfarce Perigoso</name>
+<thumbnail>https://image.tmdb.org/t/p/w300_and_h450_bestv2/zasb6Cdge1KDE1JVXVxqrn2qKz3.jpg</thumbnail>
 
 <item>
 <title>Hitman - Disfarce Perigoso</title>
