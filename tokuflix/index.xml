@@ -109,6 +109,7 @@
  </channel>
  </channels>
 
+
  <channels>
  <channel>
  <name>1973 - Zone Fighter</name>
@@ -148,7 +149,17 @@
 <info></info>
 </channel>
 </channels>
- 
+
+<channels>
+<channel>
+<name>1973 - Ultraman Taro</name>
+<thumbnail>https://i.imgur.com/nog8JOP.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/1973%20-%20Ultraman%20Taro</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+<info></info>
+</channel>
+</channels>
+
 <channels>
 <channel>
 <name>1974 - Ultraman Leo</name>
