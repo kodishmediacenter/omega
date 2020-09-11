@@ -264,6 +264,16 @@
 
  <channels>
  <channel>
+ <name>1979 - Kamen Rider Skyrider</name>
+ <thumbnail>https://1.bp.blogspot.com/-UBVulEx7huU/XjyY_S1ZVII/AAAAAAAAAHY/9msiY1KwHEUbeGDb9TOZxAT5IwxS6FCKwCLcBGAsYHQ/s1600/1979%2B-%2BKamen%2BRider%2BSkyrider.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/1979%20-%20Kamen%20Rider%20Skyrider</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+ <info></info>
+ </channel>
+ </channels>
+
+ <channels>
+ <channel>
  <name>1980 - Kamen Rider Super 1</name>
  <thumbnail>https://i.imgur.com/qgyhwt4.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/KamenRiderSuper.m3u</externallink>
