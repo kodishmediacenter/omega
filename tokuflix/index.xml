@@ -170,15 +170,25 @@
 </channel>
 </channels>
 
- <channels>
- <channel>
- <name>1975 - Kamen Rider Stronger</name>
- <thumbnail>https://4.bp.blogspot.com/-4gMHi7mj_TE/XjoEAenrpKI/AAAAAAAAAFg/yvTI-mZom7IRplUrThNTzCu2AYsb7C8ugCLcBGAsYHQ/s1600/1975%2B-%2BKamen%2BRider%2BStronger.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/Kamen%20Rider%20Stronger.m3u</externallink>
- <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
- <info></info>
- </channel>
- </channels>
+<channels>
+<channel>
+<name>1974 - Kamen Rider X</name>
+<thumbnail>https://1.bp.blogspot.com/-hG6aFTHQSSo/XjmUn5jdH8I/AAAAAAAAAEk/q10Q8lTM7V0dtdmJw6r0c0fn73HCf_NeQCLcBGAsYHQ/s1600/1974%2B-%2BKamen%2BRider%2BX.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/1974%20-%20Kamen%20Rider%20X</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>1975 - Kamen Rider Stronger</name>
+<thumbnail>https://4.bp.blogspot.com/-4gMHi7mj_TE/XjoEAenrpKI/AAAAAAAAAFg/yvTI-mZom7IRplUrThNTzCu2AYsb7C8ugCLcBGAsYHQ/s1600/1975%2B-%2BKamen%2BRider%2BStronger.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/Kamen%20Rider%20Stronger.m3u</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+<info></info>
+</channel>
+</channels>
 
 <channels>
 <channel>
