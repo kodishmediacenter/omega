@@ -101,6 +101,16 @@
  
  <channels>
  <channel>
+ <name>1972 - Ultraman Ace</name>
+ <thumbnail>https://3.bp.blogspot.com/-X1W8i_HkaXE/XwZqM1LgPRI/AAAAAAAAAtE/_VW7HuaqcQA7GRXAMsUj5jpIpNieZHDnwCLcBGAsYHQ/s1600/1972%2B-%2BUltraman%2BAce.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/1972%20-%20Ultraman%20Ace</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+ <info></info>
+ </channel>
+ </channels>
+
+ <channels>
+ <channel>
  <name>1973 - Zone Fighter</name>
  <thumbnail>https://4.bp.blogspot.com/-Mz_P-Ip4ad0/XnzsVj7kBNI/AAAAAAAAAX0/C8FJyvsEpvIzZZ0O5Ex0R4PjyfPC62yaQCLcBGAsYHQ/s1600/1973%2B-%2BZone%2BFighter.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/1973%20-%20Zone%20Fighter</externallink>
