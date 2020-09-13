@@ -1,5 +1,27 @@
 <channels></channels>
 <channel>
+<name>A Lenda de Tarzan</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRwe397WjpHouR5sCRH48XBdpvr.jpg</thumbnail>
+
+<item>
+<title>A Lenda de Tarzan</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B3m7SjtlBfn1YjlCVkZsTVZ2ZXc/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRwe397WjpHouR5sCRH48XBdpvr.jpg</thumbnail>
+<fanart></fanart>
+<info>Releitura da clássica lenda de Tarzan, na qual um pequeno garoto órfão é criado na selva, e mais tarde tenta se adaptar à vida entre os humanos. Na década de 30, Tarzan, aclimitado à vida em Londres em conjunto com sua esposa Jane, é chamado para retornar à selva onde passou a maior parte da sua vida onde servirá como um emissário do Parlamento Britânico.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dNzTFhkV0og</trailer>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRwe397WjpHouR5sCRH48XBdpvr.jpg</thumbnail>
+<fanart></fanart>
+<info>Releitura da clássica lenda de Tarzan, na qual um pequeno garoto órfão é criado na selva, e mais tarde tenta se adaptar à vida entre os humanos. Na década de 30, Tarzan, aclimitado à vida em Londres em conjunto com sua esposa Jane, é chamado para retornar à selva onde passou a maior parte da sua vida onde servirá como um emissário do Parlamento Britânico.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
 <name>Leiame [Clique aqui]</name>
 <thumbnail>https://st2.depositphotos.com/3554337/9846/i/950/depositphotos_98466568-stock-photo-man-with-warning-attention-sign.jpg</thumbnail>
 
