@@ -749,6 +749,8 @@
  </channel>
  </channels>
 
+
+
  <channels>
  <channel>
  <name>1993 - Kamen Rider ZO - Filme - Tokuflix</name>
@@ -789,15 +791,15 @@
  </channel>
  </channels>
 
- <channels>
- <channel>
- <name>1994 - Kamen Rider J - Filme</name>
- <thumbnail>https://3.bp.blogspot.com/-zuWYuUXmY84/XlrD2_5TMgI/AAAAAAAAASI/8WPsVKc81FwEvKrE-PJHZ9jlpt6ATV5gwCLcBGAsYHQ/s1600/1994.1%2B-%2BKamen%2BRider%2BJ.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/Kamen%20Rider%20J</externallink>
- <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
- <info></info>
- </channel>
- </channels>
+<channels>
+<channel>
+<name>1993 - Ninja Scroll</name>
+<thumbnail>https://4.bp.blogspot.com/-qBOTk3Kty8o/X1Q0qo7jVMI/AAAAAAAAAxo/6I6EOertLWQX13TIjUbkFV8bM18NKuNIACLcBGAsYHQ/s1600/1993%2B-%2BNinja%2BScroll.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/1993%20-%20Ninja%20Scroll</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+<info></info>
+</channel>
+</channels>
 
 <channels>
 <channel>
@@ -808,6 +810,18 @@
 <info></info>
 </channel>
 </channels>
+
+
+ <channels>
+ <channel>
+ <name>1994 - Kamen Rider J - Filme</name>
+ <thumbnail>https://3.bp.blogspot.com/-zuWYuUXmY84/XlrD2_5TMgI/AAAAAAAAASI/8WPsVKc81FwEvKrE-PJHZ9jlpt6ATV5gwCLcBGAsYHQ/s1600/1994.1%2B-%2BKamen%2BRider%2BJ.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/Kamen%20Rider%20J</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+ <info></info>
+ </channel>
+ </channels>
+
 
  <channels>
  <channel>
