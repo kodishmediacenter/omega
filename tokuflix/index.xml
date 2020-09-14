@@ -383,15 +383,15 @@
  </channel>
  </channels>
 
- <channels>
- <channel>
- <name>1984 - Shaider</name>
- <thumbnail>https://4.bp.blogspot.com/-dTDdxDya2OY/Xk8QiqlifgI/AAAAAAAAAM4/G5Ft59jB8UY9d1jg3nZEOyuy3jYjgtOjACLcBGAsYHQ/s1600/1984%2B-%2BShaider.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/Shaider.m3u</externallink>
- <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
- <info></info>
- </channel>
- </channels>
+<channels>
+<channel>
+<name>1984 - Shaider</name>
+<thumbnail>https://3.bp.blogspot.com/-fZ_ew79zAYU/XscdXlOjkOI/AAAAAAAAAmU/Y8-Prm4GTEQec3u-BPX_i3RSJkympFHJwCLcBGAsYHQ/s1600/1984%2B-%2BShaider.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/1984%20-%20Shaider</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+<info></info>
+</channel>
+</channels>
 
  <channels>
  <channel>
