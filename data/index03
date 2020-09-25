@@ -1,13 +1,12 @@
 [COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]
 
 
- 
-  <channels>
+ <channels>
  <channel>
- <name>[COLOR white][B]BGS Uma Superlive com o melhor da BGS [/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
- <thumbnail>https://yt3.ggpht.com/a/AATXAJxcx_uYJPktdxOD2N9qmg99ZU5hlDlUVX9-hkyHLQ=s256-c-k-c0xffffffff-no-rj-mo</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/bgs/tube.xml</externallink>
- <fanart></fanart>
+ <name>[COLOR white][B]Copa do Mundo LOL 2020 | Lol Worlds [/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
+ <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/LoL_Worlds_2020_Logo.svg/1200px-LoL_Worlds_2020_Logo.svg.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/Lolwolds</externallink>
+ <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
  <info></info>
  </channel>
  </channels>
