@@ -148,3 +148,14 @@
  <info></info>
  </channel>
  </channels>
+ 
+ <channels>
+ <channel>
+ <name>Karolina Protsenko</name>
+ <thumbnail>https://yt3.ggpht.com/a/AATXAJzH57MB_ri7J1XRNcuyNSwhLAAV0-JK11lNpyLS=s256-c-k-c0xffffffff-no-rj-mo</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/Karolina%20Protsenko</externallink>
+ <fanart></fanart>
+ <info></info>
+ </channel>
+ </channels>
+
