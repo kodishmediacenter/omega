@@ -22,9 +22,33 @@
 </item>
 </channel>
 
+
 <channels></channels>
 <channel>
-<name>Risco Duplo (1999) Dublado Torrent Download</name>
+<name>Uma Chama na Escuridão </name>
+<thumbnail>https://static.carrefour.com.br/medias/sys_master/images/images/hcb/h58/h00/h00/10614207840286.jpg</thumbnail>
+
+<item>
+<title>Uma Chama na Escuridão [360p]</title>
+<link>http://34.122.175.85/fabiolmglgeo/chamanaescuridao.mkv</link>
+<thumbnail>https://static.carrefour.com.br/medias/sys_master/images/images/hcb/h58/h00/h00/10614207840286.jpg</thumbnail>
+<fanart></fanart>
+<info>sG48wZTATG0</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=William Carey navegou em 1793 para a Índia com uma esposa relutante e quatro filhos para levar a mensagem de Jesus. Lá ele encontrou tantas dificuldades que é incrível que ele não abandonou sua missão e foi para casa. Mas ele ficou por mais de 40 anos.</trailer>
+<thumbnail>https://static.carrefour.com.br/medias/sys_master/images/images/hcb/h58/h00/h00/10614207840286.jpg</thumbnail>
+<fanart></fanart>
+<info>sG48wZTATG0</info>
+</item>
+</channel>
+
+
+<channels></channels>
+<channel>
+<name>Risco Duplo</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRzgQwP5jjTgvy3rB6DaW71paGx.jpg</thumbnail>
 
 
