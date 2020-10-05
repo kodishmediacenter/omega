@@ -13,3 +13,19 @@
 </item>
  
 </channel>
+
+<channels></channels>
+<channel>
+<name>Dorcel</name>
+<thumbnail>https://www.digitaltveurope.com/files/2011/11/Marc-Dorcel-logo.jpg</thumbnail>
+
+
+<item>
+<title>Dorcel</title>
+<file2>https://infinity12.epimetheus.feralhosting.com/Adultos/Dorcel/</file2>
+<thumbnail>https://www.digitaltveurope.com/files/2011/11/Marc-Dorcel-logo.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+ 
+</channel>
