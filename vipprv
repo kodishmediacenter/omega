@@ -101,3 +101,19 @@
 
 </channel>
 
+
+<channels></channels>
+<channel>
+<name>Servidor Fmadddons</name>
+
+
+
+<item>
+<title>Servidor Fmadddons</title>
+<file2>http://fmeaddons.net/xxx/</file2>
+<thumbnail>https://images.vexels.com/media/users/3/136811/isolated/preview/4544a6bb816c2e70ca55f663a3a68866---cone-de-c--rculo-de-servidor-by-vexels.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+</channel>
