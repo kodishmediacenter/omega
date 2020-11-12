@@ -1,4 +1,34 @@
 	<item>
+      <title>[COLOR white][B]Estação[/B][/COLOR] [COLOR lime][B]Lançamentos[/B][/COLOR]</title>
+      <link>https://stream.vagalume.fm/hls/1476469524740247/index.m3u8</link>
+      <thumbnail>https://img.vagalume.fm/1476469524740247/default</thumbnail>
+      <fanart>https://www.hdwallpapers.in/download/guitar_fire__cold_5k-1920x1200.jpg</fanart>
+</item>
+
+<item>
+      <title>[COLOR white][B]Estação[/B][/COLOR] [COLOR lime][B]Halloween[/B][/COLOR]</title>
+      <link>https://stream.vagalume.fm/hls/1477074894405450/index.m3u8</link>
+      <thumbnail>https://img.vagalume.fm/1477074894405450/default</thumbnail>
+      <fanart>https://www.hdwallpapers.in/download/guitar_fire__cold_5k-1920x1200.jpg</fanart>
+</item>
+
+<item>
+      <title>[COLOR white][B]Estação[/B][/COLOR] [COLOR lime][B]Férias[/B][/COLOR]</title>
+      <link>https://stream.vagalume.fm/hls/1474482422796242/index.m3u8</link>
+      <thumbnail>https://img.vagalume.fm/1474482422796242/default</thumbnail>
+      <fanart>https://www.hdwallpapers.in/download/guitar_fire__cold_5k-1920x1200.jpg</fanart>
+</item>
+
+<item>
+      <title>[COLOR white][B]Estação[/B][/COLOR] [COLOR lime][B]Festa de Formatura[/B][/COLOR]</title>
+      <link>https://stream.vagalume.fm/hls/1477328157403419/index.m3u8</link>
+      <thumbnail>https://img.vagalume.fm/1477328157403419/default</thumbnail>
+      <fanart>https://www.hdwallpapers.in/download/guitar_fire__cold_5k-1920x1200.jpg</fanart>
+</item>
+
+<! antigas radios > 
+	
+	<item>
 		<title>[COLOR white][B]Estação[/B][/COLOR] [COLOR lime][B]#Depre[/B][/COLOR]</title>
 		<link>https://stream.vagalume.fm/hls/1522261529679510/index.m3u8</link>
 		<thumbnail>https://img.vagalume.fm/1522261529679510/default</thumbnail>
