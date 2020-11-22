@@ -1,0 +1,10 @@
+*******************
+*******************
+<channel><name>[I][B][COLOR white]• [COLOR goldenrod] Os Ho-ho-límpicos (1977)[COLOR white] - [COLOR forestgreen] [2 Temporada] [COLOR goldenrod]Pikachu [COLOR white]Séries !!![/COLOR][/B][/I]</name>
+<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/eVi53MC0rKF2iylwseT8eaFxKOX.jpg</thumbnail>
+<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 1h 30m[/COLOR][/I]</genre>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/bKuNKSusc5q94TZqwW1IaGnKa7k.jpg</fanart>
+<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[B][I][COLOR forestgreen]Os Ho-ho-límpicos (Laff-A-Lympics no original em inglês) é um desenho com produção Hanna-Barbera. Passava junto com os desenhos do Scooby-Doo.Mostrava a história de vários personagens Hanna-Barbera, divididos em três times, que competiam em vários esportes, ao redor do mundo. E todo episódio saía uma medalha de ouro, uma de prata e uma de bronze. Foi criado seguindo os parâmetros da Olimpíada.Estreou em 1977 e teve duas temporadas, com 24 episódios. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/COLOR][/I][/B]</info>
+<externallink>http://pastebin.com</externallink></channel>
+*******************

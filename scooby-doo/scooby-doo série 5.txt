@@ -1,0 +1,263 @@
+<!DOCTYPE HTML><html lang="en" >
+*******************
+<channels></channels><channel>
+<name>[I][B][COLOR white]• [COLOR goldenrod]Os Ho-ho-límpicos (1977) [COLOR white] - [COLOR forestgreen] [1ªTemporada] [COLOR goldenrod] Pikachu [COLOR white] Séries !!![/COLOR][/B][/I]</name>
+<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 1h 30m[/COLOR][/I]</genre>
+<info>[I][B][COLOR goldenrod]SINOPSE:[/I][/B][/COLOR]
+[B][I][COLOR forestgreen]Os Ho-ho-límpicos (Laff-A-Lympics no original em inglês) é um desenho com produção Hanna-Barbera. Passava junto com os desenhos do Scooby-Doo.Mostrava a história de vários personagens Hanna-Barbera, divididos em três times, que competiam em vários esportes, ao redor do mundo. E todo episódio saía uma medalha de ouro, uma de prata e uma de bronze. Foi criado seguindo os parâmetros da Olimpíada.Estreou em 1977 e teve duas temporadas, com 24 episódios.[COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/COLOR][/I][/B]</info>
+*******************
+*******************
+<item>
+1<title>[I][B][COLOR white]• [COLOR forestgreen]1 [COLOR white]- [COLOR goldenrod] Os Alpes Suíços e Tóquio, Japão[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+1<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDHHLEP01</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+1<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/283wdYp7VGv3cCTobDMmjroL7Vu.jpg</thumbnail>
+1<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 1h 30m[/COLOR][/I]</genre>
+1<fanart>https://image.tmdb.org/t/p/original/bKuNKSusc5q94TZqwW1IaGnKa7k.jpg</fanart>
+1<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Os Alpes Suíços e Tóquio, Japão [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+2<title>[I][B][COLOR white]• [COLOR forestgreen]2 [COLOR white]- [COLOR goldenrod] Acapulco e Inglaterra[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+2<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDHHLEP02</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+2<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/283wdYp7VGv3cCTobDMmjroL7Vu.jpg</thumbnail>
+2<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 1h 30m[/COLOR][/I]</genre>
+2<fanart>https://image.tmdb.org/t/p/original/bKuNKSusc5q94TZqwW1IaGnKa7k.jpg</fanart>
+2<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]As equipes competem em mergulho de penhasco, revezamento subaquático, corrida de lancha, escalada no Big Ben, caça à raposa e polo de skate. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+3<title>[I][B][COLOR white]• [COLOR forestgreen]3 [COLOR white]- [COLOR goldenrod] Flórida e China[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+3<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDHHLEP03</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+3<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/283wdYp7VGv3cCTobDMmjroL7Vu.jpg</thumbnail>
+3<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 1h 30m[/COLOR][/I]</genre>
+3<fanart>https://image.tmdb.org/t/p/original/bKuNKSusc5q94TZqwW1IaGnKa7k.jpg</fanart>
+3<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]As equipes competem em corridas de buggy nas dunas, corrida Fill Up The Oasis, corrida Lochness Photograph e corrida de kilt de três pernas. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+4<title>[I][B][COLOR white]• [COLOR forestgreen]4 [COLOR white]- [COLOR goldenrod] Deserto do Saara e Escócia[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+4<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDHHLEP04</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+4<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/283wdYp7VGv3cCTobDMmjroL7Vu.jpg</thumbnail>
+4<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 1h 30m[/COLOR][/I]</genre>
+4<fanart>https://image.tmdb.org/t/p/original/bKuNKSusc5q94TZqwW1IaGnKa7k.jpg</fanart>
+4<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]As equipes competem em corridas de buggy, esqui aquático, corrida em pista, corrida de riquixá, pingue-pongue e ginástica. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+5<title>[I][B][COLOR white]• [COLOR forestgreen]5 [COLOR white]- [COLOR goldenrod] França e Austrália[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+5<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDHHLEP05</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+5<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/283wdYp7VGv3cCTobDMmjroL7Vu.jpg</thumbnail>
+5<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 1h 30m[/COLOR][/I]</genre>
+5<fanart>https://image.tmdb.org/t/p/original/bKuNKSusc5q94TZqwW1IaGnKa7k.jpg</fanart>
+5<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]As equipes competem no Tour De France, escalada na Torre Eiffel, lançamento de bumerangue e corrida de canguru. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+6<title>[I][B][COLOR white]• [COLOR forestgreen]6 [COLOR white]- [COLOR goldenrod] Atenas, Grécia e o Ozarks[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+6<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDHHLEP06</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+6<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/283wdYp7VGv3cCTobDMmjroL7Vu.jpg</thumbnail>
+6<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 1h 30m[/COLOR][/I]</genre>
+6<fanart>https://image.tmdb.org/t/p/original/bKuNKSusc5q94TZqwW1IaGnKa7k.jpg</fanart>
+6<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]As equipes competem em salto com vara, disco, corrida de carrinhos de trem e corrida de quilha. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+7<title>[I][B][COLOR white]• [COLOR forestgreen]7 [COLOR white]- [COLOR goldenrod] Itália e Kitty Hawk, Carolina do Norte[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+7<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDHHLEP07</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+7<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/283wdYp7VGv3cCTobDMmjroL7Vu.jpg</thumbnail>
+7<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 1h 30m[/COLOR][/I]</genre>
+7<fanart>https://image.tmdb.org/t/p/original/bKuNKSusc5q94TZqwW1IaGnKa7k.jpg</fanart>
+7<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]As equipes competem em corridas de scooter, barco de canal, asa delta, paraquedismo e corrida de balão de ar quente. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+8<title>[I][B][COLOR white]• [COLOR forestgreen]8 [COLOR white]- [COLOR goldenrod] Egito e floresta de Sherwood[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+8<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDHHLEP08</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+8<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/283wdYp7VGv3cCTobDMmjroL7Vu.jpg</thumbnail>
+8<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 1h 30m[/COLOR][/I]</genre>
+8<fanart>https://image.tmdb.org/t/p/original/bKuNKSusc5q94TZqwW1IaGnKa7k.jpg</fanart>
+8<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]As equipes competem na corrida Toque na Ponta da Pirâmide, corrida de camelo, corrida de cavalo e uma competição de resgate. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+9<title>[I][B][COLOR white]• [COLOR forestgreen]9 [COLOR white]- [COLOR goldenrod] Espanha e Himalaia[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+9<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDHHLEP09</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+9<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/283wdYp7VGv3cCTobDMmjroL7Vu.jpg</thumbnail>
+9<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 1h 30m[/COLOR][/I]</genre>
+9<fanart>https://image.tmdb.org/t/p/original/bKuNKSusc5q94TZqwW1IaGnKa7k.jpg</fanart>
+9<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]As equipes competem em touradas, corrida de carroça cigana, pendura o sino no Abominável Homem das Neves, corrida de revezamento até o topo do Everest. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+10<title>[I][B][COLOR white]• [COLOR forestgreen]10 [COLOR white]- [COLOR goldenrod] Índia e Israel[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+10<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDHHLEP10</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+10<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/283wdYp7VGv3cCTobDMmjroL7Vu.jpg</thumbnail>
+10<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 1h 30m[/COLOR][/I]</genre>
+10<fanart>https://image.tmdb.org/t/p/original/bKuNKSusc5q94TZqwW1IaGnKa7k.jpg</fanart>
+10<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Locais exóticos na exuberante Selva de Bengala na Índia e no histórico Deserto de Negev em Israel fornecem os cenários para os eventos emocionantes de hoje. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+11<title>[I][B][COLOR white]• [COLOR forestgreen]11 [COLOR white]- [COLOR goldenrod] África e São Francisco[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+11<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDHHLEP11</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+11<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/283wdYp7VGv3cCTobDMmjroL7Vu.jpg</thumbnail>
+11<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 1h 30m[/COLOR][/I]</genre>
+11<fanart>https://image.tmdb.org/t/p/original/bKuNKSusc5q94TZqwW1IaGnKa7k.jpg</fanart>
+11<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]As equipes competem em corridas de barcos na selva, balanços de videiras, patins e pesca. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+12<title>[I][B][COLOR white]• [COLOR forestgreen]12 [COLOR white]- [COLOR goldenrod] O Grand Canyon e a Irlanda[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+12<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDHHLEP12</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+12<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/283wdYp7VGv3cCTobDMmjroL7Vu.jpg</thumbnail>
+12<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 1h 30m[/COLOR][/I]</genre>
+12<fanart>https://image.tmdb.org/t/p/original/bKuNKSusc5q94TZqwW1IaGnKa7k.jpg</fanart>
+12<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]As equipes competem em competições de mulas, corda bamba, Catch the Leprechaun e torneios de golfe hole-in-one. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+13<title>[I][B][COLOR white]• [COLOR forestgreen]13 [COLOR white]- [COLOR goldenrod] Havaí e Noruega[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+13<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDHHLEP13</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+13<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/283wdYp7VGv3cCTobDMmjroL7Vu.jpg</thumbnail>
+13<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 1h 30m[/COLOR][/I]</genre>
+13<fanart>https://image.tmdb.org/t/p/original/bKuNKSusc5q94TZqwW1IaGnKa7k.jpg</fanart>
+13<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Os eventos selvagens das equipes ocorrem nos climas díspares do Havaí tropical e da gelada Noruega. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+14<title>[I][B][COLOR white]• [COLOR forestgreen]14 [COLOR white]- [COLOR goldenrod] Pólo Norte e Taiti[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+14<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDHHLEP14</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+14<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/283wdYp7VGv3cCTobDMmjroL7Vu.jpg</thumbnail>
+14<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 1h 30m[/COLOR][/I]</genre>
+14<fanart>https://image.tmdb.org/t/p/original/bKuNKSusc5q94TZqwW1IaGnKa7k.jpg</fanart>
+14<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]As competições malucas das equipes ocorrem nos climas díspares do Taiti tropical e do gelado Pólo Norte! [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+15<title>[I][B][COLOR white]• [COLOR forestgreen]15 [COLOR white]- [COLOR goldenrod] Arizona e Holanda[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+15<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDHHLEP15</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+15<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/283wdYp7VGv3cCTobDMmjroL7Vu.jpg</thumbnail>
+15<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 1h 30m[/COLOR][/I]</genre>
+15<fanart>https://image.tmdb.org/t/p/original/bKuNKSusc5q94TZqwW1IaGnKa7k.jpg</fanart>
+15<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Os locais pitorescos para as competições loucas de hoje incluem o rústico Rustler's Gulch, o Arizona e a pitoresca Holanda. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+16<title>[I][B][COLOR white]• [COLOR forestgreen]16 [COLOR white]- [COLOR goldenrod] 0[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+16<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=0</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+16<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/283wdYp7VGv3cCTobDMmjroL7Vu.jpg</thumbnail>
+16<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 1h 30m[/COLOR][/I]</genre>
+16<fanart>https://image.tmdb.org/t/p/original/bKuNKSusc5q94TZqwW1IaGnKa7k.jpg</fanart>
+16<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]As competições malucas de hoje incluem o corte de árvores no Canadá e uma corrida de tapetes voadores em Bagdá! [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+*******************
+<channels></channels><channel>
+<name>[I][B][COLOR white]• [COLOR goldenrod]Os Ho-ho-límpicos (1977) [COLOR white] - [COLOR forestgreen] [2ªTemporada] [COLOR goldenrod] Pikachu [COLOR white] Séries !!![/COLOR][/B][/I]</name>
+<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 1h 30m[/COLOR][/I]</genre>
+<info>[I][B][COLOR goldenrod]SINOPSE:[/I][/B][/COLOR]
+[B][I][COLOR forestgreen]Os Ho-ho-límpicos (Laff-A-Lympics no original em inglês) é um desenho com produção Hanna-Barbera. Passava junto com os desenhos do Scooby-Doo.Mostrava a história de vários personagens Hanna-Barbera, divididos em três times, que competiam em vários esportes, ao redor do mundo. E todo episódio saía uma medalha de ouro, uma de prata e uma de bronze. Foi criado seguindo os parâmetros da Olimpíada.Estreou em 1977 e teve duas temporadas, com 24 episódios.[COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/COLOR][/I][/B]</info>
+*******************
+*******************
+<item>
+1<title>[I][B][COLOR white]• [COLOR forestgreen]1 [COLOR white]- [COLOR goldenrod] Rússia e Caribe[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+1<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDHHLEP17</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+1<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/2Hqdz6cRuLyjnSGBEyqFonB7RLE.jpg</thumbnail>
+1<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 1h 30m[/COLOR][/I]</genre>
+1<fanart>https://image.tmdb.org/t/p/original/bKuNKSusc5q94TZqwW1IaGnKa7k.jpg</fanart>
+1<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]As equipes competem na maratona Siberian Moose, Dancing Race por Moscou, Porpoise Race ao redor da Ilha, Bleubeard's Treasury Hunt. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+2<title>[I][B][COLOR white]• [COLOR forestgreen]2 [COLOR white]- [COLOR goldenrod] Nova York e Turquia[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+2<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDHHLEP18</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+2<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/2Hqdz6cRuLyjnSGBEyqFonB7RLE.jpg</thumbnail>
+2<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 1h 30m[/COLOR][/I]</genre>
+2<fanart>https://image.tmdb.org/t/p/original/bKuNKSusc5q94TZqwW1IaGnKa7k.jpg</fanart>
+2<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]As três equipes tentam vencer eventos que vão desde um passeio de carruagem pelo Central Park de Nova York a uma corrida maluca de monociclo pelas ruas de Istambul! [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+3<title>[I][B][COLOR white]• [COLOR forestgreen]3 [COLOR white]- [COLOR goldenrod] América do Sul e Transilvânia[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+3<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDHHLEP19</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+3<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/2Hqdz6cRuLyjnSGBEyqFonB7RLE.jpg</thumbnail>
+3<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 1h 30m[/COLOR][/I]</genre>
+3<fanart>https://image.tmdb.org/t/p/original/bKuNKSusc5q94TZqwW1IaGnKa7k.jpg</fanart>
+3<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Um passeio de jangada selvagem pelo rio Amazonas e uma caça ao tesouro na assustadora Transilvânia estão entre os eventos da competição de hoje. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+4<title>[I][B][COLOR white]• [COLOR forestgreen]4 [COLOR white]- [COLOR goldenrod] Riviera Francesa e Nova Zelândia[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+4<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDHHLEP20</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+4<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/2Hqdz6cRuLyjnSGBEyqFonB7RLE.jpg</thumbnail>
+4<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 1h 30m[/COLOR][/I]</genre>
+4<fanart>https://image.tmdb.org/t/p/original/bKuNKSusc5q94TZqwW1IaGnKa7k.jpg</fanart>
+4<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]As equipes competem em um derby de palanque, empinar pipa, corrida de avestruz e cabo de guerra em poça de lama [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+5<title>[I][B][COLOR white]• [COLOR forestgreen]5 [COLOR white]- [COLOR goldenrod] Nova Orleans e Atlântida[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+5<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDHHLEP21</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+5<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/2Hqdz6cRuLyjnSGBEyqFonB7RLE.jpg</thumbnail>
+5<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 1h 30m[/COLOR][/I]</genre>
+5<fanart>https://image.tmdb.org/t/p/original/bKuNKSusc5q94TZqwW1IaGnKa7k.jpg</fanart>
+5<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]As equipes competem em competições de voo, corrida de dragão chinês, corrida de cavalo marinho e resgate de sereia. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+6<title>[I][B][COLOR white]• [COLOR forestgreen]6 [COLOR white]- [COLOR goldenrod] Marrocos e Washington, D.C.[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+6<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDHHLEP22</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+6<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/2Hqdz6cRuLyjnSGBEyqFonB7RLE.jpg</thumbnail>
+6<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 1h 30m[/COLOR][/I]</genre>
+6<fanart>https://image.tmdb.org/t/p/original/bKuNKSusc5q94TZqwW1IaGnKa7k.jpg</fanart>
+6<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]A scooter do Blue Falcon é parada por um tonel de cuscuz, então a mágica inepta do Fondoo quase permite que Yakky ganhe um rali de estrada! [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+7<title>[I][B][COLOR white]• [COLOR forestgreen]7 [COLOR white]- [COLOR goldenrod] Canadá e Varsóvia, Polônia[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+7<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDHHLEP23</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+7<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/2Hqdz6cRuLyjnSGBEyqFonB7RLE.jpg</thumbnail>
+7<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 1h 30m[/COLOR][/I]</genre>
+7<fanart>https://image.tmdb.org/t/p/original/bKuNKSusc5q94TZqwW1IaGnKa7k.jpg</fanart>
+7<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]As equipes competem no concurso de captura do robô, corrida de trenó puxado por cães, salto com vara estilo livre e corrida de pogostick [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+8<title>[I][B][COLOR white]• [COLOR forestgreen]8 [COLOR white]- [COLOR goldenrod] Siam e a Lua[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+8<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDHHLEP24</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+8<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/2Hqdz6cRuLyjnSGBEyqFonB7RLE.jpg</thumbnail>
+8<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 1h 30m[/COLOR][/I]</genre>
+8<fanart>https://image.tmdb.org/t/p/original/bKuNKSusc5q94TZqwW1IaGnKa7k.jpg</fanart>
+8<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]As equipes competem em corridas Sampan, futebol de três vias, corrida de foguetes e uma pista de obstáculos. Em seguida, eles visitam a lua onde todos são premiados com uma medalha de ouro. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+******************************************************************************************************************************************************************************************************************************************************************************
+<!-- Pleace this snippet right after opening the head tag to make it work properly -->
+ 
+<!-- This code is licensed under GNU GPL v3 -->
+<!-- You are allowed to freely copy, distribute and use this code, but removing author credit is strictly prohibited -->
+<!-- Generated by http://insider.zone/tools/client-side-url-redirect-generator/ -->
+ 
+<!-- REDIRECTING STARTS -->
+<link rel="canonical" href="https://google.com"/>
+<noscript>
+	<meta http-equiv="refresh" content="0;URL=https://google.com">
+</noscript>
+<!--[if lt IE 9]><script type="text/javascript">var IE_fix=true;</script><![endif]-->
+<script type="text/javascript">
+	var url = "https://google.com";
+	if(typeof IE_fix != "undefined") // IE8 and lower fix to pass the http referer
+	{
+		document.write("redirecting..."); // Don't remove this line or appendChild() will fail because it is called before document.onload to make the redirect as fast as possible. Nobody will see this text, it is only a tech fix.
+		var referLink = document.createElement("a");
+		referLink.href = url;
+		document.body.appendChild(referLink);
+		referLink.click();
+	}
+	else { window.location.replace(url); } // All other browsers
+</script>
+<!-- Credit goes to http://insider.zone/ -->
+<!-- REDIRECTING ENDS -->
+</body>
+</html>
+******************************************************************************************************************************************************************************************************************************************************************************
