@@ -1,0 +1,11 @@
+*******************
+*******************
+<channel><name>[I][B][COLOR white]• [COLOR goldenrod] Scooby-Doo Filmes[COLOR white] - [COLOR forestgreen] [35 Temporadas] [COLOR goldenrod]Pikachu [COLOR white]Séries !!![/COLOR][/B][/I]</name>
+<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/bs3p45IGZUZyqkHa4WLaiSk7xO9.jpg</thumbnail>
+<genre>[I][COLOR gray]L, 09/10/2020 (BR), Animação, Família, Mistério, Comédia, Crime, 1h 16m[/COLOR][/I]</genre>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/5gTQmnGYKxDfmUWJ9GUWqrszRxN.jpg</fanart>
+<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[B][I][COLOR forestgreen]Scooby-Doo e a equipe se reúnem novamente para resolver o mistério de proporções gigantescas e salvar a Baía Cristal.[COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/COLOR][/I][/B]</info>
+<externallink>http://pastebin.com</externallink></channel>
+*******************
+
