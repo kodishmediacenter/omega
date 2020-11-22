@@ -1,0 +1,515 @@
+<!DOCTYPE HTML><html lang="en" >
+*******************
+<channels></channels><channel>
+<name>[I][B][COLOR white]• [COLOR goldenrod]Scooby-Doo! Mistério S/A (2010) [COLOR white] - [COLOR forestgreen] [1ªTemporada] [COLOR goldenrod] Pikachu [COLOR white] Séries !!![/COLOR][/B][/I]</name>
+<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+<info>[I][B][COLOR goldenrod]SINOPSE:[/I][/B][/COLOR]
+[B][I][COLOR forestgreen]Fred Jones Jr., Daphne Blake, Velma Dinkley, Norville "Salsicha" Rogers e Scooby-Doo é um time de adolescentes solucionadores de mistérios que vivem na pequena cidade de Baía Cristal, o auto-proclamado "lugar mais aterrorizado da terra". A trama longa a história de estranhos desaparecimentos, de aparições de fantasmas e monstros da cidade formam a base para a sua próspera indústria turística e, como tal, os adultos da cidade (o principal deles sendo o pai de "Fred" o prefeito) sendo que ele não está feliz que as crianças estão derrubando tudo os acontecimentos sobrenaturais que trazem tanto turismo para a cidade.[COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/COLOR][/I][/B]</info>
+*******************
+*******************
+<item>
+1<title>[I][B][COLOR white]• [COLOR forestgreen]1 [COLOR white]- [COLOR goldenrod] Cuidado com a besta de baixo[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+1<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP01</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+1<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+1<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+1<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+1<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Depois de ser preso por resolver outro mistério, a gangue Mystery Inc. se depara com outro mistério: um monstro horrível à espreita sob a cidade e encasulando todos que se aproximam em gosma verde. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+2<title>[I][B][COLOR white]• [COLOR forestgreen]2 [COLOR white]- [COLOR goldenrod] As criaturas arrepiantes[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+2<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP02</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+2<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+2<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+2<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+2<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]A gangue decide iniciar uma investigação sobre a existência de uma cidade fantasma mítica que se acredita ter sido povoada por crocodilos. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+3<title>[I][B][COLOR white]• [COLOR forestgreen]3 [COLOR white]- [COLOR goldenrod] Segredo do Ghost Rig[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+3<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP03</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+3<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+3<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+3<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+3<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Coisas estranhas continuam acontecendo em Crystal Cove, quando as maçanetas das portas desaparecem de repente e um diamante de valor inestimável está escondido em algum lugar. Para completar, um misterioso Ghost Trucker também está assustando a cidade. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+4<title>[I][B][COLOR white]• [COLOR forestgreen]4 [COLOR white]- [COLOR goldenrod] Vingança do Homem Caranguejo[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+4<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP04</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+4<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+4<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+4<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+4<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Um homem caranguejo ataca a praia de Crystal Cove durante um torneio de vôlei por causa da mistura da dieta Triquid de Trickell. A gangue deve detê-lo e resolver este mistério antes que as jogadoras do torneio, por quem o Caranguejo Homem tenha gostado, sejam colocadas em perigo. Enquanto isso, Velma recebe alguns conselhos sobre relacionamento de Daphne. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+5<title>[I][B][COLOR white]• [COLOR forestgreen]5 [COLOR white]- [COLOR goldenrod] A Canção do Mistério[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+5<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP05</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+5<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+5<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+5<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+5<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]As crianças de Crystal Cove estão sendo transformadas em monstros por uma criatura chamada Que Horrifico, assustando todos os adultos da cidade. Como resultado, eles abandonam seus filhos e correm para salvar suas vidas. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+6<title>[I][B][COLOR white]• [COLOR forestgreen]6 [COLOR white]- [COLOR goldenrod] A lenda de Alice maio[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+6<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP06</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+6<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+6<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+6<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+6<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Fred se torna o alvo de uma paixão do colégio quando a nova garota Alice May se apaixona por ele. No entanto, Alice May é na verdade um fantasma com a reputação de levar caras com ela e fazê-los desaparecer para sempre. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+7<title>[I][B][COLOR white]• [COLOR forestgreen]7 [COLOR white]- [COLOR goldenrod] In Fear of the Phantom[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+7<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP07</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+7<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+7<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+7<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+7<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]The Hex Girls (consiste em Thorne, Dusk e Luna), a banda favorita de Velma, vem a Crystal Cove e planeja dar um show para a turma. Mas as coisas dão errado quando The Phantom, um espectro maligno, aparece de repente com a intenção de tirar as Hex Girls do mercado musical para sempre. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+8<title>[I][B][COLOR white]• [COLOR forestgreen]8 [COLOR white]- [COLOR goldenrod] O aperto do gnomo[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+8<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP08</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+8<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+8<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+8<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+8<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]A gangue vai à Royal Knights Faire em Crystal Cove, mas também um convidado inesperado. Um gnomo assustador está paralisando todos que usam fantasias de pirata na feira. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+9<title>[I][B][COLOR white]• [COLOR forestgreen]9 [COLOR white]- [COLOR goldenrod] Batalha dos Humungonautas[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+9<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP09</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+9<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+9<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+9<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+9<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Quando dois monstros gigantes começam a atacar Crystal Cove, o prefeito Jones pede a Fred e sua gangue para ajudá-lo e o xerife a capturá-los. Enquanto isso, Salsicha precisa escolher entre seu relacionamento com Velma e sua amizade com Scooby. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+10<title>[I][B][COLOR white]• [COLOR forestgreen]10 [COLOR white]- [COLOR goldenrod] Uivo do Fright Hound[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+10<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP10</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+10<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+10<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+10<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+10<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Um monstro chamado Fright Hound começa a atacar Crystal Cove e as pessoas acreditam que Scooby-Doo está por trás disso. Scooby poderia ser o único atacando a cidade ou alguém está armando para ele? [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+11<title>[I][B][COLOR white]• [COLOR forestgreen]11 [COLOR white]- [COLOR goldenrod] O soro secreto[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+11<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP11</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+11<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+11<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+11<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+11<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Há um vampiro solto em Crystal Cove, aterrorizando os residentes e roubando uma estranha variedade de itens. Quando a gangue faz algumas buscas, eles descobrem um suspeito improvável ... a MÃE de Daphne. As coisas já estão tensas dentro da Mystery Inc., e com este último golpe, a gangue está realmente dividida ao meio. Meninas de um lado, meninos do outro. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+12<title>[I][B][COLOR white]• [COLOR forestgreen]12 [COLOR white]- [COLOR goldenrod] A loucura dos gritos[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+12<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP12</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+12<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+12<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+12<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+12<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Com a dissolução da Mystery Inc., a turma decide verificar a vida depois do colégio e passar um fim de semana na DARROW COLLEGE. Mas as coisas não saem como planejado quando uma criatura chamada CHAR GAR GOTHAKON começa a aterrorizar o campus. Acontece que essa besta é um personagem fictício que ganhou vida. Uma criação do autor H.P. HATECRAFT que é professor da escola. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+13<title>[I][B][COLOR white]• [COLOR forestgreen]13 [COLOR white]- [COLOR goldenrod] Quando a cigarra chama[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+13<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP13</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+13<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+13<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+13<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+13<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]A gangue investiga depois que Crystal Cove começa a sofrer de uma infestação de insetos mortais que tem como alvo os trabalhadores da empresa Destroido, a empresa que fabrica os lanches favoritos de Salsicha e Scooby. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+14<title>[I][B][COLOR white]• [COLOR forestgreen]14 [COLOR white]- [COLOR goldenrod] Mystery Solvers Club State - finais[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+14<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP14</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+14<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+14<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+14<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+14<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Doente na cama pouco antes da grande Mystery Solvers Club State Finals, Scooby sonha em ir para a competição e se unir aos companheiros solucionadores de mistérios Speed ​​Buggy, Jabberjaw, Captain Caveman e The Funky Phantom para resgatar seus amigos das garras do demoníaco Lord Infernicus. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+15<title>[I][B][COLOR white]• [COLOR forestgreen]15 [COLOR white]- [COLOR goldenrod] The Wild Brood[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+15<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP15</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+15<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+15<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+15<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+15<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Quando Fred convida a gangue em seu segundo encontro com Daphne, isso empurra Daphne para os braços de Obnarb, o líder de um grupo Orc Biker chamado Wild Brood que veio para a cidade. Quando ocorre uma invasão do arsenal e uma arma perigosa é roubada, os Wild Brood são os principais suspeitos. Cabe à gangue resolver este mistério, salvar o Wild Brood e encontrar o impostor Orc Biker. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+16<title>[I][B][COLOR white]• [COLOR forestgreen]16 [COLOR white]- [COLOR goldenrod] Onde anda Afrodite[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+16<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP16</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+16<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+16<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+16<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+16<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Quando toda a cidade de Crystal Cove é dominada pelo feitiço de amor de Afrodite, apenas Scooby-Doo e o recém-fugitivo Professor Péricles podem salvar a gangue do feitiço e resolver o mistério. Mas o professor Péricles tem segundas intenções? [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+17<title>[I][B][COLOR white]• [COLOR forestgreen]17 [COLOR white]- [COLOR goldenrod] Escape From Mystery Manor[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+17<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP17</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+17<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+17<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+17<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+17<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Quando a gangue sai em busca para descobrir o que aconteceu com o grupo Mystery Incorporated original em seu último caso do desaparecimento de 75 anos da Família Darrow e de sua mansão, eles se encontram presos na Mansão Darrow subterrânea, que foi uma armadilha preso. A gangue resolverá o mistério e escapará com vida? [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+18<title>[I][B][COLOR white]• [COLOR forestgreen]18 [COLOR white]- [COLOR goldenrod] O segredo do dragão[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+18<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP18</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+18<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+18<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+18<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+18<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Quando uma estudante de intercâmbio chamada Mai Le chega a Crystal Cove, ela atrai a afeição de Salsicha. Um jantar oferecido pela Família Blake é interrompido pelo aviso do Mago Vermelho para ficar longe do Coração do Dragão, que ele jurou proteger a todo custo. Mais tarde, Mai Le e sua gangue são atacados por um Mago Branco que está atrás do anel de Mai Le, e o Mago Vermelho vem em socorro da gangue, mas ele é tarde demais para salvar o anel. O Mago Vermelho é o Sr. Chen, o proprietário do Café Internet e Casa de Chá Chen. Ele revela que com o Mago Branco, agora em posse de todos os quatro anéis, é capaz de abrir o Coração do Dragão de Jade, que é um rubi inestimável. A gangue vai resolver o mistério ou nem tudo é o que parece? [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+19<title>[I][B][COLOR white]• [COLOR forestgreen]19 [COLOR white]- [COLOR goldenrod] Nightfright[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+19<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP19</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+19<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+19<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+19<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+19<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Scooby e Shaggy vencem um concurso de redação para jantar com Vincent Van Ghoul. Eles vão para sua mansão e são atacados por um monstro que se autodenomina Nightfright. Salsicha liga para a gangue e a gangue corre. Eles são perseguidos por Nightfright e entram em um quarto e trancam a porta. Fred faz uma armadilha e pede a Vincent para atrair o monstro para ela. Finalmente, eles pegam Nightfright na armadilha de Fred. O final do episódio os mostra jantando, Daphne devorando tudo à vista porque não comia há horas. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+20<title>[I][B][COLOR white]• [COLOR forestgreen]20 [COLOR white]- [COLOR goldenrod] A canção da sereia[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+20<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP20</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+20<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+20<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+20<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+20<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Sentindo-se excluída do grupo, Velma parte para investigar os ataques dos anfíbios "Fish Freaks" na área ao redor de uma plataforma de petróleo abandonada, apenas para encontrar uma amiga dela ... na forma de uma sereia! [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+21<title>[I][B][COLOR white]• [COLOR forestgreen]21 [COLOR white]- [COLOR goldenrod] Ameaça do Manticore[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+21<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP21</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+21<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+21<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+21<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+21<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Quando o prefeito Jones compra online um antigo templo persa, a fim de impulsionar os negócios no parque de diversões de Crystal Cove, "Creepy Spooky Terror Land", ele nunca pensou que aquele templo viria com um Manticore, um animal mitológico cruel, que está comendo o visitantes do parque. Sem outra opção, ele pede a Fred e sua turma que o ajudem a capturar a fera, e enquanto eles fazem isso, ele bisbilhota a respeito da misteriosa peça do quebra-cabeça que a gangue encontrou na Mansão Darrow. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+22<title>[I][B][COLOR white]• [COLOR forestgreen]22 [COLOR white]- [COLOR goldenrod] Ataque do Horror sem Cabeça[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+22<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP22</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+22<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+22<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+22<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+22<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Quando o aventureiro favorito de Fred, o Dr. Rick Spartan, começa a ensinar biologia na Crystal Cove's High School, a gangue o conhece. Fred diz a ele que a gangue também passou por algumas experiências terríveis, Spartan imediatamente os convida para jantar em sua casa, onde ele promete mostrar a eles seu mais recente troféu, o maldito Cabeça Encolhida de Squar Gringot. Mas quando seu corpo sem cabeça aparece e ameaça perseguir o professor até o fim de seus dias por saquear seu túmulo, a gangue deve encontrar uma maneira de quebrar a maldição. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+23<title>[I][B][COLOR white]• [COLOR forestgreen]23 [COLOR white]- [COLOR goldenrod] Uma assombração em Crystal Cove[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+23<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP23</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+23<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+23<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+23<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+23<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Quando o pai de Fred está sendo atacado por uma figura sombria desconhecida, Scooby e sua gangue devem descobrir o mistério. Eles conseguirão, ou Fred terá que desistir de resolver o mistério para sempre? E o que a peça do quebra-cabeça que o pai de Fred possui tem a ver com tudo isso? [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+24<title>[I][B][COLOR white]• [COLOR forestgreen]24 [COLOR white]- [COLOR goldenrod] Justiça morta[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+24<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP24</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+24<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+24<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+24<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+24<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]O fantasma do xerife mais famoso de Crystal Cove, Death Justice, voltou de seu túmulo para fazer o xerife Stone largar seu trabalho prendendo os principais criminosos de Crystal Cove. Scooby e sua gangue podem parar o Death Justice antes que seja tarde demais? [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+25<title>[I][B][COLOR white]• [COLOR forestgreen]25 [COLOR white]- [COLOR goldenrod] Peão das Sombras[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+25<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP25</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+25<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+25<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+25<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+25<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Uma criatura de alta tecnologia chamada Obliteratrix ataca a gangue e os força a investigar o caso do tesouro assombrado com a ajuda de H.P. Hatecraft. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+26<title>[I][B][COLOR white]• [COLOR forestgreen]26 [COLOR white]- [COLOR goldenrod] Todos temem o anormal[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+26<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP26</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+26<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+26<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+26<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+26<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]A gangue finalmente segue a trilha para encontrar o tesouro escondido, mas eles não achavam que The Freak iria atrás deles. Por outro lado, muitas verdades são reveladas, incluindo o objetivo do Professor Péricles e a verdadeira identidade dos pais de Fred. E como se não bastasse, a gangue enfrenta um grande problema quando os pais se irritam com o comportamento dos filhos. E exatamente quando o mistério da cidade está em seu nível mais alto, isso significa o fim da gangue ou o início de um novo problema? [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+*******************
+<channels></channels><channel>
+<name>[I][B][COLOR white]• [COLOR goldenrod]Scooby-Doo! Mistério S/A (2010) [COLOR white] - [COLOR forestgreen] [2ªTemporada] [COLOR goldenrod] Pikachu [COLOR white] Séries !!![/COLOR][/B][/I]</name>
+<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+<info>[I][B][COLOR goldenrod]SINOPSE:[/I][/B][/COLOR]
+[B][I][COLOR forestgreen]Fred Jones Jr., Daphne Blake, Velma Dinkley, Norville "Salsicha" Rogers e Scooby-Doo é um time de adolescentes solucionadores de mistérios que vivem na pequena cidade de Baía Cristal, o auto-proclamado "lugar mais aterrorizado da terra". A trama longa a história de estranhos desaparecimentos, de aparições de fantasmas e monstros da cidade formam a base para a sua próspera indústria turística e, como tal, os adultos da cidade (o principal deles sendo o pai de "Fred" o prefeito) sendo que ele não está feliz que as crianças estão derrubando tudo os acontecimentos sobrenaturais que trazem tanto turismo para a cidade.[COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/COLOR][/I][/B]</info>
+*******************
+*******************
+<item>
+1<title>[I][B][COLOR white]• [COLOR forestgreen]1 [COLOR white]- [COLOR goldenrod] A noite em que o palhaço chorou[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+1<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP27</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+1<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+1<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+1<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+1<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Mystery Inc. foi dissolvida. Crystal Cove é atacada por um Homem-Bebê chamado Palhaço Crybaby. O prefeito Nettles é abordado por uma figura misteriosa que lhe dá os arquivos da Mystery Inc., enquanto afirma que ela precisa reunir a Mystery Inc. novamente. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+2<title>[I][B][COLOR white]• [COLOR forestgreen]2 [COLOR white]- [COLOR goldenrod] A Bruxa da Casa do Pesadelo[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+2<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP28</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+2<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+2<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+2<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+2<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Velma e Hot Dog Water (Marcie) vão para a Rússia em uma missão para o Sr. E, e trazem de volta uma velha casa que balança as pernas e faz fúria sobre a cidade. Enquanto isso, a turma está tentando substituir Daphne e Velma sugere Água para Cachorro-Quente. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+3<title>[I][B][COLOR white]• [COLOR forestgreen]3 [COLOR white]- [COLOR goldenrod] A noite em que o palhaço chorou II: Lágrimas da desgraça![COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+3<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP29</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+3<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+3<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+3<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+3<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Fred tenta trazer Daphne de volta. O palhaço chorão retorna para roubar Crystal Cove e sequestrar Daphne também. Daphne é resgatada e concorda em voltar para a gangue. O Sr. E tenta recrutar o Angel Dynamite. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+4<title>[I][B][COLOR white]• [COLOR forestgreen]4 [COLOR white]- [COLOR goldenrod] Web do Dreamweaver![COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+4<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP30</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+4<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+4<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+4<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+4<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Dreamweaver ganhou vida fazendo uma lavagem cerebral em um antigo grupo de jogadores de Crypts e Creepers (incluindo o Sheriff Bronson Stone) entrando em suas mentes enquanto dormem! [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+5<title>[I][B][COLOR white]• [COLOR forestgreen]5 [COLOR white]- [COLOR goldenrod] O Hodag do Terror[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+5<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP31</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+5<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+5<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+5<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+5<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Uma criatura chamada The Hodag of Horror ataca Crystal Cove; enquanto isso, Brad Chiles e Judy Reeves (os verdadeiros pais de Fred) apareceram de repente junto com um cachorro por quem Scooby gostou. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+6<title>[I][B][COLOR white]• [COLOR forestgreen]6 [COLOR white]- [COLOR goldenrod] Arte das trevas[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+6<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP32</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+6<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+6<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+6<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+6<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]A pintura de um artista ganha vida e ataca os clientes do museu. A quadrilha é convidada a resolver o mistério para que o Museu de Arte possa ser salvo. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+7<title>[I][B][COLOR white]• [COLOR forestgreen]7 [COLOR white]- [COLOR goldenrod] The Gathering Gloom[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+7<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP33</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+7<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+7<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+7<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+7<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]A pintura de um artista ganha vida e ataca os clientes do museu. A quadrilha é convidada a resolver o mistério para que o Museu de Arte possa ser salvo. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+8<title>[I][B][COLOR white]• [COLOR forestgreen]8 [COLOR white]- [COLOR goldenrod] A noite na montanha assombrada[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+8<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP34</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+8<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+8<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+8<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+8<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Gary e Ethan são atacados pela Dark Lilith no Monte Diabla e perdem a bola da sorte do time de futebol. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+9<title>[I][B][COLOR white]• [COLOR forestgreen]9 [COLOR white]- [COLOR goldenrod] Julgamento sombrio[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+9<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP35</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+9<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+9<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+9<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+9<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Hebediah Grim, um monstro peregrino, está atacando e julgando certas mulheres de Crystal Cove no ponto quente do amante, Lover's Lane. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+10<title>[I][B][COLOR white]• [COLOR forestgreen]10 [COLOR white]- [COLOR goldenrod] Pesadelos[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+10<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP36</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+10<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+10<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+10<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+10<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Uma família em férias (a mesma família que estava de férias no "The Creeping Creatures") na Biblioteca de Burlington é atacada por uma criatura lobo e espantada. Mais tarde, um deslizamento de terra obriga a gangue a abandonar suas férias de esqui e os desvia para a mesma biblioteca, onde são recebidos por seu zelador, Dan Fluunk, que explica à gangue a história por trás da mansão, incluindo que seu construtor e homônimo tinha um fascinação por grupos de quatro pessoas e um animal. Logo, coisas estranhas começam a acontecer com a gangue conforme sua permanência na mansão avança. Eventualmente, suas experiências são reveladas como alucinações causadas pela queima de um tipo especial de madeira. Enquanto isso, Cassidy Williams continua sua busca pela verdade por trás do porquê o que está acontecendo com a gangue agora aconteceu com outras gangues no passado - incluindo a família Darrow. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+11<title>[I][B][COLOR white]• [COLOR forestgreen]11 [COLOR white]- [COLOR goldenrod] The Midnight Zone[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+11<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP37</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+11<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+11<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+11<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+11<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Um robô disfarçado de soldado nazista da Segunda Guerra Mundial ataca Cassidy Williams em sua estação de rádio, eventualmente se autodestruindo enquanto Cassidy revida, levando todo o prédio com ele. Ela explica à gangue que esses robôs a estão atacando há uma semana. Os robôs continuam a atacar a gangue enquanto investigam. Quando a gangue percebe que os robôs estão vindo de águas profundas, Daphne recruta dois de seus babás, Tom e Tub, e seu selo (também chamado de Scooby), para transportar a gangue em seu submarino para os tanques de desova dos robôs, em um área que as crianças chamam de "The Midnight Zone". Logo após submergir, o submarino é atacado por um grupo de robôs e danificado, e a gangue tropeça em uma base subaquática e tenta usá-la para consertar o submarino, apenas para descobrir que a base é a fábrica onde os robôs são construídos. pelo professor Péricles. No final, Pericles escapa deixando o laboratório para se autodestruir, possivelmente matando Cassidy Williams enquanto a gangue, Tom e Tub e Scooby, o Selo, escapam. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+12<title>[I][B][COLOR white]• [COLOR forestgreen]12 [COLOR white]- [COLOR goldenrod] Scarebear[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+12<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP38</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+12<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+12<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+12<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+12<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Uma criatura parecida com um urso ataca o prefeito Nettles e o xerife Stone na floresta de Crystal Cove perto de Destroido. Eles se voltam para a gangue em busca de ajuda, explicando que a criatura se chama Scarebear e tem perseguido o terreno perto da empresa Destroido há semanas. A gangue descobre que a empresa Destroido permitiu que o lítio tóxico se espalhasse na floresta, o que resultou nas mutações de plantas e criaturas habitantes, incluindo o Scarebear. Enquanto isso, o Sr. E e o professor Péricles recrutaram Brad e Judy para ajudá-los a encontrar as peças da gangue do Disco Planisférico e recorreram a medidas drásticas para tirar a gangue do caminho. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+13<title>[I][B][COLOR white]• [COLOR forestgreen]13 [COLOR white]- [COLOR goldenrod] Ira do Krampus[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+13<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP39</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+13<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+13<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+13<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+13<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Um adolescente que vandaliza um bairro é atacado por uma criatura que se autodenomina "Krampus", deixando seu cabelo branco como a neve de medo. Mais três crianças são atacadas quando a gangue conhece o prefeito Nettles e o xerife Stone no rinque de patinação e no fliperama. Percebendo que Krampus ataca "garotos maus", como o adolescente mencionado, a gangue pede ajuda à Mary-Ann Gleardon, mas Krampus ataca e sequestra-a da prisão. No final, é revelado que a gangue inscreveu as forças de Hot Dog Water, Jason Wyatt, Mary-Ann Gleardon, o ex-prefeito Fred Jones Sr. e Charlie, o Robô (da exibição do Museu Assombrado) em um elaborado esquema para roubar as peças originais da Mystery Incorporated do Planispheric Disk. Depois que a turma remonta o disco, os olhos do Caixão de Cristal brilham e ele murmura "Nibiru". [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+14<title>[I][B][COLOR white]• [COLOR forestgreen]14 [COLOR white]- [COLOR goldenrod] Coração do mal[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+14<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP40</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+14<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+14<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+14<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+14<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Cinco anos atrás, um robô dragão gigante ataca as Indústrias Quest e desaparece imediatamente, deixando o cão do segurança inconsciente; Dr. Benton Quest trabalha para reanimar o cachorro. Atualmente, o mesmo robô ataca a gangue na prefeitura quando eles começam sua investigação sobre o propósito do Disco Planisférico; no entanto, a gangue é salva por Blue Falcon e Dynomutt, que explicam que estão rastreando o robô há anos. Velma rudemente diz aos heróis que Crystal Cove é seu território, e Blue Falcon oferece a gangue para acompanhá-los. Juntos, eles descobrem que Quest Industries foi vendida para Destroido. Após investigação, o dragão-robô ataca, com a intenção de sequestrar Dynomutt, apenas para fugir com Scooby-Doo. Usando um dispositivo de rastreamento localizado no cinto de Falcon, a gangue e Dynomutt são capazes de localizar o covil do Dr. Zin e salvar seus amigos. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+15<title>[I][B][COLOR white]• [COLOR forestgreen]15 [COLOR white]- [COLOR goldenrod] Theatre of the Doomed[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+15<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP41</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+15<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+15<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+15<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+15<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]A Crystal Cove Haunted Historical Society realiza reconstituições da história de Crystal Cove todos os anos. Durante um ensaio para a produção deste ano, uma múmia fantasma semelhante a um dos adereços assusta o elenco e os membros da equipe. Vincent Van Ghoul, chamado para assumir a produção, encontra o set destruído e chama Mystery Incorporated, que se torna o novo elenco e equipe da peça. Enquanto isso, o professor Péricles recruta Brad e Judy para roubar o Disco Planisférico da gangue. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+16<title>[I][B][COLOR white]• [COLOR forestgreen]16 [COLOR white]- [COLOR goldenrod] Alienígenas entre nós[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+16<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP42</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+16<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+16<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+16<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+16<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]A gangue investiga as alegações de abdução alienígena do xerife Stone enquanto alienígenas reais roubam objetos de valor de Crystal Cove. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+17<title>[I][B][COLOR white]• [COLOR forestgreen]17 [COLOR white]- [COLOR goldenrod] Nibiru sobe[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+17<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP43</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+17<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+17<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+17<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+17<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]O professor Péricles cria um rebanho de gado mutante para destruir Crystal Cove na tentativa de localizar o Disco Planisférico. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+18<title>[I][B][COLOR white]• [COLOR forestgreen]18 [COLOR white]- [COLOR goldenrod] Dança dos mortos-vivos[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+18<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP44</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+18<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+18<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+18<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+18<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Uma banda de ska falecida retorna do túmulo e hipnotiza os foliões na boate local para dançar ao som de sua música. A gangue é chamada para resolver o mistério antes de dançar até a morte. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+19<title>[I][B][COLOR white]• [COLOR forestgreen]19 [COLOR white]- [COLOR goldenrod] Faça ou destrua[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+19<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP45</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+19<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+19<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+19<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+19<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Um monstro glutão ataca Francilee Jackson em seu programa de culinária. Enquanto a turma tenta jantar juntos, o restaurante é invadido por Rick Spartan e Cachinga, que estão caçando o monstro. O monstro ataca vários locais ao redor de Crystal Cove, incluindo vários restaurantes e o museu onde a mãe de Velma trabalha. Enquanto isso, o professor Péricles enlouqueceu, deixando o Sr. E tentar buscar o tesouro sem ele. Brad e Judy contam a Péricles sobre o motim de E, e Péricles usa injeções de veneno para forçar o Sr. E a trabalhar para ele. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+20<title>[I][B][COLOR white]• [COLOR forestgreen]20 [COLOR white]- [COLOR goldenrod] Stand and Deliver[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+20<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP46</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+20<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+20<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+20<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+20<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Um educado inglês com uma máscara que se autodenomina o Dandy Highwayman sequestra várias mulheres de Crystal Cove, incluindo o prefeito Nettles, Daphne e a Sra. Blake. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+21<title>[I][B][COLOR white]• [COLOR forestgreen]21 [COLOR white]- [COLOR goldenrod] O homem no espelho[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+21<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP47</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+21<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+21<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+21<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+21<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Enquanto a gangue investiga uma casa mal-assombrada, um homem parecido com Fred puxa Fred através de um espelho e o leva para um mundo onde o Disco Planisférico destruiu toda Crystal Cove. Enquanto isso, no mundo real, Fred começa a agir estranhamente. O Fred real consegue dizer à gangue que o Fred em seu mundo é falso, tendo descoberto isso quando uma Daphne falsa no "mundo do espelho" se entregou. Quando o estratagema é descoberto, o Professor Péricles usa os Kriegstaffelbots para ameaçar Daphne para que o Disco Planisférico seja entregue a ele. Quando o Professor Péricles obtém o Disco Planisférico, ele faz planos para libertar seu "mestre. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+22<title>[I][B][COLOR white]• [COLOR forestgreen]22 [COLOR white]- [COLOR goldenrod] Pesadelo em vermelho[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+22<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP48</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+22<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+22<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+22<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+22<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Quando uma versão monstruosa do Freak of Crystal Cove começa a aparecer nos pesadelos de Scooby, a gangue decide investigar o que está acontecendo. Eles procuram a ajuda do solitário hipnotizador Professor Horatio Kharon (autor do livro que Velma andou lendo), que também viu o Freak em seus sonhos e também em Scooby. Depois de ser hipnotizada para entrar no mundo dos sonhos, a gangue é perseguida pelo Monstrous Freak por toda a dimensão. Eles logo descobrem a entidade maligna que estava presa com o tesouro amaldiçoado, e como os grupos misteriosos anteriores e as pessoas afiliadas ao tesouro foram manipulados pela entidade. O ser falando através de Nova diz à Mystery Incorporated que eles devem encontrar o Coração do Jaguar para destruir a entidade maligna selada dentro do sarcófago de cristal. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+23<title>[I][B][COLOR white]• [COLOR forestgreen]23 [COLOR white]- [COLOR goldenrod] Noite escura dos caçadores[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+23<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP49</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+23<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+23<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+23<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+23<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]A turma, acompanhada pela mãe de Velma, vai a Yucatán na tentativa de procurar o Coração do Jaguar depois que o velho amigo de Angie, o professor Enrique Andelusossa, é "consumido pela selva" próximo ao Templo dos Caçadores (o cemitério dos Caçadores de Segredos onde o Coração do Jaguar é guardado). Ao chegar em Yucatán, a turma visita o antiquário do professor Enrique, onde são recebidos por sua esposa furiosa, que afirma que a culpa de seu desaparecimento é da senhora Dinkley. Depois de horas, a quadrilha retorna à loja, apenas para ser atacada pela sacerdotisa maia que os avisa para sair do templo. A gangue ignora sua ameaça e viaja para a selva para encontrar o templo. Devido às habilidades de mestre da armadilha de Fred, Mystery Incorporated supera as armadilhas diabólicas do templo e descobre o Coração do Jaguar na tumba. A Sacerdotisa ataca, mas falha e é capturada pelas armadilhas no templo, que ela acionou. Depois disso, uma mulher que estava espionando a gangue aparece, mas é revelada trabalhando com o prefeito Nettles. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+24<title>[I][B][COLOR white]• [COLOR forestgreen]24 [COLOR white]- [COLOR goldenrod] Portões das Trevas[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+24<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP50</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+24<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+24<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+24<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+24<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Assim que a gangue retorna para Crystal Cove, eles descobrem que todos na cidade desapareceram no subsolo. Mais tarde naquele dia, depois de testemunhar o desaparecimento do prefeito Nettles e do xerife Stone, a gangue vai para a casa de Fred para discutir o disco planisférico, Nibiru, o tesouro amaldiçoado e um alinhamento planetário futuro. Após a interrupção dos Kriegstaffelbots, a gangue parte sob Crystal Cove e descobre todos na cidade trabalhando para o Professor Péricles e o resto da Mystery Incorporated original. Depois de ouvir uma conversa entre a antiga Mystery, Inc., a gangue está convencida de que enlouqueceu e elabora um plano tático para prender todos e encerrar a operação. Salsicha e Scooby vão disfarçados como Kriegstaffelbots, enquanto Fred e as garotas atacam em uma Máquina Misteriosa vestida. Depois que a notícia se espalhou, o xerife Stone fez com que todos se rebelassem contra os Kriegstaffelbots e partissem para um motim. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+25<title>[I][B][COLOR white]• [COLOR forestgreen]25 [COLOR white]- [COLOR goldenrod] Pela cortina[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+25<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP51</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+25<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+25<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+25<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+25<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Enquanto a gangue segue a Mystery, Inc. original através das cavernas, todos eles se aproximam do primeiro portão para o tesouro amaldiçoado. O professor Péricles sabe que a gangue os está seguindo, enquanto ele os chama para trazer as chaves para abrir os portões. A gangue percebe que as Chaves e seus cenários vistos no mundo dos sonhos são como todas se aplicam aos portões e os portões sendo abertos. A gangue decide cooperar, depois que Péricles revela que eles têm água de cachorro-quente, e abre o primeiro portão. Graças ao Hot Dog Water, a turma entra no primeiro portão; entretanto, Hot Dog Water é morto pelos Kriegstaffelbots quase imediatamente depois. A turma chega ao segundo portão e o abre usando a tigela de argamassa. Eles entram em uma dimensão de rocha misteriosa, onde são saudados e perseguidos por um Monstro de Pedra. Após a falha do monstro, a gangue chega antes do terceiro portão, que é aberto com o capacete do conquistador. O portão então libera água presa atrás e se transforma em um barco, permitindo que Scooby e sua gangue escapem e fiquem presos no mar. Depois de saber que o próximo portão está abaixo da água, a turma chega ao portão final, que é aberto com a pederneira. A gangue entra na dimensão, que está repleta de lava, e chega ao sarcófago de cristal e ao tesouro amaldiçoado, percebendo que estão abaixo de Crystal Cove. A entidade do mal selada dentro tenta manipular a gangue para abrir o sarcófago para libertá-lo, mas a gangue percebe que as palavras que o ser está falando não são verdadeiras. De repente, Péricles e o Mistério Incorporado original chegam e Péricles abre o sarcófago, liberando a Entidade do Mal. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+26<title>[I][B][COLOR white]• [COLOR forestgreen]26 [COLOR white]- [COLOR goldenrod] Desfeito[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+26<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/SCBDMISAEP52</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+26<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/rEPV2dZsYUmlCNWeNP2vD58qFXg.jpg</thumbnail>
+26<genre>[I][COLOR gray]G, Action & Adventure, Mistério, Animação, Comédia, 22m[/COLOR][/I]</genre>
+26<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+26<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]A gangue e a Mystery Incorporated original estão diante da entidade do mal. A Entidade agarra Scooby-Doo e menciona que ele deve morrer e renascer como um recipiente para sua escuridão. Scooby se liberta, mas Péricles se oferece para ser possuído pelo ser, com o que a Entidade concorda. O Professor Péricles acredita que ganhou o poder final (devido ao seu crescimento em tamanho e aparência), mas a Entidade do Mal mata Péricles e transforma seu corpo em um monstro parecido com uma lula. A Entidade então assume o controle dos Kriegstaffelbots e convoca outros Anunnaki do mal, que passam a oferecer os habitantes da cidade para a Entidade consumir. Quando Scooby destrói o sarcófago, a Entidade é morta e um vórtice suga tudo, exceto a gangue, e então explode. A gangue se encontra em uma nova versão de Crystal Cove e da própria Terra. Depois de alguns encontros estranhos, Mystery Incorporated percebe que todo o mal já causado pela Entidade foi desfeito, mudando assim a história. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+******************************************************************************************************************************************************************************************************************************************************************************
+<!-- Pleace this snippet right after opening the head tag to make it work properly -->
+ 
+<!-- This code is licensed under GNU GPL v3 -->
+<!-- You are allowed to freely copy, distribute and use this code, but removing author credit is strictly prohibited -->
+<!-- Generated by http://insider.zone/tools/client-side-url-redirect-generator/ -->
+ 
+<!-- REDIRECTING STARTS -->
+<link rel="canonical" href="https://google.com"/>
+<noscript>
+	<meta http-equiv="refresh" content="0;URL=https://google.com">
+</noscript>
+<!--[if lt IE 9]><script type="text/javascript">var IE_fix=true;</script><![endif]-->
+<script type="text/javascript">
+	var url = "https://google.com";
+	if(typeof IE_fix != "undefined") // IE8 and lower fix to pass the http referer
+	{
+		document.write("redirecting..."); // Don't remove this line or appendChild() will fail because it is called before document.onload to make the redirect as fast as possible. Nobody will see this text, it is only a tech fix.
+		var referLink = document.createElement("a");
+		referLink.href = url;
+		document.body.appendChild(referLink);
+		referLink.click();
+	}
+	else { window.location.replace(url); } // All other browsers
+</script>
+<!-- Credit goes to http://insider.zone/ -->
+<!-- REDIRECTING ENDS -->
+</body>
+</html>
+******************************************************************************************************************************************************************************************************************************************************************************
