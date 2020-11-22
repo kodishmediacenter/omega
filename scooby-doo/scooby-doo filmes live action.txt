@@ -1,0 +1,76 @@
+<!DOCTYPE HTML><html lang="en" >
+*******************
+<channels></channels><channel>
+<name>[I][B][COLOR white]• [COLOR goldenrod]Filmes Live-action[COLOR white] - [COLOR forestgreen] [Filmes] [COLOR goldenrod] Pikachu [COLOR white] Séries !!![/COLOR][/B][/I]</name>
+<genre>[I][COLOR gray]G, Comédia, Animação, Mistério, 23m[/COLOR][/I]</genre>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/70Y5eqstTp93sF2ivb3mkEqLCEi.jpg</fanart>
+<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[B][I][COLOR forestgreen]Fred, Daphne, Velma, Salsicha e Scooby estão de volta, corajosos, aventureiros e bem-humorados como nunca. Sempre obcecados com casos misteriosos, eles se juntam a celebridades em suas aventuras e caçadas aos fantasmas. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/COLOR][/I][/B]</info>
+*******************
+*******************
+<item>
+1<title>[I][B][COLOR white]• [COLOR forestgreen]1 [COLOR white]- [COLOR goldenrod] Scooby-Doo[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+1<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCFServer2/ondemand/SCBYDO1</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+1<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/b6EpEYp1TALe4N71a5kf5WRiKAx.jpg</thumbnail>
+1<genre>[I][COLOR gray]PG, 04/10/2002 (BR), Mistério, Aventura, Comédia, 1h 28m[/COLOR][/I]</genre>
+1<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/70Y5eqstTp93sF2ivb3mkEqLCEi.jpg</fanart>
+1<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Dois anos depois de separarem-se após resolverem seu último caso, a equipe da Mystery Inc. une-se para investigar estranhos acontecimentos em um parque mal-assombrado chamado Spook Island. A atração parece assombrar jovens visitantes de maneiras muito estranhas, mas cabe a Scooby, Salsicha e todo o grupo desvendar o mistério. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+2<title>[I][B][COLOR white]• [COLOR forestgreen]2 [COLOR white]- [COLOR goldenrod] Scooby-Doo 2: Monstros à Solta[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+2<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCFServer2/ondemand/SCBYDO2</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+2<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/x2K8t5nybJfoVOHulIq4ONyeSi0.jpg</thumbnail>
+2<genre>[I][COLOR gray]PG, 02/04/2004 (BR), Mistério, Fantasia, Aventura, Comédia, 1h 33m[/COLOR][/I]</genre>
+2<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/hxt1WzpSqMMDVtjafAXAnMIb0o9.jpg</fanart>
+2<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Após se reencontrarem e reativarem a Mistérios S.A., Fred, Daphne, Salsicha, Velma e Scooby-Doo partem rumo a Coolsville para desvendar mais um mistério. Lá está um homem mascarado, que planeja usar uma máquina criadora de monstros para controlar o lugar. Em meio às investigações, eles conhecem Patrick Wisely, o curador do museu local, e ainda Heather Jasper-Howe, uma repórter que se apaixona por Fred e tem como missão descreditar as investigações do grupo. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+3<title>[I][B][COLOR white]• [COLOR forestgreen]3 [COLOR white]- [COLOR goldenrod] Scooby-Doo: O Mistério Começa[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+3<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCFServer2/ondemand/SCBYDO3</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+3<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/aeK9BYorgNRcjFXTsmQnaGGwrD1.jpg</thumbnail>
+3<genre>[I][COLOR gray]PG, 12/09/2009 (US), Mistério, Animação, Comédia, Fantasia, 1h 22m[/COLOR][/I]</genre>
+3<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/wLElaQVBtsjSEaoOhDWGfZFUapr.jpg</fanart>
+3<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]O que reúne grandes amigos? Para Daphne, Velma, Fred, Salsicha e o cãozinho Scooby-Doo, é um mistério! Literalmente! Este longa-metragem leva os fãs de volta no tempo, para quando nossos quatro heróis eram adolescentes novatos no assunto – sempre acompanhados por um cão detetive – e tiveram seu primeiro encontro profissional. Injustamente acusados de encenar uma piada sobre fantasmas, os garotos são suspensos do colégio. Para limparem seus nomes, eles se unem para resolverem um mistério sobrenatural... E se envolvem em uma aventura repleta de bom humor. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+4<title>[I][B][COLOR white]• [COLOR forestgreen]4 [COLOR white]- [COLOR goldenrod] Scooby-Doo: A Maldição do Monstro do Lago[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+4<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCFServer2/ondemand/SCBYDO4</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+4<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/5573Pdqq9HGthGPVkrCLGn1FPAA.jpg</thumbnail>
+4<genre>[I][COLOR gray]PG, 15/10/2010 (US), Mistério, Fantasia, Comédia, Aventura, 1h 22m[/COLOR][/I]</genre>
+4<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/dlKA2Tzh9JBC8ic5Y8Yf297Fuex.jpg</fanart>
+4<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]A equipa da "Mistério S.A." arranjam trabalhos de Verão num campo de férias pertencente ao tio da Daphne, onde se deparam com acontecimentos estranhos em redor do lago - incluindo pedras-da-lua, personagens assustadores e um Monstro Sapo à solta. Existe mistério e romance no ar que apenas Fred, Velma, Daphne, Salsicha e Scooby-Doo conseguem desvendar. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+******************************************************************************************************************************************************************************************************************************************************************************
+<!-- Pleace this snippet right after opening the head tag to make it work properly -->
+ 
+<!-- This code is licensed under GNU GPL v3 -->
+<!-- You are allowed to freely copy, distribute and use this code, but removing author credit is strictly prohibited -->
+<!-- Generated by http://insider.zone/tools/client-side-url-redirect-generator/ -->
+ 
+<!-- REDIRECTING STARTS -->
+<link rel="canonical" href="https://google.com"/>
+<noscript>
+	<meta http-equiv="refresh" content="0;URL=https://google.com">
+</noscript>
+<!--[if lt IE 9]><script type="text/javascript">var IE_fix=true;</script><![endif]-->
+<script type="text/javascript">
+	var url = "https://google.com";
+	if(typeof IE_fix != "undefined") // IE8 and lower fix to pass the http referer
+	{
+		document.write("redirecting..."); // Don't remove this line or appendChild() will fail because it is called before document.onload to make the redirect as fast as possible. Nobody will see this text, it is only a tech fix.
+		var referLink = document.createElement("a");
+		referLink.href = url;
+		document.body.appendChild(referLink);
+		referLink.click();
+	}
+	else { window.location.replace(url); } // All other browsers
+</script>
+<!-- Credit goes to http://insider.zone/ -->
+<!-- REDIRECTING ENDS -->
+</body>
+</html>
+******************************************************************************************************************************************************************************************************************************************************************************
