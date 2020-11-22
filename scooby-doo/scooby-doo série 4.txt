@@ -1,0 +1,183 @@
+<!DOCTYPE HTML><html lang="en" >
+*******************
+<channels></channels><channel>
+<name>[I][B][COLOR white]• [COLOR goldenrod]Dinamite o Bionicão (1976) [COLOR white] - [COLOR forestgreen] [1ªTemporada] [COLOR goldenrod] Pikachu [COLOR white] Séries !!![/COLOR][/B][/I]</name>
+<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 30m[/COLOR][/I]</genre>
+<info>[I][B][COLOR goldenrod]SINOPSE:[/I][/B][/COLOR]
+[B][I][COLOR forestgreen]Em Cidadópolis não havia vilão que se desse bem, isso porque os céus da cidade eram constantemente patrulhados por uma dupla de heróis, o Falcão Azul e seu companheiro o Bionicão, que se desdobravam para manter a paz e a ordem, Voando em seu Falcomóvel, eles combatiam a vilania com muita energia e bom humor.[COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/COLOR][/I][/B]</info>
+*******************
+*******************
+<item>
+1<title>[I][B][COLOR white]• [COLOR forestgreen]1 [COLOR white]- [COLOR goldenrod] Todo mundo Hyde![COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+1<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/DNMTOBONCEP01</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+1<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/5RILyWXq0aiBPs9PFQwskLCx1yi.jpg</thumbnail>
+1<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 30m[/COLOR][/I]</genre>
+1<fanart>https://i.pinimg.com/originals/e1/52/69/e152698506bd3f432cf9d3596c783d4f.jpg</fanart>
+1<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]O Sr. Hyde, também conhecido como Willie The Weasel, cúmplice de Hyde Dog, exige ser prefeito de Big City, ameaçando seus cidadãos com uma fórmula sinistra que os transforma em criaturas do tipo Hyde. Blue Falcon e Dog Wonder, assistidos pelos detetives Scooby-Doo, planejam prender o astuto Sr. Hyde e concordam com seu pedido. Uma vez que isso resulta, o Sr. Hyde, através de sua terrível ganância, é enredado em um falcão selvagem fracus: Dynomutt captura Hyde Dog e o antídoto que salvará Big City, com Falconclaw Blue Falcon pegando o fugitivo Willie The Weasel, b.k.a. Sr. Hyde. Depois de ser elogiado pelo prefeito, Dynomutt, executando uma saída heróica da prefeitura, acidentalmente é pego em uma das armadilhas do Scooby de Salsicha! [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+2<title>[I][B][COLOR white]• [COLOR forestgreen]2 [COLOR white]- [COLOR goldenrod] E agora, Lowbrow?[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+2<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/DNMTOBONCEP02</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+2<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/5RILyWXq0aiBPs9PFQwskLCx1yi.jpg</thumbnail>
+2<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 30m[/COLOR][/I]</genre>
+2<fanart>https://i.pinimg.com/originals/e1/52/69/e152698506bd3f432cf9d3596c783d4f.jpg</fanart>
+2<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Dog Wonder e B.F., aliados aos crimestoppers Scooby-Doo, conhecem Lowbrow, um vilão que deseja ser o rei do crime, usando o conhecimento dos livros da Big City University para promover seus planos covardes. Este ladrão primitivo involuntariamente leva Blue Falcon, Dynomutt e Scooby Doo e companhia para seu covil, onde descobrem seu mais recente plano: roubo de Big City Mint! Blue Falcon e Dynomutt armaram uma armadilha para Lowbrow e frustraram seus planos malignos, usando um "" Balão Instant Delayed Action Falcon "" que o captura e o deposita ordenadamente na prisão. Mais tarde, em um restaurante, Blue Falcon e Dynomutt convidam Scooby e seus amigos para um jantar de peru, por sua ajuda na prisão de Lowbrow. Dyno se oferece para cortar o peru, mas, em vez de uma faca de entalhar dinamômetro, suas patas se transformam em malhos dinâmicos, que achatam o pobre peru impiedosamente. ("" Alguém quer panqueca de peru? "") [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+3<title>[I][B][COLOR white]• [COLOR forestgreen]3 [COLOR white]- [COLOR goldenrod] O Grande Cérebro ... Roubo de Trem[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+3<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/DNMTOBONCEP03</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+3<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/5RILyWXq0aiBPs9PFQwskLCx1yi.jpg</thumbnail>
+3<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 30m[/COLOR][/I]</genre>
+3<fanart>https://i.pinimg.com/originals/e1/52/69/e152698506bd3f432cf9d3596c783d4f.jpg</fanart>
+3<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Dynomutt e Blue Falcon conhecem The Gimmick, um vigarista sinistro que usa uma variedade de dispositivos mecânicos para perpetrar um crime bizarro: o roubo do fabuloso tesouro de Price Ringpur da Índia. Dog Wonder, ao ajudar seu mestre, atrapalha as coisas com seus defeitos mecânicos únicos e comuns. O Gimmick parece ser o vilão vitorioso, pois rouba um banco e uma joalheria e, em seguida, tenta capturar o tesouro do Príncipe Ringpur. No final, o gênio mecânico de Dynomutt encontra o covil do vilão malvado, apesar de seus erros cômicos, e, com a ajuda de seus Dyno-Jets, ele persegue e pega um Gimmick em fuga e planador. Mais tarde, após B.F. e D.W. são elogiados por Price Ringpur da Índia, a estrela convidada tenente. Mumbly leva tempo de sua agenda lotada para trazer Dog Wonder para Blue Falcon depois que o primeiro sofre um derramamento desagradável de uma janela ... e então o multas por sujar a calçada! [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+4<title>[I][B][COLOR white]• [COLOR forestgreen]4 [COLOR white]- [COLOR goldenrod] O rastreador de dia e noite[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+4<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/DNMTOBONCEP04</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+4<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/5RILyWXq0aiBPs9PFQwskLCx1yi.jpg</thumbnail>
+4<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 30m[/COLOR][/I]</genre>
+4<fanart>https://i.pinimg.com/originals/e1/52/69/e152698506bd3f432cf9d3596c783d4f.jpg</fanart>
+4<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Blue Falcon e Dog Wonder encontram The Worm, um gênio do mal auxiliado pelos condenados Bugsy Busby e o ladrão de helicópteros Roto Chopper, em busca de vingança contra Big City. Mergulhando em Big City Tech (cena de um acidente estranho anos atrás, quando The Night Crawler, o então professor Ronald Hickman, foi transformado de um cientista inteligente em um verme), The Blue Falcon e Dynomutt descobrem e tentam impedir a tentativa dos vilões de roubar um computador multimilionário. Apesar de uma série de Dyno DumDums, The Daring Duo atrai o Creepy Crawler e seus comparsas ainda mais assustadores para uma bizarra perseguição subterrânea (para onde mais iriam os vermes?) E os induz a se enterrar na Prisão de Big City. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+5<title>[I][B][COLOR white]• [COLOR forestgreen]5 [COLOR white]- [COLOR goldenrod] The Harbor Robber[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+5<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/DNMTOBONCEP05</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+5<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/5RILyWXq0aiBPs9PFQwskLCx1yi.jpg</thumbnail>
+5<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 30m[/COLOR][/I]</genre>
+5<fanart>https://i.pinimg.com/originals/e1/52/69/e152698506bd3f432cf9d3596c783d4f.jpg</fanart>
+5<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Blue Falcon e Dog Wonder entram em conflito com Fishface, um creep aquático, que planeja sangrar as ricas cargas que entram e saem do Big City Harbor. Esse demônio peixe então espreme a Big City todo o seu óleo vital e exige US $ 15 milhões para resgatá-la. Blue Falcon consegue convencer o prefeito a pagar o resgate por meio de um esquema de falcão para capturar Fishface; infelizmente, esse esquema sai pela culatra quando Dog Wonder e Blue Falcon são capturados e estão prestes a se tornar isca de tubarão. No entanto, eles escapam através de um Dyno Power Pack, e Dynomutt, transformando-se em uma vara de pescar gigante (que simbólico!), Consegue enrolar em Fishface e colocá-lo fora de circulação [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+6<title>[I][B][COLOR white]• [COLOR forestgreen]6 [COLOR white]- [COLOR goldenrod] Sinfonia sinistra[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+6<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/DNMTOBONCEP06</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+6<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/5RILyWXq0aiBPs9PFQwskLCx1yi.jpg</thumbnail>
+6<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 30m[/COLOR][/I]</genre>
+6<fanart>https://i.pinimg.com/originals/e1/52/69/e152698506bd3f432cf9d3596c783d4f.jpg</fanart>
+6<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Usando uma sinfonia sinistra, Manyfaces, o mestre malévolo e malicioso de um milhão de disfarces monstruosos, acalma Big City adormecida, permitindo-lhe limpá-la. Usando protetores de orelha, Blue Falcon e Dynomutt planejam uma armadilha, mas Manyfaces a evita quando ele e seus capangas personificam o chefe Quimby, o prefeito e B.F .. Cachorro Wonder, infelizmente, apreende o verdadeiro B.F., acreditando erroneamente que ele tem Manyfaces disfarçado. Ao tocar no ponto sensível de Dynomutt (ele é o único que sabe onde está), Blue Falcon consegue finalmente convencer Dynomutt de que ele é o verdadeiro BF e juntos eles perseguem o verdadeiro Manyfaces e seus companheiros assustadores, que neste momento estão dirigindo pela rua em um caminhão de lixo com uma pilha alta de itens roubados. Manyfaces tenta novamente confundir D.W. por seu disfarce de B.F., mas desta vez Dog Wonder escolhe seu verdadeiro amigo azul e Manyfaces é preso. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+7<title>[I][B][COLOR white]• [COLOR forestgreen]7 [COLOR white]- [COLOR goldenrod] Não incomode o superthug[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+7<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/DNMTOBONCEP07</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+7<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/5RILyWXq0aiBPs9PFQwskLCx1yi.jpg</thumbnail>
+7<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 30m[/COLOR][/I]</genre>
+7<fanart>https://i.pinimg.com/originals/e1/52/69/e152698506bd3f432cf9d3596c783d4f.jpg</fanart>
+7<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]The Daring Duo conhece Superthug e Zorkon, dois gênios do mal que criaram um esqueleto de aço superdinâmico. Superthug rouba todo pedaço de aço disponível de Big City, pois ele quer produzir em massa esses esqueletos para todos os vigaristas em Big City usarem para propósitos malignos. Para se opor a esse superfamigo, B.F. amarra as mãos e pernas de Dynomutt nas suas e desafia Superthug com sua combinação de Power Pack Falcon-Dyno Superstrength ... e roubar a torre de TV de aço no topo do prédio da estação de TV. S.T. aceita o desafio, mas a onda habitual de acidentes mecânicos de Dynomutt literalmente tropeça em todas as tentativas de Blue Falcon para detê-lo. Superthug foge com a torre de TV, enquanto Blue Falcon acaba sendo enredado nos membros metálicos de Dog Wonder, derrotado, humilhado e publicamente desonrado. Uma vez que os super-heróis são incapazes de impedir o Superthug, o agente secreto Focus One não tem alternativa a não ser despedir The Blue Falcon e Dog Wonder ("" Puxa! Você pensaria que eles poderiam dar a um par de ex-super-heróis 30 [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+8<title>[I][B][COLOR white]• [COLOR forestgreen]8 [COLOR white]- [COLOR goldenrod] Recall de fábrica[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+8<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/DNMTOBONCEP08</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+8<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/5RILyWXq0aiBPs9PFQwskLCx1yi.jpg</thumbnail>
+8<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 30m[/COLOR][/I]</genre>
+8<fanart>https://i.pinimg.com/originals/e1/52/69/e152698506bd3f432cf9d3596c783d4f.jpg</fanart>
+8<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Ao tentar combater o vilão Mr. Cool (a encarnação de Mr. Freeze), cujos raios frios congelam todos em gelo sólido, The Blue Falcon acidentalmente derruba seu comunicador Falcon de seu Falconbelt na tentativa de salvar Dog Wonder, que também foi atacado por a explosão de raio frio. O comunicador é imediatamente agarrado pelo Sr. Cool. Uma vez descongelado, Dynomutt parece estar em pior estado do que nunca, irritando para sempre Blue Falcon com sua risada idiota. Usando o dispositivo comunicador Falcon, Cool engana B.F. fazendo-o acreditar que ele é o Focus One, dizendo-lhe que Dynomutt está sendo chamado de volta à fábrica para uma reprogramação. Dog Wonder é então programado por Cool em um D.W. maligno, que quase consegue encerrar a carreira de Blue Falcon ... e sua vida! Mas, fiel à tradição do mau funcionamento do dinamômetro, ele estraga seu plano infame. Ao escalar um edifício com os pés de ventosa Falcon, D.W. captura B.F. e o leva até o Sr. Cool, que o ordena a esmagar o Blue Falcon sob um bloco de gelo ("" Prepare-se para se tornar um chip [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+9<title>[I][B][COLOR white]• [COLOR forestgreen]9 [COLOR white]- [COLOR goldenrod] The Queen Hornet[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+9<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/DNMTOBONCEP09</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+9<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/5RILyWXq0aiBPs9PFQwskLCx1yi.jpg</thumbnail>
+9<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 30m[/COLOR][/I]</genre>
+9<fanart>https://i.pinimg.com/originals/e1/52/69/e152698506bd3f432cf9d3596c783d4f.jpg</fanart>
+9<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]O Blue Falcon e o Dynomutt tentam obter evidências que afastarão aquela megera zumbidora, The Queen Hornet. Eles a perseguem depois que ela sequestra um carro blindado cheio de dinheiro, mas, devido a uma série de erros do Dog Wonder, eles estão presos em uma árvore. O Queen Hornet usa seu "" Honeysticker "" de secagem rápida no The Daring Duo e os leva para o porão da boate The Hornet's Nest (um GHQ apropriado para uma rainha tão má), onde ela espera um enxame de seus "" irmãos mais novos e irmãs, "" seus zangões treinados, construirão um ninho inquebrável ao redor do Blue Falcon e do Dog Wonder. Eles são salvos pelo Dyno Car Wash e voam pela Falconcar para o exterior para capturar e impedir a Rainha Hornet e seus lacaios no ato de roubar os famosos diamantes lunares dos astronautas que retornam. Eles a rastreiam até a cápsula de pouso, onde descobrem que o pegajoso "adesivo de mel" "congelou os astronautas imóveis. D.W. corta um buraco no fundo da cápsula e mergulha, ativando seu Dyno Flotation Collar que tem sucesso em bri [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+10<title>[I][B][COLOR white]• [COLOR forestgreen]10 [COLOR white]- [COLOR goldenrod] The Wizard Of Lodo[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+10<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/DNMTOBONCEP10</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+10<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/5RILyWXq0aiBPs9PFQwskLCx1yi.jpg</thumbnail>
+10<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 30m[/COLOR][/I]</genre>
+10<fanart>https://i.pinimg.com/originals/e1/52/69/e152698506bd3f432cf9d3596c783d4f.jpg</fanart>
+10<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]O Daring Duo encontra o sinistro Swamp Rat e Mudmouth, que estão sequestrando caminhões no Bogmyer Swamp com o propósito de roubar suas bombas. Eles os usam para bombear metade de seu pântano em Big City, transformando-o em Bog City, um pântano gigante tão lamacento que os cidadãos abandonam a cidade, deixando-o desprotegido e um jogo fácil e justo para The Swamp Rat e Mudmouth. Blue Falcon e Dog Wonder, em conjunto com os crimebusters Scooby Doo, conseguem se livrar de se tornarem isca de jacaré e correm para ajudar a lamacenta Big City para atrair os ladrões pantanosos para o campo aberto. Lá, B.F., para acalmar as suspeitas do Rato do Pântano, disfarça Shaggy Rogers e Scooby-Doo como Blue Falcon e Dynomutt, respectivamente, e os faz seguir o outro caminho com o verdadeiro Duo Ousado posando como caras estátuas de ouro no The Big City Convention Hall. Os ladrões astutos, pensando em B.F. e D.W. estão indo para outro lugar, fique à vontade para roubar as estátuas de ouro. Quando eles descobrem o estratagema do Blue Falcon, eles fogem para o pântano, apenas para serem [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+11<title>[I][B][COLOR white]• [COLOR forestgreen]11 [COLOR white]- [COLOR goldenrod] Tin Kong[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+11<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/DNMTOBONCEP11</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+11<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/5RILyWXq0aiBPs9PFQwskLCx1yi.jpg</thumbnail>
+11<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 30m[/COLOR][/I]</genre>
+11<fanart>https://i.pinimg.com/originals/e1/52/69/e152698506bd3f432cf9d3596c783d4f.jpg</fanart>
+11<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]The Daring Duo conhece o malvado Eric Von Flick, um diretor de cinema hack que vive nos abandonados Epic Studios nos arredores de Big City, que tenta a produção do maior filme de desastre de todos os tempos: The Total Destruction Of Big City, estrelado por Tin Kong, um macaco robô gigante (nenhuma relação com Grape Ape, veja bem!). Em Desperation, Blue Falcon usa o Dyno Enlarging Powerpack, tornando Dog Wonder 50 vezes maior, resultando em ele parar Kong na destruição de um trem de passageiros. De repente B.F. é pego por Tin Kong !!! Dynomutt se transforma em um Dynobiplane, voa e sacode Dynopepper no nariz de Tin King, fazendo-o espirrar e soltar Blue Falcon. The Daring Duo agarra a chance de entrar no painel de controle de T.K. e reprograma-o, ordenando-o a recolher o vilão VonFlick e seus asseclas em suas mãos enormes de uma vez por todas, garantindo que sua última foto será sua foto de prisão. Mais tarde, no The Falcon's Lair, Dog Wonder, tendo reprogramado Tin Kong como mordomo, liga para f [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+12<title>[I][B][COLOR white]• [COLOR forestgreen]12 [COLOR white]- [COLOR goldenrod] A terrível provação com a cabeça de aço[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+12<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/DNMTOBONCEP12</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+12<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/5RILyWXq0aiBPs9PFQwskLCx1yi.jpg</thumbnail>
+12<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 30m[/COLOR][/I]</genre>
+12<fanart>https://i.pinimg.com/originals/e1/52/69/e152698506bd3f432cf9d3596c783d4f.jpg</fanart>
+12<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Ironface, guardando um rancor amargo, busca vingança em Big City e sequestra o promotor público, o diretor de Rockatraz e o detetive Malloy. Esse demônio atrai então o Duo Ousado, o Prefeito Gaunt, o Juiz Grater, o Chefe Grisby e o Promotor Principal para seu iate, apropriadamente chamado de Revenge, onde todos são sequestrados e levados para a fortaleza de sua ilha. Os funcionários restantes da cidade desaparecem um a um, até que Blue Falcon e Dog Wonder também se deixam capturar, na esperança de solucionar e frustrar o crime. Quando I.F. tem todos os funcionários e The Daring Duo em uma cela de prisão alta, ele relata o motivo de sua vingança: ele passou 10 anos na prisão de Rockatraz e agora quer que todos eles passem o mesmo número de anos em sua prisão. Dynomutt masca um pouco de chiclete encolhendo e diminui o tamanho, abre a fechadura e liberta Blue Falcon e os oficiais. The Daring Duo então captura um Ironface em fuga em The Dyno-Yo-Yo, e o desmascara para ser a sinistra Serpent Lady. Ela é então recapturada, trocando seu i [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+13<title>[I][B][COLOR white]• [COLOR forestgreen]13 [COLOR white]- [COLOR goldenrod] O Blue Falcon vs. O abutre vermelho[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+13<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/DNMTOBONCEP13</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+13<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/5RILyWXq0aiBPs9PFQwskLCx1yi.jpg</thumbnail>
+13<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 30m[/COLOR][/I]</genre>
+13<fanart>https://i.pinimg.com/originals/e1/52/69/e152698506bd3f432cf9d3596c783d4f.jpg</fanart>
+13<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]O Red Vulture rouba 2 dos motores superjet mais poderosos do mundo, com planos de usá-los para seu nefasto Vulturejet e, por sua vez, dominar as vias aéreas. O Daring Duo rastreia o vilão até The Big City Superjet Races, mas são imediatamente capturados pelo The Vulturejet e presos junto com a tripulação a bordo de um jato de carga recentemente roubado por R.V., que está programado para colidir com uma montanha bem à frente deles. Com apenas 3 minutos de sobra, Dog Wonder estende o pescoço e os braços para dentro da cabine e mantém o jato fora de perigo. Blue Falcon e Dog Wonder então rastreiam o Red Vulture até seu ninho, mas na chegada, eles são instantaneamente atacados pelos mortais minivultures mecânicos de R.V. D.W. captura todos eles em um saco de estopa e os dois a jato da Falconcar para deter o Abutre Vermelho, que no momento está roubando $ 10 milhões em boullion de ouro que chega ao aeroporto de Big City. R.V. localiza-os e tenta sugar The Daring Duo, Falconcar e todos em seu dispositivo de vácuo supersônico. Felizmente, isso prova ser Red V [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+14<title>[I][B][COLOR white]• [COLOR forestgreen]14 [COLOR white]- [COLOR goldenrod] A Liga da Injustiça da América[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+14<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/DNMTOBONCEP14</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+14<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/5RILyWXq0aiBPs9PFQwskLCx1yi.jpg</thumbnail>
+14<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 30m[/COLOR][/I]</genre>
+14<fanart>https://i.pinimg.com/originals/e1/52/69/e152698506bd3f432cf9d3596c783d4f.jpg</fanart>
+14<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Seis dos criminosos mais perversos que já enfrentaram The Daring Duo - Fishface, The Worm, The Queen Hornet, Lowbrow, Superthug e The Gimmick - quebraram a prisão de Big City. Eles se reencontram no abandonado Waldorf Euphoria Hotel, onde formam a Liga da Injustiça da América. Ao ordenar uma série de roubos em Big City no baile à fantasia na Mansão Vandergilt e no proposto Big City Bank, o ILA atrai Blue Falcon e Dog Wonder para seu esconderijo secreto no QG de Fishface. Lá, eles são vítimas infelizes de uma supertrap à prova de fuga manipulada pelo The Gimmick. Sem The Daring Duo para derrotá-los, o sinistro sexteto se divide em pares separados e segue caminhos separados para convergir para a desprotegida Cidade Grande. São necessários um total de 6 Dynogadgets para garantir a fuga de Blue Falcon e Dynomutt, e eles planejam capturar todo o grupo disfarçando-se alternadamente como membros da Liga da Injustiça e frustrar os criminosos com um bando de duplas cruzadas. Primeiro, B.F. e D.W. disfarçar [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+15<title>[I][B][COLOR white]• [COLOR forestgreen]15 [COLOR white]- [COLOR goldenrod] The Lighter Than Air Raid[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+15<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/DNMTOBONCEP15</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+15<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/5RILyWXq0aiBPs9PFQwskLCx1yi.jpg</thumbnail>
+15<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 30m[/COLOR][/I]</genre>
+15<fanart>https://i.pinimg.com/originals/e1/52/69/e152698506bd3f432cf9d3596c783d4f.jpg</fanart>
+15<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Enquanto Radley Crowne e Dynomutt desfrutam de um jogo de golfe de lazer, The Blimp, o gênio do mal das vias aéreas, dirige o Blimplair silenciosamente sobre suas cabeças, roubando o suprimento de hélio de Big City. Uma vez alertados pelo FOCUS One, eles trocam de roupa imediatamente e saem correndo em sua perseguição, mas um Dyno-Helium Sniffer com defeito leva The Daring Duo a um vendedor de balões no The Big City Circus, onde a infeliz Dog Wonder involuntariamente se torna a atração principal no trapézio . Mais uma vez, perseguidos por bonecos baloon em uma fábrica de brinquedos, Blue Falcon e Dog Wonder perseguem o Blimplair, mas são pegos em uma armadilha gigante; além disso, eles estão acorrentados a um balão de gás hélio, que os levará para sua destruição no espaço sideral. Eles escapam, mas tarde demais: o dirigível já usou o hélio para alcançar o satélite de comunicações, disparou seu Blimpray em todos os aparelhos de TV e rádio e tornou todos "Blimpificados" "(por exemplo, transformados em balões indefesos!), E agora ele está saqueando Big City! No gabinete do prefeito, Dog Wo [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+16<title>[I][B][COLOR white]• [COLOR forestgreen]16 [COLOR white]- [COLOR goldenrod] Os lucros do profeta[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+16<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/DNMTOBONCEP16</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+16<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/5RILyWXq0aiBPs9PFQwskLCx1yi.jpg</thumbnail>
+16<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 30m[/COLOR][/I]</genre>
+16<fanart>https://i.pinimg.com/originals/e1/52/69/e152698506bd3f432cf9d3596c783d4f.jpg</fanart>
+16<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Dynomutt e Radley Crowne saem correndo do Big City Drive-In Theatre, deixando um mar de pipoca, e mudam para Blue Falcon e Dog Wonder em uma tentativa inútil de salvar Big City Bridge do colapso previsto pelo Profeta. O Daring Duo começa a ficar mal visto que são incapazes de evitar um segundo desastre - a inclinação da Grande Prefeitura - também previsto pelo Profeta, apesar dos esforços de Dynomutt para consertar os danos. O Blue Falcon desconfia do Profeta, e com razão: ele arma cada desastre com o propósito doentio de cobrar do prefeito US $ 500.000 por cada previsão. Para combater essa situação, B.F. apresentou Swami Poochi (D.W. disfarçado), que cobra metade do preço por sua previsão: o colapso de um foguete na Base de Foguetes de Big City em 2 dias. A Dupla Ousada paira secretamente sobre o covil do Profeta e ouve secretamente enquanto um Profeta enfurecido fica decidido a fazer Swami Poochi parecer mal, conspirando para detonar o foguete em 1 dia e destruí-lo no espaço. Blue Falcon an [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+******************************************************************************************************************************************************************************************************************************************************************************
+<!-- Pleace this snippet right after opening the head tag to make it work properly -->
+ 
+<!-- This code is licensed under GNU GPL v3 -->
+<!-- You are allowed to freely copy, distribute and use this code, but removing author credit is strictly prohibited -->
+<!-- Generated by http://insider.zone/tools/client-side-url-redirect-generator/ -->
+ 
+<!-- REDIRECTING STARTS -->
+<link rel="canonical" href="https://google.com"/>
+<noscript>
+	<meta http-equiv="refresh" content="0;URL=https://google.com">
+</noscript>
+<!--[if lt IE 9]><script type="text/javascript">var IE_fix=true;</script><![endif]-->
+<script type="text/javascript">
+	var url = "https://google.com";
+	if(typeof IE_fix != "undefined") // IE8 and lower fix to pass the http referer
+	{
+		document.write("redirecting..."); // Don't remove this line or appendChild() will fail because it is called before document.onload to make the redirect as fast as possible. Nobody will see this text, it is only a tech fix.
+		var referLink = document.createElement("a");
+		referLink.href = url;
+		document.body.appendChild(referLink);
+		referLink.click();
+	}
+	else { window.location.replace(url); } // All other browsers
+</script>
+<!-- Credit goes to http://insider.zone/ -->
+<!-- REDIRECTING ENDS -->
+</body>
+</html>
+******************************************************************************************************************************************************************************************************************************************************************************

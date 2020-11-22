@@ -1,0 +1,10 @@
+*******************
+*******************
+<channel><name>[I][B][COLOR white]• [COLOR goldenrod] Dinamite o Bionicão (1976)[COLOR white] - [COLOR forestgreen] [1 Temporada] [COLOR goldenrod]Pikachu [COLOR white]Séries !!![/COLOR][/B][/I]</name>
+<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/5RILyWXq0aiBPs9PFQwskLCx1yi.jpg</thumbnail>
+<genre>[I][COLOR gray]Animação, Comédia, Kids, Família, Mistério, 30m[/COLOR][/I]</genre>
+<fanart>https://i.pinimg.com/originals/e1/52/69/e152698506bd3f432cf9d3596c783d4f.jpg</fanart>
+<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[B][I][COLOR forestgreen]Em Cidadópolis não havia vilão que se desse bem, isso porque os céus da cidade eram constantemente patrulhados por uma dupla de heróis, o Falcão Azul e seu companheiro o Bionicão, que se desdobravam para manter a paz e a ordem, Voando em seu Falcomóvel, eles combatiam a vilania com muita energia e bom humor. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/COLOR][/I][/B]</info>
+<externallink>http://pastebin.com</externallink></channel>
+*******************
