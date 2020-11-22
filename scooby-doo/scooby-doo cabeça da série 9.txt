@@ -1,0 +1,10 @@
+*******************
+*******************
+<channel><name>[I][B][COLOR white]• [COLOR goldenrod] O Que Há De Novo, Scooby Doo? (2002)[COLOR white] - [COLOR forestgreen] [3 Temporadas] [COLOR goldenrod]Pikachu [COLOR white]Séries !!![/COLOR][/B][/I]</name>
+<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/lQ0biSV9HrfK1DEu9BekYAP2XH1.jpg</thumbnail>
+<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/pU9MndGLhdt2mbCoHnH2otEBH2b.jpg</fanart>
+<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[B][I][COLOR forestgreen]Sempre munidos de novas invenções, a turma de adolescentes e o cão Scooby-Doo encontram fantasmas e monstros em suas aventuras. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/COLOR][/I][/B]</info>
+<externallink>http://pastebin.com</externallink></channel>
+*******************

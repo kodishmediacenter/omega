@@ -1,0 +1,10 @@
+*******************
+*******************
+<channel><name>[I][B][COLOR white]• [COLOR goldenrod] Salsicha e Scooby Atrás das Pistas (2006)[COLOR white] - [COLOR forestgreen] [2 Temporadas] [COLOR goldenrod]Pikachu [COLOR white]Séries !!![/COLOR][/B][/I]</name>
+<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/l0v2LN2fzvvut9LgUmU8A541SnA.jpg</thumbnail>
+<genre>[I][COLOR gray]G, Animação, Comédia, Família, Kids, Mistério, 30m[/COLOR][/I]</genre>
+<fanart>https://www.planocritico.com/wp-content/uploads/2020/11/Salsicha_e_Scooby_Atras_das_Pistas_A_Serie_Completa.jpg</fanart>
+<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[B][I][COLOR forestgreen]Quando o tio rico de Salsicha desaparece e é dado como morto, ele recebe uma herança e usa o dinheiro para atualizar a Máquina do Mistério. Antes de desaparecer, tio Albert fez alguns inimigos e agora é a vez de Salsicha e Scooby-Doo derrotá-los. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/COLOR][/I][/B]</info>
+<externallink>http://pastebin.com</externallink></channel>
+*******************

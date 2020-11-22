@@ -1,0 +1,10 @@
+*******************
+*******************
+<channel><name>[I][B][COLOR white]• [COLOR goldenrod] O Pequeno Scooby-Doo (1988)[COLOR white] - [COLOR forestgreen] [2 Temporadas] [COLOR goldenrod]Pikachu [COLOR white]Séries !!![/COLOR][/B][/I]</name>
+<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/3psJl6EIAMw90Cy5TxBvtEjvEEu.jpg</thumbnail>
+<genre>[I][COLOR gray]TV-G, Animação, Mistério, Comédia, Família, 23m[/COLOR][/I]</genre>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/lUyTVIhRTnIAIOqm4beMHxKg90I.jpg</fanart>
+<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[B][I][COLOR forestgreen]O Pequeno Scooby-Doo foi produzido entre 1988 e 1991. Os personagens típicos do desenho eram mostrados em sua infância, mas sempre às voltas com casos misteriosos.O desenho, baseado no Scooby-Doo, Cadê Você?, com todas as características, um grupo constituído por quatro adolescentes metidos a detetives (Fred, Velma, Daphne e Salsicha) e o cão dogue alemão chamado Scooby-Doo, viajam num furgão psicodélico chamado Máquina Mistério, e ajudam a investigar casos misteriosos (através da empresa Misterios S.A.). Visitam lugares inóspitos, casas mal-assombradas, parques abandonados, pântanos e ilhas, ameaçados por fantasmas, múmias, monstros e terríveis vilões. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/COLOR][/I][/B]</info>
+<externallink>http://pastebin.com</externallink></channel>
+*******************

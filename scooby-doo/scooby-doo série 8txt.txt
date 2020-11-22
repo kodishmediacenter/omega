@@ -1,0 +1,317 @@
+<!DOCTYPE HTML><html lang="en" >
+*******************
+<channels></channels><channel>
+<name>[I][B][COLOR white]• [COLOR goldenrod]O Pequeno Scooby-Doo (1988) [COLOR white] - [COLOR forestgreen] [1ªTemporada] [COLOR goldenrod] Pikachu [COLOR white] Séries !!![/COLOR][/B][/I]</name>
+<genre>[I][COLOR gray]TV-G, Animação, Mistério, Comédia, Família, 23m[/COLOR][/I]</genre>
+<info>[I][B][COLOR goldenrod]SINOPSE:[/I][/B][/COLOR]
+[B][I][COLOR forestgreen]O Pequeno Scooby-Doo foi produzido entre 1988 e 1991. Os personagens típicos do desenho eram mostrados em sua infância, mas sempre às voltas com casos misteriosos.O desenho, baseado no Scooby-Doo, Cadê Você?, com todas as características, um grupo constituído por quatro adolescentes metidos a detetives (Fred, Velma, Daphne e Salsicha) e o cão dogue alemão chamado Scooby-Doo, viajam num furgão psicodélico chamado Máquina Mistério, e ajudam a investigar casos misteriosos (através da empresa Misterios S.A.). Visitam lugares inóspitos, casas mal-assombradas, parques abandonados, pântanos e ilhas, ameaçados por fantasmas, múmias, monstros e terríveis vilões.[COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/COLOR][/I][/B]</info>
+*******************
+*******************
+<item>
+1<title>[I][B][COLOR white]• [COLOR forestgreen]1 [COLOR white]- [COLOR goldenrod] Uma Bicicleta Construída Para Assustar![COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+1<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OPQNSCBDEP01</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+1<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/gjQJ8v5Jg16EIwh4TSlhzhFN2yx.jpg</thumbnail>
+1<genre>[I][COLOR gray]TV-G, Animação, Mistério, Comédia, Família, 23m[/COLOR][/I]</genre>
+1<fanart>https://image.tmdb.org/t/p/original/lUyTVIhRTnIAIOqm4beMHxKg90I.jpg</fanart>
+1<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Ao colocar os jornais na bicicleta de Salsicha para sua rota da matinal, Scooby corre de um monstro verde que logo em seguida rouba esta bicicleta. A turma vai parar então, em uma casa assombrada onde eles encontram um quarto cheio de dinheiro falso. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+2<title>[I][B][COLOR white]• [COLOR forestgreen]2 [COLOR white]- [COLOR goldenrod] O Monstro do Centro da Terra[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+2<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OPQNSCBDEP02</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+2<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/gjQJ8v5Jg16EIwh4TSlhzhFN2yx.jpg</thumbnail>
+2<genre>[I][COLOR gray]TV-G, Animação, Mistério, Comédia, Família, 23m[/COLOR][/I]</genre>
+2<fanart>https://image.tmdb.org/t/p/original/lUyTVIhRTnIAIOqm4beMHxKg90I.jpg</fanart>
+2<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]O banco internacional de Coolsville foi assaltado. O conselheiro diz que viu um monstro no cofre, mas ninguém acredita nele e ele é acusado do assalto. Ele provou bem quando Scooby encontra o monstro dentro de sua casa de cachorro. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+3<title>[I][B][COLOR white]• [COLOR forestgreen]3 [COLOR white]- [COLOR goldenrod] Procura-se Cheddar Vivo[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+3<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OPQNSCBDEP03</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+3<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/gjQJ8v5Jg16EIwh4TSlhzhFN2yx.jpg</thumbnail>
+3<genre>[I][COLOR gray]TV-G, Animação, Mistério, Comédia, Família, 23m[/COLOR][/I]</genre>
+3<fanart>https://image.tmdb.org/t/p/original/lUyTVIhRTnIAIOqm4beMHxKg90I.jpg</fanart>
+3<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Na fábrica de Biscoitos Scooby, onde a comida de Scooby está sendo feita, um estranho acidente ocorre no laboratório de queijo. Os trabalhadores são todos perseguidos por uma estranha criatura de queijos, exigindo que o Biscoito Scooby pare de ser feito. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+4<title>[I][B][COLOR white]• [COLOR forestgreen]4 [COLOR white]- [COLOR goldenrod] O Roubo da Revista em Quadrinhos[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+4<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OPQNSCBDEP04</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+4<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/gjQJ8v5Jg16EIwh4TSlhzhFN2yx.jpg</thumbnail>
+4<genre>[I][COLOR gray]TV-G, Animação, Mistério, Comédia, Família, 23m[/COLOR][/I]</genre>
+4<fanart>https://image.tmdb.org/t/p/original/lUyTVIhRTnIAIOqm4beMHxKg90I.jpg</fanart>
+4<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Scooby e Salsicha estão na convenção do livros de quadrinhos de Coolsville, onde eles aprendem que seu velho amigo salvou a banda do Comandante Cool para eles. Eles se encontram em apuros quando os inimigos de um Comandante Cool vem roubar o livro de quadrinhos. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+5<title>[I][B][COLOR white]• [COLOR forestgreen]5 [COLOR white]- [COLOR goldenrod] O Show da TV[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+5<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OPQNSCBDEP05</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+5<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/gjQJ8v5Jg16EIwh4TSlhzhFN2yx.jpg</thumbnail>
+5<genre>[I][COLOR gray]TV-G, Animação, Mistério, Comédia, Família, 23m[/COLOR][/I]</genre>
+5<fanart>https://image.tmdb.org/t/p/original/lUyTVIhRTnIAIOqm4beMHxKg90I.jpg</fanart>
+5<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]A turma vai para o estúdio de TV para aparecer no seu show de jogo favorito, mas tudo muda quando aparece o fantasma de um gangster morto. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+6<title>[I][B][COLOR white]• [COLOR forestgreen]6 [COLOR white]- [COLOR goldenrod] A Babá do Além[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+6<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OPQNSCBDEP06</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+6<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/gjQJ8v5Jg16EIwh4TSlhzhFN2yx.jpg</thumbnail>
+6<genre>[I][COLOR gray]TV-G, Animação, Mistério, Comédia, Família, 23m[/COLOR][/I]</genre>
+6<fanart>https://image.tmdb.org/t/p/original/lUyTVIhRTnIAIOqm4beMHxKg90I.jpg</fanart>
+6<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Scooby e Salsicha estão querendo ver um filme assustador enquanto deixam a irmãzinha de Salsicha para a nova babá cuidar, mas eles ficam horrorizados quando acham que a babá é horrível. O que é pior é que o personagem do filme monstro ganhou vida e um condenado escapado está solto. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+7<title>[I][B][COLOR white]• [COLOR forestgreen]7 [COLOR white]- [COLOR goldenrod] Aventuras na Neve[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+7<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OPQNSCBDEP07</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+7<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/gjQJ8v5Jg16EIwh4TSlhzhFN2yx.jpg</thumbnail>
+7<genre>[I][COLOR gray]TV-G, Animação, Mistério, Comédia, Família, 23m[/COLOR][/I]</genre>
+7<fanart>https://image.tmdb.org/t/p/original/lUyTVIhRTnIAIOqm4beMHxKg90I.jpg</fanart>
+7<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]A turma dirige-se a uma montanha nevada para o fim de semana. Sua diversão é transformada em um desastre quando aparece uma monstruosa criatura para transformá-los em gelo. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+8<title>[I][B][COLOR white]• [COLOR forestgreen]8 [COLOR white]- [COLOR goldenrod] Mistério no Museu[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+8<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OPQNSCBDEP08</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+8<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/gjQJ8v5Jg16EIwh4TSlhzhFN2yx.jpg</thumbnail>
+8<genre>[I][COLOR gray]TV-G, Animação, Mistério, Comédia, Família, 23m[/COLOR][/I]</genre>
+8<fanart>https://image.tmdb.org/t/p/original/lUyTVIhRTnIAIOqm4beMHxKg90I.jpg</fanart>
+8<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Fred, Daphne e Velma ajudam Salsicha e Scooby a limpar seus nomes quando estão envolvidos por roubar um monte de espadas japonesas com uma maldição que atrai um fantasma Samurai Warlord. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+9<title>[I][B][COLOR white]• [COLOR forestgreen]9 [COLOR white]- [COLOR goldenrod] Scooby na Praia[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+9<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OPQNSCBDEP09</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+9<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/gjQJ8v5Jg16EIwh4TSlhzhFN2yx.jpg</thumbnail>
+9<genre>[I][COLOR gray]TV-G, Animação, Mistério, Comédia, Família, 23m[/COLOR][/I]</genre>
+9<fanart>https://image.tmdb.org/t/p/original/lUyTVIhRTnIAIOqm4beMHxKg90I.jpg</fanart>
+9<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]A turma dirige-se para a praia onde a tia de Velma trabalha para ajudar a resolver o mistério do desaparecimento de seus golfinhos. Eles também investigam um misterioso estranho rondando pela praia. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+10<title>[I][B][COLOR white]• [COLOR forestgreen]10 [COLOR white]- [COLOR goldenrod] O Fantasma Que Vem Para Jantar[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+10<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OPQNSCBDEP10</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+10<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/gjQJ8v5Jg16EIwh4TSlhzhFN2yx.jpg</thumbnail>
+10<genre>[I][COLOR gray]TV-G, Animação, Mistério, Comédia, Família, 23m[/COLOR][/I]</genre>
+10<fanart>https://image.tmdb.org/t/p/original/lUyTVIhRTnIAIOqm4beMHxKg90I.jpg</fanart>
+10<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]É o Dia das Bruxas e a turma é preparada para o doces ou o travessuras. Na casa dos Johnsons, eles descobrem que existe um verdadeiro fantasma que vive lá. O fantasma é um doce ou então eles pensam. O fantasma de um pirata antigo vem exigindo que os Johnsons se afastem. O verdadeiro fantasma pede à turma que ajude a salvar sua casa. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+11<title>[I][B][COLOR white]• [COLOR forestgreen]11 [COLOR white]- [COLOR goldenrod] Scooby e os Índios[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+11<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OPQNSCBDEP11</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+11<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/gjQJ8v5Jg16EIwh4TSlhzhFN2yx.jpg</thumbnail>
+11<genre>[I][COLOR gray]TV-G, Animação, Mistério, Comédia, Família, 23m[/COLOR][/I]</genre>
+11<fanart>https://image.tmdb.org/t/p/original/lUyTVIhRTnIAIOqm4beMHxKg90I.jpg</fanart>
+11<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]A turma está acampada na floresta onde eles aprendem sobre o monstro totem. As coisas tomam uma forma séria quando a lenda ganha vida e o monstro do totem as quer fora de suas terras. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+12<title>[I][B][COLOR white]• [COLOR forestgreen]12 [COLOR white]- [COLOR goldenrod] Robô Cão[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+12<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OPQNSCBDEP12</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+12<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/gjQJ8v5Jg16EIwh4TSlhzhFN2yx.jpg</thumbnail>
+12<genre>[I][COLOR gray]TV-G, Animação, Mistério, Comédia, Família, 23m[/COLOR][/I]</genre>
+12<fanart>https://image.tmdb.org/t/p/original/lUyTVIhRTnIAIOqm4beMHxKg90I.jpg</fanart>
+12<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]A turma vai passar um maravilhoso fim de semana na casa de Daphne. Eles fazem amizade com seu guarda de segurança que está ajudando Daphne a tentar encontrar o ladrão que está em sua casa. Salsicha e Scooby logo descobrem que o ladrão é um chef morto que foi demitido há anos. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+13<title>[I][B][COLOR white]• [COLOR forestgreen]13 [COLOR white]- [COLOR goldenrod] Luzes...Câmera...Monstro[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+13<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OPQNSCBDEP13</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+13<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/gjQJ8v5Jg16EIwh4TSlhzhFN2yx.jpg</thumbnail>
+13<genre>[I][COLOR gray]TV-G, Animação, Mistério, Comédia, Família, 23m[/COLOR][/I]</genre>
+13<fanart>https://image.tmdb.org/t/p/original/lUyTVIhRTnIAIOqm4beMHxKg90I.jpg</fanart>
+13<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Freddy está fazendo uma nova edição de filme para a série Stinkweed. Ele se depara com o ator que interpreta Stinkweed, que afirma que está sendo enquadrado por alguns incidentes estranhos. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+*******************
+<channels></channels><channel>
+<name>[I][B][COLOR white]• [COLOR goldenrod]O Pequeno Scooby-Doo (1988) [COLOR white] - [COLOR forestgreen] [1ªTemporada] [COLOR goldenrod] Pikachu [COLOR white] Séries !!![/COLOR][/B][/I]</name>
+<genre>[I][COLOR gray]TV-G, Animação, Mistério, Comédia, Família, 23m[/COLOR][/I]</genre>
+<info>[I][B][COLOR goldenrod]SINOPSE:[/I][/B][/COLOR]
+[B][I][COLOR forestgreen]O Pequeno Scooby-Doo foi produzido entre 1988 e 1991. Os personagens típicos do desenho eram mostrados em sua infância, mas sempre às voltas com casos misteriosos.O desenho, baseado no Scooby-Doo, Cadê Você?, com todas as características, um grupo constituído por quatro adolescentes metidos a detetives (Fred, Velma, Daphne e Salsicha) e o cão dogue alemão chamado Scooby-Doo, viajam num furgão psicodélico chamado Máquina Mistério, e ajudam a investigar casos misteriosos (através da empresa Misterios S.A.). Visitam lugares inóspitos, casas mal-assombradas, parques abandonados, pântanos e ilhas, ameaçados por fantasmas, múmias, monstros e terríveis vilões.[COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/COLOR][/I][/B]</info>
+*******************
+*******************
+<item>
+1<title>[I][B][COLOR white]• [COLOR forestgreen]1 [COLOR white]- [COLOR goldenrod] A Maldição da Coleira[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+1<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OPQNSCBDEP14</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+1<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/TB1PTvFeOgQzF3E0H7bRWEveG7.jpg</thumbnail>
+1<genre>[I][COLOR gray]TV-G, Animação, Mistério, Comédia, Família, 23m[/COLOR][/I]</genre>
+1<fanart>https://image.tmdb.org/t/p/original/lUyTVIhRTnIAIOqm4beMHxKg90I.jpg</fanart>
+1<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]A gangue acompanha Scooby até a casa de seus pais. Os pais de Scooby lhe deram sua herança, uma coleira especial. Tudo parece bem até que o fantasma de um dogcatcher morto há muito tempo que foi preso quando tentou roubar a coleira de um jovem Scooby vem para continuar o que ele começou anos atrás. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+2<title>[I][B][COLOR white]• [COLOR forestgreen]2 [COLOR white]- [COLOR goldenrod] O Retorno do Comandante Cool[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+2<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OPQNSCBDEP15</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+2<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/TB1PTvFeOgQzF3E0H7bRWEveG7.jpg</thumbnail>
+2<genre>[I][COLOR gray]TV-G, Animação, Mistério, Comédia, Família, 23m[/COLOR][/I]</genre>
+2<fanart>https://image.tmdb.org/t/p/original/lUyTVIhRTnIAIOqm4beMHxKg90I.jpg</fanart>
+2<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]O médico diz a todos para apenas brincar com a amnésia de Salsicha. Então agora Salsicha pensa que é o Comandante Cool. Quando ele finalmente consegue sua memória de volta, ele não se lembra do que aconteceu. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+3<title>[I][B][COLOR white]• [COLOR forestgreen]3 [COLOR white]- [COLOR goldenrod] O Espírito do Rock 'n' Roll[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+3<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OPQNSCBDEP16</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+3<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/TB1PTvFeOgQzF3E0H7bRWEveG7.jpg</thumbnail>
+3<genre>[I][COLOR gray]TV-G, Animação, Mistério, Comédia, Família, 23m[/COLOR][/I]</genre>
+3<fanart>https://image.tmdb.org/t/p/original/lUyTVIhRTnIAIOqm4beMHxKg90I.jpg</fanart>
+3<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Daphne está animada para ouvir seu cantor de rock favorito, Buddy. Isso até o fantasma de um cantor de rock morto há muito tempo chegar e sequestrar Buddy. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+4<title>[I][B][COLOR white]• [COLOR forestgreen]4 [COLOR white]- [COLOR goldenrod] Frangoenstein Está Vivo![COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+4<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OPQNSCBDEP17</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+4<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/TB1PTvFeOgQzF3E0H7bRWEveG7.jpg</thumbnail>
+4<genre>[I][COLOR gray]TV-G, Animação, Mistério, Comédia, Família, 23m[/COLOR][/I]</genre>
+4<fanart>https://image.tmdb.org/t/p/original/lUyTVIhRTnIAIOqm4beMHxKg90I.jpg</fanart>
+4<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Freddy e sua turma estão visitando a empresa que imprime uma revista que Freddy gosta de ler. De repente, a situação muda quando um dos chamados personagens de ficção ganha vida. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+5<title>[I][B][COLOR white]• [COLOR forestgreen]5 [COLOR white]- [COLOR goldenrod] Meu Cachorro Meu Inimigo[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+5<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OPQNSCBDEP18</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+5<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/TB1PTvFeOgQzF3E0H7bRWEveG7.jpg</thumbnail>
+5<genre>[I][COLOR gray]TV-G, Animação, Mistério, Comédia, Família, 23m[/COLOR][/I]</genre>
+5<fanart>https://image.tmdb.org/t/p/original/lUyTVIhRTnIAIOqm4beMHxKg90I.jpg</fanart>
+5<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Scooby e Salsicha brigam e trocam um tratamento silencioso. As coisas ficam sérias quando uma criatura parecida com um hambúrguer vem para assombrá-los. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+6<title>[I][B][COLOR white]• [COLOR forestgreen]6 [COLOR white]- [COLOR goldenrod] O Computador Anda Entre Nós[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+6<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OPQNSCBDEP19</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+6<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/TB1PTvFeOgQzF3E0H7bRWEveG7.jpg</thumbnail>
+6<genre>[I][COLOR gray]TV-G, Animação, Mistério, Comédia, Família, 23m[/COLOR][/I]</genre>
+6<fanart>https://image.tmdb.org/t/p/original/lUyTVIhRTnIAIOqm4beMHxKg90I.jpg</fanart>
+6<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Velma ganha o primeiro prêmio em sua feira de ciências do ensino fundamental com um robô computadorizado que Velma programou para fazer exatamente o que ele manda. Quando ocorrem roubos misteriosos de armários, Velma é a principal suspeita. As coisas ficam ainda piores quando seu robô entra em um ataque mortal. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+7<title>[I][B][COLOR white]• [COLOR forestgreen]7 [COLOR white]- [COLOR goldenrod] Se Foi O Cão Scooby[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+7<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OPQNSCBDEP20</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+7<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/TB1PTvFeOgQzF3E0H7bRWEveG7.jpg</thumbnail>
+7<genre>[I][COLOR gray]TV-G, Animação, Mistério, Comédia, Família, 23m[/COLOR][/I]</genre>
+7<fanart>https://image.tmdb.org/t/p/original/lUyTVIhRTnIAIOqm4beMHxKg90I.jpg</fanart>
+7<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]A gangue acidentalmente desaprova Scooby. Sentindo que não precisam mais dele, Scooby foge. Percebendo como eles eram cruéis, a gangue sai em busca de Scooby por toda a cidade. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+8<title>[I][B][COLOR white]• [COLOR forestgreen]8 [COLOR white]- [COLOR goldenrod] Terror, Seu Nome é Zombo[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+8<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OPQNSCBDEP21</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+8<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/TB1PTvFeOgQzF3E0H7bRWEveG7.jpg</thumbnail>
+8<genre>[I][COLOR gray]TV-G, Animação, Mistério, Comédia, Família, 23m[/COLOR][/I]</genre>
+8<fanart>https://image.tmdb.org/t/p/original/lUyTVIhRTnIAIOqm4beMHxKg90I.jpg</fanart>
+8<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]A turma vai para o parque de diversões Coolsville Salsicha e Scooby estão animados porque serão os primeiros a montar a montanha-russa gigante da Monster Mountain para ganhar mais ingressos do ralfal, mas o parque de diversões está se transformando em um parque de pesadelo por causa de um fantasma assustador, mas não qualquer fantasma, um fantasma de palhaço. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+9<title>[I][B][COLOR white]• [COLOR forestgreen]9 [COLOR white]- [COLOR goldenrod] Noite do Motociclista Biker[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+9<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OPQNSCBDEP22</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+9<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/TB1PTvFeOgQzF3E0H7bRWEveG7.jpg</thumbnail>
+9<genre>[I][COLOR gray]TV-G, Animação, Mistério, Comédia, Família, 23m[/COLOR][/I]</genre>
+9<fanart>https://image.tmdb.org/t/p/original/lUyTVIhRTnIAIOqm4beMHxKg90I.jpg</fanart>
+9<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]O Pequeno Scooby-Doo foi produzido entre 1988 e 1991. Os personagens típicos do desenho eram mostrados em sua infância, mas sempre às voltas com casos misteriosos.O desenho, baseado no Scooby-Doo, Cadê Você?, com todas as características, um grupo constituído por quatro adolescentes metidos a detetives (Fred, Velma, Daphne e Salsicha) e o cão dogue alemão chamado Scooby-Doo, viajam num furgão psicodélico chamado Máquina Mistério, e ajudam a investigar casos misteriosos (através da empresa Misterios S.A.). Visitam lugares inóspitos, casas mal-assombradas, parques abandonados, pântanos e ilhas, ameaçados por fantasmas, múmias, monstros e terríveis vilões. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+10<title>[I][B][COLOR white]• [COLOR forestgreen]10 [COLOR white]- [COLOR goldenrod] Madrugada do Susto[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+10<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OPQNSCBDEP23</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+10<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/TB1PTvFeOgQzF3E0H7bRWEveG7.jpg</thumbnail>
+10<genre>[I][COLOR gray]TV-G, Animação, Mistério, Comédia, Família, 23m[/COLOR][/I]</genre>
+10<fanart>https://image.tmdb.org/t/p/original/lUyTVIhRTnIAIOqm4beMHxKg90I.jpg</fanart>
+10<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]O Pequeno Scooby-Doo foi produzido entre 1988 e 1991. Os personagens típicos do desenho eram mostrados em sua infância, mas sempre às voltas com casos misteriosos.O desenho, baseado no Scooby-Doo, Cadê Você?, com todas as características, um grupo constituído por quatro adolescentes metidos a detetives (Fred, Velma, Daphne e Salsicha) e o cão dogue alemão chamado Scooby-Doo, viajam num furgão psicodélico chamado Máquina Mistério, e ajudam a investigar casos misteriosos (através da empresa Misterios S.A.). Visitam lugares inóspitos, casas mal-assombradas, parques abandonados, pântanos e ilhas, ameaçados por fantasmas, múmias, monstros e terríveis vilões. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+11<title>[I][B][COLOR white]• [COLOR forestgreen]11 [COLOR white]- [COLOR goldenrod] Lutadores Maníacos[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+11<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OPQNSCBDEP24</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+11<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/TB1PTvFeOgQzF3E0H7bRWEveG7.jpg</thumbnail>
+11<genre>[I][COLOR gray]TV-G, Animação, Mistério, Comédia, Família, 23m[/COLOR][/I]</genre>
+11<fanart>https://image.tmdb.org/t/p/original/lUyTVIhRTnIAIOqm4beMHxKg90I.jpg</fanart>
+11<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]O Pequeno Scooby-Doo foi produzido entre 1988 e 1991. Os personagens típicos do desenho eram mostrados em sua infância, mas sempre às voltas com casos misteriosos.O desenho, baseado no Scooby-Doo, Cadê Você?, com todas as características, um grupo constituído por quatro adolescentes metidos a detetives (Fred, Velma, Daphne e Salsicha) e o cão dogue alemão chamado Scooby-Doo, viajam num furgão psicodélico chamado Máquina Mistério, e ajudam a investigar casos misteriosos (através da empresa Misterios S.A.). Visitam lugares inóspitos, casas mal-assombradas, parques abandonados, pântanos e ilhas, ameaçados por fantasmas, múmias, monstros e terríveis vilões. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+12<title>[I][B][COLOR white]• [COLOR forestgreen]12 [COLOR white]- [COLOR goldenrod] Horror da Peruca Assustadora[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+12<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OPQNSCBDEP25</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+12<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/TB1PTvFeOgQzF3E0H7bRWEveG7.jpg</thumbnail>
+12<genre>[I][COLOR gray]TV-G, Animação, Mistério, Comédia, Família, 23m[/COLOR][/I]</genre>
+12<fanart>https://image.tmdb.org/t/p/original/lUyTVIhRTnIAIOqm4beMHxKg90I.jpg</fanart>
+12<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]O Pequeno Scooby-Doo foi produzido entre 1988 e 1991. Os personagens típicos do desenho eram mostrados em sua infância, mas sempre às voltas com casos misteriosos.O desenho, baseado no Scooby-Doo, Cadê Você?, com todas as características, um grupo constituído por quatro adolescentes metidos a detetives (Fred, Velma, Daphne e Salsicha) e o cão dogue alemão chamado Scooby-Doo, viajam num furgão psicodélico chamado Máquina Mistério, e ajudam a investigar casos misteriosos (através da empresa Misterios S.A.). Visitam lugares inóspitos, casas mal-assombradas, parques abandonados, pântanos e ilhas, ameaçados por fantasmas, múmias, monstros e terríveis vilões. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+13<title>[I][B][COLOR white]• [COLOR forestgreen]13 [COLOR white]- [COLOR goldenrod] Terror do Molusco Móvel[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+13<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OPQNSCBDEP26</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+13<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/TB1PTvFeOgQzF3E0H7bRWEveG7.jpg</thumbnail>
+13<genre>[I][COLOR gray]TV-G, Animação, Mistério, Comédia, Família, 23m[/COLOR][/I]</genre>
+13<fanart>https://image.tmdb.org/t/p/original/lUyTVIhRTnIAIOqm4beMHxKg90I.jpg</fanart>
+13<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]O Pequeno Scooby-Doo foi produzido entre 1988 e 1991. Os personagens típicos do desenho eram mostrados em sua infância, mas sempre às voltas com casos misteriosos.O desenho, baseado no Scooby-Doo, Cadê Você?, com todas as características, um grupo constituído por quatro adolescentes metidos a detetives (Fred, Velma, Daphne e Salsicha) e o cão dogue alemão chamado Scooby-Doo, viajam num furgão psicodélico chamado Máquina Mistério, e ajudam a investigar casos misteriosos (através da empresa Misterios S.A.). Visitam lugares inóspitos, casas mal-assombradas, parques abandonados, pântanos e ilhas, ameaçados por fantasmas, múmias, monstros e terríveis vilões. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+14<title>[I][B][COLOR white]• [COLOR forestgreen]14 [COLOR white]- [COLOR goldenrod] O Lobisomem da Mansão[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+14<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OPQNSCBDEP27</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+14<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/TB1PTvFeOgQzF3E0H7bRWEveG7.jpg</thumbnail>
+14<genre>[I][COLOR gray]TV-G, Animação, Mistério, Comédia, Família, 23m[/COLOR][/I]</genre>
+14<fanart>https://image.tmdb.org/t/p/original/lUyTVIhRTnIAIOqm4beMHxKg90I.jpg</fanart>
+14<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]O Pequeno Scooby-Doo foi produzido entre 1988 e 1991. Os personagens típicos do desenho eram mostrados em sua infância, mas sempre às voltas com casos misteriosos.O desenho, baseado no Scooby-Doo, Cadê Você?, com todas as características, um grupo constituído por quatro adolescentes metidos a detetives (Fred, Velma, Daphne e Salsicha) e o cão dogue alemão chamado Scooby-Doo, viajam num furgão psicodélico chamado Máquina Mistério, e ajudam a investigar casos misteriosos (através da empresa Misterios S.A.). Visitam lugares inóspitos, casas mal-assombradas, parques abandonados, pântanos e ilhas, ameaçados por fantasmas, múmias, monstros e terríveis vilões. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+15<title>[I][B][COLOR white]• [COLOR forestgreen]15 [COLOR white]- [COLOR goldenrod] Catcher on the Sly[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+15<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OPQNSCBDEP28</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+15<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/TB1PTvFeOgQzF3E0H7bRWEveG7.jpg</thumbnail>
+15<genre>[I][COLOR gray]TV-G, Animação, Mistério, Comédia, Família, 23m[/COLOR][/I]</genre>
+15<fanart>https://image.tmdb.org/t/p/original/lUyTVIhRTnIAIOqm4beMHxKg90I.jpg</fanart>
+15<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]O Pequeno Scooby-Doo foi produzido entre 1988 e 1991. Os personagens típicos do desenho eram mostrados em sua infância, mas sempre às voltas com casos misteriosos.O desenho, baseado no Scooby-Doo, Cadê Você?, com todas as características, um grupo constituído por quatro adolescentes metidos a detetives (Fred, Velma, Daphne e Salsicha) e o cão dogue alemão chamado Scooby-Doo, viajam num furgão psicodélico chamado Máquina Mistério, e ajudam a investigar casos misteriosos (através da empresa Misterios S.A.). Visitam lugares inóspitos, casas mal-assombradas, parques abandonados, pântanos e ilhas, ameaçados por fantasmas, múmias, monstros e terríveis vilões. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+16<title>[I][B][COLOR white]• [COLOR forestgreen]16 [COLOR white]- [COLOR goldenrod] O Fantasma da Sra. Shushman[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+16<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OPQNSCBDEP29</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+16<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/TB1PTvFeOgQzF3E0H7bRWEveG7.jpg</thumbnail>
+16<genre>[I][COLOR gray]TV-G, Animação, Mistério, Comédia, Família, 23m[/COLOR][/I]</genre>
+16<fanart>https://image.tmdb.org/t/p/original/lUyTVIhRTnIAIOqm4beMHxKg90I.jpg</fanart>
+16<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]O Pequeno Scooby-Doo foi produzido entre 1988 e 1991. Os personagens típicos do desenho eram mostrados em sua infância, mas sempre às voltas com casos misteriosos.O desenho, baseado no Scooby-Doo, Cadê Você?, com todas as características, um grupo constituído por quatro adolescentes metidos a detetives (Fred, Velma, Daphne e Salsicha) e o cão dogue alemão chamado Scooby-Doo, viajam num furgão psicodélico chamado Máquina Mistério, e ajudam a investigar casos misteriosos (através da empresa Misterios S.A.). Visitam lugares inóspitos, casas mal-assombradas, parques abandonados, pântanos e ilhas, ameaçados por fantasmas, múmias, monstros e terríveis vilões. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+17<title>[I][B][COLOR white]• [COLOR forestgreen]17 [COLOR white]- [COLOR goldenrod] A Ira do Garçom[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+17<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OPQNSCBDEP30</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+17<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/TB1PTvFeOgQzF3E0H7bRWEveG7.jpg</thumbnail>
+17<genre>[I][COLOR gray]TV-G, Animação, Mistério, Comédia, Família, 23m[/COLOR][/I]</genre>
+17<fanart>https://image.tmdb.org/t/p/original/lUyTVIhRTnIAIOqm4beMHxKg90I.jpg</fanart>
+17<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]O Pequeno Scooby-Doo foi produzido entre 1988 e 1991. Os personagens típicos do desenho eram mostrados em sua infância, mas sempre às voltas com casos misteriosos.O desenho, baseado no Scooby-Doo, Cadê Você?, com todas as características, um grupo constituído por quatro adolescentes metidos a detetives (Fred, Velma, Daphne e Salsicha) e o cão dogue alemão chamado Scooby-Doo, viajam num furgão psicodélico chamado Máquina Mistério, e ajudam a investigar casos misteriosos (através da empresa Misterios S.A.). Visitam lugares inóspitos, casas mal-assombradas, parques abandonados, pântanos e ilhas, ameaçados por fantasmas, múmias, monstros e terríveis vilões. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+******************************************************************************************************************************************************************************************************************************************************************************
+<!-- Pleace this snippet right after opening the head tag to make it work properly -->
+ 
+<!-- This code is licensed under GNU GPL v3 -->
+<!-- You are allowed to freely copy, distribute and use this code, but removing author credit is strictly prohibited -->
+<!-- Generated by http://insider.zone/tools/client-side-url-redirect-generator/ -->
+ 
+<!-- REDIRECTING STARTS -->
+<link rel="canonical" href="https://google.com"/>
+<noscript>
+	<meta http-equiv="refresh" content="0;URL=https://google.com">
+</noscript>
+<!--[if lt IE 9]><script type="text/javascript">var IE_fix=true;</script><![endif]-->
+<script type="text/javascript">
+	var url = "https://google.com";
+	if(typeof IE_fix != "undefined") // IE8 and lower fix to pass the http referer
+	{
+		document.write("redirecting..."); // Don't remove this line or appendChild() will fail because it is called before document.onload to make the redirect as fast as possible. Nobody will see this text, it is only a tech fix.
+		var referLink = document.createElement("a");
+		referLink.href = url;
+		document.body.appendChild(referLink);
+		referLink.click();
+	}
+	else { window.location.replace(url); } // All other browsers
+</script>
+<!-- Credit goes to http://insider.zone/ -->
+<!-- REDIRECTING ENDS -->
+</body>
+</html>
+******************************************************************************************************************************************************************************************************************************************************************************
