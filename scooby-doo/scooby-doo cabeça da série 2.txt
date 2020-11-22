@@ -1,0 +1,9 @@
+*******************
+<channel><name>[I][B][COLOR white]• [COLOR goldenrod] Os Novos Filmes do Scooby-Doo (1972)[COLOR white] - [COLOR forestgreen] [2 Temporadas] [COLOR goldenrod]Pikachu [COLOR white]Séries !!![/COLOR][/B][/I]</name>
+<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/5mwFzKGWUqXv7mLGqghbLK86ifY.jpg</thumbnail>
+<genre>[I][COLOR gray]TV-G, Animação, Mistério, Comédia, Kids, Família, 40m[/COLOR][/I]</genre>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/fYmuevdjIe9Ffy1LzbQ2xhFYbrM.jpg</fanart>
+<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[B][I][COLOR forestgreen]Além dos personagens da turma do Scooby-Doo, em cada um dos episódios desta série aparecia convidados especiais, celebridades da TV ou do Cinema da época (anos 60 e 70) e os quais ajudavam a resolver o mistério da semana. Alguns destes convidados eram dublados por eles mesmos (Don Knotts, Jonathan Winters, Sandy Duncan, Tim Conway e a dupla Sonny & Cher, entre outros). Outros que já haviam falecido ou estavam indisponíveis, tiveram a dublagem feita através de imitações das vozes originais (Os três patetas e O Gordo e o Magro). Muitos dos convidados eram futuras personagens de desenhos a serem produzidos pela dupla Hanna-Barbera: Harlem Globetrotters, Josie e as Gatinhas, Jeannie, Speed Buggy, A Família Addams (The Addams Family de 1973) e Batman e Robin (Super Amigos). [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/COLOR][/I][/B]</info>
+<externallink>https://raw.githubusercontent.com/edsongadelha/pikadasgalaxiaschu/master/seriedesenhoscoobydoo.html</externallink></channel>
+*******************

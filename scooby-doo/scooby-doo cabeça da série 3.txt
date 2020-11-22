@@ -1,0 +1,10 @@
+*******************
+*******************
+<channel><name>[I][B][COLOR white]• [COLOR goldenrod] O Show do Scooby-Doo (1976)[COLOR white] - [COLOR forestgreen] [3 Temporadas] [COLOR goldenrod]Pikachu [COLOR white]Séries !!![/COLOR][/B][/I]</name>
+<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/jpGKcelHn7gCQEArFEL1fDqrahq.jpg</thumbnail>
+<genre>[I][COLOR gray]TV-Y, Animação, Mistério, Comédia, Família, 24m[/COLOR][/I]</genre>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/hndog1yhmTduwO4yJjIW3oS5GqO.jpg</fanart>
+<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[B][I][COLOR forestgreen]O Show do Scooby-Doo (The Scooby-Doo Show, originalmente) é uma série de televisão composta por episódios originalmente de três diferentes séries empacotadas. Os episódios foram ao ar de setembro de 1976 a dezembro de 1978 na ABC, como um segmento de The Scooby-Doo/Dynomutt Hour em sua primeira temporada, Scooby's All Star Laff-a-Lympics em sua segunda temporada e Scooby's All-Stars em sua terceira temporada. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/COLOR][/I][/B]</info>
+<externallink>http://pastebin.com</externallink></channel>
+*******************
