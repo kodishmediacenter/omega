@@ -1,0 +1,11 @@
+*******************
+*******************
+<channel><name>[I][B][COLOR white]• [COLOR goldenrod] Os Treze Fantasmas do Scooby-Doo (1985)[COLOR white] - [COLOR forestgreen] [1 Temporada] [COLOR goldenrod]Pikachu [COLOR white]Séries !!![/COLOR][/B][/I]</name>
+<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/v7S15heYWQSJLM60uZjim7Y9nzG.jpg</thumbnail>
+<genre>[I][COLOR gray]TV-PG, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/kJY9f5HS9f7T9R05vydMQ3qA6WU.jpg</fanart>
+<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[B][I][COLOR forestgreen]Salsicha, Scooby e seus amigos devem devolver 13 fantasmas a um baú mágico que eles inadvertidamente liberaram. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/COLOR][/I][/B]</info>
+<externallink>http://pastebin.com</externallink></channel>
+*******************
+

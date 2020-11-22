@@ -1,0 +1,10 @@
+*******************
+*******************
+<channel><name>[I][B][COLOR white]• [COLOR goldenrod] Scooby-Doo e Scooby-Loo (1979)[COLOR white] - [COLOR forestgreen] [4 Temporadas] [COLOR goldenrod]Pikachu [COLOR white]Séries !!![/COLOR][/B][/I]</name>
+<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/ctxdYzdqSlrfKrqEo3bLSrrMLSP.jpg</thumbnail>
+<genre>[I][COLOR gray]G, Animação, Mistério, Comédia, Família, Kids, 30m[/COLOR][/I]</genre>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/1ISPXD33qsdo9dBvhC90S60wdBK.jpg</fanart>
+<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[B][I][COLOR forestgreen]A versão original de trinta minutos de Scooby-Doo e Scrappy-Doo constitui a quarta encarnação do desenho animado Scooby-Doo de sábado de manhã de Hanna-Barbera. Ele estreou em 22 de setembro de 1979 e funcionou por uma temporada na ABC como um programa de meia hora. Um total de dezesseis episódios foram produzidos. Foi a última série de desenhos animados da Hanna-Barbera a usar a trilha sonora do estúdio. O canal clássico do Cartoon Network, Boomerang, reproduz a série. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/COLOR][/I][/B]</info>
+<externallink>http://pastebin.com</externallink></channel>
+*******************
