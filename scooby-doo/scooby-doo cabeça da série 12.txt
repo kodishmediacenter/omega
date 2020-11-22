@@ -1,0 +1,10 @@
+*******************
+*******************
+<channel><name>[I][B][COLOR white]• [COLOR goldenrod] Que Legal, Scooby-Doo! (2015)[COLOR white] - [COLOR forestgreen] [2 Temporadas] [COLOR goldenrod]Pikachu [COLOR white]Séries !!![/COLOR][/B][/I]</name>
+<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/7XEcajr0EPf3Daaq7PST5flG6ql.jpg</thumbnail>
+<genre>[I][COLOR gray]G, Comédia, Animação, Mistério, 23m[/COLOR][/I]</genre>
+<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/moXrm1H43BwRSI89dGQJcTvaPNb.jpg</fanart>
+<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[B][I][COLOR forestgreen]A série apresenta a Mistério S/A após terminar seu último ano do ensino médio. Fazendo planos para gastar a sua última parada de verão como uma equipe, eles decidem viajar na Máquina do Mistério para buscar o prazer e aventura. Ao longo do caminho, no entanto, se deparam com uma enorme quantidade de monstros e estragos, impedindo-os de terminar sua jornada. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/COLOR][/I][/B]</info>
+<externallink>http://pastebin.com</externallink></channel>
+*******************

@@ -1,0 +1,11 @@
+*******************
+*******************
+<channel><name>[I][B][COLOR white]• [COLOR goldenrod] Especiais[COLOR white] - [COLOR forestgreen] [1 Temporada] [COLOR goldenrod]Pikachu [COLOR white]Séries !!![/COLOR][/B][/I]</name>
+<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/5tSykyj7PddkCzwCOmtuH8JJchY.jpg</thumbnail>
+<genre>[I][COLOR gray]G, Comédia, Animação, Mistério, 23m[/COLOR][/I]</genre>
+<fanart>https://image.tmdb.org/t/p/original/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[B][I][COLOR forestgreen]Fred, Daphne, Velma, Salsicha e Scooby estão de volta, corajosos, aventureiros e bem-humorados como nunca. Sempre obcecados com casos misteriosos, eles se juntam a celebridades em suas aventuras e caçadas aos fantasmas. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/COLOR][/I][/B]</info>
+<externallink>http://pastebin.com</externallink></channel>
+*******************
+
