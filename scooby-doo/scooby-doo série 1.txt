@@ -1,244 +1,244 @@
 <!DOCTYPE HTML><html lang="en" >
 *******************
 <channels></channels><channel>
-<name>[I][B][COLOR white]• [COLOR goldenrod]Scooby Doo, Cadê Você? (1969) [COLOR white] - [COLOR forestgreen] [1ªTemporada] [COLOR goldenrod] Pikachu [COLOR white] Séries !!![/COLOR][/B][/I]</name>
+<name>[I][B][COLOR white]• [COLOR goldenrod]Scooby Doo, Cadê Você? (1969) [COLOR white] - [COLOR forestgreen] [1ªTemporada] [COLOR goldenrod] Kodish [COLOR white] Scooby-Doo !!![/COLOR][/B][/I]</name>
 <genre>[I][COLOR gray]L, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 <info>[I][B][COLOR goldenrod]SINOPSE:[/I][/B][/COLOR]
-[B][I][COLOR forestgreen]Uma série que segue os muitos mistérios da Mystery Gang, que consiste de Fred, Daphne, Velma, Salsicha e Scooby. Juntos, eles viajam ao redor do mundo, sempre em busca de um mistério a ser resolvido.[COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/COLOR][/I][/B]</info>
+[B][I][COLOR forestgreen]Uma série que segue os muitos mistérios da Mystery Gang, que consiste de Fred, Daphne, Velma, Salsicha e Scooby. Juntos, eles viajam ao redor do mundo, sempre em busca de um mistério a ser resolvido.[COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/COLOR][/I][/B]</info>
 *******************
 *******************
 <item>
-1<title>[I][B][COLOR white]• [COLOR forestgreen]1 [COLOR white]- [COLOR goldenrod] O Fantasma do Cavaleiro Negro[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
-1<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP01</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+1<title>[I][B][COLOR white]• [COLOR forestgreen]1 [COLOR white]- [COLOR goldenrod] O Fantasma do Cavaleiro Negro[COLOR forestgreen] Kodish [COLOR white] Scooby-Doo [COLOR white]!!![/B][/I][/COLOR]</title>
+1<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP01</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 1<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/5bIpgXThTZEtvWfSG4E3nlsDdzR.jpg</thumbnail>
 1<genre>[I][COLOR gray]L, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 1<fanart>https://image.tmdb.org/t/p/original/yItbui7OwxnSF2qNYT2ASCyuABR.jpg</fanart>
 1<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
-[I][B][COLOR forestgreen]Enquanto caminhavam para casa do cinema, Salsicha e Scooby-Doo descobrem uma armadura antiga chamada "Cavaleiro Negro" no banco do motorista de uma caminhonete, e toda a turma a entrega ao museu local. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+[I][B][COLOR forestgreen]Enquanto caminhavam para casa do cinema, Salsicha e Scooby-Doo descobrem uma armadura antiga chamada "Cavaleiro Negro" no banco do motorista de uma caminhonete, e toda a turma a entrega ao museu local. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
 </item>
 <item>
-2<title>[I][B][COLOR white]• [COLOR forestgreen]2 [COLOR white]- [COLOR goldenrod] Uma Pista para Scooby-Doo[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
-2<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP02</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+2<title>[I][B][COLOR white]• [COLOR forestgreen]2 [COLOR white]- [COLOR goldenrod] Uma Pista para Scooby-Doo[COLOR forestgreen] Kodish [COLOR white] Scooby-Doo [COLOR white]!!![/B][/I][/COLOR]</title>
+2<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP02</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 2<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/5bIpgXThTZEtvWfSG4E3nlsDdzR.jpg</thumbnail>
 2<genre>[I][COLOR gray]L, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 2<fanart>https://image.tmdb.org/t/p/original/yItbui7OwxnSF2qNYT2ASCyuABR.jpg</fanart>
 2<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
-[I][B][COLOR forestgreen]Na Praia da Rocha Pontuda, a turma encontra o fantasma de um velho mergulhador. Um marinheiro chamado Ebenezer Tubarão alega ser o fantasma do Capitão Cutler, que, segundo a lenda, morreu no mar há muitos anos atrás quando seu barco naufragou, e ele está começando sua vingança. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+[I][B][COLOR forestgreen]Na Praia da Rocha Pontuda, a turma encontra o fantasma de um velho mergulhador. Um marinheiro chamado Ebenezer Tubarão alega ser o fantasma do Capitão Cutler, que, segundo a lenda, morreu no mar há muitos anos atrás quando seu barco naufragou, e ele está começando sua vingança. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
 </item>
 <item>
-3<title>[I][B][COLOR white]• [COLOR forestgreen]3 [COLOR white]- [COLOR goldenrod] De Sururu no Castelo[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
-3<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP03</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+3<title>[I][B][COLOR white]• [COLOR forestgreen]3 [COLOR white]- [COLOR goldenrod] De Sururu no Castelo[COLOR forestgreen] Kodish [COLOR white] Scooby-Doo [COLOR white]!!![/B][/I][/COLOR]</title>
+3<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP03</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 3<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/5bIpgXThTZEtvWfSG4E3nlsDdzR.jpg</thumbnail>
 3<genre>[I][COLOR gray]L, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 3<fanart>https://image.tmdb.org/t/p/original/yItbui7OwxnSF2qNYT2ASCyuABR.jpg</fanart>
 3<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
-[I][B][COLOR forestgreen]A turma sai em uma expedição de barco, mas se perde em um nevoeiro e encalha na Ilha Assombrada. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+[I][B][COLOR forestgreen]A turma sai em uma expedição de barco, mas se perde em um nevoeiro e encalha na Ilha Assombrada. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
 </item>
 <item>
-4<title>[I][B][COLOR white]• [COLOR forestgreen]4 [COLOR white]- [COLOR goldenrod] Meta-se com a Sua Vida[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
-4<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP04</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+4<title>[I][B][COLOR white]• [COLOR forestgreen]4 [COLOR white]- [COLOR goldenrod] Meta-se com a Sua Vida[COLOR forestgreen] Kodish [COLOR white] Scooby-Doo [COLOR white]!!![/B][/I][/COLOR]</title>
+4<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP04</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 4<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/5bIpgXThTZEtvWfSG4E3nlsDdzR.jpg</thumbnail>
 4<genre>[I][COLOR gray]L, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 4<fanart>https://image.tmdb.org/t/p/original/yItbui7OwxnSF2qNYT2ASCyuABR.jpg</fanart>
 4<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
-[I][B][COLOR forestgreen]Graças à péssima leitura de mapa de Salsicha (ele lê o mapa de cabeça para baixo), a Mistério S.A. se encontra perdida na estrada. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+[I][B][COLOR forestgreen]Graças à péssima leitura de mapa de Salsicha (ele lê o mapa de cabeça para baixo), a Mistério S.A. se encontra perdida na estrada. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
 </item>
 <item>
-5<title>[I][B][COLOR white]• [COLOR forestgreen]5 [COLOR white]- [COLOR goldenrod] Isca para Ladrão[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
-5<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP05</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+5<title>[I][B][COLOR white]• [COLOR forestgreen]5 [COLOR white]- [COLOR goldenrod] Isca para Ladrão[COLOR forestgreen] Kodish [COLOR white] Scooby-Doo [COLOR white]!!![/B][/I][/COLOR]</title>
+5<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP05</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 5<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/5bIpgXThTZEtvWfSG4E3nlsDdzR.jpg</thumbnail>
 5<genre>[I][COLOR gray]L, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 5<fanart>https://image.tmdb.org/t/p/original/yItbui7OwxnSF2qNYT2ASCyuABR.jpg</fanart>
 5<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
-[I][B][COLOR forestgreen]Quando uma onda de sequestros de cães locais alarma o premiado treinador de cães Buck Masters, a turma oferece Scooby-Doo como uma isca para pegar os "secãostradores". [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+[I][B][COLOR forestgreen]Quando uma onda de sequestros de cães locais alarma o premiado treinador de cães Buck Masters, a turma oferece Scooby-Doo como uma isca para pegar os "secãostradores". [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
 </item>
 <item>
-6<title>[I][B][COLOR white]• [COLOR forestgreen]6 [COLOR white]- [COLOR goldenrod] Que Macumba é Essa?[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
-6<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP06</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+6<title>[I][B][COLOR white]• [COLOR forestgreen]6 [COLOR white]- [COLOR goldenrod] Que Macumba é Essa?[COLOR forestgreen] Kodish [COLOR white] Scooby-Doo [COLOR white]!!![/B][/I][/COLOR]</title>
+6<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP06</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 6<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/5bIpgXThTZEtvWfSG4E3nlsDdzR.jpg</thumbnail>
 6<genre>[I][COLOR gray]L, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 6<fanart>https://image.tmdb.org/t/p/original/yItbui7OwxnSF2qNYT2ASCyuABR.jpg</fanart>
 6<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
-[I][B][COLOR forestgreen]As crianças fazem uma visita a sua amiga Sharon Weatherby, cujo tio Stuart está sendo assombrado pelo fantasma de Elias Kingston. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+[I][B][COLOR forestgreen]As crianças fazem uma visita a sua amiga Sharon Weatherby, cujo tio Stuart está sendo assombrado pelo fantasma de Elias Kingston. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
 </item>
 <item>
-7<title>[I][B][COLOR white]• [COLOR forestgreen]7 [COLOR white]- [COLOR goldenrod] Não Macaqueie o Macaco[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
-7<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP07</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+7<title>[I][B][COLOR white]• [COLOR forestgreen]7 [COLOR white]- [COLOR goldenrod] Não Macaqueie o Macaco[COLOR forestgreen] Kodish [COLOR white] Scooby-Doo [COLOR white]!!![/B][/I][/COLOR]</title>
+7<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP07</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 7<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/5bIpgXThTZEtvWfSG4E3nlsDdzR.jpg</thumbnail>
 7<genre>[I][COLOR gray]L, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 7<fanart>https://image.tmdb.org/t/p/original/yItbui7OwxnSF2qNYT2ASCyuABR.jpg</fanart>
 7<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
-[I][B][COLOR forestgreen]O tio de Daphne, John Maxwell, um produtor de filmes, contrata a turma como figurantes no estúdio de seu último filme, O Homem Macaco da Montanha Proibida. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+[I][B][COLOR forestgreen]O tio de Daphne, John Maxwell, um produtor de filmes, contrata a turma como figurantes no estúdio de seu último filme, O Homem Macaco da Montanha Proibida. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
 </item>
 <item>
-8<title>[I][B][COLOR white]• [COLOR forestgreen]8 [COLOR white]- [COLOR goldenrod] Aventura no Parque[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
-8<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP08</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+8<title>[I][B][COLOR white]• [COLOR forestgreen]8 [COLOR white]- [COLOR goldenrod] Aventura no Parque[COLOR forestgreen] Kodish [COLOR white] Scooby-Doo [COLOR white]!!![/B][/I][/COLOR]</title>
+8<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP08</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 8<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/5bIpgXThTZEtvWfSG4E3nlsDdzR.jpg</thumbnail>
 8<genre>[I][COLOR gray]L, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 8<fanart>https://image.tmdb.org/t/p/original/yItbui7OwxnSF2qNYT2ASCyuABR.jpg</fanart>
 8<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
-[I][B][COLOR forestgreen]Terra da Diversão, um parque de diversões local abandonado, parece ser assombrado por uma misteriosa e estranha figura robótica. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+[I][B][COLOR forestgreen]Terra da Diversão, um parque de diversões local abandonado, parece ser assombrado por uma misteriosa e estranha figura robótica. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
 </item>
 <item>
-9<title>[I][B][COLOR white]• [COLOR forestgreen]9 [COLOR white]- [COLOR goldenrod] Nos Bastidores[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
-9<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP09</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+9<title>[I][B][COLOR white]• [COLOR forestgreen]9 [COLOR white]- [COLOR goldenrod] Nos Bastidores[COLOR forestgreen] Kodish [COLOR white] Scooby-Doo [COLOR white]!!![/B][/I][/COLOR]</title>
+9<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP09</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 9<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/5bIpgXThTZEtvWfSG4E3nlsDdzR.jpg</thumbnail>
 9<genre>[I][COLOR gray]L, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 9<fanart>https://image.tmdb.org/t/p/original/yItbui7OwxnSF2qNYT2ASCyuABR.jpg</fanart>
 9<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
-[I][B][COLOR forestgreen]Salsicha e Scooby-Doo encontram um violino cheio de dinheiro. Enquanto Scooby é distraído por uma boneca que parece estar machucada, ele a deixa no meio-fio, e ela é roubada. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+[I][B][COLOR forestgreen]Salsicha e Scooby-Doo encontram um violino cheio de dinheiro. Enquanto Scooby é distraído por uma boneca que parece estar machucada, ele a deixa no meio-fio, e ela é roubada. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
 </item>
 <item>
-10<title>[I][B][COLOR white]• [COLOR forestgreen]10 [COLOR white]- [COLOR goldenrod] Confusão na Elevação[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
-10<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP10</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+10<title>[I][B][COLOR white]• [COLOR forestgreen]10 [COLOR white]- [COLOR goldenrod] Confusão na Elevação[COLOR forestgreen] Kodish [COLOR white] Scooby-Doo [COLOR white]!!![/B][/I][/COLOR]</title>
+10<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP10</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 10<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/5bIpgXThTZEtvWfSG4E3nlsDdzR.jpg</thumbnail>
 10<genre>[I][COLOR gray]L, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 10<fanart>https://image.tmdb.org/t/p/original/yItbui7OwxnSF2qNYT2ASCyuABR.jpg</fanart>
 10<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
-[I][B][COLOR forestgreen]A Mistério S.A. conhece um homem forte chamado Sansão e um anão chamado Max, que estavam ambos fugindo de um circo supostamente assombrado por um palhaço fantasma. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+[I][B][COLOR forestgreen]A Mistério S.A. conhece um homem forte chamado Sansão e um anão chamado Max, que estavam ambos fugindo de um circo supostamente assombrado por um palhaço fantasma. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
 </item>
 <item>
-11<title>[I][B][COLOR white]• [COLOR forestgreen]11 [COLOR white]- [COLOR goldenrod] Os Fantasmas Galopantes[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
-11<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP11</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+11<title>[I][B][COLOR white]• [COLOR forestgreen]11 [COLOR white]- [COLOR goldenrod] Os Fantasmas Galopantes[COLOR forestgreen] Kodish [COLOR white] Scooby-Doo [COLOR white]!!![/B][/I][/COLOR]</title>
+11<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP11</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 11<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/5bIpgXThTZEtvWfSG4E3nlsDdzR.jpg</thumbnail>
 11<genre>[I][COLOR gray]L, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 11<fanart>https://image.tmdb.org/t/p/original/yItbui7OwxnSF2qNYT2ASCyuABR.jpg</fanart>
 11<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
-[I][B][COLOR forestgreen]Na estrada, a turma para em um antigo Castelo de Franken, transportado "pedra por pedra" da Transilvânia. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+[I][B][COLOR forestgreen]Na estrada, a turma para em um antigo Castelo de Franken, transportado "pedra por pedra" da Transilvânia. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
 </item>
 <item>
-12<title>[I][B][COLOR white]• [COLOR forestgreen]12 [COLOR white]- [COLOR goldenrod] Scooby-Doo e a Múmia[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
-12<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP12</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+12<title>[I][B][COLOR white]• [COLOR forestgreen]12 [COLOR white]- [COLOR goldenrod] Scooby-Doo e a Múmia[COLOR forestgreen] Kodish [COLOR white] Scooby-Doo [COLOR white]!!![/B][/I][/COLOR]</title>
+12<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP12</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 12<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/5bIpgXThTZEtvWfSG4E3nlsDdzR.jpg</thumbnail>
 12<genre>[I][COLOR gray]L, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 12<fanart>https://image.tmdb.org/t/p/original/yItbui7OwxnSF2qNYT2ASCyuABR.jpg</fanart>
 12<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
-[I][B][COLOR forestgreen]Os professores de arqueologia na universidade local mostram à turma a aquisição mais recente da escola: A Múmia de Ankha, um governante egípcio antigo, que colocou uma maldição sobre qualquer um que violar seu túmulo. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+[I][B][COLOR forestgreen]Os professores de arqueologia na universidade local mostram à turma a aquisição mais recente da escola: A Múmia de Ankha, um governante egípcio antigo, que colocou uma maldição sobre qualquer um que violar seu túmulo. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
 </item>
 <item>
-13<title>[I][B][COLOR white]• [COLOR forestgreen]13 [COLOR white]- [COLOR goldenrod] Feitiço Contra o Feiticeiro[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
-13<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP13</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+13<title>[I][B][COLOR white]• [COLOR forestgreen]13 [COLOR white]- [COLOR goldenrod] Feitiço Contra o Feiticeiro[COLOR forestgreen] Kodish [COLOR white] Scooby-Doo [COLOR white]!!![/B][/I][/COLOR]</title>
+13<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP13</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 13<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/5bIpgXThTZEtvWfSG4E3nlsDdzR.jpg</thumbnail>
 13<genre>[I][COLOR gray]L, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 13<fanart>https://image.tmdb.org/t/p/original/yItbui7OwxnSF2qNYT2ASCyuABR.jpg</fanart>
 13<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
-[I][B][COLOR forestgreen]No caminho para casa de uma pescaria, a Mistério S.A. atravessa o mistério de uma bruxa e um zumbi, duas figuras que, de acordo com mitos locais, assombram o campo. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+[I][B][COLOR forestgreen]No caminho para casa de uma pescaria, a Mistério S.A. atravessa o mistério de uma bruxa e um zumbi, duas figuras que, de acordo com mitos locais, assombram o campo. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
 </item>
 <item>
-14<title>[I][B][COLOR white]• [COLOR forestgreen]14 [COLOR white]- [COLOR goldenrod] O Navio Fantasma[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
-14<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP14</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+14<title>[I][B][COLOR white]• [COLOR forestgreen]14 [COLOR white]- [COLOR goldenrod] O Navio Fantasma[COLOR forestgreen] Kodish [COLOR white] Scooby-Doo [COLOR white]!!![/B][/I][/COLOR]</title>
+14<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP14</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 14<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/5bIpgXThTZEtvWfSG4E3nlsDdzR.jpg</thumbnail>
 14<genre>[I][COLOR gray]L, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 14<fanart>https://image.tmdb.org/t/p/original/yItbui7OwxnSF2qNYT2ASCyuABR.jpg</fanart>
 14<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
-[I][B][COLOR forestgreen]O jornal relata que a frota do magnata local, C.L. Magnus, está sendo assombrada pelo fantasma do pirata Barba Ruiva. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+[I][B][COLOR forestgreen]O jornal relata que a frota do magnata local, C.L. Magnus, está sendo assombrada pelo fantasma do pirata Barba Ruiva. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
 </item>
 <item>
-15<title>[I][B][COLOR white]• [COLOR forestgreen]15 [COLOR white]- [COLOR goldenrod] O Fantasma Espacial[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
-15<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP15</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+15<title>[I][B][COLOR white]• [COLOR forestgreen]15 [COLOR white]- [COLOR goldenrod] O Fantasma Espacial[COLOR forestgreen] Kodish [COLOR white] Scooby-Doo [COLOR white]!!![/B][/I][/COLOR]</title>
+15<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP15</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 15<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/5bIpgXThTZEtvWfSG4E3nlsDdzR.jpg</thumbnail>
 15<genre>[I][COLOR gray]L, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 15<fanart>https://image.tmdb.org/t/p/original/yItbui7OwxnSF2qNYT2ASCyuABR.jpg</fanart>
 15<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
-[I][B][COLOR forestgreen]Uma figura fluorescente alienígena aterroriza um campo de pouso abandonada. Quando a Máquina de Mistério fica sem gasolina não muito longe do campo de pouso, a Mistério S.A. descobre sobre o alienígena e decide explorar o campo e resolver o mistério. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+[I][B][COLOR forestgreen]Uma figura fluorescente alienígena aterroriza um campo de pouso abandonada. Quando a Máquina de Mistério fica sem gasolina não muito longe do campo de pouso, a Mistério S.A. descobre sobre o alienígena e decide explorar o campo e resolver o mistério. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
 </item>
 <item>
-16<title>[I][B][COLOR white]• [COLOR forestgreen]16 [COLOR white]- [COLOR goldenrod] Uma Noite de Medo não Acaba Cedo[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
-16<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP16</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+16<title>[I][B][COLOR white]• [COLOR forestgreen]16 [COLOR white]- [COLOR goldenrod] Uma Noite de Medo não Acaba Cedo[COLOR forestgreen] Kodish [COLOR white] Scooby-Doo [COLOR white]!!![/B][/I][/COLOR]</title>
+16<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP16</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 16<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/5bIpgXThTZEtvWfSG4E3nlsDdzR.jpg</thumbnail>
 16<genre>[I][COLOR gray]L, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 16<fanart>https://image.tmdb.org/t/p/original/yItbui7OwxnSF2qNYT2ASCyuABR.jpg</fanart>
 16<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
-[I][B][COLOR forestgreen]Scooby-Doo é um potencial herdeiro da fortuna do Coronel Beaureguard Sanders... desde que virasse a noite na mansão do coronel supostamente assombrada. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+[I][B][COLOR forestgreen]Scooby-Doo é um potencial herdeiro da fortuna do Coronel Beaureguard Sanders... desde que virasse a noite na mansão do coronel supostamente assombrada. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
 </item>
 <item>
-17<title>[I][B][COLOR white]• [COLOR forestgreen]17 [COLOR white]- [COLOR goldenrod] O Fantasma da Neve[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
-17<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP17</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+17<title>[I][B][COLOR white]• [COLOR forestgreen]17 [COLOR white]- [COLOR goldenrod] O Fantasma da Neve[COLOR forestgreen] Kodish [COLOR white] Scooby-Doo [COLOR white]!!![/B][/I][/COLOR]</title>
+17<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP17</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 17<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/5bIpgXThTZEtvWfSG4E3nlsDdzR.jpg</thumbnail>
 17<genre>[I][COLOR gray]L, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 17<fanart>https://image.tmdb.org/t/p/original/yItbui7OwxnSF2qNYT2ASCyuABR.jpg</fanart>
 17<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
-[I][B][COLOR forestgreen]Uma viagem planejada de esqui a Ponta Lodge de Wolf dá errado quando parece que um fantasma de neve está assombrando o cume da montanha. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+[I][B][COLOR forestgreen]Uma viagem planejada de esqui a Ponta Lodge de Wolf dá errado quando parece que um fantasma de neve está assombrando o cume da montanha. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
 </item>
 *******************
 <channels></channels><channel>
-<name>[I][B][COLOR white]• [COLOR goldenrod]Scooby Doo, Cadê Você? (1969) [COLOR white] - [COLOR forestgreen] [2ªTemporada] [COLOR goldenrod] Pikachu [COLOR white] Séries !!![/COLOR][/B][/I]</name>
+<name>[I][B][COLOR white]• [COLOR goldenrod]Scooby Doo, Cadê Você? (1969) [COLOR white] - [COLOR forestgreen] [2ªTemporada] [COLOR goldenrod] Kodish [COLOR white] Scooby-Doo !!![/COLOR][/B][/I]</name>
 <genre>[I][COLOR gray]L, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 <info>[I][B][COLOR goldenrod]SINOPSE:[/I][/B][/COLOR]
-[B][I][COLOR forestgreen]Uma série que segue os muitos mistérios da Mystery Gang, que consiste de Fred, Daphne, Velma, Salsicha e Scooby. Juntos, eles viajam ao redor do mundo, sempre em busca de um mistério a ser resolvido.[COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/COLOR][/I][/B]</info>
+[B][I][COLOR forestgreen]Uma série que segue os muitos mistérios da Mystery Gang, que consiste de Fred, Daphne, Velma, Salsicha e Scooby. Juntos, eles viajam ao redor do mundo, sempre em busca de um mistério a ser resolvido.[COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/COLOR][/I][/B]</info>
 *******************
 *******************
 <item>
-1<title>[I][B][COLOR white]• [COLOR forestgreen]1 [COLOR white]- [COLOR goldenrod] Onde Está o Monstro?[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
-1<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP18</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+1<title>[I][B][COLOR white]• [COLOR forestgreen]1 [COLOR white]- [COLOR goldenrod] Onde Está o Monstro?[COLOR forestgreen] Kodish [COLOR white] Scooby-Doo [COLOR white]!!![/B][/I][/COLOR]</title>
+1<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP18</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 1<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/iJuF826el5JAjQP9hSHFb7yq2gF.jpg</thumbnail>
 1<genre>[I][COLOR gray]L, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 1<fanart>https://image.tmdb.org/t/p/original/cMCsvzSanJYIznfEHDGyrFxXihD.jpg</fanart>
 1<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
-[I][B][COLOR forestgreen]Em seu caminho para casa da lanchonete, a turma encontra "O Fantasma de Mr. Hyde", um ladrão de joias conhecido, se esgueirando em uma casa assombrada. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+[I][B][COLOR forestgreen]Em seu caminho para casa da lanchonete, a turma encontra "O Fantasma de Mr. Hyde", um ladrão de joias conhecido, se esgueirando em uma casa assombrada. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
 </item>
 <item>
-2<title>[I][B][COLOR white]• [COLOR forestgreen]2 [COLOR white]- [COLOR goldenrod] O Mistério da Máscara[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
-2<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP19</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+2<title>[I][B][COLOR white]• [COLOR forestgreen]2 [COLOR white]- [COLOR goldenrod] O Mistério da Máscara[COLOR forestgreen] Kodish [COLOR white] Scooby-Doo [COLOR white]!!![/B][/I][/COLOR]</title>
+2<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP19</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 2<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/iJuF826el5JAjQP9hSHFb7yq2gF.jpg</thumbnail>
 2<genre>[I][COLOR gray]L, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 2<fanart>https://image.tmdb.org/t/p/original/cMCsvzSanJYIznfEHDGyrFxXihD.jpg</fanart>
 2<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
-[I][B][COLOR forestgreen]Daphne compra uma decorativa, e supostamente amaldiçoada, máscara em Chinatown e, posteriormente, é sequestrada por um par de medonhas figuras da antiga China. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+[I][B][COLOR forestgreen]Daphne compra uma decorativa, e supostamente amaldiçoada, máscara em Chinatown e, posteriormente, é sequestrada por um par de medonhas figuras da antiga China. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
 </item>
 <item>
-3<title>[I][B][COLOR white]• [COLOR forestgreen]3 [COLOR white]- [COLOR goldenrod] O Homem das Cavernas[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
-3<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP20</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+3<title>[I][B][COLOR white]• [COLOR forestgreen]3 [COLOR white]- [COLOR goldenrod] O Homem das Cavernas[COLOR forestgreen] Kodish [COLOR white] Scooby-Doo [COLOR white]!!![/B][/I][/COLOR]</title>
+3<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP20</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 3<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/iJuF826el5JAjQP9hSHFb7yq2gF.jpg</thumbnail>
 3<genre>[I][COLOR gray]L, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 3<fanart>https://image.tmdb.org/t/p/original/cMCsvzSanJYIznfEHDGyrFxXihD.jpg</fanart>
 3<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
-[I][B][COLOR forestgreen]Salsicha pesca, de todas as outras coisas, um homem das cavernas congelado em um bloco de gelo. As crianças levam o homem das cavernas congelado para Oceanland, o aquário local. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+[I][B][COLOR forestgreen]Salsicha pesca, de todas as outras coisas, um homem das cavernas congelado em um bloco de gelo. As crianças levam o homem das cavernas congelado para Oceanland, o aquário local. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
 </item>
 <item>
-4<title>[I][B][COLOR white]• [COLOR forestgreen]4 [COLOR white]- [COLOR goldenrod] De Arrepiar os Cabelos[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
-4<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP21</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+4<title>[I][B][COLOR white]• [COLOR forestgreen]4 [COLOR white]- [COLOR goldenrod] De Arrepiar os Cabelos[COLOR forestgreen] Kodish [COLOR white] Scooby-Doo [COLOR white]!!![/B][/I][/COLOR]</title>
+4<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP21</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 4<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/iJuF826el5JAjQP9hSHFb7yq2gF.jpg</thumbnail>
 4<genre>[I][COLOR gray]L, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 4<fanart>https://image.tmdb.org/t/p/original/cMCsvzSanJYIznfEHDGyrFxXihD.jpg</fanart>
 4<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
-[I][B][COLOR forestgreen]Uma escola de dança em um celeiro rural é interrompido pelo Dr. Creeper, uma figura zumbi fantasmagórica que já foi vista roubando bancos durante a noite na cidade. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+[I][B][COLOR forestgreen]Uma escola de dança em um celeiro rural é interrompido pelo Dr. Creeper, uma figura zumbi fantasmagórica que já foi vista roubando bancos durante a noite na cidade. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
 </item>
 <item>
-5<title>[I][B][COLOR white]• [COLOR forestgreen]5 [COLOR white]- [COLOR goldenrod] Uma Casa Mal-Assombrada[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
-5<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP22</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+5<title>[I][B][COLOR white]• [COLOR forestgreen]5 [COLOR white]- [COLOR goldenrod] Uma Casa Mal-Assombrada[COLOR forestgreen] Kodish [COLOR white] Scooby-Doo [COLOR white]!!![/B][/I][/COLOR]</title>
+5<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP22</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 5<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/iJuF826el5JAjQP9hSHFb7yq2gF.jpg</thumbnail>
 5<genre>[I][COLOR gray]L, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 5<fanart>https://image.tmdb.org/t/p/original/cMCsvzSanJYIznfEHDGyrFxXihD.jpg</fanart>
 5<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
-[I][B][COLOR forestgreen]A Mistério S.A. se perde no caminho de um festival de rock, e sua Máquina de Mistério está quase sem gasolina. Um fazendeiro chamado "Asa Shanks" lhes diz para irem pelo caminho maior, dizendo que o caminho mais curto vai levá-los a uma mansão assombrada. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+[I][B][COLOR forestgreen]A Mistério S.A. se perde no caminho de um festival de rock, e sua Máquina de Mistério está quase sem gasolina. Um fazendeiro chamado "Asa Shanks" lhes diz para irem pelo caminho maior, dizendo que o caminho mais curto vai levá-los a uma mansão assombrada. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
 </item>
 <item>
-6<title>[I][B][COLOR white]• [COLOR forestgreen]6 [COLOR white]- [COLOR goldenrod] O Ídolo do Terror[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
-6<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP23</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+6<title>[I][B][COLOR white]• [COLOR forestgreen]6 [COLOR white]- [COLOR goldenrod] O Ídolo do Terror[COLOR forestgreen] Kodish [COLOR white] Scooby-Doo [COLOR white]!!![/B][/I][/COLOR]</title>
+6<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP23</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 6<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/iJuF826el5JAjQP9hSHFb7yq2gF.jpg</thumbnail>
 6<genre>[I][COLOR gray]L, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 6<fanart>https://image.tmdb.org/t/p/original/cMCsvzSanJYIznfEHDGyrFxXihD.jpg</fanart>
 6<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
-[I][B][COLOR forestgreen]As férias da Mistério S.A. para o Havaí é interrompida por um feiticeiro, que avisa aos turistas e aos nativos da ira vindoura do deus Mano Tiki Tia. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+[I][B][COLOR forestgreen]As férias da Mistério S.A. para o Havaí é interrompida por um feiticeiro, que avisa aos turistas e aos nativos da ira vindoura do deus Mano Tiki Tia. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
 </item>
 <item>
-7<title>[I][B][COLOR white]• [COLOR forestgreen]7 [COLOR white]- [COLOR goldenrod] Quem é que Está com Medo Aí?[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
-7<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP24</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+7<title>[I][B][COLOR white]• [COLOR forestgreen]7 [COLOR white]- [COLOR goldenrod] Quem é que Está com Medo Aí?[COLOR forestgreen] Kodish [COLOR white] Scooby-Doo [COLOR white]!!![/B][/I][/COLOR]</title>
+7<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP24</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 7<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/iJuF826el5JAjQP9hSHFb7yq2gF.jpg</thumbnail>
 7<genre>[I][COLOR gray]L, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 7<fanart>https://image.tmdb.org/t/p/original/cMCsvzSanJYIznfEHDGyrFxXihD.jpg</fanart>
 7<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
-[I][B][COLOR forestgreen]A expedição de acampamento da Mistério S.A. é arruinada pela presença do que parece ser o fantasma de um lobisomem fantasma. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+[I][B][COLOR forestgreen]A expedição de acampamento da Mistério S.A. é arruinada pela presença do que parece ser o fantasma de um lobisomem fantasma. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
 </item>
 <item>
-8<title>[I][B][COLOR white]• [COLOR forestgreen]8 [COLOR white]- [COLOR goldenrod] Com Fantasma não se Brinca[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
-8<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP25</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+8<title>[I][B][COLOR white]• [COLOR forestgreen]8 [COLOR white]- [COLOR goldenrod] Com Fantasma não se Brinca[COLOR forestgreen] Kodish [COLOR white] Scooby-Doo [COLOR white]!!![/B][/I][/COLOR]</title>
+8<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer08/ondemand/SCBDCDVCEP25</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 8<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/iJuF826el5JAjQP9hSHFb7yq2gF.jpg</thumbnail>
 8<genre>[I][COLOR gray]L, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 8<fanart>https://image.tmdb.org/t/p/original/cMCsvzSanJYIznfEHDGyrFxXihD.jpg</fanart>
 8<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
-[I][B][COLOR forestgreen]O concurso de dança na TV de Johnny Sand, em que Fred, Daphne, Salsicha e Scooby-Doo são concorrentes, é interrompido por uma figura identificada como o Fantasma de Cera. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+[I][B][COLOR forestgreen]O concurso de dança na TV de Johnny Sand, em que Fred, Daphne, Salsicha e Scooby-Doo são concorrentes, é interrompido por uma figura identificada como o Fantasma de Cera. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
 </item>
 ******************************************************************************************************************************************************************************************************************************************************************************
 <!-- Pleace this snippet right after opening the head tag to make it work properly -->
