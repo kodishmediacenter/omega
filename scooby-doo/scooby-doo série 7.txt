@@ -1,128 +1,128 @@
 <!DOCTYPE HTML><html lang="en" >
 *******************
 <channels></channels><channel>
-<name>[I][B][COLOR white]• [COLOR goldenrod]Os Treze Fantasmas do Scooby-Doo (1985) [COLOR white] - [COLOR forestgreen] [1ªTemporada] [COLOR goldenrod] Pikachu [COLOR white] Séries !!![/COLOR][/B][/I]</name>
+<name>[I][B][COLOR white]• [COLOR goldenrod]Os Treze Fantasmas do Scooby-Doo (1985) [COLOR white] - [COLOR forestgreen] [1ªTemporada] [COLOR goldenrod] Kodish[COLOR white] Scooby-doo !!![/COLOR][/B][/I]</name>
 <genre>[I][COLOR gray]TV-PG, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 <info>[I][B][COLOR goldenrod]SINOPSE:[/I][/B][/COLOR]
-[B][I][COLOR forestgreen]Salsicha, Scooby e seus amigos devem devolver 13 fantasmas a um baú mágico que eles inadvertidamente liberaram.[COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/COLOR][/I][/B]</info>
+[B][I][COLOR forestgreen]Salsicha, Scooby e seus amigos devem devolver 13 fantasmas a um baú mágico que eles inadvertidamente liberaram.[COLOR goldenrod]Kodish[COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/COLOR][/I][/B]</info>
 *******************
 *******************
 <item>
-1<title>[I][B][COLOR white]• [COLOR forestgreen]1 [COLOR white]- [COLOR goldenrod] Para todos os Ghouls que amei antes[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+1<title>[I][B][COLOR white]• [COLOR forestgreen]1 [COLOR white]- [COLOR goldenrod] Para todos os Ghouls que amei antes[COLOR forestgreen] Kodish[COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
 1<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/O13FNTSDSCBDEP01</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 1<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/5vc9QPhRHhPeqvJYIKBONgqtsNJ.jpg</thumbnail>
 1<genre>[I][COLOR gray]TV-PG, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 1<fanart>https://image.tmdb.org/t/p/original/kJY9f5HS9f7T9R05vydMQ3qA6WU.jpg</fanart>
 1<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
-[I][B][COLOR forestgreen]A gangue pousa seu avião em uma cidade habitada por lobisomens; Bogel e Weerd enganam Scooby e Salsicha para que abram o baú dos demônios; Flim-Flam se junta à gangue. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+[I][B][COLOR forestgreen]A gangue pousa seu avião em uma cidade habitada por lobisomens; Bogel e Weerd enganam Scooby e Salsicha para que abram o baú dos demônios; Flim-Flam se junta à gangue. [COLOR goldenrod]Kodish[COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
 </item>
 <item>
-2<title>[I][B][COLOR white]• [COLOR forestgreen]2 [COLOR white]- [COLOR goldenrod] Scoobra Kadoobra[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+2<title>[I][B][COLOR white]• [COLOR forestgreen]2 [COLOR white]- [COLOR goldenrod] Scoobra Kadoobra[COLOR forestgreen] Kodish[COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
 2<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/O13FNTSDSCBDEP02</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 2<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/5vc9QPhRHhPeqvJYIKBONgqtsNJ.jpg</thumbnail>
 2<genre>[I][COLOR gray]TV-PG, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 2<fanart>https://image.tmdb.org/t/p/original/kJY9f5HS9f7T9R05vydMQ3qA6WU.jpg</fanart>
 2<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
-[I][B][COLOR forestgreen]A gangue segue para a floresta do mal para capturar Maldor, o Magnífico, mas seu plano falha e Daphne é colocada sob o feitiço da bela adormecida. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+[I][B][COLOR forestgreen]A gangue segue para a floresta do mal para capturar Maldor, o Magnífico, mas seu plano falha e Daphne é colocada sob o feitiço da bela adormecida. [COLOR goldenrod]Kodish[COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
 </item>
 <item>
-3<title>[I][B][COLOR white]• [COLOR forestgreen]3 [COLOR white]- [COLOR goldenrod] Eu e meu demônio das sombras[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+3<title>[I][B][COLOR white]• [COLOR forestgreen]3 [COLOR white]- [COLOR goldenrod] Eu e meu demônio das sombras[COLOR forestgreen] Kodish[COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
 3<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/O13FNTSDSCBDEP03</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 3<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/5vc9QPhRHhPeqvJYIKBONgqtsNJ.jpg</thumbnail>
 3<genre>[I][COLOR gray]TV-PG, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 3<fanart>https://image.tmdb.org/t/p/original/kJY9f5HS9f7T9R05vydMQ3qA6WU.jpg</fanart>
 3<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
-[I][B][COLOR forestgreen]O Baú dos Demônios é roubado por um monstro das sombras, então a gangue segue para o labirinto da Mansão Befuddle para recuperá-lo, mas logo eles têm que enfrentar a fugitiva do peito demoníaco, Rainha Morbidia. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+[I][B][COLOR forestgreen]O Baú dos Demônios é roubado por um monstro das sombras, então a gangue segue para o labirinto da Mansão Befuddle para recuperá-lo, mas logo eles têm que enfrentar a fugitiva do peito demoníaco, Rainha Morbidia. [COLOR goldenrod]Kodish[COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
 </item>
 <item>
-4<title>[I][B][COLOR white]• [COLOR forestgreen]4 [COLOR white]- [COLOR goldenrod] Reflexos em um olho macabro[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+4<title>[I][B][COLOR white]• [COLOR forestgreen]4 [COLOR white]- [COLOR goldenrod] Reflexos em um olho macabro[COLOR forestgreen] Kodish[COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
 4<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/O13FNTSDSCBDEP04</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 4<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/5vc9QPhRHhPeqvJYIKBONgqtsNJ.jpg</thumbnail>
 4<genre>[I][COLOR gray]TV-PG, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 4<fanart>https://image.tmdb.org/t/p/original/kJY9f5HS9f7T9R05vydMQ3qA6WU.jpg</fanart>
 4<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
-[I][B][COLOR forestgreen]Ao visitar uma convenção paranormal marroquina, a gangue tem que parar um demônio espelho. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+[I][B][COLOR forestgreen]Ao visitar uma convenção paranormal marroquina, a gangue tem que parar um demônio espelho. [COLOR goldenrod]Kodish[COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
 </item>
 <item>
-5<title>[I][B][COLOR white]• [COLOR forestgreen]5 [COLOR white]- [COLOR goldenrod] Isso é Monstertainment[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+5<title>[I][B][COLOR white]• [COLOR forestgreen]5 [COLOR white]- [COLOR goldenrod] Isso é Monstertainment[COLOR forestgreen] Kodish[COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
 5<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/O13FNTSDSCBDEP05</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 5<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/5vc9QPhRHhPeqvJYIKBONgqtsNJ.jpg</thumbnail>
 5<genre>[I][COLOR gray]TV-PG, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 5<fanart>https://image.tmdb.org/t/p/original/kJY9f5HS9f7T9R05vydMQ3qA6WU.jpg</fanart>
 5<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
-[I][B][COLOR forestgreen]O anfitrião do terror e fugitivo do peito do demônio Zomba transporta magicamente Scooby e sua turma para o filme "O Filho da Noiva do Fantasma de Frankenstein". [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+[I][B][COLOR forestgreen]O anfitrião do terror e fugitivo do peito do demônio Zomba transporta magicamente Scooby e sua turma para o filme "O Filho da Noiva do Fantasma de Frankenstein". [COLOR goldenrod]Kodish[COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
 </item>
 <item>
-6<title>[I][B][COLOR white]• [COLOR forestgreen]6 [COLOR white]- [COLOR goldenrod] Navio de Ghouls[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+6<title>[I][B][COLOR white]• [COLOR forestgreen]6 [COLOR white]- [COLOR goldenrod] Navio de Ghouls[COLOR forestgreen] Kodish[COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
 6<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/O13FNTSDSCBDEP06</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 6<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/5vc9QPhRHhPeqvJYIKBONgqtsNJ.jpg</thumbnail>
 6<genre>[I][COLOR gray]TV-PG, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 6<fanart>https://image.tmdb.org/t/p/original/kJY9f5HS9f7T9R05vydMQ3qA6WU.jpg</fanart>
 6<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
-[I][B][COLOR forestgreen]Scooby e sua turma planejam férias tranquilas, sem saber que o navio de cruzeiro em que reservaram a passagem está habitado por fantasmas. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+[I][B][COLOR forestgreen]Scooby e sua turma planejam férias tranquilas, sem saber que o navio de cruzeiro em que reservaram a passagem está habitado por fantasmas. [COLOR goldenrod]Kodish[COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
 </item>
 <item>
-7<title>[I][B][COLOR white]• [COLOR forestgreen]7 [COLOR white]- [COLOR goldenrod] Um pequeno ghoul assustador como você[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+7<title>[I][B][COLOR white]• [COLOR forestgreen]7 [COLOR white]- [COLOR goldenrod] Um pequeno ghoul assustador como você[COLOR forestgreen] Kodish[COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
 7<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/O13FNTSDSCBDEP07</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 7<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/5vc9QPhRHhPeqvJYIKBONgqtsNJ.jpg</thumbnail>
 7<genre>[I][COLOR gray]TV-PG, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 7<fanart>https://image.tmdb.org/t/p/original/kJY9f5HS9f7T9R05vydMQ3qA6WU.jpg</fanart>
 7<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
-[I][B][COLOR forestgreen]Vincent Van Ghoul cai sob um feitiço de amor lançado pelo nefasto demônio Nicara. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+[I][B][COLOR forestgreen]Vincent Van Ghoul cai sob um feitiço de amor lançado pelo nefasto demônio Nicara. [COLOR goldenrod]Kodish[COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
 </item>
 <item>
-8<title>[I][B][COLOR white]• [COLOR forestgreen]8 [COLOR white]- [COLOR goldenrod] Quando você bruxa sobre uma estrela[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+8<title>[I][B][COLOR white]• [COLOR forestgreen]8 [COLOR white]- [COLOR goldenrod] Quando você bruxa sobre uma estrela[COLOR forestgreen] Kodish[COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
 8<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/O13FNTSDSCBDEP08</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 8<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/5vc9QPhRHhPeqvJYIKBONgqtsNJ.jpg</thumbnail>
 8<genre>[I][COLOR gray]TV-PG, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 8<fanart>https://image.tmdb.org/t/p/original/kJY9f5HS9f7T9R05vydMQ3qA6WU.jpg</fanart>
 8<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
-[I][B][COLOR forestgreen]Scooby e sua turma têm que parar três bruxas trapalhonas que estão em conluio com o demônio Marcella. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+[I][B][COLOR forestgreen]Scooby e sua turma têm que parar três bruxas trapalhonas que estão em conluio com o demônio Marcella. [COLOR goldenrod]Kodish[COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
 </item>
 <item>
-9<title>[I][B][COLOR white]• [COLOR forestgreen]9 [COLOR white]- [COLOR goldenrod] É uma colher maravilhosa[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+9<title>[I][B][COLOR white]• [COLOR forestgreen]9 [COLOR white]- [COLOR goldenrod] É uma colher maravilhosa[COLOR forestgreen] Kodish[COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
 9<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/O13FNTSDSCBDEP09</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 9<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/5vc9QPhRHhPeqvJYIKBONgqtsNJ.jpg</thumbnail>
 9<genre>[I][COLOR gray]TV-PG, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 9<fanart>https://image.tmdb.org/t/p/original/kJY9f5HS9f7T9R05vydMQ3qA6WU.jpg</fanart>
 9<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
-[I][B][COLOR forestgreen]Scooby tem uma experiência traumática com o demônio Time Slime e é substituído pelo preguiçoso Bernie Gumshire, mas Vincent Van Ghoul mostra o que acontecerá com a gangue se Scooby não sair da aposentadoria. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+[I][B][COLOR forestgreen]Scooby tem uma experiência traumática com o demônio Time Slime e é substituído pelo preguiçoso Bernie Gumshire, mas Vincent Van Ghoul mostra o que acontecerá com a gangue se Scooby não sair da aposentadoria. [COLOR goldenrod]Kodish[COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
 </item>
 <item>
-10<title>[I][B][COLOR white]• [COLOR forestgreen]10 [COLOR white]- [COLOR goldenrod] Scooby em Kwackyland[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+10<title>[I][B][COLOR white]• [COLOR forestgreen]10 [COLOR white]- [COLOR goldenrod] Scooby em Kwackyland[COLOR forestgreen] Kodish[COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
 10<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/O13FNTSDSCBDEP10</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 10<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/5vc9QPhRHhPeqvJYIKBONgqtsNJ.jpg</thumbnail>
 10<genre>[I][COLOR gray]TV-PG, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 10<fanart>https://image.tmdb.org/t/p/original/kJY9f5HS9f7T9R05vydMQ3qA6WU.jpg</fanart>
 10<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
-[I][B][COLOR forestgreen]Bogel e Weerd ajudam o demônio Demondo a aprisionar Scooby e sua gangue nos jornais engraçados. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+[I][B][COLOR forestgreen]Bogel e Weerd ajudam o demônio Demondo a aprisionar Scooby e sua gangue nos jornais engraçados. [COLOR goldenrod]Kodish[COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
 </item>
 <item>
-11<title>[I][B][COLOR white]• [COLOR forestgreen]11 [COLOR white]- [COLOR goldenrod] Costa para Fantasma[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+11<title>[I][B][COLOR white]• [COLOR forestgreen]11 [COLOR white]- [COLOR goldenrod] Costa para Fantasma[COLOR forestgreen] Kodish[COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
 11<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/O13FNTSDSCBDEP11</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 11<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/5vc9QPhRHhPeqvJYIKBONgqtsNJ.jpg</thumbnail>
 11<genre>[I][COLOR gray]TV-PG, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 11<fanart>https://image.tmdb.org/t/p/original/kJY9f5HS9f7T9R05vydMQ3qA6WU.jpg</fanart>
 11<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
-[I][B][COLOR forestgreen]Vincent Van Ghoul é transformado em pedra; Scooby e sua turma acabam em conluio com Bogel e Weerd enquanto se defendem de dois guardas de segurança excessivamente zelosos. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+[I][B][COLOR forestgreen]Vincent Van Ghoul é transformado em pedra; Scooby e sua turma acabam em conluio com Bogel e Weerd enquanto se defendem de dois guardas de segurança excessivamente zelosos. [COLOR goldenrod]Kodish[COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
 </item>
 <item>
-12<title>[I][B][COLOR white]• [COLOR forestgreen]12 [COLOR white]- [COLOR goldenrod] O show mais macabro da Terra[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+12<title>[I][B][COLOR white]• [COLOR forestgreen]12 [COLOR white]- [COLOR goldenrod] O show mais macabro da Terra[COLOR forestgreen] Kodish[COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
 12<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/O13FNTSDSCBDEP12</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 12<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/5vc9QPhRHhPeqvJYIKBONgqtsNJ.jpg</thumbnail>
 12<genre>[I][COLOR gray]TV-PG, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 12<fanart>https://image.tmdb.org/t/p/original/kJY9f5HS9f7T9R05vydMQ3qA6WU.jpg</fanart>
 12<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
-[I][B][COLOR forestgreen]Ao visitar os pais de Scooby em Dooville, Flim-Flam fica hipnotizado por um diretor de circo. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+[I][B][COLOR forestgreen]Ao visitar os pais de Scooby em Dooville, Flim-Flam fica hipnotizado por um diretor de circo. [COLOR goldenrod]Kodish[COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
 </item>
 <item>
-13<title>[I][B][COLOR white]• [COLOR forestgreen]13 [COLOR white]- [COLOR goldenrod] Terror-Scope Scoob[COLOR forestgreen] Pikachu [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+13<title>[I][B][COLOR white]• [COLOR forestgreen]13 [COLOR white]- [COLOR goldenrod] Terror-Scope Scoob[COLOR forestgreen] Kodish[COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
 13<link>$doregex[Pikachu]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Pikachu</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/O13FNTSDSCBDEP13</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 13<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/5vc9QPhRHhPeqvJYIKBONgqtsNJ.jpg</thumbnail>
 13<genre>[I][COLOR gray]TV-PG, Animação, Mistério, Comédia, 22m[/COLOR][/I]</genre>
 13<fanart>https://image.tmdb.org/t/p/original/kJY9f5HS9f7T9R05vydMQ3qA6WU.jpg</fanart>
 13<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
-[I][B][COLOR forestgreen]Ao visitar um estúdio de TV, a gangue se vê roubada do Baú dos Demônios. [COLOR goldenrod]Pikachu [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+[I][B][COLOR forestgreen]Ao visitar um estúdio de TV, a gangue se vê roubada do Baú dos Demônios. [COLOR goldenrod]Kodish[COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
 </item>
 ******************************************************************************************************************************************************************************************************************************************************************************
 <!-- Pleace this snippet right after opening the head tag to make it work properly -->
