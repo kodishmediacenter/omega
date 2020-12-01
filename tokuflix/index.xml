@@ -1479,6 +1479,16 @@
 
 <channels>
 <channel>
+<name>2015 - Ninninger</name>
+<thumbnail>https://i.imgur.com/FLm9kle.jpeg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/2015%20-%20Ninninger.m3u</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>2016 - Kamen Rider Ex-Aid</name>
 <thumbnail>https://4.bp.blogspot.com/-Pu_kMk-5CAM/XwOFPJYFjbI/AAAAAAAAAss/-BVC81_eojUQ7RssltfZze086tY3FLmmQCLcBGAsYHQ/s1600/2016%2B-%2BKamen%2BRider%2BEx-Aid.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/2016%20-%20Kamen%20Rider%20Ex-Aid</externallink>
