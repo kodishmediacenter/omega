@@ -1,5 +1,17 @@
 [COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]
 
+
+
+ <channels>
+ <channel>
+ <name>[COLOR white][B] 500 mais da Kiss 2020/2021  29/dez a 30/dez e 31/dez a 1/dez [/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
+ <thumbnail>https://www.kissfm.com.br/wp-content/uploads/2019/10/logo_kiss_fm.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/500maiskiss</externallink>
+ <fanart></fanart>
+ <info>Listas iptv</info>
+ </channel>
+ </channels>
+ 
  <channels>
  <channel>
  <name>[COLOR white][B] Live do Alok 19/12 - 21:00 [/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
