@@ -1,13 +1,14 @@
  <item>
  <title>Server 01</title>
- <link>http://cloud2.cdnseguro.com:23538</link>
- <thumbnail>https://www.kissfm.com.br/wp-content/uploads/2019/10/logo_kiss_fm.png</thumbnail>
- </fanart></fanart>
- </item>
-
- <item>
- <title>Server 02</title>
  <link>http://cloud2.cdnseguro.com:23538/listen.acc</link>
  <thumbnail>https://www.kissfm.com.br/wp-content/uploads/2019/10/logo_kiss_fm.png</thumbnail>
  </fanart></fanart>
  </item>
+ 
+  <item>
+ <title>Server 02</title>
+ <link>http://cloud2.cdnseguro.com:23538/listen.m3u8</link>
+ <thumbnail>https://www.kissfm.com.br/wp-content/uploads/2019/10/logo_kiss_fm.png</thumbnail>
+ </fanart></fanart>
+ </item>
+
