@@ -1,0 +1,36 @@
+<channels>
+<channel>
+<name>[COLOR blue]Os Cavaleiros do Zodíaco [/COLOR]</name> 
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/paC5oA5f1xRA43Udj1vyIrGbFFd.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/OS%20CAVALEIROS%20DO%20ZODIACO</externallink>
+<fanart>https://image.tmdb.org/t/p/original/afMyocyc9QHdksy5EAJW6Mm2rt4.jpg</fanart>
+<info>O Arco da Guerra Galáctica é o primeiro Arco da série Os Cavaleiros do Zodíaco e o primeiro Arco da Saga do Santuário. Neste Arco são apresentados os Cavaleiros, os conceitos do Cosmo, os personagens principais, bem como a introdução da historia de Atena. Dez garotos retornam de sua jornada dos mais diversos lugares do mundo trazendo consigo as lendárias Armaduras dos Cavaleiros de Atena (Armaduras de Bronze). Deu-se início a maior batalha de toda a história do mundo – a Guerra Galáctica – para escolher, entre esses 10 garotos, o merecedor da mais poderosa das Armaduras, a Armadura de Ouro. Entretanto, com aparição de Fênix e seus Cavaleiros Negros, a verdadeira batalha pela posse da Armadura de Ouro só está começando.<info>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
+
+[COLOR deeppink]|[/COLOR] - AS MELHORES DESENHOS- [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+
+
+
+<channels>
+<channel>
+<name>[COLOR blue]Naruto[/COLOR]</name> 
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaEX9f8ud7iF0G7EoyGxAyRNV1p.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/NATURO</externallink>
+<fanart>https://image.tmdb.org/t/p/original/y3XMIea7mwTzxt3NFFXi5YJKeFJ.jpg</fanart>
+<info>Demônios que antes quase destruíram o mundo, agora foram libertados por alguém. Para evitar a destruição, os demônios devem ser novamente selados e trancados, e a única pessoa capaz de fazer isto é uma menina chamada Shion. Ela vem do país do demônio e é capaz de duas coisas: prever a morte de pessoas e também selar demônios. Desta vez, a missão de Naruto é proteger Shion, mas ela prevê a morte dele.<info>
+[COLOR deeppink]|[/COLOR] - OS MELHORES DESENHOS- [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+
+
+
+  
+
+
+
+
