@@ -7,6 +7,7 @@ http://wowza4.catve.com.br:1935/live/livestream/chunklist_w2045595725.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.revistadagente.com.br/uploads/posts/486/7d04bbbe5494ae9d2f5a76aa1c00fa2f.jpg" group-title="Sem Categoria",SBT
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1361860827_b131000_sleng.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Sem Categoria",Globo SP
 http://185.93.1.216:8080/live/B2A463CD7AA1/B2A463CD7AA1/4592.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Sem Categoria",Globo RJ
@@ -27,7 +28,7 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1225547492445519874/a8ce3z7B_400x400.jpg" group-title="Sem Categoria",Tv Gazeta
-https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-720p.m3u8
+https://playback2.akamaized.net/streams/5381476_8947634_lsicu6phmc0zgm6xs9f_1/exp=1610240454~acl=%2f*~data=hdntl~hmac=92d070402d68e1dd8797f698d44a2988639dad051e4ca27d02398e3c47296594/media/5381476_8947634_lsicu6phmc0zgm6xs9f_1@2320000pb.m3u8?dw=14400&ts=1610154000
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1225547492445519874/a8ce3z7B_400x400.jpg" group-title="Sem Categoria",Tv Gazeta
 https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1225547492445519874/a8ce3z7B_400x400.jpg" group-title="Sem Categoria",Tv Gazeta
