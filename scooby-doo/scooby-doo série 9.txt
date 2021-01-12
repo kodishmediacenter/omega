@@ -9,7 +9,7 @@
 *******************
 <item>
 1<title>[I][B][COLOR white]• [COLOR forestgreen]1 [COLOR white]- [COLOR goldenrod] Não há criatura como criatura da neve[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-1<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP01</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+1<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP01</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 1<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/3uySe8DvCwVPUrM3k2tn0GbYvG2.jpg</thumbnail>
 1<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 1<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
@@ -18,7 +18,7 @@
 </item>
 <item>
 2<title>[I][B][COLOR white]• [COLOR forestgreen]2 [COLOR white]- [COLOR goldenrod] Estrutura 3-D[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-2<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP02</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+2<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP02</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 2<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/3uySe8DvCwVPUrM3k2tn0GbYvG2.jpg</thumbnail>
 2<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 2<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
@@ -27,7 +27,7 @@
 </item>
 <item>
 3<title>[I][B][COLOR white]• [COLOR forestgreen]3 [COLOR white]- [COLOR goldenrod] Space Ape no Cabo[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-3<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP03</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+3<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP03</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 3<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/3uySe8DvCwVPUrM3k2tn0GbYvG2.jpg</thumbnail>
 3<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 3<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
@@ -36,7 +36,7 @@
 </item>
 <item>
 4<title>[I][B][COLOR white]• [COLOR forestgreen]4 [COLOR white]- [COLOR goldenrod] Grande susto no Big Easy[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-4<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP04</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+4<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP04</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 4<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/3uySe8DvCwVPUrM3k2tn0GbYvG2.jpg</thumbnail>
 4<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 4<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
@@ -45,7 +45,7 @@
 </item>
 <item>
 5<title>[I][B][COLOR white]• [COLOR forestgreen]5 [COLOR white]- [COLOR goldenrod] É mau, é verde, é a máquina do mistério[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-5<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP05</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+5<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP05</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 5<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/3uySe8DvCwVPUrM3k2tn0GbYvG2.jpg</thumbnail>
 5<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 5<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
@@ -54,7 +54,7 @@
 </item>
 <item>
 6<title>[I][B][COLOR white]• [COLOR forestgreen]6 [COLOR white]- [COLOR goldenrod] Riva Ras Regas[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-6<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP06</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+6<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP06</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 6<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/3uySe8DvCwVPUrM3k2tn0GbYvG2.jpg</thumbnail>
 6<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 6<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
@@ -63,7 +63,7 @@
 </item>
 <item>
 7<title>[I][B][COLOR white]• [COLOR forestgreen]7 [COLOR white]- [COLOR goldenrod] Passeio de Roller Ghoster[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-7<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP07</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+7<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP07</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 7<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/3uySe8DvCwVPUrM3k2tn0GbYvG2.jpg</thumbnail>
 7<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 7<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
@@ -72,7 +72,7 @@
 </item>
 <item>
 8<title>[I][B][COLOR white]• [COLOR forestgreen]8 [COLOR white]- [COLOR goldenrod] Safari, então Goodie![COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-8<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP08</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+8<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP08</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 8<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/3uySe8DvCwVPUrM3k2tn0GbYvG2.jpg</thumbnail>
 8<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 8<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
@@ -81,7 +81,7 @@
 </item>
 <item>
 9<title>[I][B][COLOR white]• [COLOR forestgreen]9 [COLOR white]- [COLOR goldenrod] Ela vê monstros marinhos à beira-mar[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-9<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP09</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+9<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP09</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 9<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/3uySe8DvCwVPUrM3k2tn0GbYvG2.jpg</thumbnail>
 9<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 9<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
@@ -90,7 +90,7 @@
 </item>
 <item>
 10<title>[I][B][COLOR white]• [COLOR forestgreen]10 [COLOR white]- [COLOR goldenrod] Um Scooby-Doo! Natal[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-10<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP10</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+10<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP10</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 10<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/3uySe8DvCwVPUrM3k2tn0GbYvG2.jpg</thumbnail>
 10<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 10<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
@@ -99,7 +99,7 @@
 </item>
 <item>
 11<title>[I][B][COLOR white]• [COLOR forestgreen]11 [COLOR white]- [COLOR goldenrod] Toy Scary Boo[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-11<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP11</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+11<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP11</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 11<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/3uySe8DvCwVPUrM3k2tn0GbYvG2.jpg</thumbnail>
 11<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 11<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
@@ -108,7 +108,7 @@
 </item>
 <item>
 12<title>[I][B][COLOR white]• [COLOR forestgreen]12 [COLOR white]- [COLOR goldenrod] Luzes! Câmera! Mayhem![COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-12<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP12</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+12<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP12</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 12<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/3uySe8DvCwVPUrM3k2tn0GbYvG2.jpg</thumbnail>
 12<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 12<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
@@ -117,7 +117,7 @@
 </item>
 <item>
 13<title>[I][B][COLOR white]• [COLOR forestgreen]13 [COLOR white]- [COLOR goldenrod] Pompéia e Circunstâncias[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-13<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP13</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+13<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP13</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 13<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/3uySe8DvCwVPUrM3k2tn0GbYvG2.jpg</thumbnail>
 13<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 13<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
@@ -126,7 +126,7 @@
 </item>
 <item>
 14<title>[I][B][COLOR white]• [COLOR forestgreen]14 [COLOR white]- [COLOR goldenrod] O não natural[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-14<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP14</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+14<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP14</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 14<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/3uySe8DvCwVPUrM3k2tn0GbYvG2.jpg</thumbnail>
 14<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 14<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
@@ -143,7 +143,7 @@
 *******************
 <item>
 1<title>[I][B][COLOR white]• [COLOR forestgreen]1 [COLOR white]- [COLOR goldenrod] Grande Apetite em Little Tokyo[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-1<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP15</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+1<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP15</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 1<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/7nCCbfOMJkRz1O5UyZDiwqyJzxd.jpg</thumbnail>
 1<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 1<fanart>https://image.tmdb.org/t/p/original/pU9MndGLhdt2mbCoHnH2otEBH2b.jpg</fanart>
@@ -152,7 +152,7 @@
 </item>
 <item>
 2<title>[I][B][COLOR white]• [COLOR forestgreen]2 [COLOR white]- [COLOR goldenrod] Mummy Scares Best[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-2<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP16</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+2<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP16</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 2<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/7nCCbfOMJkRz1O5UyZDiwqyJzxd.jpg</thumbnail>
 2<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 2<fanart>https://image.tmdb.org/t/p/original/pU9MndGLhdt2mbCoHnH2otEBH2b.jpg</fanart>
@@ -161,7 +161,7 @@
 </item>
 <item>
 3<title>[I][B][COLOR white]• [COLOR forestgreen]3 [COLOR white]- [COLOR goldenrod] O Veloz e o Verme[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-3<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP17</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+3<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP17</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 3<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/7nCCbfOMJkRz1O5UyZDiwqyJzxd.jpg</thumbnail>
 3<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 3<fanart>https://image.tmdb.org/t/p/original/pU9MndGLhdt2mbCoHnH2otEBH2b.jpg</fanart>
@@ -170,7 +170,7 @@
 </item>
 <item>
 4<title>[I][B][COLOR white]• [COLOR forestgreen]4 [COLOR white]- [COLOR goldenrod] Casa dos Horrores de alta tecnologia[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-4<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP18</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+4<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP18</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 4<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/7nCCbfOMJkRz1O5UyZDiwqyJzxd.jpg</thumbnail>
 4<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 4<fanart>https://image.tmdb.org/t/p/original/pU9MndGLhdt2mbCoHnH2otEBH2b.jpg</fanart>
@@ -179,7 +179,7 @@
 </item>
 <item>
 5<title>[I][B][COLOR white]• [COLOR forestgreen]5 [COLOR white]- [COLOR goldenrod] O Vampiro Contra-Ataca[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-5<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP19</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+5<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP19</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 5<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/7nCCbfOMJkRz1O5UyZDiwqyJzxd.jpg</thumbnail>
 5<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 5<fanart>https://image.tmdb.org/t/p/original/pU9MndGLhdt2mbCoHnH2otEBH2b.jpg</fanart>
@@ -188,7 +188,7 @@
 </item>
 <item>
 6<title>[I][B][COLOR white]• [COLOR forestgreen]6 [COLOR white]- [COLOR goldenrod] Um Halloween Scooby-Doo[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-6<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP20</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+6<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP20</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 6<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/7nCCbfOMJkRz1O5UyZDiwqyJzxd.jpg</thumbnail>
 6<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 6<fanart>https://image.tmdb.org/t/p/original/pU9MndGLhdt2mbCoHnH2otEBH2b.jpg</fanart>
@@ -197,7 +197,7 @@
 </item>
 <item>
 7<title>[I][B][COLOR white]• [COLOR forestgreen]7 [COLOR white]- [COLOR goldenrod] Homeward Hound[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-7<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP21</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+7<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP21</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 7<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/7nCCbfOMJkRz1O5UyZDiwqyJzxd.jpg</thumbnail>
 7<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 7<fanart>https://image.tmdb.org/t/p/original/pU9MndGLhdt2mbCoHnH2otEBH2b.jpg</fanart>
@@ -206,7 +206,7 @@
 </item>
 <item>
 8<title>[I][B][COLOR white]• [COLOR forestgreen]8 [COLOR white]- [COLOR goldenrod] The San Franpsycho[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-8<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP22</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+8<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP22</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 8<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/7nCCbfOMJkRz1O5UyZDiwqyJzxd.jpg</thumbnail>
 8<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 8<fanart>https://image.tmdb.org/t/p/original/pU9MndGLhdt2mbCoHnH2otEBH2b.jpg</fanart>
@@ -215,7 +215,7 @@
 </item>
 <item>
 9<title>[I][B][COLOR white]• [COLOR forestgreen]9 [COLOR white]- [COLOR goldenrod] Simple Plan e o Invisible Madman[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-9<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP23</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+9<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP23</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 9<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/7nCCbfOMJkRz1O5UyZDiwqyJzxd.jpg</thumbnail>
 9<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 9<fanart>https://image.tmdb.org/t/p/original/pU9MndGLhdt2mbCoHnH2otEBH2b.jpg</fanart>
@@ -224,7 +224,7 @@
 </item>
 <item>
 10<title>[I][B][COLOR white]• [COLOR forestgreen]10 [COLOR white]- [COLOR goldenrod] Receita para o desastre[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-10<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP24</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+10<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP24</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 10<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/7nCCbfOMJkRz1O5UyZDiwqyJzxd.jpg</thumbnail>
 10<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 10<fanart>https://image.tmdb.org/t/p/original/pU9MndGLhdt2mbCoHnH2otEBH2b.jpg</fanart>
@@ -233,7 +233,7 @@
 </item>
 <item>
 11<title>[I][B][COLOR white]• [COLOR forestgreen]11 [COLOR white]- [COLOR goldenrod] Grande Dragão em Grande[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-11<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP25</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+11<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP25</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 11<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/7nCCbfOMJkRz1O5UyZDiwqyJzxd.jpg</thumbnail>
 11<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 11<fanart>https://image.tmdb.org/t/p/original/pU9MndGLhdt2mbCoHnH2otEBH2b.jpg</fanart>
@@ -242,7 +242,7 @@
 </item>
 <item>
 12<title>[I][B][COLOR white]• [COLOR forestgreen]12 [COLOR white]- [COLOR goldenrod] Tio Scooby e a Antártica[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-12<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP26</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+12<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP26</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 12<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/7nCCbfOMJkRz1O5UyZDiwqyJzxd.jpg</thumbnail>
 12<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 12<fanart>https://image.tmdb.org/t/p/original/pU9MndGLhdt2mbCoHnH2otEBH2b.jpg</fanart>
@@ -251,7 +251,7 @@
 </item>
 <item>
 13<title>[I][B][COLOR white]• [COLOR forestgreen]13 [COLOR white]- [COLOR goldenrod] Novo México, Old Monster[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-13<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP27</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+13<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP27</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 13<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/7nCCbfOMJkRz1O5UyZDiwqyJzxd.jpg</thumbnail>
 13<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 13<fanart>https://image.tmdb.org/t/p/original/pU9MndGLhdt2mbCoHnH2otEBH2b.jpg</fanart>
@@ -260,7 +260,7 @@
 </item>
 <item>
 14<title>[I][B][COLOR white]• [COLOR forestgreen]14 [COLOR white]- [COLOR goldenrod] Tudo é grego para Scooby[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-14<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP28</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+14<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP28</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 14<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/7nCCbfOMJkRz1O5UyZDiwqyJzxd.jpg</thumbnail>
 14<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 14<fanart>https://image.tmdb.org/t/p/original/pU9MndGLhdt2mbCoHnH2otEBH2b.jpg</fanart>
@@ -277,7 +277,7 @@
 *******************
 <item>
 1<title>[I][B][COLOR white]• [COLOR forestgreen]1 [COLOR white]- [COLOR goldenrod] Fright House of a Lighthouse[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-1<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP29</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+1<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP29</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 1<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/K1ADt4svphsneft94Zp2DYPmrj.jpg</thumbnail>
 1<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 1<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
@@ -286,7 +286,7 @@
 </item>
 <item>
 2<title>[I][B][COLOR white]• [COLOR forestgreen]2 [COLOR white]- [COLOR goldenrod] Vá para o oeste, jovem Scoob[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-2<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP30</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+2<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP30</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 2<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/K1ADt4svphsneft94Zp2DYPmrj.jpg</thumbnail>
 2<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 2<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
@@ -295,7 +295,7 @@
 </item>
 <item>
 3<title>[I][B][COLOR white]• [COLOR forestgreen]3 [COLOR white]- [COLOR goldenrod] Um Valentim Scooby-Doo[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-3<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP31</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+3<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP31</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 3<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/K1ADt4svphsneft94Zp2DYPmrj.jpg</thumbnail>
 3<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 3<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
@@ -304,7 +304,7 @@
 </item>
 <item>
 4<title>[I][B][COLOR white]• [COLOR forestgreen]4 [COLOR white]- [COLOR goldenrod] Wrestle Maniacs[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-4<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP32</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+4<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP32</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 4<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/K1ADt4svphsneft94Zp2DYPmrj.jpg</thumbnail>
 4<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 4<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
@@ -313,7 +313,7 @@
 </item>
 <item>
 5<title>[I][B][COLOR white]• [COLOR forestgreen]5 [COLOR white]- [COLOR goldenrod] Pronto para assustar[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-5<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP33</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+5<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP33</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 5<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/K1ADt4svphsneft94Zp2DYPmrj.jpg</thumbnail>
 5<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 5<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
@@ -322,7 +322,7 @@
 </item>
 <item>
 6<title>[I][B][COLOR white]• [COLOR forestgreen]6 [COLOR white]- [COLOR goldenrod] Cultivado e perigoso[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-6<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP34</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+6<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP34</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 6<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/K1ADt4svphsneft94Zp2DYPmrj.jpg</thumbnail>
 6<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 6<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
@@ -331,7 +331,7 @@
 </item>
 <item>
 7<title>[I][B][COLOR white]• [COLOR forestgreen]7 [COLOR white]- [COLOR goldenrod] Diamantes são os melhores amigos de um ghoul[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-7<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP35</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+7<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP35</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 7<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/K1ADt4svphsneft94Zp2DYPmrj.jpg</thumbnail>
 7<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 7<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
@@ -340,7 +340,7 @@
 </item>
 <item>
 8<title>[I][B][COLOR white]• [COLOR forestgreen]8 [COLOR white]- [COLOR goldenrod] Uma rodada aterrorizante com um palhaço metálico ameaçador[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-8<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP36</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+8<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP36</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 8<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/K1ADt4svphsneft94Zp2DYPmrj.jpg</thumbnail>
 8<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 8<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
@@ -349,7 +349,7 @@
 </item>
 <item>
 9<title>[I][B][COLOR white]• [COLOR forestgreen]9 [COLOR white]- [COLOR goldenrod] Camp Comeoniwannascareya[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-9<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP37</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+9<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP37</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 9<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/K1ADt4svphsneft94Zp2DYPmrj.jpg</thumbnail>
 9<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 9<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
@@ -358,7 +358,7 @@
 </item>
 <item>
 10<title>[I][B][COLOR white]• [COLOR forestgreen]10 [COLOR white]- [COLOR goldenrod] Terror de longo bloco em Hong Kong[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-10<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP38</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+10<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP38</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 10<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/K1ADt4svphsneft94Zp2DYPmrj.jpg</thumbnail>
 10<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 10<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
@@ -367,7 +367,7 @@
 </item>
 <item>
 11<title>[I][B][COLOR white]• [COLOR forestgreen]11 [COLOR white]- [COLOR goldenrod] Senhores, comecem seus monstros[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-11<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP39</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+11<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP39</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 11<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/K1ADt4svphsneft94Zp2DYPmrj.jpg</thumbnail>
 11<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 11<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
@@ -376,7 +376,7 @@
 </item>
 <item>
 12<title>[I][B][COLOR white]• [COLOR forestgreen]12 [COLOR white]- [COLOR goldenrod] Gold Paw[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-12<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP40</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+12<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP40</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 12<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/K1ADt4svphsneft94Zp2DYPmrj.jpg</thumbnail>
 12<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 12<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
@@ -385,7 +385,7 @@
 </item>
 <item>
 13<title>[I][B][COLOR white]• [COLOR forestgreen]13 [COLOR white]- [COLOR goldenrod] Reef Grief![COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-13<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP41</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+13<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP41</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 13<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/K1ADt4svphsneft94Zp2DYPmrj.jpg</thumbnail>
 13<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 13<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
@@ -394,7 +394,7 @@
 </item>
 <item>
 14<title>[I][B][COLOR white]• [COLOR forestgreen]14 [COLOR white]- [COLOR goldenrod] E-Scream[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-14<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://megafilmeshd50.top/player/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP42</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+14<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP42</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
 14<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/K1ADt4svphsneft94Zp2DYPmrj.jpg</thumbnail>
 14<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
 14<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
