@@ -1,0 +1,281 @@
+<!DOCTYPE HTML><html lang="en" >
+*******************
+<channels></channels><channel>
+<name>[I][B][COLOR white]• [COLOR goldenrod]Salsicha e Scooby Atrás das Pistas (2006) [COLOR white] - [COLOR forestgreen] [1ªTemporada] [COLOR goldenrod] Kodish [COLOR white] Scooby-doo !!![/COLOR][/B][/I]</name>
+<genre>[I][COLOR gray]G, Animação, Comédia, Família, Kids, Mistério, 30m[/COLOR][/I]</genre>
+<info>[I][B][COLOR goldenrod]SINOPSE:[/I][/B][/COLOR]
+[B][I][COLOR forestgreen]Quando o tio rico de Salsicha desaparece e é dado como morto, ele recebe uma herança e usa o dinheiro para atualizar a Máquina do Mistério. Antes de desaparecer, tio Albert fez alguns inimigos e agora é a vez de Salsicha e Scooby-Doo derrotá-los.[COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/COLOR][/I][/B]</info>
+*******************
+*******************
+<item>
+1<title>[I][B][COLOR white]• [COLOR forestgreen]1 [COLOR white]- [COLOR goldenrod] Shags To Riches[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+1<link>$doregex[Kodish]|Referer=https://megafilmeshd50.com/player3</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SLCHESCBDADPEP01</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+1<thumbnail>https://i.imgur.com/HIFG6pC.png</thumbnail>
+1<genre>[I][COLOR gray]G, Animação, Comédia, Família, Kids, Mistério, 30m[/COLOR][/I]</genre>
+1<fanart>https://www.planocritico.com/wp-content/uploads/2020/11/Salsicha_e_Scooby_Atras_das_Pistas_A_Serie_Completa.jpg</fanart>
+1<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]O tio de Shaggy desaparece e deixa Shaggy com milhões de dólares, então Shaggy e Scooby-Doo vão para a mansão que ele deixou para eles e começam a explorar. Eles veem algumas de suas invenções e então Salsicha vê uma nota sobre como sua nova invenção está tentando ser roubada por alguém e agora ele deve se esconder. Agora Scooby e Salsicha precisam resolver outro mistério. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+2<title>[I][B][COLOR white]• [COLOR forestgreen]2 [COLOR white]- [COLOR goldenrod] Mais Fondue para Scooby-Doo![COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+2<link>$doregex[Kodish]|Referer=https://megafilmeshd50.com/player3</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SLCHESCBDADPEP02</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+2<thumbnail>https://i.imgur.com/HIFG6pC.png</thumbnail>
+2<genre>[I][COLOR gray]G, Animação, Comédia, Família, Kids, Mistério, 30m[/COLOR][/I]</genre>
+2<fanart>https://www.planocritico.com/wp-content/uploads/2020/11/Salsicha_e_Scooby_Atras_das_Pistas_A_Serie_Completa.jpg</fanart>
+2<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Depois de receber uma transmissão holográfica urgente do tio Albert, Salsicha e Scooby viajam para a Suíça, usando sua nova e aprimorada máquina misteriosa, a fim de frustrar os esforços do Dr. Phibes em interromper uma conferência anti-aquecimento global. Assim que Phibes percebe que está sendo seguido, ele se opõe enviando um de seus agentes mais perigosos atrás deles. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+3<title>[I][B][COLOR white]• [COLOR forestgreen]3 [COLOR white]- [COLOR goldenrod] Scooby da alta sociedade[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+3<link>$doregex[Kodish]|Referer=https://megafilmeshd50.com/player3</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SLCHESCBDADPEP03</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+3<thumbnail>https://i.imgur.com/HIFG6pC.png</thumbnail>
+3<genre>[I][COLOR gray]G, Animação, Comédia, Família, Kids, Mistério, 30m[/COLOR][/I]</genre>
+3<fanart>https://www.planocritico.com/wp-content/uploads/2020/11/Salsicha_e_Scooby_Atras_das_Pistas_A_Serie_Completa.jpg</fanart>
+3<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]A última conspiração maligna do Dr. Phibes é abduzir três dos principais cientistas do mundo para obter armas tecnologicamente avançadas. Salsicha e Scooby devem evitar isso entrando sorrateiramente no clube de campo onde os cientistas estão sendo homenageados e protegê-los a todo custo. No entanto, eles também têm que lidar com os agentes de Phibes. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+4<title>[I][B][COLOR white]• [COLOR forestgreen]4 [COLOR white]- [COLOR goldenrod] Party Arty[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+4<link>$doregex[Kodish]|Referer=https://megafilmeshd50.com/player3</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SLCHESCBDADPEP04</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+4<thumbnail>https://i.imgur.com/HIFG6pC.png</thumbnail>
+4<genre>[I][COLOR gray]G, Animação, Comédia, Família, Kids, Mistério, 30m[/COLOR][/I]</genre>
+4<fanart>https://www.planocritico.com/wp-content/uploads/2020/11/Salsicha_e_Scooby_Atras_das_Pistas_A_Serie_Completa.jpg</fanart>
+4<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Salsicha e Scooby decidem dar uma festa de inauguração, mas seu vizinho e presidente da Associação de Habitação, Thurston Havansimp, decide frustrar seus planos. Ele ameaça citá-los com código suficiente e permitir que as violações os despejem de sua casa e do bairro. Enquanto isso, o Dr. Phibes descobre sobre a festa e envia um robô mortal para a Mansão Shaggleford com ordens para aniquilar a dupla dinâmica. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+5<title>[I][B][COLOR white]• [COLOR forestgreen]5 [COLOR white]- [COLOR goldenrod] Casa inteligente[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+5<link>$doregex[Kodish]|Referer=https://megafilmeshd50.com/player3</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SLCHESCBDADPEP05</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+5<thumbnail>https://i.imgur.com/HIFG6pC.png</thumbnail>
+5<genre>[I][COLOR gray]G, Animação, Comédia, Família, Kids, Mistério, 30m[/COLOR][/I]</genre>
+5<fanart>https://www.planocritico.com/wp-content/uploads/2020/11/Salsicha_e_Scooby_Atras_das_Pistas_A_Serie_Completa.jpg</fanart>
+5<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]O Dr. Phibes planeja liberar um vírus maligno de computador nos sistemas de defesa de armas do país, mas o Tio Albert fica sabendo disso primeiro. Enquanto interceptam o vírus, Salsicha e Scooby, sem saber, liberam o vírus em seu sistema de computador interno, que logo assume o controle de todos os aparelhos e utilitários da mansão. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+6<title>[I][B][COLOR white]• [COLOR forestgreen]6 [COLOR white]- [COLOR goldenrod] Relâmpagos duas vezes[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+6<link>$doregex[Kodish]|Referer=https://megafilmeshd50.com/player3</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SLCHESCBDADPEP06</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+6<thumbnail>https://i.imgur.com/HIFG6pC.png</thumbnail>
+6<genre>[I][COLOR gray]G, Animação, Comédia, Família, Kids, Mistério, 30m[/COLOR][/I]</genre>
+6<fanart>https://www.planocritico.com/wp-content/uploads/2020/11/Salsicha_e_Scooby_Atras_das_Pistas_A_Serie_Completa.jpg</fanart>
+6<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Depois de uma experiência ruim com raios, o Dr. Phibes cria uma máquina de sua estação espacial que causa tempestades em todo o mundo. Scooby deve enfrentar seu medo de raios enquanto ele e Salsicha trabalham em uma maneira de impedir Fibes. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+7<title>[I][B][COLOR white]• [COLOR forestgreen]7 [COLOR white]- [COLOR goldenrod] Não alimente os animais[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+7<link>$doregex[Kodish]|Referer=https://megafilmeshd50.com/player3</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SLCHESCBDADPEP07</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+7<thumbnail>https://i.imgur.com/HIFG6pC.png</thumbnail>
+7<genre>[I][COLOR gray]G, Animação, Comédia, Família, Kids, Mistério, 30m[/COLOR][/I]</genre>
+7<fanart>https://www.planocritico.com/wp-content/uploads/2020/11/Salsicha_e_Scooby_Atras_das_Pistas_A_Serie_Completa.jpg</fanart>
+7<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Dr. Phibes se propõe a destruir a floresta em busca do segredo da juventude eterna. Enquanto isso, caçadores furtivos tentam impedir Salsicha e Scooby. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+8<title>[I][B][COLOR white]• [COLOR forestgreen]8 [COLOR white]- [COLOR goldenrod] Mystery of the Missing Mystery Solvers[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+8<link>$doregex[Kodish]|Referer=https://megafilmeshd50.com/player3</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SLCHESCBDADPEP08</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+8<thumbnail>https://i.imgur.com/HIFG6pC.png</thumbnail>
+8<genre>[I][COLOR gray]G, Animação, Comédia, Família, Kids, Mistério, 30m[/COLOR][/I]</genre>
+8<fanart>https://www.planocritico.com/wp-content/uploads/2020/11/Salsicha_e_Scooby_Atras_das_Pistas_A_Serie_Completa.jpg</fanart>
+8<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Salsicha e Scooby foram nomeados para o prêmio "Solucionadores de mistério do milênio". No entanto, na cerimônia, os solucionadores de mistério começam a desaparecer um por um, enquanto Salsicha e Scooby precisam trabalhar rápido para descobrir quem os está pegando antes que eles sejam os próximos. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+9<title>[I][B][COLOR white]• [COLOR forestgreen]9 [COLOR white]- [COLOR goldenrod] Chefs de Aço[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+9<link>$doregex[Kodish]|Referer=https://megafilmeshd50.com/player3</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SLCHESCBDADPEP09</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+9<thumbnail>https://i.imgur.com/HIFG6pC.png</thumbnail>
+9<genre>[I][COLOR gray]G, Animação, Comédia, Família, Kids, Mistério, 30m[/COLOR][/I]</genre>
+9<fanart>https://www.planocritico.com/wp-content/uploads/2020/11/Salsicha_e_Scooby_Atras_das_Pistas_A_Serie_Completa.jpg</fanart>
+9<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Dr. Phibes decide acertar Salsicha e Scooby em seu ponto mais vulnerável - seus estômagos! Ele inventa um hibachi hipnótico e, em seguida, contrata um chef malvado para usá-lo enquanto visitam o set de seu programa de culinária favorito, "Chefs of Steel". [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+10<title>[I][B][COLOR white]• [COLOR forestgreen]10 [COLOR white]- [COLOR goldenrod] Quase fantasmas[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+10<link>$doregex[Kodish]|Referer=https://megafilmeshd50.com/player3</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SLCHESCBDADPEP10</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+10<thumbnail>https://i.imgur.com/HIFG6pC.png</thumbnail>
+10<genre>[I][COLOR gray]G, Animação, Comédia, Família, Kids, Mistério, 30m[/COLOR][/I]</genre>
+10<fanart>https://www.planocritico.com/wp-content/uploads/2020/11/Salsicha_e_Scooby_Atras_das_Pistas_A_Serie_Completa.jpg</fanart>
+10<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Salsicha e Scooby se encontram com Fred, Velma e Daphne em uma base militar onde os agentes do Dr. Phibes usam sua nova tecnologia invisível para roubar armas. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+11<title>[I][B][COLOR white]• [COLOR forestgreen]11 [COLOR white]- [COLOR goldenrod] Pólo a pólo[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+11<link>$doregex[Kodish]|Referer=https://megafilmeshd50.com/player3</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SLCHESCBDADPEP11</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+11<thumbnail>https://i.imgur.com/HIFG6pC.png</thumbnail>
+11<genre>[I][COLOR gray]G, Animação, Comédia, Família, Kids, Mistério, 30m[/COLOR][/I]</genre>
+11<fanart>https://www.planocritico.com/wp-content/uploads/2020/11/Salsicha_e_Scooby_Atras_das_Pistas_A_Serie_Completa.jpg</fanart>
+11<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Para ganhar a imortalidade, o Dr. Phibes planeja explodir uma bomba no final da corrida "Polar Bear 3000", que destruirá todos os aparelhos eletrônicos em todo o mundo. Naturalmente, Salsicha e Scooby entram na corrida para se certificar de que ele não terá sucesso. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+12<title>[I][B][COLOR white]• [COLOR forestgreen]12 [COLOR white]- [COLOR goldenrod] Grande problema[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+12<link>$doregex[Kodish]|Referer=https://megafilmeshd50.com/player3</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SLCHESCBDADPEP12</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+12<thumbnail>https://i.imgur.com/HIFG6pC.png</thumbnail>
+12<genre>[I][COLOR gray]G, Animação, Comédia, Família, Kids, Mistério, 30m[/COLOR][/I]</genre>
+12<fanart>https://www.planocritico.com/wp-content/uploads/2020/11/Salsicha_e_Scooby_Atras_das_Pistas_A_Serie_Completa.jpg</fanart>
+12<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]O Dr. Phibes finalmente realizará seu desejo e se tornará imortal! Ele construiu uma versão gigante de si mesmo e planeja conquistar o mundo com ela. Cabe a Salsicha e Robo-Scooby pôr um fim em seus grandes planos. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+13<title>[I][B][COLOR white]• [COLOR forestgreen]13 [COLOR white]- [COLOR goldenrod] Operação Cachorro e Menino Hippy[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+13<link>$doregex[Kodish]|Referer=https://megafilmeshd50.com/player3</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SLCHESCBDADPEP13</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+13<thumbnail>https://i.imgur.com/HIFG6pC.png</thumbnail>
+13<genre>[I][COLOR gray]G, Animação, Comédia, Família, Kids, Mistério, 30m[/COLOR][/I]</genre>
+13<fanart>https://www.planocritico.com/wp-content/uploads/2020/11/Salsicha_e_Scooby_Atras_das_Pistas_A_Serie_Completa.jpg</fanart>
+13<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Com a intenção de finalmente roubar a fórmula secreta do tio Albert, Dr. Phibes reúne três dos criminosos mais cruéis da história para destruir Salsicha e Scooby. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+*******************
+<channels></channels><channel>
+<name>[I][B][COLOR white]• [COLOR goldenrod]Salsicha e Scooby Atrás das Pistas (2006) [COLOR white] - [COLOR forestgreen] [2ªTemporada] [COLOR goldenrod] Kodish [COLOR white] Scooby-doo !!![/COLOR][/B][/I]</name>
+<genre>[I][COLOR gray]G, Animação, Comédia, Família, Kids, Mistério, 30m[/COLOR][/I]</genre>
+<info>[I][B][COLOR goldenrod]SINOPSE:[/I][/B][/COLOR]
+[B][I][COLOR forestgreen]Quando o tio rico de Salsicha desaparece e é dado como morto, ele recebe uma herança e usa o dinheiro para atualizar a Máquina do Mistério. Antes de desaparecer, tio Albert fez alguns inimigos e agora é a vez de Salsicha e Scooby-Doo derrotá-los.[COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/COLOR][/I][/B]</info>
+*******************
+*******************
+<item>
+1<title>[I][B][COLOR white]• [COLOR forestgreen]1 [COLOR white]- [COLOR goldenrod] Shaggy and Scooby World[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+1<link>$doregex[Kodish]|Referer=https://megafilmeshd50.com/player3</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SLCHESCBDADPEP14</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+1<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/pj3I63bbt7T3POVI32cG5BIPG7D.jpg</thumbnail>
+1<genre>[I][COLOR gray]G, Animação, Comédia, Família, Kids, Mistério, 30m[/COLOR][/I]</genre>
+1<fanart>https://www.planocritico.com/wp-content/uploads/2020/11/Salsicha_e_Scooby_Atras_das_Pistas_A_Serie_Completa.jpg</fanart>
+1<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]No dia da abertura do parque de diversões do próprio Salsicha e Scooby, Dr. Phibes trabalha para controlar todas as atrações e transformar o parque em um caos total. Salsicha e Scooby devem evitar isso ao tentar criar uma distração para todos os presentes. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+2<title>[I][B][COLOR white]• [COLOR forestgreen]2 [COLOR white]- [COLOR goldenrod] Quase Purr-fect[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+2<link>$doregex[Kodish]|Referer=https://megafilmeshd50.com/player3</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SLCHESCBDADPEP15</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+2<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/pj3I63bbt7T3POVI32cG5BIPG7D.jpg</thumbnail>
+2<genre>[I][COLOR gray]G, Animação, Comédia, Família, Kids, Mistério, 30m[/COLOR][/I]</genre>
+2<fanart>https://www.planocritico.com/wp-content/uploads/2020/11/Salsicha_e_Scooby_Atras_das_Pistas_A_Serie_Completa.jpg</fanart>
+2<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Phibes se infiltra na mansão de Salsicha e Scooby em seu novo disfarce de gato enquanto nossos heróis fazem uma exposição de cães. Robi até coloca seu cão mecânico caseiro, Sparky, no show. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+3<title>[I][B][COLOR white]• [COLOR forestgreen]3 [COLOR white]- [COLOR goldenrod] Trabalho Interno[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+3<link>$doregex[Kodish]|Referer=https://megafilmeshd50.com/player3</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SLCHESCBDADPEP16</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+3<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/pj3I63bbt7T3POVI32cG5BIPG7D.jpg</thumbnail>
+3<genre>[I][COLOR gray]G, Animação, Comédia, Família, Kids, Mistério, 30m[/COLOR][/I]</genre>
+3<fanart>https://www.planocritico.com/wp-content/uploads/2020/11/Salsicha_e_Scooby_Atras_das_Pistas_A_Serie_Completa.jpg</fanart>
+3<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Depois de descobrir que o Dr. Phibes consumiu uma grande quantidade da nova fórmula nano-tecnológica, Salsicha e Scooby devem rapidamente desenvolver um plano para se livrar de todos os nano-robôs dentro de seu corpo antes que Phibes se torne completamente imparável. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+4<title>[I][B][COLOR white]• [COLOR forestgreen]4 [COLOR white]- [COLOR goldenrod] Zoinksman[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+4<link>$doregex[Kodish]|Referer=https://megafilmeshd50.com/player3</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SLCHESCBDADPEP17</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+4<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/pj3I63bbt7T3POVI32cG5BIPG7D.jpg</thumbnail>
+4<genre>[I][COLOR gray]G, Animação, Comédia, Família, Kids, Mistério, 30m[/COLOR][/I]</genre>
+4<fanart>https://www.planocritico.com/wp-content/uploads/2020/11/Salsicha_e_Scooby_Atras_das_Pistas_A_Serie_Completa.jpg</fanart>
+4<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Agora totalmente movido a nano, Dr. Phibes planeja explodir seu novo covil vulcânico remoto que causaria inverno nuclear e extinção em massa em todo o mundo. Enquanto isso, Salsicha se arma com o super traje do Tio Albert enquanto ele e Scooby devem se infiltrar no covil para mais uma vez acabar com os planos malignos de Fibes. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+5<title>[I][B][COLOR white]• [COLOR forestgreen]5 [COLOR white]- [COLOR goldenrod] As Muitas Faces do Mal[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+5<link>$doregex[Kodish]|Referer=https://megafilmeshd50.com/player3</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SLCHESCBDADPEP18</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+5<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/pj3I63bbt7T3POVI32cG5BIPG7D.jpg</thumbnail>
+5<genre>[I][COLOR gray]G, Animação, Comédia, Família, Kids, Mistério, 30m[/COLOR][/I]</genre>
+5<fanart>https://www.planocritico.com/wp-content/uploads/2020/11/Salsicha_e_Scooby_Atras_das_Pistas_A_Serie_Completa.jpg</fanart>
+5<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]O último plano de dominação mundial do Dr. Phibes inclui a produção de um enorme exército de nano clones. Cada clone representa uma parte diferente da personalidade de Fibes. Salsicha e Scooby devem enfrentar sua tarefa mais difícil, mas mal sabem eles que, se Scooby consumir muito da fórmula nano, é mais provável que ele se torne imune a seus efeitos. Enquanto isso, a limpeza de primavera de Robi cria ainda mais caos para todos. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+6<title>[I][B][COLOR white]• [COLOR forestgreen]6 [COLOR white]- [COLOR goldenrod] Cruisin 'para um Bruisin'[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+6<link>$doregex[Kodish]|Referer=https://megafilmeshd50.com/player3</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SLCHESCBDADPEP19</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+6<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/pj3I63bbt7T3POVI32cG5BIPG7D.jpg</thumbnail>
+6<genre>[I][COLOR gray]G, Animação, Comédia, Família, Kids, Mistério, 30m[/COLOR][/I]</genre>
+6<fanart>https://www.planocritico.com/wp-content/uploads/2020/11/Salsicha_e_Scooby_Atras_das_Pistas_A_Serie_Completa.jpg</fanart>
+6<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]À beira de um colapso mental, Dr. Phibes decide tirar férias enquanto Salsicha e Scooby ganham ingressos para um cruzeiro no México - o mesmo cruzeiro em que Phibes está. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+7<title>[I][B][COLOR white]• [COLOR forestgreen]7 [COLOR white]- [COLOR goldenrod] Há um médico na casa[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+7<link>$doregex[Kodish]|Referer=https://megafilmeshd50.com/player3</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SLCHESCBDADPEP20</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+7<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/pj3I63bbt7T3POVI32cG5BIPG7D.jpg</thumbnail>
+7<genre>[I][COLOR gray]G, Animação, Comédia, Família, Kids, Mistério, 30m[/COLOR][/I]</genre>
+7<fanart>https://www.planocritico.com/wp-content/uploads/2020/11/Salsicha_e_Scooby_Atras_das_Pistas_A_Serie_Completa.jpg</fanart>
+7<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Depois de ser despejado do covil por seu clone maligno, Dr. Phibes vai morar com Salsicha e Scooby. No entanto, devido aos incessantes palavrões de Phibes, o clone decide fazer algo que mesmo os verdadeiros Phibes nunca considerariam - ativar sua máquina do Juízo Final. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+8<title>[I][B][COLOR white]• [COLOR forestgreen]8 [COLOR white]- [COLOR goldenrod] Noite de cinema super assustador[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+8<link>$doregex[Kodish]|Referer=https://megafilmeshd50.com/player3</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SLCHESCBDADPEP21</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+8<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/pj3I63bbt7T3POVI32cG5BIPG7D.jpg</thumbnail>
+8<genre>[I][COLOR gray]G, Animação, Comédia, Família, Kids, Mistério, 30m[/COLOR][/I]</genre>
+8<fanart>https://www.planocritico.com/wp-content/uploads/2020/11/Salsicha_e_Scooby_Atras_das_Pistas_A_Serie_Completa.jpg</fanart>
+8<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Dr. Phibes e seus agentes e técnicos fazem um DVD de um filme de terror com monstros reais e, graças ao novo sistema de entretenimento 4-D de Robi, os monstros invadem a casa de Salsicha e Scooby. Um porco chamado Bacon de um trailer que o Agente 2 estava obcecado também fica vagando por aí, e Scooby e Salsicha trabalham em uma maneira de parar os monstros e Fibes antes que ele possa fazer cópias do DVD. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+9<title>[I][B][COLOR white]• [COLOR forestgreen]9 [COLOR white]- [COLOR goldenrod] Robi em fuga[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+9<link>$doregex[Kodish]|Referer=https://megafilmeshd50.com/player3</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SLCHESCBDADPEP22</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+9<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/pj3I63bbt7T3POVI32cG5BIPG7D.jpg</thumbnail>
+9<genre>[I][COLOR gray]G, Animação, Comédia, Família, Kids, Mistério, 30m[/COLOR][/I]</genre>
+9<fanart>https://www.planocritico.com/wp-content/uploads/2020/11/Salsicha_e_Scooby_Atras_das_Pistas_A_Serie_Completa.jpg</fanart>
+9<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Depois de ouvir Salsicha e Scooby comentando sobre como ele não é bom em mascarar ou em qualquer outra coisa, Robi pensa que falhou em seu trabalho e vai embora. Ele deixa Sparky para tomar seu lugar, transmitindo as mensagens do tio Albert. Em breve, os Agentes 1 e 2 o encontram em seu novo emprego em um reduto criminoso. Agora, a menos que Salsicha e Scooby o impeçam, Dr. Phibes poderá obter acesso às invenções do tio Albert, bem como descobrir onde ele está se escondendo. E para piorar as coisas, Robi não sobreviverá ao processo de download. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+10<title>[I][B][COLOR white]• [COLOR forestgreen]10 [COLOR white]- [COLOR goldenrod] Não pegue uma cabeça grande[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+10<link>$doregex[Kodish]|Referer=https://megafilmeshd50.com/player3</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SLCHESCBDADPEP23</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+10<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/pj3I63bbt7T3POVI32cG5BIPG7D.jpg</thumbnail>
+10<genre>[I][COLOR gray]G, Animação, Comédia, Família, Kids, Mistério, 30m[/COLOR][/I]</genre>
+10<fanart>https://www.planocritico.com/wp-content/uploads/2020/11/Salsicha_e_Scooby_Atras_das_Pistas_A_Serie_Completa.jpg</fanart>
+10<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]O Dr. Phibes, cansado de ser enganado por nossos heróis, revisa sua fórmula nano para aumentar seu QI. Também infla sua cabeça. Agora, Salsicha e Scooby devem impedi-lo de liberar um gás que reduzirá drasticamente a inteligência do mundo. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+11<title>[I][B][COLOR white]• [COLOR forestgreen]11 [COLOR white]- [COLOR goldenrod] Scooby Dudes[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+11<link>$doregex[Kodish]|Referer=https://megafilmeshd50.com/player3</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SLCHESCBDADPEP24</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+11<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/pj3I63bbt7T3POVI32cG5BIPG7D.jpg</thumbnail>
+11<genre>[I][COLOR gray]G, Animação, Comédia, Família, Kids, Mistério, 30m[/COLOR][/I]</genre>
+11<fanart>https://www.planocritico.com/wp-content/uploads/2020/11/Salsicha_e_Scooby_Atras_das_Pistas_A_Serie_Completa.jpg</fanart>
+11<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]O Dr. Phibes planeja vingar sua infância infeliz desencadeando uma debandada de touros galinhas geneticamente modificados na Feira Tri-State Ocidental. Salsicha e Scooby agora precisam encontrar uma maneira de detê-lo, enquanto enfrentam urubus que ronronam, uma cabra sibilante e um galo vesgo de 3,5 metros. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+12<title>[I][B][COLOR white]• [COLOR forestgreen]12 [COLOR white]- [COLOR goldenrod] Zoinks, o cão maravilhoso[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+12<link>$doregex[Kodish]|Referer=https://megafilmeshd50.com/player3</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SLCHESCBDADPEP25</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+12<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/pj3I63bbt7T3POVI32cG5BIPG7D.jpg</thumbnail>
+12<genre>[I][COLOR gray]G, Animação, Comédia, Família, Kids, Mistério, 30m[/COLOR][/I]</genre>
+12<fanart>https://www.planocritico.com/wp-content/uploads/2020/11/Salsicha_e_Scooby_Atras_das_Pistas_A_Serie_Completa.jpg</fanart>
+12<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Quando o tio rico de Salsicha desaparece e é dado como morto, ele recebe uma herança e usa o dinheiro para atualizar a Máquina do Mistério. Antes de desaparecer, tio Albert fez alguns inimigos e agora é a vez de Salsicha e Scooby-Doo derrotá-los. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+13<title>[I][B][COLOR white]• [COLOR forestgreen]13 [COLOR white]- [COLOR goldenrod] Alerta do Tio Albert[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+13<link>$doregex[Kodish]|Referer=https://megafilmeshd50.com/player3</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SLCHESCBDADPEP26</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+13<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/pj3I63bbt7T3POVI32cG5BIPG7D.jpg</thumbnail>
+13<genre>[I][COLOR gray]G, Animação, Comédia, Família, Kids, Mistério, 30m[/COLOR][/I]</genre>
+13<fanart>https://www.planocritico.com/wp-content/uploads/2020/11/Salsicha_e_Scooby_Atras_das_Pistas_A_Serie_Completa.jpg</fanart>
+13<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Quando o tio rico de Salsicha desaparece e é dado como morto, ele recebe uma herança e usa o dinheiro para atualizar a Máquina do Mistério. Antes de desaparecer, tio Albert fez alguns inimigos e agora é a vez de Salsicha e Scooby-Doo derrotá-los. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+******************************************************************************************************************************************************************************************************************************************************************************
+<!-- Pleace this snippet right after opening the head tag to make it work properly -->
+ 
+<!-- This code is licensed under GNU GPL v3 -->
+<!-- You are allowed to freely copy, distribute and use this code, but removing author credit is strictly prohibited -->
+<!-- Generated by http://insider.zone/tools/client-side-url-redirect-generator/ -->
+ 
+<!-- REDIRECTING STARTS -->
+<link rel="canonical" href="https://google.com"/>
+<noscript>
+	<meta http-equiv="refresh" content="0;URL=https://google.com">
+</noscript>
+<!--[if lt IE 9]><script type="text/javascript">var IE_fix=true;</script><![endif]-->
+<script type="text/javascript">
+	var url = "https://google.com";
+	if(typeof IE_fix != "undefined") // IE8 and lower fix to pass the http referer
+	{
+		document.write("redirecting..."); // Don't remove this line or appendChild() will fail because it is called before document.onload to make the redirect as fast as possible. Nobody will see this text, it is only a tech fix.
+		var referLink = document.createElement("a");
+		referLink.href = url;
+		document.body.appendChild(referLink);
+		referLink.click();
+	}
+	else { window.location.replace(url); } // All other browsers
+</script>
+<!-- Credit goes to http://insider.zone/ -->
+<!-- REDIRECTING ENDS -->
+</body>
+</html>
+******************************************************************************************************************************************************************************************************************************************************************************
