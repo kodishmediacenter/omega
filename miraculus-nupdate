@@ -206,3 +206,52 @@
 <info></info>
 </item>
 
+<item>
+<title>Episódio 01 - Ladybug E O Natal</title>
+<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer03/ondemand/MRCLSLDBGT02EP01</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+<thumbnail>https://www.themoviedb.org/t/p/original/aNioAFrdtbKNrdcE1jAXuINxdwF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9RqliZcoDEjSEISeA0LY9meAiNv.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Episódio 02 - O Colecionador</title>
+<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer03/ondemand/MRCLSLDBGT02EP02</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+<thumbnail>https://www.themoviedb.org/t/p/original/aNioAFrdtbKNrdcE1jAXuINxdwF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9RqliZcoDEjSEISeA0LY9meAiNv.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Episódio 03 - O Urso Maligno</title>
+<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer03/ondemand/MRCLSLDBGT02EP03</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+<thumbnail>https://www.themoviedb.org/t/p/original/aNioAFrdtbKNrdcE1jAXuINxdwF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9RqliZcoDEjSEISeA0LY9meAiNv.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Episódio 04 - Rainha Repórter</title>
+<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer03/ondemand/MRCLSLDBGT02EP04</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+<thumbnail>https://www.themoviedb.org/t/p/original/aNioAFrdtbKNrdcE1jAXuINxdwF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9RqliZcoDEjSEISeA0LY9meAiNv.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Episódio 05 - Béfana</title>
+<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer03/ondemand/MRCLSLDBGT02EP05</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+<thumbnail>https://www.themoviedb.org/t/p/original/aNioAFrdtbKNrdcE1jAXuINxdwF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9RqliZcoDEjSEISeA0LY9meAiNv.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Episódio 06 - Riposte</title>
+<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer03/ondemand/MRCLSLDBGT02EP06</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+<thumbnail>https://www.themoviedb.org/t/p/original/aNioAFrdtbKNrdcE1jAXuINxdwF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9RqliZcoDEjSEISeA0LY9meAiNv.jpg</fanart>
+<info></info>
+</item>
+
+
