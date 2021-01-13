@@ -366,4 +366,52 @@
 <info></info>
 </item>
 
+<item>
+<title>Episódio 21 - Frozer</title>
+<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer03/ondemand/MRCLSLDBGT02EP21</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+<thumbnail>https://www.themoviedb.org/t/p/original/aNioAFrdtbKNrdcE1jAXuINxdwF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9RqliZcoDEjSEISeA0LY9meAiNv.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Episódio 22 - A Batalha das Rainhas (Parte 1)</title>
+<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer03/ondemand/MRCLSLDBGT02EP22</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+<thumbnail>https://www.themoviedb.org/t/p/original/aNioAFrdtbKNrdcE1jAXuINxdwF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9RqliZcoDEjSEISeA0LY9meAiNv.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Episódio 23 - A Batalha das Rainhas (Parte 2)</title>
+<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer03/ondemand/MRCLSLDBGT02EP23</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+<thumbnail>https://www.themoviedb.org/t/p/original/aNioAFrdtbKNrdcE1jAXuINxdwF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9RqliZcoDEjSEISeA0LY9meAiNv.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Episódio 24 - O Ditador</title>
+<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer03/ondemand/MRCLSLDBGT02EP24</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+<thumbnail>https://www.themoviedb.org/t/p/original/aNioAFrdtbKNrdcE1jAXuINxdwF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9RqliZcoDEjSEISeA0LY9meAiNv.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Episódio 25 - Dia dos Heróis (Parte 1)</title>
+<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer03/ondemand/MRCLSLDBGT02EP25</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+<thumbnail>https://www.themoviedb.org/t/p/original/aNioAFrdtbKNrdcE1jAXuINxdwF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9RqliZcoDEjSEISeA0LY9meAiNv.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Episódio 26 - Dia dos Heróis (Parte 2)</title>
+<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer03/ondemand/MRCLSLDBGT02EP26</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+<thumbnail>https://www.themoviedb.org/t/p/original/aNioAFrdtbKNrdcE1jAXuINxdwF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9RqliZcoDEjSEISeA0LY9meAiNv.jpg</fanart>
+<info></info>
+</item>
+
 
