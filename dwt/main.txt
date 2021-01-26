@@ -1,0 +1,68 @@
+
+<layouttype>thumbnail</layouttype>
+
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+
+<channels>
+
+<channel>
+<name>[COLOR blue][B]---------DWIGHT FARROKH LISTAS GRATIS------[/B][/COLOR]</name>
+<thumbnail>https://e7.pngegg.com/pngimages/406/997/png-clipart-siberian-husky-black-wolf-wall-decal-others-white-mammal.png</thumbnail>
+<externallink>https://0.0.0.0:0.0.0</externallink>
+<fanart>https://i.imgur.com/QIvFo82.jpg</fanart>
+<info>DWIGHT FARROKH LISTAS </info>
+</channel>
+
+
+
+
+<channel>
+<name>[COLOR blue][B]TV SERVIDOR 1[/B][/COLOR]</name>
+<thumbnail>https://png.pngtree.com/png-vector/20191120/ourlarge/pngtree-retro-tv-set-flat-chocolate-color-television-with-antenna-icon-symbol-png-image_2007798.jpg</thumbnail>
+<externallink>https://tvlistaadonn.blogspot.com/2021/01/servidor-1.html</externallink>
+<fanart>https://cdn.dribbble.com/users/3487466/screenshots/6402673/g1964.png</fanart>
+<info>DWIGHT FARROKH LISTAS </info>
+</channel>
+
+
+
+<channel>
+<name>[COLOR blue][B]TV SERVIDOR 2[/B][/COLOR]</name>
+<thumbnail>https://png.pngtree.com/png-vector/20191120/ourlarge/pngtree-retro-tv-set-flat-chocolate-color-television-with-antenna-icon-symbol-png-image_2007798.jpg</thumbnail>
+<externallink>https://tvlistaadonn.blogspot.com/2021/01/extm3uextinf-1-tvg-idae-tvg-namea-hd.html</externallink>
+<fanart>https://cdn.dribbble.com/users/3487466/screenshots/6402673/g1964.png</fanart>
+<info>DWIGHT FARROKH LISTAS</info>
+</channel>
+
+
+<channel>
+<name>[COLOR blue][B]TV SERVIDOR 3[/B][/COLOR]</name>
+<thumbnail>https://png.pngtree.com/png-vector/20191120/ourlarge/pngtree-retro-tv-set-flat-chocolate-color-television-with-antenna-icon-symbol-png-image_2007798.jpg</thumbnail>
+<externallink>http://listaiptvbrasil.com/tt.txt</externallink>
+<fanart>https://cdn.dribbble.com/users/3487466/screenshots/6402673/g1964.png</fanart>
+<info>DWIGHT FARROKH LISTAS</info>
+</channel>
+
+
+
+<channel>
+<name>[COLOR blue][B]SERVIDOR RADIOS[/B][/COLOR]</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Poste_Radio.svg/1200px-Poste_Radio.svg.png</thumbnail>
+<externallink>https://pastebin.com/raw/VhPEbFrA</externallink>
+<fanart>https://cdn.dribbble.com/users/3487466/screenshots/6402673/g1964.png</fanart>
+<info>DWIGHT FARROKH LISTAS</info>
+</channel>
+
+<channel>
+<name>[COLOR blue][B]SERVIDOR FILMES[/B][/COLOR]</name>
+<thumbnail>https://img3.stockfresh.com/files/d/djmilic/m/20/7742591_stock-photo-film-reel-and-movie-clapper-board-video-icon-3d.jpg</thumbnail>
+<externallink>https://tvlistaadonn.blogspot.com/2021/01/movie.html</externallink>
+<fanart>https://canalcienciascriminais.com.br/wp-content/uploads/2019/05/cinema.png</fanart>
+<info>DWIGHT FARROKH LISTAS</info>
+</channel>
+
+
+
+
+</channels>
