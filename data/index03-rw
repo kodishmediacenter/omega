@@ -1,14 +1,5 @@
 [COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]
 
- <channels>
- <channel>
- <name>[COLOR white][B] CBLOL 2021 [/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
- <thumbnail>https://i2.wp.com/cloud.estacaonerd.com/wp-content/uploads/2020/10/02144008/cblol.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/cblol</externallink>
- <fanart></fanart>
- <info></info>
- </channel>
- </channels>
 
 
 
@@ -23,16 +14,6 @@
  </channels>
  
 
-<channels>
- <channel>
- <name>[COLOR white][B]Em Casa Mas Feliz[/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
- <thumbnail>https://us.123rf.com/450wm/sergiusch/sergiusch2002/sergiusch200200003/141277941-no-coronavirus-icon-illustration-contains-vector-flat-no-coronavirus-pictogram-isolated-on-a-white-b.jpg?ver=6</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/Em%20Casa%20Mas%20Feliz</externallink>
- <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
- <info>Playlist dedicada para assistir shows gravados durante a quarentena</info>
- </channel>
- </channels>
- 
  <channels>
  <channel>
  <name>[COLOR white][B]Virtual Addon [/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
