@@ -5,10 +5,20 @@
 
  <channels>
  <channel>
+ <name>[COLOR white][B]CBLOL 2021[/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
+ <thumbnail>https://arenaesports.com.br/wp-content/uploads/2019/01/cblol-2019-logo.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/cblol</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
+ <info>Listas iptv</info>
+ </channel>
+ </channels>
+
+ <channels>
+ <channel>
  <name>[COLOR white][B]Lista IPTV Web[/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/iptv.png</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/canais-fta</externallink>
- <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
  <info>Listas iptv</info>
  </channel>
  </channels>
@@ -30,7 +40,7 @@
  <name>[COLOR white][B]Conteudo 24 horas[/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
  <thumbnail>https://img.freepik.com/vetores-gratis/neon-24-horas-aberta-tabuleta_1017-19487.jpg?size=338&ext=jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/24horas.xml</externallink>
- <fanart>https://spinoff.com.br/wp-content/uploads/watch-free-iptv-online-with-tablet-pc-smartphone-laptop-tv.jpg</fanart>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
  <info>Creditos a Fluxus Radio Credits the fluxus radio</info>
  </channel>
  </channels>
@@ -49,7 +59,7 @@
 <name>[COLOR white][B]Apks[/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
 <thumbnail>https://lh5.ggpht.com/aCdAa44RDJNrNx2ZtN93_CsTV19w-NjBnbXI7B15PuqH0uAizyD-GEkvHqFaigGBqw</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/apks</externallink>
-<fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
 <info></info>
 </channel>
 </channels>
