@@ -30,6 +30,21 @@ https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/eventos-pa
 
 <channels></channels>
 <channel>
+<name>Internacional (server2) </name>
+<thumbnail>https://static.quizur.com/i/b/59037311344079.79962784590373109564b0.28914150.jpg</thumbnail>
+
+<item>
+<title>Stop</title>
+<files>https://teresadapraiamidis.com/Mp3/Musicas/Internacionais/</files>
+<thumbnail>https://static.quizur.com/i/b/59037311344079.79962784590373109564b0.28914150.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+
+<channels></channels>
+<channel>
 <name>Flashback</name>
 <thumbnail>https://i.pinimg.com/564x/8e/02/27/8e02272edf9c0891cc09814048822ec6.jpg</thumbnail>
 
@@ -134,6 +149,21 @@ https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/eventos-pa
 <item>
 <title>Servidor 04</title>
 <files>http://peterewendy.com.br/Genero/Mp3/</files>
+<thumbnail>https://icon-library.com/images/icon-for-server/icon-for-server-5.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</channel>
+
+
+<channels></channels>
+<channel>
+<name>Servidor 05 </name>
+<thumbnail>https://icon-library.com/images/icon-for-server/icon-for-server-5.jpg</thumbnail>
+
+<item>
+<title>Servidor 05</title>
+<files>https://teresadapraiamidis.com/Mp3/Musicas/</files>
 <thumbnail>https://icon-library.com/images/icon-for-server/icon-for-server-5.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
