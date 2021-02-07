@@ -6,7 +6,7 @@ https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/eventos-pa
 <thumbnail>https://i.pinimg.com/564x/8e/02/27/8e02272edf9c0891cc09814048822ec6.jpg</thumbnail>
 
 <item>
-<title>Metalica</title>
+<title>Flashback</title>
 <files>http://peterewendy.com.br/Genero/Mp3/FLASHBACK/</files>
 <thumbnail>https://i.pinimg.com/564x/8e/02/27/8e02272edf9c0891cc09814048822ec6.jpg</thumbnail>
 <fanart></fanart>
@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/eventos-pa
 
 <item>
 <title>Metalica</title>
-<file>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/</file>
+<files>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/</files>
 <thumbnail>https://i.pinimg.com/originals/27/fa/e3/27fae3c8d97404467325cd18036b0ef7.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -39,7 +39,7 @@ https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/eventos-pa
 
 <item>
 <title>Os Beatles Server 01</title>
-<file>http://maslovd.ru/public/mp3/Beatles/</file>
+<files>http://maslovd.ru/public/mp3/Beatles/</files>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/919WO8q-nnL._AC_SL1500_.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -47,7 +47,7 @@ https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/eventos-pa
 
 <item>
 <title>Os Beatles Server 02</title>
-<file>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Beatles/</file>
+<files>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Beatles/</files>
 
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/919WO8q-nnL._AC_SL1500_.jpg</thumbnail>
 <fanart></fanart>
@@ -63,7 +63,7 @@ https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/eventos-pa
 
 <item>
 <title>Servidor 01</title>
-<file>http://teresadapraiamidis.com/Mp3/Musicas/</file>
+<files>http://teresadapraiamidis.com/Mp3/Musicas/</files>
 <thumbnail>https://icon-library.com/images/icon-for-server/icon-for-server-5.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -77,7 +77,7 @@ https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/eventos-pa
 
 <item>
 <title>Servidor 02</title>
-<file>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/</file>
+<files>http://hcmaslov.d-real.sci-nnov.ru/public/mp3/</files>
 <thumbnail>https://icon-library.com/images/icon-for-server/icon-for-server-5.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -91,7 +91,7 @@ https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/eventos-pa
 
 <item>
 <title>Servidor 03</title>
-<file>http://aniz-music.com/Musicas/</file>
+<files>http://aniz-music.com/Musicas/</files>
 <thumbnail>https://icon-library.com/images/icon-for-server/icon-for-server-5.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
