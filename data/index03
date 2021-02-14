@@ -1,6 +1,14 @@
 [COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]
 
-
+ <channels>
+ <channel>
+ <name>[COLOR white][B]Carnaval 2021 em Casa[/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
+ <thumbnail>http://venturacerimonial.com.br/wp-content/uploads/2017/01/16195127_1348664978527368_2739171635086544333_n.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/carnaval-emcasa</externallink>
+ <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
+ <info></info>
+ </channel>
+ </channels>
 
 
  <channels>
