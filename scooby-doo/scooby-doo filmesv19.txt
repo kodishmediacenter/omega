@@ -1,0 +1,316 @@
+<item>
+1<title>[I][B][COLOR white]• [COLOR forestgreen]1 [COLOR white]- [COLOR goldenrod] Filme 01 - Scooby-Doo na Ilha dos Zumbis[COLOR forestgreen] Kodish [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+1<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SCBDFLM01</page><referer>https://megafilmeshd50.com/filme/</referer></regex>
+1<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/y9CySYOtHl8mDu0GQ2eT2EcjFE9.jpg</thumbnail>
+1<genre>[I][COLOR gray]22/09/1998 (US), Animação, Comédia, Família, Mistério, Aventura, Terror, Fantasia, 1h 17m[/COLOR][/I]</genre>
+1<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/woFsToiI9otSnanKfChq5VKsgFp.jpg</fanart>
+1<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Esteja pronto para diversão do outro mundo neste longa metragem de Scooby-Doo novinho em folha. Scooby-Doo, Salsicha, Velma, Daphne, e Fred estão na ativa de novo para tentar resolver o mais assustador e diverdido mistério de suas carreiras, nossos "garotos intrometidos" desta vez encontram-se numa ilha mal-assombrada para investigar o fantasma do pirata Moonscar. Mas o espírito do corsário não é o único a atormentar a ilha. Os detetives também encontarm com estranhas criaturas e zumbis... e parece que, pela primeira vez na vida deles, esses mortos-vivos podem ser de verdade! Somente quando as coisas começam a ficar realmente apavorantes, é que Scooby e Salsicha salvam o dia graças a uma ajuda inesperada. Scooby-Doo na Ilha dos Zumbis é a mais hilariante aventura de Scooby em todos os tempos, repleta de música, risadas, calafrios e arrepios. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+
+<item>
+2<title>[I][B][COLOR white]• [COLOR forestgreen]2 [COLOR white]- [COLOR goldenrod] Filme 02 - Scooby-Doo e a Bruxa Fantasma[COLOR forestgreen] Kodish [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+2<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SCBDFLM02</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+2<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/7dXUodHXR1m0x6ZpyVpMrgNVfBD.jpg</thumbnail>
+2<genre>[I][COLOR gray]G, 05/11/1999 (US), Animação, Comédia, Mistério, Família, Fantasia, 1h 10m[/COLOR][/I]</genre>
+2<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/kFZQ2ogEfHSs1sfx4jsFS0cFdsJ.jpg</fanart>
+2<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Quando a turma encontra o famoso escritor de contos de terror Ben Ravencroft,ele os convida para acompanharem de perto o Festival da Colheita de Outubro em sua terra natal,New England.As coisas se transformam em férias sobrenaturais quando os garotos descobrem que o lugar é assobrado por Sarah,uma ancestral de Ben! Será que as investigações irão revelar que Sarah é uma alma boa ou uma perversa bruxa? [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+3<title>[I][B][COLOR white]• [COLOR forestgreen]3 [COLOR white]- [COLOR goldenrod] Filme 03 - Scooby-Doo e os Invasores Alienígenas[COLOR forestgreen] Kodish [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+3<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SCBDFLM03</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+3<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/sr3j6B3fLrZKnOvembNERKSayCv.jpg</thumbnail>
+3<genre>[I][COLOR gray]NR, 16/10/2000 (GB), Animação, Família, Comédia, Mistério, Ficção científica, Aventura, 1h 14m[/COLOR][/I]</genre>
+3<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/zWNSygfmyghMvtc74CAObNQwOka.jpg</fanart>
+3<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Prepare-se para a aventura mais intergaláctica de Scooby e sua turma! Tudo começa quando a turma se vê presa numa cidade deserta, cheia de cientistas esquisitos e alienígenas pouco amigáveis. Depois de serem perseguidos pelos alienígenas, irem parar a bordo de um OVNI, algo ainda mais esquisito e assustador acontece: Salsicha e Scooby se apaixonam perdidamente! A corrida para solucionar este caso intergaláctico, acaba levando a turma, de uma base secreta do governo, até as misteriosas cavernas secretas nos subterrâneos da cidade. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+4<title>[I][B][COLOR white]• [COLOR forestgreen]4 [COLOR white]- [COLOR goldenrod] Filme 04 - Scooby-Doo e a Caçada Virtual[COLOR forestgreen] Kodish [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+4<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SCBDFLM04</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+4<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/dA49IdwLQGTGjaYng9vuDV4uzL3.jpg</thumbnail>
+4<genre>[I][COLOR gray]NR, 09/10/2001 (US), Animação, Comédia, Família, Mistério, Ficção científica, Aventura, 1h 15m[/COLOR][/I]</genre>
+4<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/6CDXFSXGYscK9IrTPGYmC4dX0wV.jpg</fanart>
+4<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Scooby-Doo e sua turma enfrentam uma aventura eletrizante quando são atirados em um jogo de computador de alta tecnologia. Quando Scooby-Doo e o pessoal da Mistério S. A. tentam capturar o Vírus Fantasma, eles são transportados acidentalmente para um jogo baseado nas suas próprias aventuras. Enquanto procuram o Vírus Fantasma pelos dez níveis do jogo, a turma viaja do passado pré-histórico ao futuro e enfrenta confusões com uma horda horripilante de vilões virtuais. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+5<title>[I][B][COLOR white]• [COLOR forestgreen]5 [COLOR white]- [COLOR goldenrod] Filme 05 - Scooby-Doo e a Lenda do Vampiro[COLOR forestgreen] Kodish [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+5<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SCBDFLM05</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+5<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/vjGd0lEWNX1GUZ4IehyBBHHSJJl.jpg</thumbnail>
+5<genre>[I][COLOR gray]NR, 04/03/2003 (US), Animação, Comédia, Família, Fantasia, Música, Mistério, 1h 12m[/COLOR][/I]</genre>
+5<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/oKGpqHulHyqAc0Pzv7UMNGBgMCR.jpg</fanart>
+5<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Dessa vez, durante suas férias na Austrália, Scooby e a gangue vão a um show em Vampire Rock, onde um malvado vampiro está seqüestrando os músicos. Para solucionar esse mistério, toda turma precisa se disfarçar de músicos de uma banda de heavy metal! [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+6<title>[I][B][COLOR white]• [COLOR forestgreen]6 [COLOR white]- [COLOR goldenrod] Filme 06 - Scooby-Doo e o Monstro do México[COLOR forestgreen] Kodish [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+6<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SCBDFLM06</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+6<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/fv4e6pGhl4fDUdRt2WIDLDgEq7e.jpg</thumbnail>
+6<genre>[I][COLOR gray]G, 30/09/2003 (US), Animação, Comédia, Família, Mistério, 1h 15m[/COLOR][/I]</genre>
+6<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/1dPo1GVGy411O50TZaykLIM62bp.jpg</fanart>
+6<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Scooby-Doo e sua turma vão ao México para umas férias e também para a celebração de Finados. Mas no Porto de Veracruz acabam tendo que resolver um novo mistério relacionado a um terrível monstro que está afugentando os turistas da cidade. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+7<title>[I][B][COLOR white]• [COLOR forestgreen]7 [COLOR white]- [COLOR goldenrod] Filme 07 - Scooby-Doo! e o Monstro de Lago Ness[COLOR forestgreen] Kodish [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+7<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SCBDFLM07</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+7<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/vVsRTpCMfrWmMYP4nEAyHviIFw0.jpg</thumbnail>
+7<genre>[I][COLOR gray]G, 22/06/2004 (US), Aventura, Animação, Comédia, Família, Fantasia, Mistério, 1h 14m[/COLOR][/I]</genre>
+7<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/uob3mmJDNcS3iSr4NWsKCgjdnzf.jpg</fanart>
+7<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Scooby-Doo, Salsicha e a turma da Mystery, Inc. viajam para a Escócia em férias e se descobrem tentando solucionar a maior monstruosidade de todos os tempos: o Monstro do Lago Ness. Ele realmente existe? [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+8<title>[I][B][COLOR white]• [COLOR forestgreen]8 [COLOR white]- [COLOR goldenrod] Filme 08 - Aloha Scooby-Doo![COLOR forestgreen] Kodish [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+8<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SCBDFLM08</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+8<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/kgr5HVQx3wKFbiZmtWwLkfSz3WV.jpg</thumbnail>
+8<genre>[I][COLOR gray]G, 08/02/2005 (US), Mistério, Família, Animação, Aventura, Comédia, 1h 14m[/COLOR][/I]</genre>
+8<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/aZMVEZruw6VArEfKDnL0ky1cqXV.jpg</fanart>
+8<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Salsicha, Scooby-Doo e toda a turma desembarcam nas belíssimas praias do Havaí para o Concurso de Surfe Big Kahuna de Hanahuna -- apenas para descobrirem que existe um terrível monstro de verdade pronto para mostrar-lhes o verdadeiro significado da palavra medo! Os nativos são convencidos que os espíritos da ilha estão furiosos com a construção de um novo resort em solo sagrado e quando um exército de pequenos demônios ataca os surfistas, as antigas profecias paracem ser verdadeiras. Poderia ser este o primeiros mistério para o qual Daphne finalmente não teria uma explicação antes que os problemas -- na forma de uma erupção vulcânica -- surgissem? Agarrem-se às suas pranchas e saboreiem seus côcos -- a não ser que Scooby-Doo e Salsicha tenham acabado com todos eles -- para uma aventura espetacular, para lá de animada! [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+9<title>[I][B][COLOR white]• [COLOR forestgreen]9 [COLOR white]- [COLOR goldenrod] Filme 09 - Scooby-Doo! em Cadê a Minha Múmia?[COLOR forestgreen] Kodish [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+9<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SCBDFLM09</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+9<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/4RcIwxZCB9QAEMXXkdAWbGDk9kX.jpg</thumbnail>
+9<genre>[I][COLOR gray]G, 13/12/2005 (US), Mistério, Animação, Família, Aventura, Comédia, Fantasia, 1h 15m[/COLOR][/I]</genre>
+9<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/85z4NC6FzMQJBGlFqq8qQ2QByD4.jpg</fanart>
+9<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]A arqueologista e super detetive Velma está no Egito para a cerimônia de reabertura à visitação da recém reformatada Esfinge - uma misteriosa e mítica criatura com a cabeça de homem e o corpo de leão - e acaba descobrindo nada menos que uma tumba pertencente à Rainha Cleópatra. Mas tem que tomar cuidado com a maldição do faraó: "O Nilo vai se tornar deserto e todos que aqui entrarem tornar-se-ão pedra!". Claro que o aviso não é suficiente para impedir que Scooby-Doo e a Mistério S/A de adentrarem a tumba e encontrarem algo ainda mais aterrorizante: um amaldiçoado exército de mortos-vivos! Então, sente-se confortavelmente e testemunhe a mais espetacular aventura de Scooby-Doo até os dias de hoje. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+10<title>[I][B][COLOR white]• [COLOR forestgreen]10 [COLOR white]- [COLOR goldenrod] Filme 10 - Scooby-Doo! Piratas a Bordo![COLOR forestgreen] Kodish [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+10<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SCBDFLM10</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+10<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/8i3ocSXErW0qS1q2YbMRVBhnEma.jpg</thumbnail>
+10<genre>[I][COLOR gray]A, 19/09/2006 (US), Fantasia, Animação, Comédia, Família, Mistério, Aventura, 1h 10m[/COLOR][/I]</genre>
+10<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/rmOW6dJnWPAIJq0a4vTdIrm4hGa.jpg</fanart>
+10<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Os setes mares do bom-humor serão navegados por Scooby-Doo, Salsicha, Fred, Daphne e Velma durante um cruzeiro ao lendário e temido Triângulo das Bermudas! Assombrações e muitos sustos esperam por eles em cada esquina, e a tripulação desse navio inclui desde alienígenas até esqueléticos piratas fantasmas. Eles preferem afundar outras embarcações a tiro de canhão. Se a turminha da Mistérios S.A. não resolver essa parada rapidamente, eles talvez tenham que caminhar pela prancha e se tornarem as próximas vítimas do fatídico Triângulo! [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+11<title>[I][B][COLOR white]• [COLOR forestgreen]11 [COLOR white]- [COLOR goldenrod] Filme 11 - Scooby-Doo! E o Abominável Homem das Neves[COLOR forestgreen] Kodish [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+11<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SCBDFLM11</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+11<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/wqAfjQnv1vn75PZfPLtxO9yPm7Y.jpg</thumbnail>
+11<genre>[I][COLOR gray]7, 04/09/2007 (US), Comédia, Aventura, Animação, Família, Mistério, 1h 12m[/COLOR][/I]</genre>
+11<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/5R5BA40WzAs4mqhpZ0PPAzQoWss.jpg</fanart>
+11<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]As férias da turma em Paris são adiadas quando Scooby-Doo e Salsicha se separam do grupo e acidentalmente vão parar em uma expedição de pára-quedismo no outro lado do mundo. O que supostamente deveria ser bem divertido na Cidade Luz, se transforma em horror em pleno Himalaia, quando a dupla de heróis assustados ficam cara a cara com o lendário e temido Abominável Homem das Neves! [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+12<title>[I][B][COLOR white]• [COLOR forestgreen]12 [COLOR white]- [COLOR goldenrod] Filme 12 - Scooby-Doo e o Rei dos Duendes[COLOR forestgreen] Kodish [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+12<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SCBDFLM12</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+12<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/8tnTC9SBX6oGU6PQqUKctKf03TF.jpg</thumbnail>
+12<genre>[I][COLOR gray]G, 23/09/2008 (US), Mistério, Animação, Comédia, Família, Aventura, Fantasia, Música, 1h 15m[/COLOR][/I]</genre>
+12<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/llm8JA9OnDI29exEvBlriO5Lsjj.jpg</fanart>
+12<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Neste Filme Scooby Doo e o Rei Dos Duendes,Que Apuro! O incrível Krudsky, um mágico decadente, roubou a luz mágica da princesa Fairy Willow e Scooby-Doo e Salsicha precisam detê-lo ou todo mundo será transformado em horríveis monstros de Halloween! [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+13<title>[I][B][COLOR white]• [COLOR forestgreen]13 [COLOR white]- [COLOR goldenrod] Filme 13 - Scooby-Doo e a Espada do Samurai[COLOR forestgreen] Kodish [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+13<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SCBDFLM13</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+13<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/yHcRRtWYGpMsO7tofPqLObYCvyX.jpg</thumbnail>
+13<genre>[I][COLOR gray]G, 07/04/2009 (US), Mistério, Animação, Comédia, Família, Ação, Fantasia, 1h 14m[/COLOR][/I]</genre>
+13<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/mTps0RmyJvIhpXzTBIju7Ag2MM6.jpg</fanart>
+13<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Os comedores de guloseimas de carteirinha, Scooby-Doo e Salsicha, trocam os cookies pelos biscoitos da sorte na tentativa de resolverem um mistério envolvendo artes marciais. A turma da Mistérios S.A. viaja pelo mundo em um caçada ao tesouro transcontinental para resolver um caso de proporções ancestrais. Eles estão correndo contra o tempo enfrentando o vingativo Samurai Negro e seus espectrais Fantasmas Guerreiros, na tentativa de resgatarem a Espada do Destino, uma lâmina milenar que confere incríveis poderes a quem empenhá-la. Pelo caminho Scooby-Doo e Salsicha viram alunos do incomparável Mestre da Espada, que ensina a eles o Boshido, o Caminho do Samurai. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+14<title>[I][B][COLOR white]• [COLOR forestgreen]14 [COLOR white]- [COLOR goldenrod] Filme 14 - Scooby-Doo! Abracadabra-Doo[COLOR forestgreen] Kodish [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+14<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SCBDFLM14</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+14<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/3MrNBYNdGNg5actQsyLLkPzHm1C.jpg</thumbnail>
+14<genre>[I][COLOR gray]G, 16/02/2010 (US), Animação, Comédia, Família, Mistério, Fantasia, 1h 16m[/COLOR][/I]</genre>
+14<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/vDtYcKcTEj7hfxucz2G2V3CjDMw.jpg</fanart>
+14<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Scooby e sua turma descobrem que estão ocorrendo coisas estranhas enquanto estão visitando a irmã de Velma, na academia de magia Whirlen Merlin. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+15<title>[I][B][COLOR white]• [COLOR forestgreen]15 [COLOR white]- [COLOR goldenrod] Filme 15 - Scooby-Doo! Acampamento do Susto[COLOR forestgreen] Kodish [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+15<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SCBDFLM15</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+15<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/2v3cVKndb9j7xcgfTUF4UTabUDv.jpg</thumbnail>
+15<genre>[I][COLOR gray]NR, 14/09/2010 (US), Animação, Comédia, Família, Mistério, 1h 12m[/COLOR][/I]</genre>
+15<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/oVROUaJkzEBAlNbUKnXQiiKbJRf.jpg</fanart>
+15<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Bem vindos ao Acampamento de Little Moose – onde os monitores são amigáveis, as actividades infinitas e os mitos urbanos intensos. Na realidade, cada vez que alguém conta uma história assustadora, a temível criatura ganha vida! Mas o grupo da Mystery Inc. não se assustam assim tão facilmente, por isso reunam-se á volta da fogueira e preparem-se para apanhar os culpados. Scooby-Doo, Shaggy, Freddy, Daphne e Velma vão em busca das pista necessárias para resolver os mistério que envolvem o Homem da Floresta, O Pescador e o Espirito de Black Canion. E claro, Shaggy e Scooby-Doo vão arrasar no Caso do Que Há Para Jantar! Muitos sustos e muita diversão com o grupo da Mystery Inc. neste hilariante filme original que dá um novo sentido ao espirito de aventura! No meio da Natureza, com emoções, arrepios e Scooby –Doo! [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+16<title>[I][B][COLOR white]• [COLOR forestgreen]16 [COLOR white]- [COLOR goldenrod] Filme 16 - Scooby-Doo! A Lenda do Fantasmossauro[COLOR forestgreen] Kodish [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+16<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SCBDFLM16</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+16<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/UOjLHNKWkWuT4DuYbXWnGMdPM3.jpg</thumbnail>
+16<genre>[I][COLOR gray]PG, 06/09/2011 (GB), Mistério, Animação, Família, Comédia, 1h 15m[/COLOR][/I]</genre>
+16<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/kq0IZXr9ic333FVudftU0NCSRKn.jpg</fanart>
+16<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Scooby Doo e sua turma entram na pré-história, quando encontram um fantasmossauro horrível que é o protetor de um tesouro antigo escondido nas cavernas do deserto. Mas isso não assusta Salsicha e sua turma, que estão dispostos a resolver mais este pré-histórico mistério. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+17<title>[I][B][COLOR white]• [COLOR forestgreen]17 [COLOR white]- [COLOR goldenrod] Filme 17 - Scooby-Doo! Música de Vampiro[COLOR forestgreen] Kodish [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+17<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SCBDFLM17</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+17<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/a72diuO4zc9NXbXrfajuaO0sptC.jpg</thumbnail>
+17<genre>[I][COLOR gray]G, 13/03/2012 (US), Animação, Família, Mistério, Aventura, Comédia, Fantasia, Música, 1h 19m[/COLOR][/I]</genre>
+17<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/2a3hugqccttJm9oS6x8pllpyxn0.jpg</fanart>
+17<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Quando Daphne se torna a estrela de um filme de vampiro, a produção é transformado em caos por um vampiro real, forçando a gangue Scooby-Doo para investigar quem está por trás desse caos monstruoso. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+18<title>[I][B][COLOR white]• [COLOR forestgreen]18 [COLOR white]- [COLOR goldenrod] Filme 18 - Scooby-Doo! A Tenda de Circo[COLOR forestgreen] Kodish [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+18<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SCBDFLM18</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+18<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/9l6Cm4sBm1gzA94HuULtJFaFnSd.jpg</thumbnail>
+18<genre>[I][COLOR gray]G, 22/10/2012 (US), Animação, Comédia, Família, Mistério, 1h 20m[/COLOR][/I]</genre>
+18<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/paPSvuQlS2prdf8XrWCBWdwluum.jpg</fanart>
+18<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Quando o circo Brancusi chega a cidade, o líder dele esta desesperado e pede ajuda para a turma. um lobisomem esta aterrorizando os artistas e roubando joias do publico. agora cabe a Scooby e sua turma resolver este mistério mistico! mas noticias: Scooby foi mordido por um lobisomem e pode se transformar em um, e Bram está de volta. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+19<title>[I][B][COLOR white]• [COLOR forestgreen]19 [COLOR white]- [COLOR goldenrod] Filme 19 - Scooby-Doo! A Máscara do Falcão Azul[COLOR forestgreen] Kodish [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+19<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SCBDFLM19</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+19<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/qcSjTyzy1IOt2W7nR4X3uWUx2xj.jpg</thumbnail>
+19<genre>[I][COLOR gray]G, 15/12/2012 (US), Animação, Comédia, Fantasia, Aventura, Família, 1h 18m[/COLOR][/I]</genre>
+19<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/spO8G2bLM88ysgEdkxJVfiJZsJn.jpg</fanart>
+19<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]The Mega Mondo Pop Cartoon-a-Con in sunny California marks the spot for mystery in this all-new original Scooby-Doo adventure! Herculoids Frankenstein Jr. and Space Ghost are just a few of the celebrated comic book characters headlining at the unconventional convention plus there's a megabucks movie premiere starring Scooby-Doo and Shaggy's all-time favorite super heroes Blue Falcon and Dynomutt! So when the gruesome villain Mr. Hyde unleashes monster bats howling hounds and sinister slime upon the festivities it's time for Mystery Incorporated to follow the clues and set their monster traps. But it's the pizza-snacking super-powered tag team of Shaggy and Scooby-Doo who tap into their inner super hero to prevent the entire event from being smothered in ghoulish green goo! Like right on Dog Wonder! [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+20<title>[I][B][COLOR white]• [COLOR forestgreen]20 [COLOR white]- [COLOR goldenrod] Filme 20 - Scooby-Doo! O Fantasma da Ópera[COLOR forestgreen] Kodish [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+20<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SCBDFLM20</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+20<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/vpExEfmhs317qbAGrGvOTi3pxnH.jpg</thumbnail>
+20<genre>[I][COLOR gray]G, 20/08/2013 (US), Família, Aventura, Animação, Comédia, Mistério, 1h 15m[/COLOR][/I]</genre>
+20<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/nGZWRpmXSmLys7c3sKz087zprix.jpg</fanart>
+20<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]A Mistérios S.A. quando eles estão em Chicago para acompanhar um show de talentos, fazer algumas visitas a museus e comer um bocado de pizzas! A cidade marcada pelas ventanias é lar para o popular show de TV Estrela de Talento, no qual a dupla de compositores Fred e Daphne são finalistas e com grandes chances de vencer. Sem serem deixados de lado, Scooby e Salsicha têm uma pequena contribuição nos trabalhos nos quais eles apostam que vencerão indiscutivelmente o concurso. Por um tremendo azar, a competição é assombrada bem na hora que está sendo transmitida, a partir de um teatro cuja história envolve um enredo de horrores e, em particular, um vingativo fantasma que amaldiçoou toda a produção do programa. De perseguições alucinadas pelos camarins até a coleção de assustadoras pistas, o show não pode parar e com um talento natural como Scooby-Doo no caso, você pode ter certeza de que toda a família irá se divertir muito, afinal, aventura e mistério estão sempre em primeiro lugar! [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+21<title>[I][B][COLOR white]• [COLOR forestgreen]21 [COLOR white]- [COLOR goldenrod] Filme 21 - As Aventuras de Scooby-Doo: O Mapa Misterioso[COLOR forestgreen] Kodish [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+21<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SCBDFLM21</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+21<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/4tNuzZ7hBv6sL9ZoXlImPiirB1W.jpg</thumbnail>
+21<genre>[I][COLOR gray]22/07/2013 (US), Família, Comédia, Mistério, 44m[/COLOR][/I]</genre>
+21<fanart>https://s1.dmcdn.net/v/7lff81K2ydYuu20I5/x1080</fanart>
+21<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Em As Aventuras de Scooby: O Mapa Misterioso, Mais um sucesso de Scooby e sua turma, você vai vê-los de uma maneira nova, novos bonecos baseados nos filmes reais. O filme começa com uma noite totalmente normal para a turma, o detetive Viscoso e Shaggy vem para comer um triplo extra grande de Scooby snacks sabor pizza, mais tudo muda e se torna uma louca corrida para encontrar o fantasma Loro do tesouro que está escondido, eles contam com a ajuda do mapa Gnarlybeards. Socooby então consegue farejar pistas nesse mapa, que os leva até um navio pirata. Toda a família vai adorar assistir esse filme, ele é cheio de aventura e muita diversão para a garotada.. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+22<title>[I][B][COLOR white]• [COLOR forestgreen]22 [COLOR white]- [COLOR goldenrod] Filme 22 - Scooby-Doo! O Mistério WrestleMania[COLOR forestgreen] Kodish [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+22<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SCBDFLM22</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+22<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/nhKCf21uVpiInMrSD3Bt8jsTOA3.jpg</thumbnail>
+22<genre>[I][COLOR gray]PG, 25/03/2014 (US), Animação, Comédia, Família, Mistério, 1m[/COLOR][/I]</genre>
+22<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/opwf2L7m9MXGyFkiQndRDGdx7n2.jpg</fanart>
+22<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Quando Salsicha e Scooby ganham bilhetes para WrestleMania, toda a turma viaja na Máquina Mistério para a WWE City para comparecer ao evento épico. No entanto, quando um urso fantasma misterioso aparece e ameaça arruinar o show, Scooby, Salsicha, Velma, Daphne e Fred irão trabalhar com Superstars da WWE para resolver o caso. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+23<title>[I][B][COLOR white]• [COLOR forestgreen]23 [COLOR white]- [COLOR goldenrod] Filme 23 - Scooby-Doo! A Maldição do Frankenstein[COLOR forestgreen] Kodish [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+23<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SCBDFLM23</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+23<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/uUi9ZXeTRz6yR1Qne4Sh55DylVz.jpg</thumbnail>
+23<genre>[I][COLOR gray]G, 19/08/2014 (US), Mistério, Animação, Família, Comédia, 1h 13m[/COLOR][/I]</genre>
+23<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/OUD2qWr87hpVZpWjuxL8k41o9U.jpg</fanart>
+23<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Scooby-Doo e sua turma – Salsicha, Fred, Daphne e Velma – estão de volta em mais um longa-metragem de animação totalmente original! Velma descobre que ela é herdeira do castelo amaldiçoado do seu tio bisavô, o Doutor Von Dinkenstein, localizado na aterrorizante cidade de Transilvânia... Correção, Pensilvânia! Justamente quando a turma Mistérios S.A. convence Velma a reclamar sua herança, o fantasma do castelo de Von Dinkenstein surge ameaçando a todos! Agora, os amigos devem entrar em ação, só que dessa vez por motivos pessoais! Quem é o responsável pelo monstro de Von Dinkenstein? Que segredo familiar Velma tem escondido de todos? Será que Fred vai superar a perda da sua querida Máquina Mistério? Será que algum lanche indefeso sobreviverá ao gigante apetite de Scooby e Salsicha? Esta aventura de Scooby-Doo tem todos os elementos necessários para divertir toda a família! [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+24<title>[I][B][COLOR white]• [COLOR forestgreen]24 [COLOR white]- [COLOR goldenrod] Filme 24 - Scooby-Doo! Loucura do Monstro da Lua[COLOR forestgreen] Kodish [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+24<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SCBDFLM24</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+24<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/wCRbdgFVu8bbeOc7jOcpaqVSHqq.jpg</thumbnail>
+24<genre>[I][COLOR gray]PG, 17/02/2015 (US), Aventura, Animação, Família, Comédia, Mistério, Ficção científica, 1h 20m[/COLOR][/I]</genre>
+24<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/m4nLaQmnppjbxozI55OHtda5rOl.jpg</fanart>
+24<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Depois de vencer os últimos 5 assentos em uma loteria, Scooby-Doo, salsicha, Fred, Daphne e Velma estão ao espaço na nave de novo do bilionário Barão Sly, Sly Star One. É tudo diversão sem gravidade até uma misteriosa alienígena começa a destruir a nave! Como quebra a nave, a tripulação é forçada a aterrar na base do Barão manhoso... no lado escuro da lua! Será a gangue desvendar este mistério alienígena? Scooby-Doo e salsicha vão encontrar lanches na lua? Fred terá sempre seu capacete espacial fora?! Viagem para os limites exteriores com Scooby-Doo para descobrir! [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+25<title>[I][B][COLOR white]• [COLOR forestgreen]25 [COLOR white]- [COLOR goldenrod] Filme 25 - Scooby-Doo! e Kiss: O Mistério do Rock and Roll[COLOR forestgreen] Kodish [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+25<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SCBDFLM25</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+25<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/nTkQZPXZl9yx3tfPS9TSDZBdhHC.jpg</thumbnail>
+25<genre>[I][COLOR gray]PG, 10/07/2015 (US), Família, Animação, Comédia, 1h 19m[/COLOR][/I]</genre>
+25<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/asiuMK2TcJGhbcn2dvHF2nLqpqw.jpg</fanart>
+25<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]A Mistérios S.A. é convocada para uma missão muito especial: a famosa banda de rock Kiss pede a ajuda de Scooby-Doo, Salsicha, Velma, Fred e Dafne para impedir uma bruxa, que interrompeu um grande show de Halloween do grupo e quer invocar o monstro "Destroyer". [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+26<title>[I][B][COLOR white]• [COLOR forestgreen]26 [COLOR white]- [COLOR goldenrod] Filme 26 - LEGO Scooby-Doo! Hollywood Assombrada[COLOR forestgreen] Kodish [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+26<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SCBDFLM26</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+26<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/6pv0ULiQ1gT0b8V95RvWg6uC9xY.jpg</thumbnail>
+26<genre>[I][COLOR gray]L, 28/01/2016 (BR), Animação, Família, Comédia, 1h 15m[/COLOR][/I]</genre>
+26<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/6q2u7BdNQen94ow4dN99GnQMaPm.jpg</fanart>
+26<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Durante uma viagem a Hollywood, a turma decide visitar o lendário e histórico estúdio Brickton. Ao chegar lá, a Mistério S/A descobre que o estúdio está prestes a ser fechado e vendido para empresários que querem demoli-lo. Para piorar ainda mais a situação, o local está sendo assombrado pelo fantasma de Boris Karnak, um famoso ator de filmes antigos, que aterroriza o estúdio utilizando de personagens que marcaram sua carreira, como: a Múmia, o Zumbi e o Cavaleiro Sem-Cabeça. O fantasma espantou todo o elenco e equipe do filme que poderia salvar o estúdio, agora, resta a turma descobrir o que está realmente acontecendo e impedir que o estúdio seja fechado. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+27<title>[I][B][COLOR white]• [COLOR forestgreen]27 [COLOR white]- [COLOR goldenrod] Filme 27 - Scooby-Doo! e WWE: Maldição do Demônio Veloz[COLOR forestgreen] Kodish [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+27<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SCBDFLM27</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+27<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/kCWtWbZhyY48XpYC3n5hinuufH.jpg</thumbnail>
+27<genre>[I][COLOR gray]PG, 09/08/2016 (US), Animação, Família, Comédia, Mistério, 1h 12m[/COLOR][/I]</genre>
+27<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/ysgMWRbDXhEhcxcZGJiQXN4qzPO.jpg</fanart>
+27<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Um demônio misterioso ameaça perturbar o mais recente empreendimento da WWE, então Mr. McMahon contrata Mistério Inc. para resolver o mistério. Enquanto Fred, Velma e Daphne correm para desvendar o caso, Salsicha e Scooby encontram se competindo na corrida ao lado do Undertaker. Depois de muitas voltas e reviravoltas, o Demônio é finalmente desmascarado – embora não é que todo mundo espera que ele seja. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+28<title>[I][B][COLOR white]• [COLOR forestgreen]28 [COLOR white]- [COLOR goldenrod] Filme 28 - Scooby-Doo! e o Combate do Salsicha[COLOR forestgreen] Kodish [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+28<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SCBDFLM28</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+28<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/hj3LWwSEksRbgYy2NVu6oFlbXiQ.jpg</thumbnail>
+28<genre>[I][COLOR gray]PG, 14/02/2017 (US), Animação, Família, Mistério, Comédia, Faroeste, 1h 20m[/COLOR][/I]</genre>
+28<fanart>https://image.tmdb.org/t/p/original/h7Q3Ytqr53wO6F4tKKTzGvyN4qM.jpg</fanart>
+28<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Quando a turma do Scooby-Doo visita um rancho, eles descobrem que ele e a cidade vizinha foram assombrados por um vaqueiro fantasmagórico, Dapper Jack. O mistério se aprofunda quando descobrem que o fantasma é também parente do Salsicha. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+29<title>[I][B][COLOR white]• [COLOR forestgreen]29 [COLOR white]- [COLOR goldenrod] Filme 29 - Lego Scooby-Doo! O Golpe da Praia[COLOR forestgreen] Kodish [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+29<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SCBDFLM29</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+29<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/A3LL3XqTqqucEIUa8kAGAHpU9Gm.jpg</thumbnail>
+29<genre>[I][COLOR gray]PG, 11/07/2017 (US), Animação, Comédia, Família, Mistério, 1h 12m[/COLOR][/I]</genre>
+29<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/tRVmAmq6Jzbx7OoGXSUUGlguokB.jpg</fanart>
+29<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Scooby-Doo e seus amigos estão a caminho de Blowout Beach para uma festa na praia, mas piratas fantasmas ameaçam arruinar as boas vibrações da turma. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+30<title>[I][B][COLOR white]• [COLOR forestgreen]30 [COLOR white]- [COLOR goldenrod] Filme 30 - Scooby-Doo! & Batman: Os Bravos e Destemidos[COLOR forestgreen] Kodish [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+30<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCFServer4/ondemand/SCBYDOEBTMNOSBVSEDSTMDS</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+30<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/7S9uKgx9s147R0873GZ5h4W0HWY.jpg</thumbnail>
+30<genre>[I][COLOR gray]NR, 09/01/2018 (US), Animação, Comédia, Ação, Família, 1h 15m[/COLOR][/I]</genre>
+30<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/2pIxjOvlb7svKawyXFj0gkQ2O1R.jpg</fanart>
+30<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Quando Scooby-Doo e seu grupo se deparam com criminosos demasiado perigosos para eles, Batman aparece para salvar o dia! Quando um caso não resolvido do passado de Batman volta para o assombrar e o misterioso Crimson Cloak ameaça tomar posse de Gotham, Batman recruta a Mystery Inc. para ajudar a solucionar o caso. Será que o trabalho de equipe será suficiente para resolver o mistério e destruir os planos dos vilões mais perigosos que o mundo já viu? Prepare seu cinto de utilidade com instrumentos e os biscoitos Scooby para descobrir à medida que você se prepara para uma aventura altamente emocionante! [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+31<title>[I][B][COLOR white]• [COLOR forestgreen]31 [COLOR white]- [COLOR goldenrod] Filme 31 - Scooby-Doo! e o Fantasma Gourmet[COLOR forestgreen] Kodish [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+31<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCFServer4/ondemand/SCBYDOEOFNTSMGRMT</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+31<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/eOhINB4ofQTU3PIxtq2ihh1le7G.jpg</thumbnail>
+31<genre>[I][COLOR gray]L, 08/09/2018 (BR), Animação, Aventura, Crime, Família, Comédia, 1h 17m[/COLOR][/I]</genre>
+31<fanart>https://image.tmdb.org/t/p/original/zj9As0VmSc5akqdxL08bceVyBW0.jpg</fanart>
+31<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Puxe uma cadeira, pegue o guardanapo e se prepare para uma refeição cinco estrelas de mistério com Scooby-Doo e a sua turma, quando caímos na estrada para visitar o Rocky Harbor Culinary Resort e conhecer o tio de Fred, o chef mundialmente famoso Bobby Flay. A Mistério S/A rapidamente aprende que o moderno resort culinário não é bem um prato cheio quando descobrem a lenda do Fantasma Vermelho e o desaparecimento não resolvido do grande chef antepassado de Bobby Flay. Quando o misterioso Fantasma Vermelho volta de forma desastrosa para assombrar a pousada, a turma se junta a Bobby e sua amiga culinária Giada De Laurentiis para saborear pistas e servir justiça. A história se repetirá e outro chef mundialmente famoso desaparecerá? Prepare-se para uma porção deste mistério gourmet cheio de boa comida, risadas saborosas e reviravoltas melhores ainda! [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+32<title>[I][B][COLOR white]• [COLOR forestgreen]32 [COLOR white]- [COLOR goldenrod] Filme 32 - Scooby-Doo e a Maldição do 13° Fantasma[COLOR forestgreen] Kodish [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+32<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCFServer3/ondemand/SCOBYDOEAMLDCAOD13FNTSMA</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+32<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/5tLSOyfDnrQvhIaTKQOjpnfNCu.jpg</thumbnail>
+32<genre>[I][COLOR gray]U, 12/02/2019 (GB), Comédia, Família, Animação, Aventura, Mistério, 1h 21m[/COLOR][/I]</genre>
+32<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/qgHB4jsJzt9AZgVhh7dszqKq32Q.jpg</fanart>
+32<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Scooby-Doo e seus amigos embarcam em uma emocionante jornada em busca do do misterioso baú perdido contendo os espíritos de 12 perigosos fantasmas, na intenção de capturar o 13º fantasma que escapou. Enquanto o mundo inteiro está em perigo pela ameaça do ser fantasmagórico, eles precisam correr contra o tempo para solucionar mais um mistério. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+33<title>[I][B][COLOR white]• [COLOR forestgreen]33 [COLOR white]- [COLOR goldenrod] Filme 33 - Scooby-Doo! De Volta à Ilha dos Zumbis[COLOR forestgreen] Kodish [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+33<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCFServer3/ondemand/SCBYDODVLTAILHDSZMBS</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+33<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/9DWSsLs8jltBxH2LSazuSR9FjpQ.jpg</thumbnail>
+33<genre>[I][COLOR gray]01/10/2019 (US), Animação, Comédia, Família, Aventura, 1h 20m[/COLOR][/I]</genre>
+33<fanart>https://image.tmdb.org/t/p/original/hYD4HpcFdmlu5h5KuwdA9NTrlOk.jpg</fanart>
+33<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Junte-se a Scooby-Doo, Salsicha e à turma da Mistério S/A, que ganharam uma viagem incrível e decidiram tentar deixar os dias de resolução de mistérios para trás. Mas assim que chegam à ilha tropical, Velma, Daphne e Fred logo percebem que o lugar é estranhamente familiar a uma viagem assustadora que fizeram décadas atrás. Não vai demorar muito para eles descobrirem que esse paraíso tropical tem um preço, pois um exército de zumbis saqueadores os esperam! Embarque e viaje com Scooby-Doo e sua turma enquanto eles desvendam os mistérios da Ilha Zumbi nesse filme de aventura original. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+34<title>[I][B][COLOR white]• [COLOR forestgreen]34 [COLOR white]- [COLOR goldenrod] Filme 34 - SCOOBY!: O Filme[COLOR forestgreen] Kodish [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+34<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCFServer5/ondemand/SCBYOFLME</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+34<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/bs3p45IGZUZyqkHa4WLaiSk7xO9.jpg</thumbnail>
+34<genre>[I][COLOR gray]L, 08/07/2020 (FR), Família, Animação, Comédia, Aventura, 1m[/COLOR][/I]</genre>
+34<fanart>https://image.tmdb.org/t/p/original/sJjuXNHNT7PfzcgkqM3oSIkVOXB.jpg</fanart>
+34<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Scooby e a gangue enfrentam seu mistério mais desafiador de todos os tempos: um plano para libertar o cão fantasma Cerberus no mundo. Enquanto eles correm para parar esse caopocalypse, a gang [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+35<title>[I][B][COLOR white]• [COLOR forestgreen]35 [COLOR white]- [COLOR goldenrod] Filme 35 - Scooby-Doo! Halloween[COLOR forestgreen] Kodish [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
+35<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCFServer5/ondemand/SCBYDOHLOWN</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+35<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/bs3p45IGZUZyqkHa4WLaiSk7xO9.jpg</thumbnail>
+35<genre>[I][COLOR gray]L, 09/10/2020 (BR), Animação, Família, Mistério, Comédia, Crime, 1h 16m[/COLOR][/I]</genre>
+35<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/5gTQmnGYKxDfmUWJ9GUWqrszRxN.jpg</fanart>
+35<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Scooby-Doo e a equipe se reúnem novamente para resolver o mistério de proporções gigantescas e salvar a Baía Cristal. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>

@@ -1,0 +1,394 @@
+<item>
+1<title>[I][B][COLOR white]• [COLOR forestgreen]1 [COLOR white]- [COLOR goldenrod] Não há criatura como criatura da neve[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+1<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP01</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+1<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/3uySe8DvCwVPUrM3k2tn0GbYvG2.jpg</thumbnail>
+1<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+1<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
+1<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Na abertura, os detetives amadores viajam para um resort nas montanhas para assistir a uma competição de snowboard e acabam investigando rumores de uma criatura da neve que está atacando os participantes. O medalhista olímpico de snowboard Chris Klug dá a voz ao seu alter ego animado. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+2<title>[I][B][COLOR white]• [COLOR forestgreen]2 [COLOR white]- [COLOR goldenrod] Estrutura 3-D[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+2<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP02</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+2<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/3uySe8DvCwVPUrM3k2tn0GbYvG2.jpg</thumbnail>
+2<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+2<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
+2<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]O tio de Daphne envia a gangue para a Costa Rica para a inauguração de uma exposição de museu sobre dinossauros. Quando nossos heróis conhecem o arqueólogo Melbourne O'Reilly, ele revela a lenda de um espírito-dinossauro que deve se vingar de qualquer um que perturbe esses ossos. Então, quando a turma se senta para desfrutar de um novo filme em 3-D com dinossauro no teatro do museu, não é tão surpreendente quando o dinossauro pula da tela - e chega ao público. Cabe à gangue descobrir quem está realmente "por trás desse desastre devastador de dinossauros". [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+3<title>[I][B][COLOR white]• [COLOR forestgreen]3 [COLOR white]- [COLOR goldenrod] Space Ape no Cabo[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+3<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP03</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+3<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/3uySe8DvCwVPUrM3k2tn0GbYvG2.jpg</thumbnail>
+3<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+3<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
+3<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]A gangue deve deter um alienígena que muda de forma antes que a missão do ônibus espacial da NASA seja abortada. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+4<title>[I][B][COLOR white]• [COLOR forestgreen]4 [COLOR white]- [COLOR goldenrod] Grande susto no Big Easy[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+4<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP04</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+4<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/3uySe8DvCwVPUrM3k2tn0GbYvG2.jpg</thumbnail>
+4<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+4<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
+4<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Fantasmas encenam um duelo todas as noites em um cemitério de Nova Orleans. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+5<title>[I][B][COLOR white]• [COLOR forestgreen]5 [COLOR white]- [COLOR goldenrod] É mau, é verde, é a máquina do mistério[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+5<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP05</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+5<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/3uySe8DvCwVPUrM3k2tn0GbYvG2.jpg</thumbnail>
+5<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+5<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
+5<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Quando a Mystery Machine ganha vida e começa a dirigir sozinha, a gangue tenta encontrar as pistas ... O que os leva até The Mystery Kids, a banda que anteriormente possuía a Mystery Machine. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+6<title>[I][B][COLOR white]• [COLOR forestgreen]6 [COLOR white]- [COLOR goldenrod] Riva Ras Regas[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+6<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP06</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+6<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/3uySe8DvCwVPUrM3k2tn0GbYvG2.jpg</thumbnail>
+6<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+6<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
+6<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]A turma vai a Las Vegas para conhecer a cantora pop adolescente Lindsay Pagano, mas logo acabam tentando desvendar o mistério de um mágico falecido que está assombrando o teatro em que Lindsay está se apresentando. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+7<title>[I][B][COLOR white]• [COLOR forestgreen]7 [COLOR white]- [COLOR goldenrod] Passeio de Roller Ghoster[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+7<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP07</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+7<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/3uySe8DvCwVPUrM3k2tn0GbYvG2.jpg</thumbnail>
+7<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+7<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
+7<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]A equipe vai para um parque de montanha-russa por causa de Scooby e Salsicha construindo seu novo carro lá e eles se metem em alguma travessura com um fantasma chamado The Roller Ghoster e ele parece interromper os passeios pelo parque. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+8<title>[I][B][COLOR white]• [COLOR forestgreen]8 [COLOR white]- [COLOR goldenrod] Safari, então Goodie![COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+8<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP08</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+8<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/3uySe8DvCwVPUrM3k2tn0GbYvG2.jpg</thumbnail>
+8<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+8<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
+8<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Quando a turma viaja do safári, eles descobrem os animais mudando para uma cor amarela e fazendo coisas estranhas. Eles têm que resolver o mistério ou então essas coisas podem acontecer com Scooby. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+9<title>[I][B][COLOR white]• [COLOR forestgreen]9 [COLOR white]- [COLOR goldenrod] Ela vê monstros marinhos à beira-mar[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+9<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP09</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+9<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/3uySe8DvCwVPUrM3k2tn0GbYvG2.jpg</thumbnail>
+9<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+9<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
+9<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Não temos uma sinopse em Português do Brasil. Você pode ajudar a ampliar o nosso banco de dados adicionando uma. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+10<title>[I][B][COLOR white]• [COLOR forestgreen]10 [COLOR white]- [COLOR goldenrod] Um Scooby-Doo! Natal[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+10<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP10</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+10<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/3uySe8DvCwVPUrM3k2tn0GbYvG2.jpg</thumbnail>
+10<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+10<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
+10<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Scooby e seus amigos chegam a uma cidade onde o Natal não é comemorado porque um boneco de neve sem cabeça aterroriza os moradores, então os detetives amadores começam a resolver o mistério. NOTA: Este episódio é trocado nos lançamentos em DVD com S03E03 A Scooby-Doo Valentine aparecendo na coleção da primeira temporada e S01E10 A Scooby-Doo Christmas aparecendo na coleção da terceira temporada. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+11<title>[I][B][COLOR white]• [COLOR forestgreen]11 [COLOR white]- [COLOR goldenrod] Toy Scary Boo[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+11<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP11</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+11<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/3uySe8DvCwVPUrM3k2tn0GbYvG2.jpg</thumbnail>
+11<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+11<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
+11<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]A gangue investiga este mistério onde brinquedos ativados estão tomando conta da loja de brinquedos. Eles suspeitam que um fanático realmente interessado está envolvido no caso. Quando ele realmente confessou, a gangue pensou que eles estavam certos o tempo todo. Mas eles não foram. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+12<title>[I][B][COLOR white]• [COLOR forestgreen]12 [COLOR white]- [COLOR goldenrod] Luzes! Câmera! Mayhem![COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+12<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP12</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+12<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/3uySe8DvCwVPUrM3k2tn0GbYvG2.jpg</thumbnail>
+12<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+12<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
+12<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Um fantasma roxo começa a ameaçar a produção de "Spy Me A River" e a gangue sai para encontrar o vilão. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+13<title>[I][B][COLOR white]• [COLOR forestgreen]13 [COLOR white]- [COLOR goldenrod] Pompéia e Circunstâncias[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+13<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP13</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+13<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/3uySe8DvCwVPUrM3k2tn0GbYvG2.jpg</thumbnail>
+13<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+13<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
+13<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Ao visitar a Itália, a gangue luta contra um gladiador zumbi que parece ser o responsável por causar erros no vulcão. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+14<title>[I][B][COLOR white]• [COLOR forestgreen]14 [COLOR white]- [COLOR goldenrod] O não natural[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+14<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP14</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+14<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/3uySe8DvCwVPUrM3k2tn0GbYvG2.jpg</thumbnail>
+14<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+14<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
+14<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]O fantasma de um velho jogador de beisebol chamado Cab Craig começa a assombrar o estádio de beisebol. Scooby e sua turma precisam descobrir quem é. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+*******************
+<channels></channels><channel>
+<name>[I][B][COLOR white]• [COLOR goldenrod]O Que Há De Novo, Scooby Doo? (2002) [COLOR white] - [COLOR forestgreen] [2ªTemporada] [COLOR goldenrod] Kodish [COLOR white] Scooby-doo !!![/COLOR][/B][/I]</name>
+<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+<info>[I][B][COLOR goldenrod]SINOPSE:[/I][/B][/COLOR]
+[B][I][COLOR forestgreen]Sempre munidos de novas invenções, a turma de adolescentes e o cão Scooby-Doo encontram fantasmas e monstros em suas aventuras.[COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/COLOR][/I][/B]</info>
+*******************
+*******************
+<item>
+1<title>[I][B][COLOR white]• [COLOR forestgreen]1 [COLOR white]- [COLOR goldenrod] Grande Apetite em Little Tokyo[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+1<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP15</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+1<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/7nCCbfOMJkRz1O5UyZDiwqyJzxd.jpg</thumbnail>
+1<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+1<fanart>https://image.tmdb.org/t/p/original/pU9MndGLhdt2mbCoHnH2otEBH2b.jpg</fanart>
+1<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Salsicha e Scooby estão fugindo! Depois que Velma vence um concurso para a melhor invenção (um cachorro robótico), a gangue viaja para Tóquio, no Japão. Quando uma pessoa mística destrói uma pizza com um feitiço crescente e Salsicha a come! Salsicha começa a crescer sempre que vai dormir e começa a comer tudo o que vê. Agora a gangue está correndo por tokyo tentando fugir da polícia que quer colocar Salsicha na prisão. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+2<title>[I][B][COLOR white]• [COLOR forestgreen]2 [COLOR white]- [COLOR goldenrod] Mummy Scares Best[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+2<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP16</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+2<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/7nCCbfOMJkRz1O5UyZDiwqyJzxd.jpg</thumbnail>
+2<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+2<fanart>https://image.tmdb.org/t/p/original/pU9MndGLhdt2mbCoHnH2otEBH2b.jpg</fanart>
+2<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Enquanto no Egito em uma escavação arqueológica com Melbourne O'Reilly, a gangue encontra o Faraó Scamses dia 15, uma múmia que tem o dom de transformar turistas em seus asseclas zumbis. Então a turma começa a resolver o mistério - isto é, até que Fred, Daphne e Velma também se transformem em zumbis! [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+3<title>[I][B][COLOR white]• [COLOR forestgreen]3 [COLOR white]- [COLOR goldenrod] O Veloz e o Verme[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+3<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP17</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+3<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/7nCCbfOMJkRz1O5UyZDiwqyJzxd.jpg</thumbnail>
+3<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+3<fanart>https://image.tmdb.org/t/p/original/pU9MndGLhdt2mbCoHnH2otEBH2b.jpg</fanart>
+3<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Graças a Freddy, a turma entra em uma corrida off road de 24 horas, apenas para lidar com motoristas malucos, um verme gigante chamado El Gusanu e o culto que homenageia o verme. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+4<title>[I][B][COLOR white]• [COLOR forestgreen]4 [COLOR white]- [COLOR goldenrod] Casa dos Horrores de alta tecnologia[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+4<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP18</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+4<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/7nCCbfOMJkRz1O5UyZDiwqyJzxd.jpg</thumbnail>
+4<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+4<fanart>https://image.tmdb.org/t/p/original/pU9MndGLhdt2mbCoHnH2otEBH2b.jpg</fanart>
+4<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]A gangue visita uma feira estadual para ver todas as invenções "do futuro". Mas eles conseguem mais do que esperavam quando buscam uma "Casa do Futuro", que é supostamente assombrada. As coisas parecem bem normais ... até que Daphne desaparece misteriosamente. São duas crianças brincalhonas, uma personalidade de reality show, o criador dos gadgets ou a própria casa de horrores de alta tecnologia que é responsável pelos estranhos acontecimentos? [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+5<title>[I][B][COLOR white]• [COLOR forestgreen]5 [COLOR white]- [COLOR goldenrod] O Vampiro Contra-Ataca[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+5<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP19</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+5<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/7nCCbfOMJkRz1O5UyZDiwqyJzxd.jpg</thumbnail>
+5<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+5<fanart>https://image.tmdb.org/t/p/original/pU9MndGLhdt2mbCoHnH2otEBH2b.jpg</fanart>
+5<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]A turma de Scooby viaja para um antigo castelo da Transilvânia em uma noite chuvosa para assistir às filmagens do novo videoclipe das Hex Girls '' Wanna Wed, But I Fled '', mas descobrem que a banda está se separando, já que há um vampiro à solta. Fred decidiu ir direto para prender o vampiro. Eles fazem isso, apenas para descobrir que há outro vampiro à espreita, então eles passam por tudo de novo para revelar uma reviravolta surpresa para este mistério. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+6<title>[I][B][COLOR white]• [COLOR forestgreen]6 [COLOR white]- [COLOR goldenrod] Um Halloween Scooby-Doo[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+6<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP20</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+6<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/7nCCbfOMJkRz1O5UyZDiwqyJzxd.jpg</thumbnail>
+6<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+6<fanart>https://image.tmdb.org/t/p/original/pU9MndGLhdt2mbCoHnH2otEBH2b.jpg</fanart>
+6<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]A turma vai para Banning Junction para visitar a família de Velma no Halloween, mas eles encontram os robôs fantasmagóricos que tentam arruinar as festividades. Esperançosamente, eles podem salvar a cidade antes que o fantasma de Hank Banning apareça. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+7<title>[I][B][COLOR white]• [COLOR forestgreen]7 [COLOR white]- [COLOR goldenrod] Homeward Hound[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+7<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP21</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+7<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/7nCCbfOMJkRz1O5UyZDiwqyJzxd.jpg</thumbnail>
+7<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+7<fanart>https://image.tmdb.org/t/p/original/pU9MndGLhdt2mbCoHnH2otEBH2b.jpg</fanart>
+7<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Neste episódio, Scooby tem que escolher entre ir a um museu ou a uma exposição de cães. Ele escolhe a exposição de cães. Enquanto estão na exposição de cães, eles descobrem que uma misteriosa criatura felina está assombrando a exposição. A criatura felina aparece durante o show e enquanto Fred, Daphne, Salsicha e Velma vão lutar contra a criatura, Scooby protege os 6 filhotes e a mãe. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+8<title>[I][B][COLOR white]• [COLOR forestgreen]8 [COLOR white]- [COLOR goldenrod] The San Franpsycho[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+8<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP22</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+8<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/7nCCbfOMJkRz1O5UyZDiwqyJzxd.jpg</thumbnail>
+8<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+8<fanart>https://image.tmdb.org/t/p/original/pU9MndGLhdt2mbCoHnH2otEBH2b.jpg</fanart>
+8<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Durante uma visita a San Fransisco para os Grind Games, uma competição mundialmente famosa de skate, Scooby e sua turma descobrem um monstro conhecido como San Franpsycho. QUEM está perseguindo os patinadores? [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+9<title>[I][B][COLOR white]• [COLOR forestgreen]9 [COLOR white]- [COLOR goldenrod] Simple Plan e o Invisible Madman[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+9<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP23</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+9<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/7nCCbfOMJkRz1O5UyZDiwqyJzxd.jpg</thumbnail>
+9<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+9<fanart>https://image.tmdb.org/t/p/original/pU9MndGLhdt2mbCoHnH2otEBH2b.jpg</fanart>
+9<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Viajando por uma cidade fantasma canadense, Scooby e sua turma encontram o grupo de rock Simple Plan. Como os membros do SP são sequestrados um a um pelo Inivisible Madman, todo mundo um dos moradores tem um álibi para não ser o Invisble Madman. Quem é o Invisible Madman que os está assombrando? [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+10<title>[I][B][COLOR white]• [COLOR forestgreen]10 [COLOR white]- [COLOR goldenrod] Receita para o desastre[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+10<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP24</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+10<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/7nCCbfOMJkRz1O5UyZDiwqyJzxd.jpg</thumbnail>
+10<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+10<fanart>https://image.tmdb.org/t/p/original/pU9MndGLhdt2mbCoHnH2otEBH2b.jpg</fanart>
+10<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Há um Monstro Ooze assombrando a fábrica de Snacks Scooby e Scooby e sua turma têm que pará-lo. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+11<title>[I][B][COLOR white]• [COLOR forestgreen]11 [COLOR white]- [COLOR goldenrod] Grande Dragão em Grande[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+11<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP25</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+11<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/7nCCbfOMJkRz1O5UyZDiwqyJzxd.jpg</thumbnail>
+11<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+11<fanart>https://image.tmdb.org/t/p/original/pU9MndGLhdt2mbCoHnH2otEBH2b.jpg</fanart>
+11<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]A gangue visita uma Feira Renascentista. Velma está emocionada ao ver a estrela de seu programa de TV favorito, que havia sido cancelado muitos anos antes na feira. Quando um dragão começa a assombrar o festival, a gangue fica chocada. Mas quando Velma é sequestrada, Fred, Daphne, Salsicha e Scooby correm para salvá-la antes que seja tarde demais. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+12<title>[I][B][COLOR white]• [COLOR forestgreen]12 [COLOR white]- [COLOR goldenrod] Tio Scooby e a Antártica[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+12<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP26</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+12<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/7nCCbfOMJkRz1O5UyZDiwqyJzxd.jpg</thumbnail>
+12<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+12<fanart>https://image.tmdb.org/t/p/original/pU9MndGLhdt2mbCoHnH2otEBH2b.jpg</fanart>
+12<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Scooby e Salsicha fazem amizade com um pinguim enquanto trabalham em um zoológico. Quando eles (assim como Velma, Daphne e Fred) são convidados a se juntar a ele em uma viagem de volta para sua casa, a Antártica, eles descobrem que um fantasma de gelo está assombrando a estação intermediária de lá. Ele até empurrou o cientista-chefe para o gelo. Velma fica perplexa com o número crescente de suspeitos, mas finalmente descobre quem é o vilão. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+13<title>[I][B][COLOR white]• [COLOR forestgreen]13 [COLOR white]- [COLOR goldenrod] Novo México, Old Monster[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+13<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP27</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+13<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/7nCCbfOMJkRz1O5UyZDiwqyJzxd.jpg</thumbnail>
+13<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+13<fanart>https://image.tmdb.org/t/p/original/pU9MndGLhdt2mbCoHnH2otEBH2b.jpg</fanart>
+13<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Um pássaro Wakumi gigante está roubando esculturas que também serão colocadas em um museu. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+14<title>[I][B][COLOR white]• [COLOR forestgreen]14 [COLOR white]- [COLOR goldenrod] Tudo é grego para Scooby[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+14<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP28</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+14<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/7nCCbfOMJkRz1O5UyZDiwqyJzxd.jpg</thumbnail>
+14<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+14<fanart>https://image.tmdb.org/t/p/original/pU9MndGLhdt2mbCoHnH2otEBH2b.jpg</fanart>
+14<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Scooby e sua turma encontram um medalhão na Grécia e são perseguidos por um centauro que está atrás do medalhão. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+*******************
+<channels></channels><channel>
+<name>[I][B][COLOR white]• [COLOR goldenrod]O Que Há De Novo, Scooby Doo? (2002) [COLOR white] - [COLOR forestgreen] [3ªTemporada] [COLOR goldenrod] Kodish [COLOR white] Scooby-doo !!![/COLOR][/B][/I]</name>
+<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+<info>[I][B][COLOR goldenrod]SINOPSE:[/I][/B][/COLOR]
+[B][I][COLOR forestgreen]Sempre munidos de novas invenções, a turma de adolescentes e o cão Scooby-Doo encontram fantasmas e monstros em suas aventuras.[COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/COLOR][/I][/B]</info>
+*******************
+*******************
+<item>
+1<title>[I][B][COLOR white]• [COLOR forestgreen]1 [COLOR white]- [COLOR goldenrod] Fright House of a Lighthouse[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+1<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP29</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+1<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/K1ADt4svphsneft94Zp2DYPmrj.jpg</thumbnail>
+1<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+1<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
+1<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]O fantasma de um Lighthouse Keeper está assombrando um antigo farol e causando terror aos navios na água. Quem está por trás do Creepy Keeper? [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+2<title>[I][B][COLOR white]• [COLOR forestgreen]2 [COLOR white]- [COLOR goldenrod] Vá para o oeste, jovem Scoob[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+2<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP30</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+2<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/K1ADt4svphsneft94Zp2DYPmrj.jpg</thumbnail>
+2<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+2<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
+2<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]A gangue viaja para uma cidade no oeste, onde a maioria dos residentes são robôs. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+3<title>[I][B][COLOR white]• [COLOR forestgreen]3 [COLOR white]- [COLOR goldenrod] Um Valentim Scooby-Doo[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+3<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP31</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+3<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/K1ADt4svphsneft94Zp2DYPmrj.jpg</thumbnail>
+3<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+3<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
+3<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]A gangue investiga alguns desaparecimentos misteriosos de adolescentes na Lovers Lane, enquanto Salsicha e Scooby conversam com antigas namoradas. Mas os culpados por trás disso tudo são a própria gangue! [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+4<title>[I][B][COLOR white]• [COLOR forestgreen]4 [COLOR white]- [COLOR goldenrod] Wrestle Maniacs[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+4<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP32</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+4<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/K1ADt4svphsneft94Zp2DYPmrj.jpg</thumbnail>
+4<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+4<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
+4<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Um lutador estranho conhecido como Titanic Twist com dois braços de um lado está aterrorizando as lutas de luta livre. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+5<title>[I][B][COLOR white]• [COLOR forestgreen]5 [COLOR white]- [COLOR goldenrod] Pronto para assustar[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+5<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP33</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+5<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/K1ADt4svphsneft94Zp2DYPmrj.jpg</thumbnail>
+5<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+5<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
+5<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]A turma está em Paris para ver Dannika, prima de Daphne, ganhar o prêmio de "Modelo do Ano", mas descobrem que ela foi sequestrada quando um gárgula da catedral de Notre Dame ganhou vida. Agora as crianças devem encontrá-la vasculhando as catacumbas de Paris, os esgotos e a catedral antes que a exposição de moda comece. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+6<title>[I][B][COLOR white]• [COLOR forestgreen]6 [COLOR white]- [COLOR goldenrod] Cultivado e perigoso[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+6<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP34</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+6<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/K1ADt4svphsneft94Zp2DYPmrj.jpg</thumbnail>
+6<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+6<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
+6<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]A turma vai visitar o Secret Six Puppies, mas logo descobre algo terrível. Um misterioso Deamon Farmer assombra sua casa de fazenda que foi construída sobre um cemitério antigo e quer que os filhotes se vão. A quadrilha fica para ajudar, quando todos os trabalhadores da fazenda se demitem. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+7<title>[I][B][COLOR white]• [COLOR forestgreen]7 [COLOR white]- [COLOR goldenrod] Diamantes são os melhores amigos de um ghoul[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+7<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP35</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+7<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/K1ADt4svphsneft94Zp2DYPmrj.jpg</thumbnail>
+7<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+7<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
+7<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Na Rússia, a gangue descobre o Frozen Fiend, uma criatura ghoul que roubou a Taça do Imperador, que seria dada [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+8<title>[I][B][COLOR white]• [COLOR forestgreen]8 [COLOR white]- [COLOR goldenrod] Uma rodada aterrorizante com um palhaço metálico ameaçador[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+8<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP36</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+8<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/K1ADt4svphsneft94Zp2DYPmrj.jpg</thumbnail>
+8<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+8<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
+8<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]O Internation Putt-Putt Tourment é tratado pelo seu próprio buraco 18 - e um palhaço no estilo MONSTER - mas isso é uma boa e uma má notícia para a Mystery Inc. na tela. A má notícia, o gênio da gangue, Velma, tem fobia de palhaço - mas a boa notícia é que Norville "Salsicha" Rogers ESTÁ ATUANDO BEM! Santas reservas, Scooby-Doo! A gangue pode resolver o mistério e recuperar a Velma e o Salsicha normais? [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+9<title>[I][B][COLOR white]• [COLOR forestgreen]9 [COLOR white]- [COLOR goldenrod] Camp Comeoniwannascareya[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+9<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP37</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+9<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/K1ADt4svphsneft94Zp2DYPmrj.jpg</thumbnail>
+9<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+9<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
+9<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Um monstro conhecido no The Toxic Terror está atacando o acampamento favorito de Salsicha, Scooby e 3 crianças. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+10<title>[I][B][COLOR white]• [COLOR forestgreen]10 [COLOR white]- [COLOR goldenrod] Terror de longo bloco em Hong Kong[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+10<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP38</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+10<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/K1ADt4svphsneft94Zp2DYPmrj.jpg</thumbnail>
+10<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+10<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
+10<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Mystery Inc se envolve em um mistério com um dragão gigante, um ex-trabalhador pervertido, um anel de doces roubado da Lui-Won Toy Stores, um policial louco e um brinquedo gigante mutante. Velma consegue descobrir quem está por trás desse mistério insano? [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+11<title>[I][B][COLOR white]• [COLOR forestgreen]11 [COLOR white]- [COLOR goldenrod] Senhores, comecem seus monstros[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+11<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP39</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+11<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/K1ADt4svphsneft94Zp2DYPmrj.jpg</thumbnail>
+11<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+11<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
+11<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Os Mystery Kids vão para uma corrida de campeonato no estilo NASCAR, onde o caos está ocorrendo nas pistas de corrida. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+12<title>[I][B][COLOR white]• [COLOR forestgreen]12 [COLOR white]- [COLOR goldenrod] Gold Paw[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+12<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP40</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+12<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/K1ADt4svphsneft94Zp2DYPmrj.jpg</thumbnail>
+12<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+12<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
+12<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Mais uma vez, a gangue visita os filhotes dos Seis Secretos, mas descobre que um Monstro Dourado está assombrando Fort Knox. Enquanto isso, Salsicha e Scooby fazem tudo ao seu alcance para manter aberta a fábrica Gold Ade. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+13<title>[I][B][COLOR white]• [COLOR forestgreen]13 [COLOR white]- [COLOR goldenrod] Reef Grief![COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+13<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP41</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+13<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/K1ADt4svphsneft94Zp2DYPmrj.jpg</thumbnail>
+13<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+13<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
+13<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Uma criatura feita de recife de coral ataca uma competição de castelo de areia na Austrália. As pessoas começam a desaparecer na areia. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+14<title>[I][B][COLOR white]• [COLOR forestgreen]14 [COLOR white]- [COLOR goldenrod] E-Scream[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+14<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/OQHDNVSCBDEP42</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+14<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/K1ADt4svphsneft94Zp2DYPmrj.jpg</thumbnail>
+14<genre>[I][COLOR gray]TV-Y7, Animação, Action & Adventure, Mistério, Comédia, 30m[/COLOR][/I]</genre>
+14<fanart>https://image.tmdb.org/t/p/original/nAYT2C2IqZ5dlufEre58lVZj4W.jpg</fanart>
+14<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]A turma visita uma convenção de videogame para jogar, mas as fofas criaturas Osomon que eram o destaque do show se transformam em monstros. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>

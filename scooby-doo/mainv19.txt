@@ -1,0 +1,172 @@
+
+ <channels>
+ <channel>
+ <name>[I][B][COLOR white]• [COLOR goldenrod] Scooby Doo, Cadê Você? (1969)[COLOR white] - [COLOR forestgreen] [2 Temporadas] [COLOR goldenrod]Scooby [COLOR white]Doo !!![/COLOR][/B][/I]</name>
+ <thumbnail>https://image.tmdb.org/t/p/original/5bIpgXThTZEtvWfSG4E3nlsDdzR.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/scooby-doo/scooby-doo%20s%C3%A9rie%201v19.txt</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/scooby-doo/painel-1-50x1-scooby-doo-painel.jpg</fanart>
+ <info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[B][I][COLOR forestgreen]Uma série que segue os muitos mistérios da Mystery Gang, que consiste de Fred, Daphne, Velma, Salsicha e Scooby. Juntos, eles viajam ao redor do mundo, sempre em busca de um mistério a ser resolvido. [COLOR goldenrod]Team[COLOR forestgreen]Kodish[COLOR white]Scooby-doo[/COLOR][/I][/B]</info>
+ </channel>
+ </channels>
+
+
+ <channels>
+ <channel>
+ <name>[I][B][COLOR white]• [COLOR goldenrod] Os Novos Filmes do Scooby-Doo (1972)[COLOR white] - [COLOR forestgreen] [2 Temporadas] [COLOR goldenrod]Scooby [COLOR white]Doo !!![/COLOR][/B][/I]</name>
+ <thumbnail>https://image.tmdb.org/t/p/original/5mwFzKGWUqXv7mLGqghbLK86ifY.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/scooby-doo/scooby-doo%20s%C3%A9rie%202v19.txt</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/scooby-doo/painel-1-50x1-scooby-doo-painel.jpg</fanart>
+ <info>[B][I][COLOR forestgreen]Além dos personagens da turma do Scooby-Doo, em cada um dos episódios desta série aparecia convidados especiais, celebridades da TV ou do Cinema da época (anos 60 e 70) e os quais ajudavam a resolver o mistério da semana. Alguns destes convidados eram dublados por eles mesmos (Don Knotts, Jonathan Winters, Sandy Duncan, Tim Conway e a dupla Sonny & Cher, entre outros). Outros que já haviam falecido ou estavam indisponíveis, tiveram a dublagem feita através de imitações das vozes originais (Os três patetas e O Gordo e o Magro). Muitos dos convidados eram futuras personagens de desenhos a serem produzidos pela dupla Hanna-Barbera: Harlem Globetrotters, Josie e as Gatinhas, Jeannie, Speed Buggy, A Família Addams (The Addams Family de 1973) e Batman e Robin (Super Amigos). [COLOR goldenrod]Team [COLOR forestgreen]Kodish [COLOR white]Scooby-Doo !!![/COLOR][/I][/B]</info>
+ </channel>
+ </channels>
+
+ <channels>
+ <channel>
+ <name>[I][B][COLOR white]• [COLOR goldenrod] O Show do Scooby-Doo (1976)[COLOR white] - [COLOR forestgreen] [3 Temporadas] [COLOR goldenrod]Scooby [COLOR white]Doo !!![/COLOR][/B][/I]</name>
+ <thumbnail>https://image.tmdb.org/t/p/original/jpGKcelHn7gCQEArFEL1fDqrahq.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/scooby-doo/scooby-doo%20s%C3%A9rie%203v19.txt</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/scooby-doo/painel-1-50x1-scooby-doo-painel.jpg</fanart>
+ <info>[B][I][COLOR forestgreen]O Show do Scooby-Doo (The Scooby-Doo Show, originalmente) é uma série de televisão composta por episódios originalmente de três diferentes Team empacotadas. Os episódios foram ao ar de setembro de 1976 a dezembro de 1978 na ABC, como um segmento de The Scooby-Doo/Dynomutt Hour em sua primeira temporada, Scooby's All Star Laff-a-Lympics em sua segunda temporada e Scooby's All-Stars em sua terceira temporada. [COLOR goldenrod]Kodish [COLOR forestgreen]Team [COLOR white]Scooby-Doo !!![/COLOR][/I][/B]</info>
+ </channel>
+ </channels>
+
+ <channels>
+ <channel>
+ <name>[I][B][COLOR white]• [COLOR goldenrod] Dinamite o Bionicão (1976)[COLOR white] - [COLOR forestgreen] [1 Temporada] [COLOR goldenrod]Scooby [COLOR white]Doo !!![/COLOR][/B][/I]</name>
+ <thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/5RILyWXq0aiBPs9PFQwskLCx1yi.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/scooby-doo/scooby-doo%20s%C3%A9rie%204v19.txt</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/scooby-doo/painel-1-50x1-scooby-doo-painel.jpg</fanart>
+ <info>[B][I][COLOR forestgreen]Em Cidadópolis não havia vilão que se desse bem, isso porque os céus da cidade eram constantemente patrulhados por uma dupla de heróis, o Falcão Azul e seu companheiro o Bionicão, que se desdobravam para manter a paz e a ordem, Voando em seu Falcomóvel, eles combatiam a vilania com muita energia e bom humor. [COLOR goldenrod]Kodish [COLOR forestgreen]Team [COLOR white]Scooby-Doo !!![/COLOR][/I][/B]</info>
+ </channel>
+ </channels>
+
+ <channels>
+ <channel>
+ <name>[I][B][COLOR white]• [COLOR goldenrod]Os Ho-ho-límpicos (1977) [COLOR white] - [COLOR forestgreen] [1ªTemporada] [COLOR goldenrod] Scooby [COLOR white] Doo !!![/COLOR][/B][/I]</name>
+ <thumbnail>https://image.tmdb.org/t/p/original/eVi53MC0rKF2iylwseT8eaFxKOX.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/scooby-doo/scooby-doo%20s%C3%A9rie%205v19.txt</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/scooby-doo/painel-1-50x1-scooby-doo-painel.jpg</fanart>
+ <info>[B][I][COLOR forestgreen]Os Ho-ho-límpicos (Laff-A-Lympics no original em inglês) é um desenho com produção Hanna-Barbera. Passava junto com os desenhos do Scooby-Doo.Mostrava a história de vários personagens Hanna-Barbera, divididos em três times, que competiam em vários esportes, ao redor do mundo. E todo episódio saía uma medalha de ouro, uma de prata e uma de bronze. Foi criado seguindo os parâmetros da Olimpíada.Estreou em 1977 e teve duas temporadas, com 24 episódios.[COLOR goldenrod]Kodish [COLOR forestgreen]Team [COLOR white]Scooby-Doo !!![/COLOR][/I][/B]</info>
+ </channel>
+ </channels>
+
+ <channels>
+ <channel>
+ <name>[I][B][COLOR white]• [COLOR goldenrod]Scooby-Doo e Scooby-Loo (1979) [COLOR white] - [COLOR forestgreen] [1ªTemporada] [COLOR goldenrod] Scooby [COLOR white] Doo !!![/COLOR][/B][/I]</name>
+ <thumbnail>https://image.tmdb.org/t/p/original/ctxdYzdqSlrfKrqEo3bLSrrMLSP.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/scooby-doo/scooby-doo%20s%C3%A9rie%206v19.txt</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/scooby-doo/painel-1-50x1-scooby-doo-painel.jpg</fanart>
+ <info>[B][I][COLOR forestgreen]A versão original de trinta minutos de Scooby-Doo e Scrappy-Doo constitui a quarta encarnação do desenho animado Scooby-Doo de sábado de manhã de Hanna-Barbera. Ele estreou em 22 de setembro de 1979 e funcionou por uma temporada na ABC como um programa de meia hora. Um total de dezesseis episódios foram produzidos. Foi a última série de desenhos animados da Hanna-Barbera a usar a trilha sonora do estúdio. O canal clássico do Cartoon Network, Boomerang, reproduz a série. [COLOR goldenrod]Kodish [COLOR forestgreen]Team [COLOR white]Scooby-Doo !!![/COLOR][/I][/B]</info>
+ </channel>
+ </channels>
+
+ <channels>
+ <channel>
+ <name>[I][B][COLOR white]• [COLOR goldenrod] Os Treze Fantasmas do Scooby-Doo (1985)[COLOR white] - [COLOR forestgreen] [1 Temporada] [COLOR goldenrod]Scooby [COLOR white]Doo !!![/COLOR][/B][/I]</name>
+ <thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/v7S15heYWQSJLM60uZjim7Y9nzG.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/scooby-doo/scooby-doo%20s%C3%A9rie%207v19.txt</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/scooby-doo/painel-1-50x1-scooby-doo-painel.jpg</fanart>
+ <info>[B][I][COLOR forestgreen]Salsicha, Scooby e seus amigos devem devolver 13 fantasmas a um baú mágico que eles inadvertidamente liberaram. [COLOR goldenrod]Kodish[COLOR forestgreen]Team [COLOR white]Scooby-Doo !!![/COLOR][/I][/B]</info>
+ </channel>
+ </channels>
+
+ <channels>
+ <channel>
+ <name>[I][B][COLOR white]• [COLOR goldenrod] O Pequeno Scooby-Doo (1988)[COLOR white] - [COLOR forestgreen] [2 Temporadas] [COLOR goldenrod]Kodish [COLOR white]Team !!![/COLOR][/B][/I]</name>
+ <thumbnail>https://image.tmdb.org/t/p/original/3psJl6EIAMw90Cy5TxBvtEjvEEu.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/scooby-doo/scooby-doo%20s%C3%A9rie%208txtv19.txt</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/scooby-doo/painel-1-50x1-scooby-doo-painel.jpg</fanart>
+ <info></info>
+ </channel>
+ </channels>
+
+ <channels>
+ <channel>
+ <name>[I][B][COLOR white]• [COLOR goldenrod] O Que Há De Novo, Scooby Doo? (2002)[COLOR white] - [COLOR forestgreen] [3 Temporadas] [COLOR goldenrod]Kodish [COLOR white]Team !!![/COLOR][/B][/I]</name>
+ <thumbnail>https://image.tmdb.org/t/p/original/lQ0biSV9HrfK1DEu9BekYAP2XH1.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/scooby-doo/scooby-doo%20s%C3%A9rie%209v19.txt</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/scooby-doo/painel-1-50x1-scooby-doo-painel.jpg</fanart>
+ <info>[B][I][COLOR forestgreen]Sempre munidos de novas invenções, a turma de adolescentes e o cão Scooby-Doo encontram fantasmas e monstros em suas aventuras. [COLOR goldenrod]Kodish [COLOR forestgreen]Team [COLOR white]Scooby-doo !!![/COLOR][/I][/B]</info>
+ </channel>
+ </channels>
+
+ <channels>
+ <channel>
+ <name>>[I][B][COLOR white]• [COLOR goldenrod] Salsicha e Scooby Atrás das Pistas (2006)[COLOR white] - [COLOR forestgreen] [2 Temporadas] [COLOR goldenrod]Kodish [COLOR white]Team !!![/COLOR][/B][/I]</name>
+ <thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/l0v2LN2fzvvut9LgUmU8A541SnA.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/scooby-doo/scooby-doo%20s%C3%A9rie%2010v19.txt</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/scooby-doo/painel-1-50x1-scooby-doo-painel.jpg</fanart>
+ <info>[B][I][COLOR forestgreen]Quando o tio rico de Salsicha desaparece e é dado como morto, ele recebe uma herança e usa o dinheiro para atualizar a Máquina do Mistério. Antes de desaparecer, tio Albert fez alguns inimigos e agora é a vez de Salsicha e Scooby-Doo derrotá-los. [COLOR goldenrod]Kodish [COLOR forestgreen]Team [COLOR white]Scooby-Doo !!![/COLOR][/I][/B]</info>
+ </channel>
+ </channels>
+
+ <channels>
+ <channel>
+ <name>[I][B][COLOR white]• [COLOR goldenrod] Scooby-Doo! Mistério S/A (2010)[COLOR white] - [COLOR forestgreen] [2 Temporadas] [COLOR goldenrod]Kodish [COLOR white]Team !!![/COLOR][/B][/I]</name>
+ <thumbnail>https://image.tmdb.org/t/p/original/mu8zU2jQfPbGO5bC6RHYrSypxUd.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/scooby-doo/scooby-doo%20s%C3%A9rie%2011v19.txt</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/scooby-doo/painel-1-50x1-scooby-doo-painel.jpg</fanart>
+ <info>[B][I][COLOR forestgreen]Fred Jones Jr., Daphne Blake, Velma Dinkley, Norville "Salsicha" Rogers e Scooby-Doo é um time de adolescentes solucionadores de mistérios que vivem na pequena cidade de Baía Cristal, o auto-proclamado "lugar mais aterrorizado da terra". A trama longa a história de estranhos desaparecimentos, de aparições de fantasmas e monstros da cidade formam a base para a sua próspera indústria turística e, como tal, os adultos da cidade (o principal deles sendo o pai de "Fred" o prefeito) sendo que ele não está feliz que as crianças estão derrubando tudo os acontecimentos sobrenaturais que trazem tanto turismo para a cidade. [COLOR goldenrod]Kodish [COLOR forestgreen]Team [COLOR white]Scooby-doo !!![/COLOR][/I][/B]</info>
+ </channel>
+ </channels>
+
+ <channels>
+ <channel>
+ <name>[I][B][COLOR white]• [COLOR goldenrod] Que Legal, Scooby-Doo! (2015)[COLOR white] - [COLOR forestgreen] [2 Temporadas] [COLOR goldenrod]Kodish [COLOR white]Team !!![/COLOR][/B][/I]</name>
+ <thumbnail>https://image.tmdb.org/t/p/original/7XEcajr0EPf3Daaq7PST5flG6ql.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/scooby-doo/scooby-doo%20s%C3%A9rie%2012v19.txt</externallink>
+ <fanart>[B][I][COLOR forestgreen]A série apresenta a Mistério S/A após terminar seu último ano do ensino médio. Fazendo planos para gastar a sua última parada de verão como uma equipe, eles decidem viajar na Máquina do Mistério para buscar o prazer e aventura. Ao longo do caminho, no entanto, se deparam com uma enorme quantidade de monstros e estragos, impedindo-os de terminar sua jornada. [COLOR goldenrod]Kodish [COLOR forestgreen]Team [COLOR white]Scooby-Doo !!![/COLOR][/I][/B]</fanart>
+ <info></info>
+ </channel>
+ </channels>
+
+ <channels>
+ <channel>
+ <name>[I][B][COLOR white]• [COLOR goldenrod] Scooby-Doo e Convidados (2019)[COLOR white] - [COLOR forestgreen] [5 Temporadas] [COLOR goldenrod]Kodish [COLOR white]Team !!![/COLOR][/B][/I]</name>
+ <thumbnail>https://assetsgn.nowonline.com.br/assets/p17104339_b_v8_af.jpg?api_key=snfwq54bnzvgucd7cqvgt86r</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/scooby-doo/scooby-doo%20s%C3%A9rie%2013v19.txt</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/scooby-doo/painel-1-50x1-scooby-doo-painel.jpg</fanart>
+ <info>[B][I][COLOR forestgreen]Fred, Daphne, Velma, Salsicha e Scooby estão de volta, corajosos, aventureiros e bem-humorados como nunca. Sempre obcecados com casos misteriosos, eles se juntam a celebridades em suas aventuras e caçadas aos fantasmas. [COLOR goldenrod]Kodish [COLOR forestgreen]Team [COLOR white]Scooby-Doo !!![/COLOR][/I][/B]</info>
+ </channel>
+ </channels>
+
+ <channels>
+ <channel>
+ <name>[I][B][COLOR white]• [COLOR goldenrod] Especiais[COLOR white] - [COLOR forestgreen] [1 Temporada] [COLOR goldenrod]Kodish [COLOR white]Team !!![/COLOR][/B][/I]</name>
+ <thumbnail>https://image.tmdb.org/t/p/original/5tSykyj7PddkCzwCOmtuH8JJchY.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/scooby-doo/scooby-doo%20s%C3%A9rie%2014v19.txt</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/scooby-doo/painel-1-50x1-scooby-doo-painel.jpg</fanart>
+ <info>Fred, Daphne, Velma, Salsicha e Scooby estão de volta, corajosos, aventureiros e bem-humorados como nunca. Sempre obcecados com casos misteriosos, eles se juntam a celebridades em suas aventuras e caçadas aos fantasmas. [COLOR goldenrod]Kodish[COLOR forestgreen]Team [COLOR white]Scooby-Doo !!![/COLOR][/I][/B]</info>
+ </channel>
+ </channels>
+
+ <channels>
+ <channel>
+ <name>[I][B][COLOR white]• [COLOR goldenrod] Especiais de Televisão[COLOR white] - [COLOR forestgreen] [1 Temporada] [COLOR goldenrod]Kodish [COLOR white]Team !!![/COLOR][/B][/I]</name>
+ <thumbnail>https://image.tmdb.org/t/p/original/z01vOk4167EzbDuqdlUHGrGMElL.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/scooby-doo/scooby-doo%20s%C3%A9rie%2015v19.txt</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/scooby-doo/painel-1-50x1-scooby-doo-painel.jpg</fanart>
+ <info>Fred, Daphne, Velma, Salsicha e Scooby estão de volta, corajosos, aventureiros e bem-humorados como nunca. Sempre obcecados com casos misteriosos, eles se juntam a celebridades em suas aventuras e caçadas aos fantasmas. [COLOR goldenrod]Kodish [COLOR forestgreen]Team [COLOR white]Scooby-Doo !!![/COLOR][/I][/B]</info>
+ </channel>
+ </channels>
+
+ <channels>
+ <channel>
+ <name>[I][B][COLOR white]• [COLOR goldenrod] Scooby-Doo Filmes[COLOR white] - [COLOR forestgreen] [35 Temporadas] [COLOR goldenrod]Kodish [COLOR white]Team !!![/COLOR][/B][/I]</name>
+ <thumbnail>https://image.tmdb.org/t/p/original/nTkQZPXZl9yx3tfPS9TSDZBdhHC.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/scooby-doo/scooby-doo%20filmes%20(1)v19.txt</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/scooby-doo/painel-1-50x1-scooby-doo-painel.jpg</fanart>
+ <info>[B][I][COLOR forestgreen]Scooby-Doo e a equipe se reúnem novamente para resolver o mistério de proporções gigantescas e salvar a Baía Cristal.[COLOR goldenrod]Kodish [COLOR forestgreen]Team [COLOR white]Scooby-doo!!![/COLOR][/I][/B]</info>
+ </channel>
+ </channels>
+
+ <channels>
+ <channel>
+ <name>[I][B][COLOR white]• [COLOR goldenrod] Filmes Live-action[COLOR white] - [COLOR forestgreen] [4 Filmes] [COLOR goldenrod]Kodish [COLOR white]Team !!![/COLOR][/B][/I]</name>
+ <thumbnail>https://image.tmdb.org/t/p/original/b6EpEYp1TALe4N71a5kf5WRiKAx.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/scooby-doo/scooby-doo%20filmes%20live%20actionv19.txt </externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/scooby-doo/painel-1-50x1-scooby-doo-painel.jpg</fanart>
+ <info>Fred, Daphne, Velma, Salsicha e Scooby estão de volta, corajosos, aventureiros e bem-humorados como nunca. Sempre obcecados com casos misteriosos, eles se juntam a celebridades em suas aventuras e caçadas aos fantasmas. [COLOR goldenrod]Kodish [COLOR forestgreen]Team [COLOR white]Scooby-Doo !!![/COLOR][/I][/B]</info>
+ </channel>
+ </channels>

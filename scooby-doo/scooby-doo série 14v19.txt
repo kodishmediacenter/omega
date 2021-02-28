@@ -1,0 +1,54 @@
+<item>
+1<title>[I][B][COLOR white]• [COLOR forestgreen]1 [COLOR white]- [COLOR goldenrod] Scooby-Doo! Jogos Assombrados[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+1<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SCBDES01</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+1<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/5tSykyj7PddkCzwCOmtuH8JJchY.jpg</thumbnail>
+1<genre>[I][COLOR gray]G, Comédia, Animação, Mistério, 23m[/COLOR][/I]</genre>
+1<fanart>https://image.tmdb.org/t/p/original/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+1<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Fred, Daphne, Velma, Salsicha e Scooby estão de volta, corajosos, aventureiros e bem-humorados como nunca. Sempre obcecados com casos misteriosos, eles se juntam a celebridades em suas aventuras e caçadas aos fantasmas. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+2<title>[I][B][COLOR white]• [COLOR forestgreen]2 [COLOR white]- [COLOR goldenrod] Scooby-Doo! Natal Assombrado[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+2<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SCBDES02</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+2<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/5tSykyj7PddkCzwCOmtuH8JJchY.jpg</thumbnail>
+2<genre>[I][COLOR gray]G, Comédia, Animação, Mistério, 23m[/COLOR][/I]</genre>
+2<fanart>https://image.tmdb.org/t/p/original/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+2<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Fred, Daphne, Velma, Salsicha e Scooby estão de volta, corajosos, aventureiros e bem-humorados como nunca. Sempre obcecados com casos misteriosos, eles se juntam a celebridades em suas aventuras e caçadas aos fantasmas. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+3<title>[I][B][COLOR white]• [COLOR forestgreen]3 [COLOR white]- [COLOR goldenrod] Scooby-Doo! e o Espantalho Sinistro[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+3<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SCBDES03</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+3<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/5tSykyj7PddkCzwCOmtuH8JJchY.jpg</thumbnail>
+3<genre>[I][COLOR gray]G, Comédia, Animação, Mistério, 23m[/COLOR][/I]</genre>
+3<fanart>https://image.tmdb.org/t/p/original/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+3<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Fred, Daphne, Velma, Salsicha e Scooby estão de volta, corajosos, aventureiros e bem-humorados como nunca. Sempre obcecados com casos misteriosos, eles se juntam a celebridades em suas aventuras e caçadas aos fantasmas. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+4<title>[I][B][COLOR white]• [COLOR forestgreen]4 [COLOR white]- [COLOR goldenrod] Scooby-Doo! A Ameaça do Mecachorro[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+4<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SCBDES04</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+4<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/5tSykyj7PddkCzwCOmtuH8JJchY.jpg</thumbnail>
+4<genre>[I][COLOR gray]G, Comédia, Animação, Mistério, 23m[/COLOR][/I]</genre>
+4<fanart>https://image.tmdb.org/t/p/original/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+4<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Fred, Daphne, Velma, Salsicha e Scooby estão de volta, corajosos, aventureiros e bem-humorados como nunca. Sempre obcecados com casos misteriosos, eles se juntam a celebridades em suas aventuras e caçadas aos fantasmas. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+5<title>[I][B][COLOR white]• [COLOR forestgreen]5 [COLOR white]- [COLOR goldenrod] Scooby-Doo! e o Mistério em Campo[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+5<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SCBDES05</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+5<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/5tSykyj7PddkCzwCOmtuH8JJchY.jpg</thumbnail>
+5<genre>[I][COLOR gray]G, Comédia, Animação, Mistério, 23m[/COLOR][/I]</genre>
+5<fanart>https://image.tmdb.org/t/p/original/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+5<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Fred, Daphne, Velma, Salsicha e Scooby estão de volta, corajosos, aventureiros e bem-humorados como nunca. Sempre obcecados com casos misteriosos, eles se juntam a celebridades em suas aventuras e caçadas aos fantasmas. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
+<item>
+6<title>[I][B][COLOR white]• [COLOR forestgreen]6 [COLOR white]- [COLOR goldenrod] Scooby-Doo! Dia de Surf[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
+6<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SCBDES06</page><referer>https://megafilmeshd50.com/episodio/</referer></regex>
+6<thumbnail>https://image.tmdb.org/t/p/w260_and_h390_bestv2/5tSykyj7PddkCzwCOmtuH8JJchY.jpg</thumbnail>
+6<genre>[I][COLOR gray]G, Comédia, Animação, Mistério, 23m[/COLOR][/I]</genre>
+6<fanart>https://image.tmdb.org/t/p/original/vXvaH2o4uk1754rA5PhqpujXVCB.jpg</fanart>
+6<info>[I][B][COLOR goldenrod] SINOPSE:[/I][/B][/COLOR]
+[I][B][COLOR forestgreen]Fred, Daphne, Velma, Salsicha e Scooby estão de volta, corajosos, aventureiros e bem-humorados como nunca. Sempre obcecados com casos misteriosos, eles se juntam a celebridades em suas aventuras e caçadas aos fantasmas. [COLOR goldenrod]Kodish [COLOR forestgreen]Entretenimentos [COLOR white]Uma Nova Era Kodi !!![/B][/I][/COLOR]</info>
+</item>
