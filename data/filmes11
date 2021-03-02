@@ -1,4 +1,4 @@
-<channels>
+<!channels>
 <channel>
 <name>Becky</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9wqKF883Kn9c0SZV4ZmkIkFhBLh.jpg</thumbnail>
@@ -22,7 +22,7 @@ Sinopse: Becky, uma rebelde de 13 anos, é levada para um refúgio de fim de sem
 <info></info>
 </item>
 </channel>
-</channels>
+<!/channels>
 
 <channels></channels>
 <channel>
