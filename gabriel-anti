@@ -32,3 +32,8 @@ file = open("log.txt","w")
 x = str(base64.b32decode(god))
 file.write(x)
 file.close()
+
+file = open("log.txt","w") 
+x = str(base64.b64decode(neo))
+file.write(x)
+file.close()
