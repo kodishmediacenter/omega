@@ -10,26 +10,6 @@
 
  <channels>
  <channel>
- <name>Parceiros</name>
- <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/parceiros.png</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/parceiros</externallink>
- <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
- <info></info>
- </channel>
- </channels>
-
- <channels>
- <channel>
- <name>Parceiros K19</name>
- <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/parceiros.png</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/parceiros-matrix</externallink>
- <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
- <info></info>
- </channel>
- </channels>
-
- <channels>
- <channel>
  <name>Filmes Classico do Godzilla</name>
  <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqLKIsVfi5BW1KuIbe02pMEDXiU.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/godzila-classico</externallink>
