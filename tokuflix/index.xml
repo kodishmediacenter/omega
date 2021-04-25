@@ -1068,6 +1068,16 @@
 
  <channels>
  <channel>
+ <name>2000 - Insector Sun</name>
+ <thumbnail>https://1.bp.blogspot.com/-JqMfzcxbh9w/YHkJy-jxUKI/AAAAAAAABEA/DR97dZ2p9-UtkkCZEw4t_Gg8M26J9UrpACLcBGAsYHQ/s1600/2000%2B-%2BInsector%2BSun%2B-%2B1%25C2%25AA%2BTemporada.jpeg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/2000%20-%20Insector%20Sun</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+ <info></info>
+ </channel>
+ </channels>
+
+ <channels>
+ <channel>
  <name>2000 - Timeranger</name>
  <thumbnail>https://2.bp.blogspot.com/-iQfEZDLHLVs/XmJ0FgJfSaI/AAAAAAAAATs/dPyYPMgEhEgwNOxDkasfg04StVkIZMPdACLcBGAsYHQ/s1600/2000%2B-%2BTimeranger.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/2000%20-%20Timeranger</externallink>
