@@ -1549,3 +1549,14 @@
 </channel>
 </channels>
 
+<channels>
+<channel>
+<name>Pagina 2</name>
+<thumbnail>https://www.cristaisaquarius.com.br/blog/wp-content/uploads/2014/08/seta.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/page2</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+<info></info>
+</channel>
+</channels>
+
+
