@@ -1376,6 +1376,16 @@
  <info></info>
  </channel>
  </channels>
+
+ <channels>
+ <channel>
+ <name>2009 Kamen Rider O Cavaleiro Dragão</name>
+ <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4iUza77ACk3cpCqs4z4Fk5joJr8.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/2009%20Kamen%20Rider%20O%20Cavaleiro%20Drag%C3%A3o</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/tokuflix/toku-fanart.png</fanart>
+ <info></info>
+ </channel>
+ </channels>
  
  <channels>
  <channel>
