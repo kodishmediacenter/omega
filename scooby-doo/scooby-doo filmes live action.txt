@@ -1,6 +1,6 @@
 <item>
 1<title>[I][B][COLOR white]• [COLOR forestgreen]1 [COLOR white]- [COLOR goldenrod] Scooby-Doo[COLOR forestgreen] Kodish [COLOR white] Scooby-doo [COLOR white]!!![/B][/I][/COLOR]</title>
-1<link>$doregex[Kodish]|Referer=https://gamesgo.fun/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>>https://ondemand.encripted-encripted-encripted-encripted-encripted-encripted.fun/RedeCanais/RedeCanais/player3/mega.php?video=RCFServer2/ondemand/SCBYDO1/SCBYDO1.mp4</page><referer>https://gamesgo.fun/episodio/</referer></regex>
+1<link>$doregex[Kodish]|Referer=https://gamesgo.fun/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>>https://ondemand.encripted-encripted-encripted-encripted-encripted-encripted.fun/RedeCanais/RedeCanais/player3/serverf2hlb.php?vid=SCBYDO1&rc=1</page><referer>https://gamesgo.fun/episodio/</referer></regex>
 1<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/b6EpEYp1TALe4N71a5kf5WRiKAx.jpg</thumbnail>
 1<genre>[I][COLOR gray]PG, 04/10/2002 (BR), Mistério, Aventura, Comédia, 1h 28m[/COLOR][/I]</genre>
 1<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/70Y5eqstTp93sF2ivb3mkEqLCEi.jpg</fanart>
