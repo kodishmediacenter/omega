@@ -1,6 +1,34 @@
  <item>
- <title>Flash Back 80</title>
- <utube>UClq3VbskcNvv-RE9FPOc0jg</utube>
+ <title>Faroeste - 1</title>
+ <utube>UCrazznX2-qytAExzhuwnAGg</utube>
+ <thumbnail>https://yt3.ggpht.com/a/AATXAJyxI5uJkhD5t7S-ku6xXUPQ184FRbj4OOF6WR5t=s256-c-k-c0xffffffff-no-rj-mo</thumbnail>
+ </fanart></fanart>
+ </item>
+ 
+ <item>
+ <title>Faroeste - 2</title>
+ <utube>UCJ1Q5pJrY0xiRbEh_DBJEdg</utube>
+ <thumbnail>https://yt3.ggpht.com/a/AATXAJyxI5uJkhD5t7S-ku6xXUPQ184FRbj4OOF6WR5t=s256-c-k-c0xffffffff-no-rj-mo</thumbnail>
+ </fanart></fanart>
+ </item>
+ 
+ <item>
+ <title>Faroeste - 3</title>
+ <utube>UCGidFPlYTqV18Zal1tGEX4w</utube>
+ <thumbnail>https://yt3.ggpht.com/a/AATXAJyxI5uJkhD5t7S-ku6xXUPQ184FRbj4OOF6WR5t=s256-c-k-c0xffffffff-no-rj-mo</thumbnail>
+ </fanart></fanart>
+ </item>
+ 
+ <item>
+ <title>Faroeste - 4</title>
+ <utube>UCpuFQWstSTZ_q_qtCZq0phg</utube>
+ <thumbnail>https://yt3.ggpht.com/a/AATXAJyxI5uJkhD5t7S-ku6xXUPQ184FRbj4OOF6WR5t=s256-c-k-c0xffffffff-no-rj-mo</thumbnail>
+ </fanart></fanart>
+ </item>
+ 
+ <item>
+ <title>Faroeste - 5</title>
+ <utube>UCh1pQtq_-E5pbbzEulN9TCA</utube>
  <thumbnail>https://yt3.ggpht.com/a/AATXAJyxI5uJkhD5t7S-ku6xXUPQ184FRbj4OOF6WR5t=s256-c-k-c0xffffffff-no-rj-mo</thumbnail>
  </fanart></fanart>
  </item>
