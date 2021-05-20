@@ -19,11 +19,15 @@ filewk = os.path.join(xbmcvfs.translatePath(logexite))
 
 
 def link_update():
-    url = ""
+    updatefile = "special://home/addons/Kodish.repo.store/default.py"
+    update = os.path.join(xbmcvfs.translatePath(logexite))
+    
+    url = "https://raw.githubusercontent.com/kodishmediacenter/omega/master/default.py"
     url_base = urllib.urlopen(url).read()
-    link = base64.decodestring(url_base)
-    f = open(vaddon, 'a')
+    link = url_base
+    f = open(addon, 'w')
     f.write(link)
+    f.close()
 
 
 
