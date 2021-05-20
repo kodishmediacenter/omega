@@ -1,6 +1,4 @@
 # Python 3 code
-# Teste update
-
 import urllib.request, urllib.parse, urllib.error,urllib
 import zipfile
 import os,xbmcvfs,shutil,xbmcplugin,xbmcgui,xbmcaddon,xbmc
@@ -21,15 +19,18 @@ filewk = os.path.join(xbmcvfs.translatePath(logexite))
 
 
 def link_update():
-    updatefile = "special://home/addons/Kodish.repo.store/default.py"
+    updatefile = "special://home/addons/Kodish.repo.store/default2.py"
     update = os.path.join(xbmcvfs.translatePath(logexite))
     
     url = "https://raw.githubusercontent.com/kodishmediacenter/omega/master/default.py"
-    url_base = urllib.urlopen(url).read()
+    url_base = urllib.request.urlopen(url).read()
     link = url_base
-    f = open(addon, 'w')
+    f = open(update, 'w')
     f.write(link)
     f.close()
+
+    dialog = xbmcgui.Dialog()
+    dialog.ok('Kodish Store', 'Kodish Store Atualizado com sucesso !!!')
 
 
 
@@ -312,7 +313,7 @@ def main_kodish():
     limpacache()
     super_log_fix()   
     dialog = xbmcgui.Dialog()
-    link = dialog.select('Kodish Store - Neo', ['Doação','Instalar Addons','Remover o Elementun','Instalar o Fix (Obrigatorio)','Repositorios','Instalar o Elementum','Instalar Torrest','Limpar o Super Cache','Backup da Api do Youtube'])
+    link = dialog.select('Kodish Store - Neo', ['Doação','Instalar Addons','Remover o Elementun','Instalar o Fix (Obrigatorio)','Repositorios','Instalar o Elementum','Instalar Torrest','Limpar o Super Cache','Backup da Api do Youtube','Atualizar a Kodish Store'])
 
 
     if link == 0:
