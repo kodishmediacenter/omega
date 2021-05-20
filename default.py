@@ -1,4 +1,6 @@
 # Python 3 code
+# Teste update
+
 import urllib.request, urllib.parse, urllib.error,urllib
 import zipfile
 import os,xbmcvfs,shutil,xbmcplugin,xbmcgui,xbmcaddon,xbmc
