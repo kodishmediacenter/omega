@@ -14,15 +14,17 @@ http://185.93.1.216:8080/live/B2A463CD7AA1/B2A463CD7AA1/4592.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Sem Categoria",Record 
 https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-p.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Sem Categoria",Record 
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_240_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://www.meioemensagem.com.br/wp-content/uploads/2016/02/Record-News-logo.jpg" group-title="Sem Categoria",Record News
-https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-b.m3u8?sd=10&rebase=on
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Band_logo_2018.png" group-title="Sem Categoria",Band
-https://evpp.mm.uol.com.br/geob_band/app/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Band_logo_2018.png" group-title="Sem Categoria",Band
-http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w2071914578.m3u8
+https://evpp.mm.uol.com.br/geob_band/band/chunklist_w345165545.m3u8
+
+#EXTINF:-1 tvg-logo="https://portaldoqueijo.com.br/site/wp-content/uploads/2020/06/101158384_143665053919698_2333568191340478464_o.png" group-title="Sem Categoria",Agro+
+https://evpp.mm.uol.com.br/geob_band/agromais/chunklist_w1447644375.m3u8
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/91/RM2019.png/revision/latest/top-crop/width/220/height/220?cb=20191224175551" group-title="Sem Categoria",Real Madri
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
 
