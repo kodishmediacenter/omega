@@ -85,12 +85,11 @@
 </channel>
 </channels>
 
-
 <channels>
 <channel>
 <name>Filmes 1</name>
 <thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes11f</externallink>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes11g</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
 <info></info>
 </channel>
@@ -100,7 +99,7 @@
 <channel>
 <name>Filmes 2</name>
 <thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes11e</externallink>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes11f</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
 <info></info>
 </channel>
@@ -110,7 +109,7 @@
 <channel>
 <name>Filmes 3</name>
 <thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes11d</externallink>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes11e</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
 <info></info>
 </channel>
@@ -120,7 +119,7 @@
 <channel>
 <name>Filmes 4</name>
 <thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes11c</externallink>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes11d</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
 <info></info>
 </channel>
@@ -130,7 +129,7 @@
 <channel>
 <name>Filmes 5</name>
 <thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes10</externallink>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes11c</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
 <info></info>
 </channel>
@@ -140,7 +139,7 @@
 <channel>
 <name>Filmes 6</name>
 <thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes9</externallink>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes10</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
 <info></info>
 </channel>
@@ -150,7 +149,7 @@
 <channel>
 <name>Filmes 7</name>
 <thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes8</externallink>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes9</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
 <info></info>
 </channel>
@@ -159,6 +158,16 @@
 <channels>
 <channel>
 <name>Filmes 8</name>
+<thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes8</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Filmes 9</name>
 <thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes7</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
